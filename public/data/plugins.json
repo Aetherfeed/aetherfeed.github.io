@@ -1675,7 +1675,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Anomek/TomestoneViewer/master/images/icon.png",
                 "RepoUrl": "https://github.com/Anomek/TomestoneViewer",
-                "LastUpdate": 1782586240
+                "LastUpdate": 1782586240,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -4952,43 +4953,6 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Dregan234/AetherVoice",
                 "LastUpdate": 1782565151
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "DuckSqueeker727",
-        "repo_url": "https://raw.githubusercontent.com/DuckSqueeker727/AutoBeastTribe/main/repo.json",
-        "repo_source_url": "https://github.com/DuckSqueeker727/AutoBeastTribe",
-        "repo_name": "AutoBeastTribe",
-        "plugins": [
-            {
-                "Author": "DuckSqueeker727",
-                "Name": "AutoBeastTribe",
-                "InternalName": "AutoBeastTribe",
-                "AssemblyVersion": "1.4.2.0",
-                "Description": "Pick up to 4 beast tribes in priority order. AutoBeastTribe uses Lifestream to travel to each tribe's quest-giver, accepts the day's Allied Society quest(s), and hands each one to Questionable to complete, repeating until the day's quest allowance is spent. Also shows current reputation and rank progress for every tribe you've unlocked.\n\nRequires: Lifestream, Questionable (which in turn needs vnavmesh and TextAdvance).",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/DuckSqueeker727/AutoBeastTribe",
-                "LastUpdate": 1784683730,
-                "is_ai_attributed": true
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "DuckSqueeker727",
-        "repo_url": "https://raw.githubusercontent.com/DuckSqueeker727/XIVAutoDaily/main/repo.json",
-        "repo_source_url": "https://github.com/DuckSqueeker727/XIVAutoDaily",
-        "repo_name": "XIVAutoDaily",
-        "plugins": [
-            {
-                "Author": "DuckSqueeker727",
-                "Name": "XIV AutoDaily",
-                "InternalName": "XIVAutoDaily",
-                "AssemblyVersion": "0.1.0.0",
-                "Description": "Orchestrates other plugins to run your daily routine:\n- Tribal / allied society quests via Questionable\n- Travel to your house via Lifestream\n- Retainer ventures via AutoRetainer\n- Harvest and replant outdoor garden beds, optionally at your FC estate too\n\nRequires: Questionable, AutoRetainer, Lifestream, vnavmesh.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/DuckSqueeker727/XIVAutoDaily",
-                "LastUpdate": 1784161504
             }
         ]
     },
@@ -15048,12 +15012,12 @@
                 "Author": "ofnature",
                 "Name": "Charon",
                 "InternalName": "Charon",
-                "AssemblyVersion": "0.1.7",
+                "AssemblyVersion": "0.1.8",
                 "Description": "Auto pillion with smart seat scanning and whitelisted auto group invite. Companion to Daedalus.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ofnature/Charon/main/images/icon.png",
                 "RepoUrl": "https://github.com/ofnature/Charon",
-                "LastUpdate": 1784519017,
+                "LastUpdate": 1784685414,
                 "is_ai_attributed": true
             }
         ]
@@ -17249,11 +17213,11 @@
                 "Author": "nainaiowo",
                 "Name": "DMU Mits",
                 "InternalName": "DMUMits",
-                "AssemblyVersion": "0.1.0.12",
+                "AssemblyVersion": "0.1.0.13",
                 "Description": "Shows upcoming dmu mitigation based on fight timeline",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nainaiowo/dmu-mits",
-                "LastUpdate": 1784477735
+                "LastUpdate": 1784687728
             },
             {
                 "Author": "nainaiowo",
@@ -18524,6 +18488,24 @@
         ]
     },
     {
+        "repo_developer_name": "Recursive-Entity-Matrix",
+        "repo_url": "https://raw.githubusercontent.com/Recursive-Entity-Matrix/QuickCheck/master/manifest.json",
+        "repo_source_url": "https://github.com/Recursive-Entity-Matrix/QuickCheck",
+        "repo_name": "QuickCheck",
+        "plugins": [
+            {
+                "Author": "Rem",
+                "Name": "Quick Check",
+                "InternalName": "QuickCheck",
+                "AssemblyVersion": "15.0.1.0",
+                "Description": "Check to see if someone is on 'The List' and sync 'The List' with other people.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Recursive-Entity-Matrix/QuickCheck",
+                "LastUpdate": 1784681411
+            }
+        ]
+    },
+    {
         "repo_url": "https://raw.githubusercontent.com/redeven/DalamudPluginRepo/master/repository.json",
         "repo_source_url": "https://github.com/redeven/DalamudPluginRepo",
         "repo_name": "DalamudPluginRepo",
@@ -19047,11 +19029,11 @@
                 "Author": "RoarkGit",
                 "Name": "XIV Raid Tools",
                 "InternalName": "XIVRaidToolsPlugin",
-                "AssemblyVersion": "0.1.0.0",
+                "AssemblyVersion": "0.1.1.0",
                 "Description": "A growing set of in-game raid tools, starting with Kefka Says, an in-game mirror of the Kefka Says / UMAD room tracker, synced with the webapp over the same WebSocket relay. Open with /xrt kefka.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/RoarkGit/XIV-Raid-Tools",
-                "LastUpdate": 1784587781
+                "LastUpdate": 1784688003
             }
         ]
     },
