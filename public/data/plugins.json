@@ -494,12 +494,12 @@
                 "Author": "DhogGPT",
                 "Name": "AI Duty Solver",
                 "InternalName": "ADS",
-                "AssemblyVersion": "0.6.0.0",
+                "AssemblyVersion": "0.6.0.1",
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/ADS/main/ADS/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1784781165,
+                "LastUpdate": 1784821623,
                 "is_ai_attributed": true
             },
             {
@@ -1126,12 +1126,12 @@
                 "Author": "AlexFlipnote",
                 "Name": "The Holiest Fluffiness",
                 "InternalName": "HoliestFluffiness",
-                "AssemblyVersion": "0.10.4",
+                "AssemblyVersion": "0.11.0",
                 "Description": "A tweak plugin born for the free company 'The Holiest Fluffiness', now open for all to enjoy.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/AlexFlipnote/XIV_HolyPlugin/master/HoliestFluffiness/Images/icon.png",
                 "RepoUrl": "https://github.com/AlexFlipnote/XIV_HolyPlugin",
-                "LastUpdate": 1784764358,
+                "LastUpdate": 1784822147,
                 "is_ai_attributed": true
             }
         ]
@@ -5432,12 +5432,12 @@
                 "Author": "The Enceladeum",
                 "Name": "HOutfits",
                 "InternalName": "HOutfits",
-                "AssemblyVersion": "0.2.0.0",
+                "AssemblyVersion": "0.2.1.0",
                 "Description": "Lists the game's complete named sets and applies a whole set or any single piece to your character through Glamourer, instead of picking each item from a dropdown.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Enceladeum/HOutfits/main/images/icon.png",
                 "RepoUrl": "https://github.com/Enceladeum/HOutfits",
-                "LastUpdate": 1784537748,
+                "LastUpdate": 1784803842,
                 "is_ai_attributed": true
             }
         ]
@@ -5492,12 +5492,12 @@
                 "Author": "The Enceladeum",
                 "Name": "HOutfits",
                 "InternalName": "HOutfits",
-                "AssemblyVersion": "0.2.0.0",
+                "AssemblyVersion": "0.2.1.0",
                 "Description": "Lists the game's complete named sets and applies a whole set or any single piece to your character through Glamourer, instead of picking each item from a dropdown.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Enceladeum/HOutfits/main/images/icon.png",
                 "RepoUrl": "https://github.com/Enceladeum/HOutfits",
-                "LastUpdate": 1784516483,
+                "LastUpdate": 1784801716,
                 "is_ai_attributed": true
             }
         ]
@@ -6235,7 +6235,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1784793692
+                "LastUpdate": 1784807775
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -6922,6 +6922,24 @@
                 "IconUrl": "https://gezimao.github.io/Plugins/plugins/NotePlugin/icon.png",
                 "RepoUrl": "https://github.com/gezimao/notePlugin",
                 "LastUpdate": 1782732667
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "gipsem",
+        "repo_url": "https://raw.githubusercontent.com/gipsem/FFXIV-Plugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/gipsem/FFXIV-Plugins",
+        "repo_name": "FFXIV-Plugins",
+        "plugins": [
+            {
+                "Author": "gips",
+                "Name": "AetherCircuit",
+                "InternalName": "AetherCircuit",
+                "AssemblyVersion": "1.0.1.0",
+                "Description": "Coordinates Lifestream, vnavmesh, BossMod, Questionable, and TextAdvance to run configurable FATE and Allied Society circuits.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/gipsem/AetherCircuit",
+                "LastUpdate": 1784823103
             }
         ]
     },
@@ -7847,7 +7865,7 @@
                 "Author": "Asuna",
                 "Name": "HuntAlerts",
                 "InternalName": "HuntAlerts",
-                "AssemblyVersion": "1.4.1.1",
+                "AssemblyVersion": "1.4.1.2",
                 "Description": "Notifies you when hunt trains are starting soon",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://projects.gamba.pro/Asuna/releases/-/raw/main/HuntAlerts/FFXIV_Hunts_logo.png",
@@ -7873,7 +7891,18 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/hyirax/AlmondPlugins/main/icons/AlmondHousing.png",
                 "RepoUrl": "https://github.com/hyirax/AlmondPlugins",
-                "LastUpdate": 1784798441
+                "LastUpdate": 1784805544
+            },
+            {
+                "Author": "AlmondCookie",
+                "Name": "AlmondZoom",
+                "InternalName": "AlmondZoom",
+                "AssemblyVersion": "1.0.2.0",
+                "Description": "AlmondZoom 是一款轻量的 FFXIV 镜头工具，支持视距、FOV、相机高度、镜头碰撞和平滑过渡调节。\n\nA lightweight FFXIV camera tool for zoom distance, FOV, camera height, collision control, and smooth transitions.\n\n/az to open settings | 输入 /az 打开设置",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/hyirax/AlmondPlugins/main/icons/AlmondZoom.png",
+                "RepoUrl": "https://github.com/hyirax/AlmondPlugins",
+                "LastUpdate": 1784805544
             }
         ]
     },
@@ -9118,12 +9147,12 @@
                 "Author": "Juusohel",
                 "Name": "Bunny Sub Sync",
                 "InternalName": "BunnySubSync",
-                "AssemblyVersion": "0.2.0.0",
+                "AssemblyVersion": "0.2.1.0",
                 "Description": "Captures submarine voyage results (route, loot, timings) as they happen and pushes them to your Bunny Sub Tracker account. Pair it with a plugin token from your Profile page, map your in-game free companies/submarines to their platform counterparts, then let it run. Command: /bunnysync",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Juusohel/BunnySubSync/main/BunnySubSync/images/icon.png",
                 "RepoUrl": "https://github.com/Juusohel/BunnySubSync",
-                "LastUpdate": 1784260826
+                "LastUpdate": 1784806579
             }
         ]
     },
@@ -9824,7 +9853,7 @@
                 "Author": "Kirin",
                 "Name": "Truth or Dare",
                 "InternalName": "FFToD",
-                "AssemblyVersion": "2.5.0.1",
+                "AssemblyVersion": "2.5.0.2",
                 "Description": "Truth or Dare mini-game automation plugin for FFXIV",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/kirin-xiv/KirinPlugins/main/icons/FFToD.ico",
@@ -11922,12 +11951,12 @@
                 "Author": "DhogGPT",
                 "Name": "AI Duty Solver",
                 "InternalName": "ADS",
-                "AssemblyVersion": "0.6.0.0",
+                "AssemblyVersion": "0.6.0.1",
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/ADS/main/ADS/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1784781165
+                "LastUpdate": 1784821623
             }
         ]
     },
@@ -12329,7 +12358,7 @@
                 "Author": "DhogGPT",
                 "Name": "Vermaxion",
                 "InternalName": "VERMAXION",
-                "AssemblyVersion": "0.3.1.0",
+                "AssemblyVersion": "0.3.1.1",
                 "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png",
@@ -14081,7 +14110,7 @@
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1784726843,
+                "LastUpdate": 1784812115,
                 "is_closed_source": true
             },
             {
@@ -14093,19 +14122,19 @@
                 "DalamudApiLevel": 14,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1784726843,
+                "LastUpdate": 1784812115,
                 "is_closed_source": true
             },
             {
                 "Author": "The Combat Reborn Team / NiGuangOwO（本地化&适配）",
                 "Name": "Bossmod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.1.32",
+                "AssemblyVersion": "7.5.1.34",
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1784726843,
+                "LastUpdate": 1784812115,
                 "is_closed_source": true
             },
             {
@@ -14658,12 +14687,12 @@
                 "Author": "Ninethirty77",
                 "Name": "The Studium",
                 "InternalName": "FCMetrics",
-                "AssemblyVersion": "0.1.230.0",
+                "AssemblyVersion": "0.1.231.0",
                 "Description": "Records observed Company Credits totals and shows weekly GC Seals tier progression, FC progress rings, and an optional overlay. Use /fcmetrics to open the window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/icon.png",
                 "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-                "LastUpdate": 1784733608,
+                "LastUpdate": 1784818745,
                 "is_closed_source": true,
                 "is_ai_attributed": true
             }
@@ -16793,7 +16822,7 @@
                 "Author": "Asuna",
                 "Name": "HuntAlerts",
                 "InternalName": "HuntAlerts",
-                "AssemblyVersion": "1.4.1.1",
+                "AssemblyVersion": "1.4.1.2",
                 "Description": "Notifies you when hunt trains are starting soon\nSupports NA/EU/OCE",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/143",
@@ -16815,7 +16844,7 @@
                 "Author": "Asuna",
                 "Name": "SimpleMiniGames",
                 "InternalName": "SimpleMiniGames",
-                "AssemblyVersion": "0.0.0.29",
+                "AssemblyVersion": "0.0.0.30",
                 "Description": "A fun collection of bar games, Cards Against Humanity, Liar's Dice and UNO",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/141",
@@ -16968,12 +16997,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.0.17",
+                "AssemblyVersion": "15.306.0.18",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1784738936
+                "LastUpdate": 1784820338
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -17037,7 +17066,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/34",
                 "RepoUrl": "https://github.com/Jaksuhn/ffxiv-bundleoftweaks",
-                "LastUpdate": 1784638885
+                "LastUpdate": 1784824412
             },
             {
                 "Author": "croizat",
@@ -23072,12 +23101,12 @@
                 "Author": "Voudi",
                 "Name": "AlphaChannel",
                 "InternalName": "AlphaChannel",
-                "AssemblyVersion": "1.1.20260723.978",
+                "AssemblyVersion": "1.1.20260723.980",
                 "Description": "Ingame watch parties.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://gist.githubusercontent.com/Voudi/77c661ec1597925c2856d649a0cfc2d8/raw/icon.png",
                 "RepoUrl": "https://github.com/Voudi/AlphaChannel",
-                "LastUpdate": 1784769162,
+                "LastUpdate": 1784810409,
                 "is_ai_attributed": true
             }
         ]
@@ -23536,7 +23565,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1784676382,
+                "LastUpdate": 1784816030,
                 "is_ai_attributed": true
             },
             {
@@ -23815,10 +23844,10 @@
                 "Author": "XivHub",
                 "Name": "RetainerReach",
                 "InternalName": "RetainerReach",
-                "AssemblyVersion": "0.7.0.0",
+                "AssemblyVersion": "0.10.2.0",
                 "Description": "Unified view of your active character and all retainers' inventories, with one-click Retrieve that summons each holding retainer at a nearby Summoning Bell and pulls selected items into your bags. This plugin automates in-game actions (retainer bell interaction and item retrieval) on your behalf; use at your own risk with respect to the game's Terms of Service.",
                 "DalamudApiLevel": 15,
-                "LastUpdate": 1784802785,
+                "LastUpdate": 1784813297,
                 "is_closed_source": true
             },
             {
