@@ -494,12 +494,12 @@
                 "Author": "DhogGPT",
                 "Name": "AI Duty Solver",
                 "InternalName": "ADS",
-                "AssemblyVersion": "0.6.0.1",
+                "AssemblyVersion": "0.6.0.2",
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/ADS/main/ADS/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1784821623,
+                "LastUpdate": 1784825710,
                 "is_ai_attributed": true
             },
             {
@@ -566,12 +566,12 @@
                 "Author": "DhogGPT",
                 "Name": "dad",
                 "InternalName": "dad",
-                "AssemblyVersion": "0.4.2.0",
+                "AssemblyVersion": "0.4.2.1",
                 "Description": "DAD is a duty planner and multibox coordinator for FFXIV. Create reusable character presets, wake or relog the right clients, prepare jobs, assemble and verify parties, queue supported duties and roulettes, and chain presets into manual or daily schedules. Live readiness checks, clear blockers, reconnect status, cancellation, and Stop All keep every run visible and recoverable.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dad/main/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/dad",
-                "LastUpdate": 1784753858,
+                "LastUpdate": 1784825739,
                 "is_ai_attributed": true
             },
             {
@@ -698,12 +698,12 @@
                 "Author": "DhogGPT",
                 "Name": "Vermaxion",
                 "InternalName": "VERMAXION",
-                "AssemblyVersion": "0.3.1.1",
+                "AssemblyVersion": "0.3.1.3",
                 "Description": "Automates weekly and daily tasks triggered by AutoRetainer post-processing. Configurable per character: Verminion queue, Cactpot, Chocobo Racing, FC buff refill, and Henchman management.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1784773211,
+                "LastUpdate": 1784839688,
                 "is_ai_attributed": true
             },
             {
@@ -6274,12 +6274,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "Passport Checker Reborn",
                 "InternalName": "PassportCheckerReborn",
-                "AssemblyVersion": "7.5.1.3",
+                "AssemblyVersion": "7.5.1.4",
                 "Description": "Passport Checker Reborn is an open-source alternative to the PFFinder plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/PCR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn",
-                "LastUpdate": 1784596639
+                "LastUpdate": 1784844018
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -6935,11 +6935,11 @@
                 "Author": "gips",
                 "Name": "AetherCircuit",
                 "InternalName": "AetherCircuit",
-                "AssemblyVersion": "1.0.1.0",
+                "AssemblyVersion": "1.0.2.0",
                 "Description": "Coordinates Lifestream, vnavmesh, BossMod, Questionable, and TextAdvance to run configurable FATE and Allied Society circuits.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/gipsem/AetherCircuit",
-                "LastUpdate": 1784823103
+                "LastUpdate": 1784844860
             }
         ]
     },
@@ -10128,7 +10128,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/KLCollective/KL/refs/heads/main/docs/logo.png",
                 "RepoUrl": "https://github.com/KLCollective/KL",
-                "LastUpdate": 1784119200
+                "LastUpdate": 1784119200,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -10295,7 +10296,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/34",
                 "RepoUrl": "https://github.com/Jaksuhn/Automaton",
-                "LastUpdate": 1784638885
+                "LastUpdate": 1784824412
             },
             {
                 "Author": "veyn, xan_0",
@@ -10323,12 +10324,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.0.17",
+                "AssemblyVersion": "15.306.0.18",
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1784738936
+                "LastUpdate": 1784820338
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -10350,7 +10351,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1784740203
+                "LastUpdate": 1784789057
             }
         ]
     },
@@ -10364,12 +10365,12 @@
                 "Author": "Chirp, Cazzar, Bwuny, Karou, and contributors",
                 "Name": "Ktisis",
                 "InternalName": "Ktisis",
-                "AssemblyVersion": "0.4.0.1",
+                "AssemblyVersion": "0.4.0.2",
                 "Description": "A robust posing tool for creating screenshots in GPose.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ktisis-tools/Ktisis/main/icon.png",
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1784404696
+                "LastUpdate": 1784842593
             }
         ]
     },
@@ -11951,12 +11952,12 @@
                 "Author": "DhogGPT",
                 "Name": "AI Duty Solver",
                 "InternalName": "ADS",
-                "AssemblyVersion": "0.6.0.1",
+                "AssemblyVersion": "0.6.0.2",
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/ADS/main/ADS/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1784821623
+                "LastUpdate": 1784825710
             }
         ]
     },
@@ -12027,12 +12028,12 @@
                 "Author": "DhogGPT",
                 "Name": "dad",
                 "InternalName": "dad",
-                "AssemblyVersion": "0.4.2.0",
+                "AssemblyVersion": "0.4.2.1",
                 "Description": "Private Dad duty operations shell with multiplayer status, preset planning, queue routing, and Duty Support automation.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dad/main/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/dad",
-                "LastUpdate": 1784753858,
+                "LastUpdate": 1784825739,
                 "is_ai_attributed": true
             }
         ]
@@ -12397,12 +12398,12 @@
                 "Author": "DhogGPT",
                 "Name": "VerMAXion",
                 "InternalName": "VERMAXION",
-                "AssemblyVersion": "0.3.1.1",
+                "AssemblyVersion": "0.3.1.3",
                 "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1784773211
+                "LastUpdate": 1784839688
             }
         ]
     },
@@ -12904,6 +12905,24 @@
                 "IconUrl": "https://raw.githubusercontent.com/mokocup/OccultCrescentHelper/refs/heads/master/OccultCrescentHelper/Image/icon.png",
                 "RepoUrl": "https://github.com/mokocup/OccultCrescentHelper",
                 "LastUpdate": 1750570997
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "monkdim",
+        "repo_url": "https://raw.githubusercontent.com/monkdim/Maples-Echo/MaplesEchoV1/repo/pluginmaster.json",
+        "repo_source_url": "https://github.com/monkdim/Maples-Echo",
+        "repo_name": "Maples-Echo",
+        "plugins": [
+            {
+                "Author": "monkdim",
+                "Name": "Maple's Echo",
+                "InternalName": "MaplesEcho",
+                "AssemblyVersion": "0.1.1.0",
+                "Description": "Displays a Discord channel's live voice-to-text callouts inside FFXIV, in a dedicated, fully customizable accessibility window. One-way relay (Discord to game). This repo is configured for one specific setup — fork it and run your own copy. See the README.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/monkdim/maples-echo",
+                "LastUpdate": 1784829859
             }
         ]
     },
@@ -15678,12 +15697,12 @@
                 "Author": "Chirp, Cazzar, Bwuny, Karou, and contributors",
                 "Name": "Ktisis",
                 "InternalName": "Ktisis",
-                "AssemblyVersion": "0.4.0.1",
+                "AssemblyVersion": "0.4.0.2",
                 "Description": "A robust posing tool for creating screenshots in GPose.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ktisis-tools/Ktisis/main/icon.png",
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1784787070
+                "LastUpdate": 1784842593
             },
             {
                 "Author": "kawaii, Glyceri, Minmoose",
@@ -16494,6 +16513,17 @@
         "repo_name": "DalamudPlugins",
         "plugins": [
             {
+                "Author": "Infi, ash, Anna, Enzyu",
+                "Name": "Better Party Finder (KR Custom)",
+                "InternalName": "BetterPartyFinderKR",
+                "AssemblyVersion": "7.5.1.3",
+                "Description": "파티 찾기에 고급 필터 프리셋을 제공하는 플러그인입니다. 기본 필터 기능에 더해 프리셋 저장·전환, 임무/카테고리 화이트리스트·블랙리스트, 특정 플레이어 숨기기, 아이템 레벨 범위 필터, 복수 잡·슬롯 필터를 지원합니다. 한국 서버에 맞게 수정한 버전입니다.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/pnsdh/BetterPartyFinderKR/main/icon.png",
+                "RepoUrl": "https://github.com/pnsdh/BetterPartyFinderKR",
+                "LastUpdate": 1784845873
+            },
+            {
                 "Author": "The Combat Reborn Team",
                 "Name": "Passport Checker Reborn (Custom)",
                 "InternalName": "PassportCheckerReborn",
@@ -16502,7 +16532,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/PCR_Icon.png",
                 "RepoUrl": "https://github.com/pnsdh/PassportCheckerReborn",
-                "LastUpdate": 1784215220
+                "LastUpdate": 1784834242
             }
         ]
     },
@@ -16778,7 +16808,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/153",
                 "RepoUrl": "https://github.com/Abyeon/Housingway",
-                "LastUpdate": 1784791073
+                "LastUpdate": 1784838552
             }
         ]
     },
@@ -16915,7 +16945,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/47",
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1784777361
+                "LastUpdate": 1784843599
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -22439,12 +22469,12 @@
                 "Author": "The PlayerSync Team",
                 "Name": "PlayerSync",
                 "InternalName": "MareSempiterne",
-                "AssemblyVersion": "1.15.3.8",
+                "AssemblyVersion": "1.15.3.9",
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://maresempiterne.io/download/plugin/icon.png",
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1784646913
+                "LastUpdate": 1784825326
             }
         ]
     },
@@ -23101,12 +23131,12 @@
                 "Author": "Voudi",
                 "Name": "AlphaChannel",
                 "InternalName": "AlphaChannel",
-                "AssemblyVersion": "1.1.20260723.980",
+                "AssemblyVersion": "1.1.20260723.983",
                 "Description": "Ingame watch parties.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://gist.githubusercontent.com/Voudi/77c661ec1597925c2856d649a0cfc2d8/raw/icon.png",
                 "RepoUrl": "https://github.com/Voudi/AlphaChannel",
-                "LastUpdate": 1784810409,
+                "LastUpdate": 1784842178,
                 "is_ai_attributed": true
             }
         ]
@@ -23565,7 +23595,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1784816030,
+                "LastUpdate": 1784843160,
                 "is_ai_attributed": true
             },
             {
@@ -23794,6 +23824,15 @@
                 "RepoUrl": "https://github.com/XivHub/AutoPincher",
                 "LastUpdate": 1784541954,
                 "is_ai_attributed": true
+            },
+            {
+                "Author": "XivHub",
+                "Name": "Blackjack Advisor",
+                "InternalName": "BlackjackAdvisor",
+                "AssemblyVersion": "0.3.3.0",
+                "Description": "Enter your hand and the dealer's up card and it tells you the mathematically best move (hit / stand / double / split), computed exactly for the in-game /random 1-13 (infinite-deck) variant. Configurable dealer rules (H17/S17), one-click buttons to say your move in chat (only when you press them, never automatic), and a live gil session tracker.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/edg-l/BlackjackAdvisor"
             },
             {
                 "Author": "XivHub",
@@ -24720,12 +24759,12 @@
                 "Author": "zysilm",
                 "Name": "Combat Simulator",
                 "InternalName": "CombatSimulator",
-                "AssemblyVersion": "2.7.1.2",
+                "AssemblyVersion": "2.7.2.0",
                 "Description": "A client-side combat simulator that lets you fight existing NPCs locally. Features NPC AI, combat animations, death effects (ragdoll physics), active camera (bone tracking), death cam, HP overlays, and glamourer integration. All combat is simulated locally - no data is sent to the server.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/zysilm/FFXIV-CombatSimulator/main/images/logo.png",
                 "RepoUrl": "https://github.com/zysilm/FFXIV-CombatSimulator",
-                "LastUpdate": 1784303837,
+                "LastUpdate": 1784837781,
                 "is_ai_attributed": true
             },
             {
