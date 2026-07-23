@@ -494,12 +494,12 @@
                 "Author": "DhogGPT",
                 "Name": "AI Duty Solver",
                 "InternalName": "ADS",
-                "AssemblyVersion": "0.5.7.8",
+                "AssemblyVersion": "0.6.0.0",
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/ADS/main/ADS/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1784771364,
+                "LastUpdate": 1784781165,
                 "is_ai_attributed": true
             },
             {
@@ -4076,12 +4076,12 @@
                 "Author": "dajoey",
                 "Name": "Gluttony Combo",
                 "InternalName": "GluttonyCombo",
-                "AssemblyVersion": "1.0.4.80",
+                "AssemblyVersion": "1.0.4.81",
                 "Description": "Gluttony Combo is a lalalazy-branded fork of Wrath Combo. Condenses combos and mutually exclusive abilities onto a single button — and then some. All upstream credit to Team Wrath / PunishXIV.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/dajoey/lalalazy/main/LalaImages/gluttonycombo-icon.png",
                 "RepoUrl": "https://github.com/dajoey/lalalazy/tree/main/plugins/GluttonyCombo/latest",
-                "LastUpdate": 1784706641,
+                "LastUpdate": 1784793646,
                 "is_ai_attributed": true
             },
             {
@@ -4478,11 +4478,11 @@
                 "Author": "FF14 Accessibility Project",
                 "Name": "FF14 Accessibility",
                 "InternalName": "FF14Accessibility",
-                "AssemblyVersion": "5.31.0.0",
+                "AssemblyVersion": "5.42.0.0",
                 "Description": "Macht FF14 für blinde Spieler zugänglich via NVDA/TOLK Integration, Audio-Navigation und vollständiger Tastatursteuerung.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/derbruedi/ff14-accessibility",
-                "LastUpdate": 1784726881,
+                "LastUpdate": 1784802356,
                 "is_ai_attributed": true
             }
         ]
@@ -5826,7 +5826,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1784707990
+                "LastUpdate": 1784794621
             }
         ]
     },
@@ -5845,7 +5845,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1784707990
+                "LastUpdate": 1784794621
             }
         ]
     },
@@ -6230,12 +6230,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "BossMod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.1.33",
+                "AssemblyVersion": "7.5.1.34",
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1784766937
+                "LastUpdate": 1784793692
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -7868,12 +7868,12 @@
                 "Author": "AlmondCookie",
                 "Name": "AlmondHousing",
                 "InternalName": "AlmondHousing",
-                "AssemblyVersion": "1.1.1.0",
+                "AssemblyVersion": "1.1.4.0",
                 "Description": "A housing enhancement tool for FFXIV, born from community exploration. Supports material audit, layout import/export, and multi-language.\n\n专注 FF14 房屋装修场景的增强工具，脱胎于社区前辈项目的探索与积累。支持物料盘点、图纸导入导出、7 种语言界面。\n\n/almond to open panel | 输入 /almond 打开面板",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/hyirax/AlmondHousing/main/icon.png",
+                "IconUrl": "https://raw.githubusercontent.com/hyirax/AlmondPlugins/main/icons/AlmondHousing.png",
                 "RepoUrl": "https://github.com/hyirax/AlmondPlugins",
-                "LastUpdate": 1781238855
+                "LastUpdate": 1784798441
             }
         ]
     },
@@ -8466,11 +8466,11 @@
                 "Author": "raynording",
                 "Name": "Dalamud ACT Compat",
                 "InternalName": "DalamudActCompat",
-                "AssemblyVersion": "0.1.0.0",
+                "AssemblyVersion": "0.1.8.0",
                 "Description": "Dalamud-side UI, storage, parser abstraction, and compatibility-host bridge for an ACT-compatible FFXIV parsing platform. This early build does not yet load FFXIV_ACT_Plugin.",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/JackyWilliam/DalamudActCompat",
-                "LastUpdate": 1784775146
+                "LastUpdate": 1784800980
             }
         ]
     },
@@ -8484,11 +8484,11 @@
                 "Author": "raynording",
                 "Name": "Dalamud ACT Compat",
                 "InternalName": "DalamudActCompat",
-                "AssemblyVersion": "0.1.0.0",
+                "AssemblyVersion": "0.1.8.0",
                 "Description": "Dalamud-side UI, storage, parser abstraction, and compatibility-host bridge for an ACT-compatible FFXIV parsing platform. This early build does not yet load FFXIV_ACT_Plugin.",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/JackyWilliam/DalamudActCompat",
-                "LastUpdate": 1784778585
+                "LastUpdate": 1784801377
             }
         ]
     },
@@ -9756,12 +9756,12 @@
                 "Author": "kernelcurry",
                 "Name": "PopotoVox",
                 "InternalName": "PopotoVox",
-                "AssemblyVersion": "0.9.12.0",
+                "AssemblyVersion": "0.9.13.0",
                 "Description": "Distinct, LLM-cast synthetic voices for FFXIV NPCs, rendered locally.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/kernelcurry/popotovox-plugin/main/images/icon.png",
                 "RepoUrl": "https://github.com/kernelcurry/popotovox-plugin",
-                "LastUpdate": 1784617814,
+                "LastUpdate": 1784789242,
                 "is_ai_attributed": true
             }
         ]
@@ -10409,12 +10409,12 @@
                 "Author": "Kussie ",
                 "Name": "Aetherfit",
                 "InternalName": "Aetherfit",
-                "AssemblyVersion": "2607.189.0.0",
+                "AssemblyVersion": "2607.193.0.0",
                 "Description": "A custom simple frontend for applying designs from Glamourer. Lets you browse and apply designs, and optionally upload your own images to more easily be able to decide on which design to wear.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Kussie/Aetherfit/master/Data/icon.png",
                 "RepoUrl": "https://github.com/Kussie/Aetherfit",
-                "LastUpdate": 1784775207,
+                "LastUpdate": 1784788794,
                 "is_ai_attributed": true
             }
         ]
@@ -11374,11 +11374,11 @@
                 "Author": "LonelyFSH",
                 "Name": "MarketRoute CN",
                 "InternalName": "MarketRouteCN",
-                "AssemblyVersion": "0.9.0.0",
+                "AssemblyVersion": "0.9.5.0",
                 "Description": "面向 FF14 国服交易板的批量采购规划插件",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/LonelyFSH/MarketRouteCN",
-                "LastUpdate": 1784776352
+                "LastUpdate": 1784781120
             }
         ]
     },
@@ -11922,12 +11922,12 @@
                 "Author": "DhogGPT",
                 "Name": "AI Duty Solver",
                 "InternalName": "ADS",
-                "AssemblyVersion": "0.5.7.8",
+                "AssemblyVersion": "0.6.0.0",
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/ADS/main/ADS/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1784771364
+                "LastUpdate": 1784781165
             }
         ]
     },
@@ -13695,12 +13695,12 @@
                 "Author": "Nexai",
                 "Name": "FCCH",
                 "InternalName": "FCCH",
-                "AssemblyVersion": "2.4.3.0",
+                "AssemblyVersion": "2.4.4.0",
                 "Description": "Automates moving existing items to and from the FC Chest.\nEasily withdraw custom item lists or materials for workshop projects.\n\nNote: Temporarily disables YesAlready while depositing or withdrawing.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Nexaii/dalamud-plugins/main/assets/fcch.png",
                 "RepoUrl": "https://github.com/Nexaii/FCCH",
-                "LastUpdate": 1784147327
+                "LastUpdate": 1784785154
             },
             {
                 "Author": "Nexai",
@@ -15599,7 +15599,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1784707990
+                "LastUpdate": 1784794621
             },
             {
                 "Author": "Risa and Contributors",
@@ -15654,7 +15654,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ktisis-tools/Ktisis/main/icon.png",
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1784776956
+                "LastUpdate": 1784787070
             },
             {
                 "Author": "kawaii, Glyceri, Minmoose",
@@ -16749,7 +16749,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/153",
                 "RepoUrl": "https://github.com/Abyeon/Housingway",
-                "LastUpdate": 1784693932
+                "LastUpdate": 1784791073
             }
         ]
     },
@@ -17006,7 +17006,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1784740203
+                "LastUpdate": 1784789057
             },
             {
                 "Author": "daemitus, kawaii",
@@ -17344,11 +17344,11 @@
                 "Author": "nainaiowo",
                 "Name": "DMU Mits",
                 "InternalName": "DMUMits",
-                "AssemblyVersion": "0.1.0.14",
+                "AssemblyVersion": "0.1.0.15",
                 "Description": "Shows upcoming dmu mitigation based on fight timeline",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nainaiowo/dmu-mits",
-                "LastUpdate": 1784775653
+                "LastUpdate": 1784787486
             },
             {
                 "Author": "nainaiowo",
@@ -17401,12 +17401,12 @@
                 "Author": "Nexai",
                 "Name": "FCCH",
                 "InternalName": "FCCH",
-                "AssemblyVersion": "2.4.3.0",
+                "AssemblyVersion": "2.4.4.0",
                 "Description": "Free Company Chest Helper. Automate deposits, withdrawals, organization, crystals, workshop project pulls, and custom item lists.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/149",
                 "RepoUrl": "https://github.com/Nexaii/FCCH",
-                "LastUpdate": 1784147327
+                "LastUpdate": 1784785154
             },
             {
                 "Author": "Nexai",
@@ -19265,6 +19265,25 @@
     },
     {
         "repo_developer_name": "Rowsai",
+        "repo_url": "https://raw.githubusercontent.com/Rowsai/devLibra/main/repo.json",
+        "repo_source_url": "https://github.com/Rowsai/devLibra",
+        "repo_name": "devLibra",
+        "plugins": [
+            {
+                "Author": "Rowsai",
+                "Name": "devLibra",
+                "InternalName": "devLibra",
+                "AssemblyVersion": "0.0.0.11",
+                "Description": "Dalamud plugin development helper with party-list barrier-adjusted HP display and a Scholar Fairy Gauge overlay.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Rowsai/devLibra/main/image/icon.png",
+                "RepoUrl": "https://github.com/Rowsai/devLibra",
+                "LastUpdate": 1784794747
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Rowsai",
         "repo_url": "https://raw.githubusercontent.com/Rowsai/HappyTrigger/main/repo.json",
         "repo_source_url": "https://github.com/Rowsai/HappyTrigger",
         "repo_name": "HappyTrigger",
@@ -19292,12 +19311,12 @@
                 "Author": "Rowsai",
                 "Name": "devLibra",
                 "InternalName": "devLibra",
-                "AssemblyVersion": "0.0.0.4",
+                "AssemblyVersion": "0.0.0.11",
                 "Description": "Dalamud plugin development helper. Shows party member statuses and enemy casting information.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Rowsai/devLibra/main/image/icon.png",
                 "RepoUrl": "https://github.com/Rowsai/devLibra",
-                "LastUpdate": 1784738281
+                "LastUpdate": 1784794747
             },
             {
                 "Author": "Rowsai",
@@ -20931,7 +20950,7 @@
                 "Description": "Headless overlay compositor for Penumbra. Discovers mods with a Proteus/ sidecar, composites their overlay textures in Penumbra priority order, and maintains a single managed mod at priority 999. No authoring UI — all work happens in external tools. Type /proteus to open the status window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1784729306,
+                "LastUpdate": 1784772275,
                 "is_ai_attributed": true
             }
         ]
@@ -23121,12 +23140,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "GatherBuddy Reborn (KR)",
                 "InternalName": "GatherBuddyReborn",
-                "AssemblyVersion": "7.5.1.0",
+                "AssemblyVersion": "7.5.1.1",
                 "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/GBR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
-                "LastUpdate": 1781586755
+                "LastUpdate": 1784611263
             },
             {
                 "Author": "Ottermandias",
@@ -23137,7 +23156,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Ottermandias/Glamourer/master/images/icon.png",
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1784453918
+                "LastUpdate": 1784506276
             }
         ]
     },
@@ -23796,10 +23815,10 @@
                 "Author": "XivHub",
                 "Name": "RetainerReach",
                 "InternalName": "RetainerReach",
-                "AssemblyVersion": "0.2.0.0",
+                "AssemblyVersion": "0.7.0.0",
                 "Description": "Unified view of your active character and all retainers' inventories, with one-click Retrieve that summons each holding retainer at a nearby Summoning Bell and pulls selected items into your bags. This plugin automates in-game actions (retainer bell interaction and item retrieval) on your behalf; use at your own risk with respect to the game's Terms of Service.",
                 "DalamudApiLevel": 15,
-                "LastUpdate": 1784647681,
+                "LastUpdate": 1784802785,
                 "is_closed_source": true
             },
             {
@@ -24401,24 +24420,6 @@
                 "IconUrl": "https://raw.githubusercontent.com/YunaClover/LMeter/main/LMeter/icon.png",
                 "RepoUrl": "https://github.com/lichie567/LMeter",
                 "LastUpdate": 1777549144
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "yunpeng2004",
-        "repo_url": "https://raw.githubusercontent.com/yunpeng2004/NearbyAdventurers/main/repo.json",
-        "repo_source_url": "https://github.com/yunpeng2004/NearbyAdventurers",
-        "repo_name": "NearbyAdventurers",
-        "plugins": [
-            {
-                "Author": "Yunpeng Chu",
-                "Name": "Nearby Adventurers",
-                "InternalName": "NearbyAdventurers",
-                "AssemblyVersion": "0.1.0.0",
-                "Description": "Displays nearby player characters currently loaded by the game client, including distance, world, job, level, free company tag, online status, and whether they are targeting you. The plugin is local-only and does not upload or persist nearby-player data.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/yunpeng2004/NearbyAdventurers",
-                "LastUpdate": 1784751543
             }
         ]
     },
