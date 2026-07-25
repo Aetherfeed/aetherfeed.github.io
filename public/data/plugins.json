@@ -890,23 +890,23 @@
                 "Author": "Airi Tsukino",
                 "Name": "AutoGreet",
                 "InternalName": "AutoGreet",
-                "AssemblyVersion": "1.0.47.0",
+                "AssemblyVersion": "1.0.51.0",
                 "Description": "Housing venue visitor queue and greeting assistant.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/AiriTsukino/AutoGreet/main/AutoGreet/Resources/AGLogo.png",
                 "RepoUrl": "https://github.com/AiriTsukino/AutoGreet",
-                "LastUpdate": 1783383827
+                "LastUpdate": 1784949966
             },
             {
                 "Author": "Airi Tsukino",
                 "Name": "BarManager",
                 "InternalName": "BarManager",
-                "AssemblyVersion": "0.1.45.0",
+                "AssemblyVersion": "0.1.47.0",
                 "Description": "Tracks venue bar sales, tips, buyouts, configurable gamba drink sessions, payouts, jackpots, and nightly reports. Designed for multiple venues with venue-neutral branding.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/AiriTsukino/BarManager/main/BarManager/Resources/BMLogo.png",
                 "RepoUrl": "https://github.com/AiriTsukino/BarManager",
-                "LastUpdate": 1783217134
+                "LastUpdate": 1784945470
             },
             {
                 "Author": "Airi Tsukino",
@@ -964,7 +964,7 @@
                 "Author": "Airi Tsukino",
                 "Name": "AutoGreet",
                 "InternalName": "AutoGreet",
-                "AssemblyVersion": "1.0.47.0",
+                "AssemblyVersion": "1.0.51.0",
                 "Description": "Housing venue visitor queue and greeting assistant.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/AiriTsukino/AutoGreet/main/AutoGreet/Resources/AGLogo.png",
@@ -983,7 +983,7 @@
                 "Author": "Airi Tsukino",
                 "Name": "BarManager",
                 "InternalName": "BarManager",
-                "AssemblyVersion": "0.1.45.0",
+                "AssemblyVersion": "0.1.47.0",
                 "Description": "Tracks venue bar sales, tips, buyouts, configurable gamba drink sessions, payouts, jackpots, and nightly reports. Designed for multiple venues with venue-neutral branding.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/AiriTsukino/BarManager/main/BarManager/Resources/BMLogo.png",
@@ -1215,7 +1215,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/alicewonderland-dev/WindUpKey/master/key.png",
                 "RepoUrl": "https://github.com/alicewonderland-dev/WindUpKey",
-                "LastUpdate": 1784930945,
+                "LastUpdate": 1784946369,
                 "is_ai_attributed": true
             }
         ]
@@ -1235,7 +1235,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/alicewonderland-dev/WindUpKey/master/key.png",
                 "RepoUrl": "https://github.com/alicewonderland-dev/WindUpKey",
-                "LastUpdate": 1784930976,
+                "LastUpdate": 1784946516,
                 "is_ai_attributed": true
             }
         ]
@@ -3578,6 +3578,25 @@
                 "Description": "Helper for your day-to-day market operations.",
                 "RepoUrl": "https://github.com/chalkos/Marketbuddy",
                 "LastUpdate": 1777240891
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "CheesyChiz",
+        "repo_url": "https://raw.githubusercontent.com/CheesyChiz/StockManager/main/repo.json",
+        "repo_source_url": "https://github.com/CheesyChiz/StockManager",
+        "repo_name": "StockManager",
+        "plugins": [
+            {
+                "Author": "CheesyChiz",
+                "Name": "Stock Manager",
+                "InternalName": "StockManager",
+                "AssemblyVersion": "1.4.2.0",
+                "Description": "Check Island resources, set stock levels, and let Stock Manager choose imported Visland routes automatically. Supports direct vnavmesh travel, mount selection, flight and tool checks, Lifestream travel, surplus export, and run statistics. Commands: /stockmanager [start|stop|status|travel|emergency|help]. /sm is an alias.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/CheesyChiz/StockManager/main/assets/icon.png",
+                "RepoUrl": "https://github.com/CheesyChiz/StockManager",
+                "LastUpdate": 1784948200
             }
         ]
     },
@@ -6250,12 +6269,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "BossMod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.1.34",
+                "AssemblyVersion": "7.5.1.35",
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1784807775
+                "LastUpdate": 1784934346
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -6321,7 +6340,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1784920605
+                "LastUpdate": 1784953229
             },
             {
                 "Author": "Churin",
@@ -6955,11 +6974,11 @@
                 "Author": "gips",
                 "Name": "AetherCircuit",
                 "InternalName": "AetherCircuit",
-                "AssemblyVersion": "2.1.0.0",
+                "AssemblyVersion": "3.3.0.0",
                 "Description": "Coordinates Lifestream, vnavmesh, BossMod, Questionable, and TextAdvance to run configurable FATE and Allied Society circuits.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/gipsem/AetherCircuit",
-                "LastUpdate": 1784928528
+                "LastUpdate": 1784951192
             }
         ]
     },
@@ -7885,7 +7904,7 @@
                 "Author": "Asuna",
                 "Name": "HuntAlerts",
                 "InternalName": "HuntAlerts",
-                "AssemblyVersion": "1.4.1.2",
+                "AssemblyVersion": "1.4.1.3",
                 "Description": "Notifies you when hunt trains are starting soon",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://projects.gamba.pro/Asuna/releases/-/raw/main/HuntAlerts/FFXIV_Hunts_logo.png",
@@ -8092,12 +8111,12 @@
                 "Author": "CraftFlow Team",
                 "Name": "CraftFlow",
                 "InternalName": "CraftFlow",
-                "AssemblyVersion": "0.2.11.0",
+                "AssemblyVersion": "0.2.13.0",
                 "Description": "FF14生产辅助插件，提供核心功能：(1) BOM递归展开——输入目标装备/食物/收藏品，自动递归分解全部中间材料，生成完整材料清单；(2) 采集推送——一键将待采集材料列表推送至GatherBuddyReborn，快速定位采集点；(3) 一键制作——调用Artisan插件自动制作，独立进度窗口实时显示。使用 /cf 或 /craftflow 打开主窗口。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ijnokmsc/DalamudPlugins/main/icons/craftflow.png",
                 "RepoUrl": "https://github.com/ijnokmsc/CraftFlow",
-                "LastUpdate": 1784599779
+                "LastUpdate": 1784946549
             },
             {
                 "Author": "FateWhisper Team (based on SilverDasher)",
@@ -9242,6 +9261,24 @@
         ]
     },
     {
+        "repo_developer_name": "kadakatzenberg",
+        "repo_url": "https://raw.githubusercontent.com/kadakatzenberg/SellEverything/main/repo.json",
+        "repo_source_url": "https://github.com/kadakatzenberg/SellEverything",
+        "repo_name": "SellEverything",
+        "plugins": [
+            {
+                "Author": "Kadamode",
+                "Name": "Sell Everything",
+                "InternalName": "SellEverything",
+                "AssemblyVersion": "0.4.5.0",
+                "Description": "Modern retainer automation with strict HQ/NQ pricing, bounded retries, a sortable and searchable queue, protected-item rules, and fault recovery.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/kadakatzenberg/SellEverything",
+                "LastUpdate": 1784942424
+            }
+        ]
+    },
+    {
         "repo_developer_name": "Kagekazu",
         "repo_url": "https://raw.githubusercontent.com/Kagekazu/QuickTransfer/main/pluginmaster.json",
         "repo_source_url": "https://github.com/Kagekazu/QuickTransfer",
@@ -9873,7 +9910,7 @@
                 "Author": "Kirin",
                 "Name": "Truth or Dare",
                 "InternalName": "FFToD",
-                "AssemblyVersion": "2.5.0.2",
+                "AssemblyVersion": "2.5.0.3",
                 "Description": "Truth or Dare mini-game automation plugin for FFXIV",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/kirin-xiv/KirinPlugins/main/icons/FFToD.ico",
@@ -10322,12 +10359,12 @@
                 "Author": "veyn, xan_0",
                 "Name": "Boss Mod",
                 "InternalName": "BossMod",
-                "AssemblyVersion": "7.5.1.29",
+                "AssemblyVersion": "7.5.1.30",
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1784929207
+                "LastUpdate": 1784950971
             },
             {
                 "Author": "sourpuh",
@@ -10360,7 +10397,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1784920605
+                "LastUpdate": 1784953229
             },
             {
                 "Author": "Team Wrath",
@@ -10459,12 +10496,12 @@
                 "Author": "Kussie ",
                 "Name": "Aetherfit",
                 "InternalName": "Aetherfit",
-                "AssemblyVersion": "1.0.2607.218",
+                "AssemblyVersion": "1.0.2607.228",
                 "Description": "A custom simple frontend for applying designs from Glamourer. Lets you browse and apply designs, and optionally upload your own images to more easily be able to decide on which design to wear.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Kussie/Aetherfit/master/Data/icon-square.png",
                 "RepoUrl": "https://github.com/Kussie/Aetherfit",
-                "LastUpdate": 1784880597,
+                "LastUpdate": 1784944593,
                 "is_ai_attributed": true
             }
         ]
@@ -16848,7 +16885,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/153",
                 "RepoUrl": "https://github.com/Abyeon/Housingway",
-                "LastUpdate": 1784865021
+                "LastUpdate": 1784951000
             }
         ]
     },
@@ -16892,7 +16929,7 @@
                 "Author": "Asuna",
                 "Name": "HuntAlerts",
                 "InternalName": "HuntAlerts",
-                "AssemblyVersion": "1.4.1.2",
+                "AssemblyVersion": "1.4.1.3",
                 "Description": "Notifies you when hunt trains are starting soon\nSupports NA/EU/OCE",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/143",
@@ -17142,7 +17179,7 @@
                 "Author": "croizat",
                 "Name": "Glamour Log",
                 "InternalName": "GlamourLog",
-                "AssemblyVersion": "15.48",
+                "AssemblyVersion": "15.49",
                 "Description": "A log for all your glamours and other glam-related tweaks",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/136",
@@ -17459,6 +17496,15 @@
                 "IconUrl": "https://puni.sh/api/plugins/icon/162",
                 "RepoUrl": "https://github.com/Nainaiowo/dmu-p4-debuff-helper",
                 "LastUpdate": 1784619367
+            },
+            {
+                "Author": "nainaiowo",
+                "Name": "Eidos",
+                "InternalName": "Eidos",
+                "AssemblyVersion": "0.1.0.1",
+                "Description": "A Gposing and scene tool.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Nainaiowo/Eidos"
             }
         ]
     },
@@ -17820,12 +17866,12 @@
                 "Author": "veyn, xan_0",
                 "Name": "Boss Mod",
                 "InternalName": "BossMod",
-                "AssemblyVersion": "7.5.1.30",
+                "AssemblyVersion": "7.5.1.31",
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1784929207
+                "LastUpdate": 1784950971
             },
             {
                 "Author": "veyn, croizat",
@@ -21049,7 +21095,7 @@
                 "Description": "Headless overlay compositor for Penumbra. Discovers mods with a Proteus/ sidecar, composites their overlay textures in Penumbra priority order, and maintains a single managed mod at priority 999. No authoring UI — all work happens in external tools. Type /proteus to open the status window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1784928782,
+                "LastUpdate": 1784949876,
                 "is_ai_attributed": true
             }
         ]
@@ -23172,12 +23218,12 @@
                 "Author": "Voudi",
                 "Name": "AlphaChannel",
                 "InternalName": "AlphaChannel",
-                "AssemblyVersion": "1.1.20260724.1050",
+                "AssemblyVersion": "1.1.20260725.1088",
                 "Description": "Ingame watch parties.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://gist.githubusercontent.com/Voudi/77c661ec1597925c2856d649a0cfc2d8/raw/icon.png",
                 "RepoUrl": "https://github.com/Voudi/AlphaChannel",
-                "LastUpdate": 1784930460,
+                "LastUpdate": 1784937447,
                 "is_ai_attributed": true
             }
         ]
@@ -23636,7 +23682,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1784922635,
+                "LastUpdate": 1784941060,
                 "is_ai_attributed": true
             },
             {
@@ -24584,7 +24630,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Zeffuro/NativeMeters/master/Media/icon.png",
                 "RepoUrl": "https://github.com/Zeffuro/NativeMeters",
-                "LastUpdate": 1784567089
+                "LastUpdate": 1784947777
             }
         ]
     },
