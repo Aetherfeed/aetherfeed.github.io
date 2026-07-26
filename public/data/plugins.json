@@ -1210,12 +1210,12 @@
                 "Author": "WonderlandDev",
                 "Name": "Wind-Up Key",
                 "InternalName": "WindUpKey",
-                "AssemblyVersion": "0.2.2.1",
+                "AssemblyVersion": "0.2.3.0",
                 "Description": "A (hopefully) simple plugin. Dolls need winding, and winders can wind up dolls.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/alicewonderland-dev/WindUpKey/master/key.png",
                 "RepoUrl": "https://github.com/alicewonderland-dev/WindUpKey",
-                "LastUpdate": 1785012814,
+                "LastUpdate": 1785043589,
                 "is_ai_attributed": true
             }
         ]
@@ -1230,12 +1230,12 @@
                 "Author": "WonderlandDev",
                 "Name": "Wind-Up Key",
                 "InternalName": "WindUpKey",
-                "AssemblyVersion": "0.2.2.1",
+                "AssemblyVersion": "0.2.3.0",
                 "Description": "A (hopefully) simple plugin. Dolls need winding, and winders can wind up dolls.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/alicewonderland-dev/WindUpKey/master/key.png",
                 "RepoUrl": "https://github.com/alicewonderland-dev/WindUpKey",
-                "LastUpdate": 1785013047,
+                "LastUpdate": 1785044122,
                 "is_ai_attributed": true
             }
         ]
@@ -2598,6 +2598,34 @@
     },
     {
         "repo_developer_name": "beer-psi",
+        "repo_url": "https://raw.githubusercontent.com/beer-psi/DalamudPlugins/trunk/pluginmaster.json",
+        "repo_source_url": "https://github.com/beer-psi/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "Anna",
+                "Name": "ExtraChatFork",
+                "InternalName": "ExtraChatFork",
+                "AssemblyVersion": "1.4.1.0",
+                "Description": "ExtraChat adds end-to-end encrypted, cross-data-centre, unlimited linkshells\nto the game. (Fork of official plugin with features and some fixes)",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/beer-psi/ExtraChat",
+                "LastUpdate": 1785053532
+            },
+            {
+                "Author": "beerpsi",
+                "Name": "FF Logs Uploader",
+                "InternalName": "FFLogsUploaderPlugin",
+                "AssemblyVersion": "0.0.0.7",
+                "Description": "An alternative to the Archon App for uploading logs to the FF Logs service. Basic features are covered: uploading a log, splitting a log file, live logging.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/beer-psi/FFLogsUploaderPlugin",
+                "LastUpdate": 1785051041
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "beer-psi",
         "repo_url": "https://raw.githubusercontent.com/beer-psi/FFLogsUploaderPlugin/master/repo.json",
         "repo_source_url": "https://github.com/beer-psi/FFLogsUploaderPlugin",
         "repo_name": "FFLogsUploaderPlugin",
@@ -2606,11 +2634,11 @@
                 "Author": "beerpsi",
                 "Name": "FF Logs Uploader",
                 "InternalName": "FFLogsUploaderPlugin",
-                "AssemblyVersion": "0.0.0.6",
+                "AssemblyVersion": "0.0.0.7",
                 "Description": "An alternative to the Archon App for uploading logs to the FF Logs service. Basic features are covered: uploading a log, splitting a log file, live logging.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/beer-psi/FFLogsUploaderPlugin",
-                "LastUpdate": 1782735466
+                "LastUpdate": 1785051041
             }
         ]
     },
@@ -4128,12 +4156,12 @@
                 "Author": "dajoey",
                 "Name": "Gluttony Combo",
                 "InternalName": "GluttonyCombo",
-                "AssemblyVersion": "1.0.4.82",
+                "AssemblyVersion": "1.0.4.83",
                 "Description": "Gluttony Combo is a lalalazy-branded fork of Wrath Combo. Condenses combos and mutually exclusive abilities onto a single button — and then some. All upstream credit to Team Wrath / PunishXIV.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/dajoey/lalalazy/main/LalaImages/gluttonycombo-icon.png",
                 "RepoUrl": "https://github.com/dajoey/lalalazy/tree/main/plugins/GluttonyCombo/latest",
-                "LastUpdate": 1784965920,
+                "LastUpdate": 1785052570,
                 "is_ai_attributed": true
             },
             {
@@ -5564,12 +5592,12 @@
                 "Author": "NightmareXIV, kawaii；简中维护：Endfish",
                 "Name": "AutoRetainer-CN",
                 "InternalName": "AutoRetainer",
-                "AssemblyVersion": "4.6.1.10",
+                "AssemblyVersion": "4.6.2.0",
                 "Description": "AutoRetainer 简体中文维护分支。自动收取并重新派遣雇员探险，也可管理部队潜水艇等探索任务。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png",
                 "RepoUrl": "https://github.com/endfish/AutoRetainer-CN",
-                "LastUpdate": 1784339671
+                "LastUpdate": 1785051193
             },
             {
                 "Author": "Minmoose, Asgard 与贡献者；汉化：Endfish",
@@ -5580,7 +5608,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/endfish/Brio-CN/zh-CN/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/endfish/Brio-CN",
-                "LastUpdate": 1784593147
+                "LastUpdate": 1784966539
             },
             {
                 "Author": "kawaii, 汉化: Endfish",
@@ -5603,6 +5631,17 @@
                 "IconUrl": "https://raw.githubusercontent.com/endfish/PosePad/main/icon.png",
                 "RepoUrl": "https://github.com/endfish/PosePad",
                 "LastUpdate": 1783839383
+            },
+            {
+                "Author": "Endfish",
+                "Name": "雇员调价助手",
+                "InternalName": "RetainerRepricerCN",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "手动启动后，批量调整所选雇员已有的交易板挂单。每项均查询实时游戏内行情，排除自己全部雇员，支持暂停、继续和停止，并强制限制服务器操作频率。需要 AutoRetainer-CN 4.6.2.0 或兼容的调价桥接。",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/endfish/RetainerRepricerCN/main/icon.png",
+                "RepoUrl": "https://github.com/endfish/RetainerRepricerCN",
+                "LastUpdate": 1785051237
             },
             {
                 "Author": "veyn, croizat, Endfish (CN localization)",
@@ -5878,7 +5917,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1784966074
+                "LastUpdate": 1785053575
             }
         ]
     },
@@ -5897,7 +5936,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1784966074
+                "LastUpdate": 1785053575
             }
         ]
     },
@@ -8548,11 +8587,11 @@
                 "Author": "raynording",
                 "Name": "Dalamud ACT Compat",
                 "InternalName": "DalamudActCompat",
-                "AssemblyVersion": "0.1.14.0",
+                "AssemblyVersion": "0.2.22.0",
                 "Description": "Dalamud-side UI, storage, parser abstraction, and compatibility-host bridge for an ACT-compatible FFXIV parsing platform. This early build does not yet load FFXIV_ACT_Plugin.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/JackyWilliam/DalamudActCompat",
-                "LastUpdate": 1784977812
+                "LastUpdate": 1785059867
             }
         ]
     },
@@ -8566,11 +8605,11 @@
                 "Author": "raynording",
                 "Name": "Dalamud ACT Compat",
                 "InternalName": "DalamudActCompat",
-                "AssemblyVersion": "0.2.12.0",
+                "AssemblyVersion": "0.2.22.0",
                 "Description": "Dalamud-side UI, storage, parser abstraction, and compatibility-host bridge for an ACT-compatible FFXIV parsing platform. This early build does not yet load FFXIV_ACT_Plugin.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/JackyWilliam/DalamudActCompat",
-                "LastUpdate": 1784993751
+                "LastUpdate": 1785059962
             }
         ]
     },
@@ -9837,7 +9876,7 @@
                 "Author": "Yu",
                 "Name": "Viet Translator",
                 "InternalName": "VietTranslator",
-                "AssemblyVersion": "1.3.1.0",
+                "AssemblyVersion": "1.3.4.0",
                 "Description": "Phu de tieng Viet cho thoai FFXIV: overlay ImGui render chu co dau chuan (font BeVietnam Pro), giu nguyen ten rieng tieng Anh. Ban v1 phu tron A Realm Reborn - cot truyen chinh (2.0) + hau-ARR (2.1-2.55), nhiem vu Nghe & Job, mo khoa tinh nang (nha o, chocobo, retainer...) va Duty (dungeon/trial/raid). Hoat dong cho thoai thuong, cutscene, caption va menu lua chon.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/kennabi83/VietTranslator/main/Resources/icon.png?v=2",
@@ -15302,12 +15341,12 @@
                 "Author": "ofnature",
                 "Name": "SealBreaker",
                 "InternalName": "SealBreaker",
-                "AssemblyVersion": "1.1.0.7",
+                "AssemblyVersion": "1.1.0.8",
                 "Description": "Automates dungeon farming, GC expert delivery, and grand company item purchasing. Supports AutoDuty and ADS.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ofnature/SealBreaker/main/SealBreaker/icon.png",
                 "RepoUrl": "https://github.com/ofnature/SealBreaker",
-                "LastUpdate": 1785035985,
+                "LastUpdate": 1785064831,
                 "is_ai_attributed": true
             }
         ]
@@ -15740,7 +15779,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1784966074
+                "LastUpdate": 1785053575
             },
             {
                 "Author": "Risa and Contributors",
@@ -17158,7 +17197,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1785009659
+                "LastUpdate": 1785063819
             },
             {
                 "Author": "daemitus, kawaii",
@@ -18311,12 +18350,12 @@
                 "Author": "Raiden",
                 "Name": "BlackjackSolver",
                 "InternalName": "BlackjackSolver",
-                "AssemblyVersion": "1.0.2.2",
+                "AssemblyVersion": "1.0.2.5",
                 "Description": "A simple blackjack solver that tells you the best move to make, helps you with bets and customize your calls.",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/RaidenvBlack/RaidenvPlugins/main/icons/casino.png",
                 "RepoUrl": "https://github.com/RaidenvBlack/RaidenvPlugins/blob/main/BlackjackSolver.zip",
-                "LastUpdate": 1766049567,
+                "LastUpdate": 1785061851,
                 "is_closed_source": true
             },
             {
@@ -22245,11 +22284,11 @@
                 "Author": "MOOGLradio",
                 "Name": "MOOGLradio",
                 "InternalName": "MooglRadio",
-                "AssemblyVersion": "0.1.11.0",
+                "AssemblyVersion": "0.1.13.0",
                 "Description": "Listen to MOOGLradio, the FFXIV-themed internet radio station, from in-game.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/timcade-stuff/moogl-radio-plugin",
-                "LastUpdate": 1785020986,
+                "LastUpdate": 1785058701,
                 "is_ai_attributed": true
             }
         ]
@@ -23712,7 +23751,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1785029841,
+                "LastUpdate": 1785058845,
                 "is_ai_attributed": true
             },
             {
@@ -24774,14 +24813,14 @@
                 "LastUpdate": 1785030196
             },
             {
-                "Author": "黑川启太",
-                "Name": "肖像装备同步",
+                "Author": "zhui-zi",
+                "Name": "Portrait Gear Sync",
                 "InternalName": "PortraitGearSync",
-                "AssemblyVersion": "1.0.0.0",
+                "AssemblyVersion": "1.1.0.1",
                 "Description": "装备套装更新时自动同步即时肖像，并在需要时重新装备当前套装以应用关联投影模板。切换头部装备显示、调整面罩或应用最强装备后，会先自动更新当前装备套装，再同步即时肖像。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zhui-zi/DalamudPlugins",
-                "LastUpdate": 1785032868
+                "LastUpdate": 1785053285
             }
         ]
     },
