@@ -2606,11 +2606,11 @@
                 "Author": "Anna, beerpsi",
                 "Name": "ExtraChatFork",
                 "InternalName": "ExtraChatFork",
-                "AssemblyVersion": "1.4.3.0",
+                "AssemblyVersion": "1.4.5.0",
                 "Description": "ExtraChat adds end-to-end encrypted, cross-data-centre, unlimited linkshells\nto the game. (Fork of official plugin with features and some fixes)",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/beer-psi/ExtraChat",
-                "LastUpdate": 1785095533
+                "LastUpdate": 1785162428
             },
             {
                 "Author": "beerpsi",
@@ -4576,11 +4576,11 @@
                 "Author": "FF14 Accessibility Project",
                 "Name": "FF14 Accessibility",
                 "InternalName": "FF14Accessibility",
-                "AssemblyVersion": "5.57.0.0",
+                "AssemblyVersion": "5.58.0.0",
                 "Description": "Macht FF14 für blinde Spieler zugänglich via NVDA/TOLK Integration, Audio-Navigation und vollständiger Tastatursteuerung.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/derbruedi/ff14-accessibility",
-                "LastUpdate": 1785095738,
+                "LastUpdate": 1785165059,
                 "is_ai_attributed": true
             }
         ]
@@ -5954,7 +5954,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1785053575
+                "LastUpdate": 1785145028
             }
         ]
     },
@@ -7045,11 +7045,11 @@
                 "Author": "gips",
                 "Name": "AetherCircuit",
                 "InternalName": "AetherCircuit",
-                "AssemblyVersion": "6.2.0.0",
+                "AssemblyVersion": "6.4.3.0",
                 "Description": "Coordinates Lifestream, vnavmesh, BossMod, Questionable, and TextAdvance to run configurable FATE and Allied Society circuits.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/gipsem/AetherCircuit",
-                "LastUpdate": 1785123160
+                "LastUpdate": 1785172669
             }
         ]
     },
@@ -8605,11 +8605,11 @@
                 "Author": "raynording",
                 "Name": "Dalamud ACT Compat",
                 "InternalName": "DalamudActCompat",
-                "AssemblyVersion": "0.2.24.0",
+                "AssemblyVersion": "0.2.30.0",
                 "Description": "Dalamud-side UI, storage, parser abstraction, and compatibility-host bridge for an ACT-compatible FFXIV parsing platform. This early build does not yet load FFXIV_ACT_Plugin.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/JackyWilliam/DalamudActCompat",
-                "LastUpdate": 1785140948
+                "LastUpdate": 1785161723
             }
         ]
     },
@@ -8623,11 +8623,11 @@
                 "Author": "raynording",
                 "Name": "Dalamud ACT Compat",
                 "InternalName": "DalamudActCompat",
-                "AssemblyVersion": "0.2.24.0",
+                "AssemblyVersion": "0.2.30.0",
                 "Description": "Dalamud-side UI, storage, parser abstraction, and compatibility-host bridge for an ACT-compatible FFXIV parsing platform. This early build does not yet load FFXIV_ACT_Plugin.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/JackyWilliam/DalamudActCompat",
-                "LastUpdate": 1785142701
+                "LastUpdate": 1785161979
             }
         ]
     },
@@ -10489,12 +10489,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.1.3",
+                "AssemblyVersion": "15.306.1.5",
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1785141838,
+                "LastUpdate": 1785175236,
                 "is_ai_attributed": true
             },
             {
@@ -11486,6 +11486,34 @@
         ]
     },
     {
+        "repo_developer_name": "llm1016",
+        "repo_url": "https://raw.githubusercontent.com/llm1016/DalamudPlugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/llm1016/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "Knightmore",
+                "Name": "HenchmanCN",
+                "InternalName": "Henchman",
+                "AssemblyVersion": "3.0.1.2",
+                "Description": "自动执行各种繁琐任务：狩猎日志、讨伐单、雇员创建、A/B级狩猎、陆行鸟传送解锁、角色创建、海钓升级、多角色交易等（汉化版）",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/llm1016/HenchmanCN",
+                "LastUpdate": 1785156485
+            },
+            {
+                "Author": "veyn",
+                "Name": "vsatisfy",
+                "InternalName": "vsatisfy",
+                "AssemblyVersion": "0.0.0.37",
+                "Description": "自动老主顾交付（制作/采集）",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/llm1016/ffxiv_satisfy",
+                "LastUpdate": 1785156567
+            }
+        ]
+    },
+    {
         "repo_url": "https://raw.githubusercontent.com/LockonS483/AutoJailMarker/master/AutoJailMarker/repo.json",
         "repo_source_url": "https://github.com/LockonS483/AutoJailMarker",
         "repo_developer_name": "LockonS483",
@@ -11960,18 +11988,18 @@
                 "Description": "Get a Discord DM the instant your duty pops. Join the DutyDM Discord server, enter your Discord username, and the bot will message you the moment your queue is ready - with an in-game popup confirming it sent.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Marobotic/PfPresets",
-                "LastUpdate": 1785028507
+                "LastUpdate": 1785156623
             },
             {
                 "Author": "Mayo Botic",
                 "Name": "PF Presets",
                 "InternalName": "PfPresets",
-                "AssemblyVersion": "3.0.0.1",
+                "AssemblyVersion": "3.0.0.2",
                 "Description": "Save and manage Party Finder recruitment presets. Configure duty, objective, roles, conditions, and more - then apply any preset with a single click to instantly set up your Party Finder listing.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Marobotic/PfPresets/main/images/icon.png",
                 "RepoUrl": "https://github.com/Marobotic/PfPresets",
-                "LastUpdate": 1785028507,
+                "LastUpdate": 1785156623,
                 "is_ai_attributed": true
             }
         ]
@@ -15626,12 +15654,13 @@
                 "Author": "Relicable contributors",
                 "Name": "Relicable",
                 "InternalName": "Relicable",
-                "AssemblyVersion": "1.5.2.0",
+                "AssemblyVersion": "1.5.2.1",
                 "Description": "EARLY ALPHA - an access code from the developer is required to run this plugin; it will not start without one.\n\nData-driven automation engine for the ARR Zodiac relic line (A Relic Reborn through Zodiac Zeta). It plans and drives the stage objectives - Atma FATE farming, Animus book leves and dungeons, Novus materia/scroll planning, Nexus light farming, and the Jalzahn/Gerolt upgrade turn-ins - by orchestrating other plugins over IPC rather than replacing them.\n\nRequires these companion plugins, installed and working: vnavmesh (movement), BossMod Reborn, Rotation Solver Reborn or Wrath Combo (combat), Lifestream (aetheryte travel), TextAdvance (dialogue), and AutoDuty (dungeons). The Dependencies tab in /relic config shows live status for each.\n\nUSE AT YOUR OWN RISK: automating movement and combat is botting under the FINAL FANTASY XIV User Agreement, and Square Enix suspends and terminates accounts for it. The risk is highest for the open-world stages (Atma, Animus, Nexus, Zeta), which run in shared content where other players can observe and report you. Neither this plugin nor its authors can reduce that risk or protect you from it.\n\nThis is alpha software that takes control of your character for long unattended sessions. It is incomplete, it has rough edges, and stages will occasionally stall and need manual help. Do not run it unattended if that is not acceptable to you. Bug reports should include /xllog output with 'Enable debug log' turned on in /relic config.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/OmegaJackie/Relicable/main/icon.png",
                 "RepoUrl": "https://github.com/OmegaJackie/Relicable",
-                "LastUpdate": 1785149858
+                "LastUpdate": 1785169405,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -17096,12 +17125,12 @@
                 "Author": "Det, Taurenkey",
                 "Name": "AutoHook",
                 "InternalName": "AutoHook",
-                "AssemblyVersion": "6.0.0.80",
+                "AssemblyVersion": "6.0.0.81",
                 "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/47",
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1785145497
+                "LastUpdate": 1785166147
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -17183,12 +17212,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.1.3",
+                "AssemblyVersion": "15.306.1.5",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1785141838,
+                "LastUpdate": 1785175236,
                 "is_ai_attributed": true
             },
             {
@@ -17301,12 +17330,12 @@
                 "Author": "erdelf",
                 "Name": "FC Tracker",
                 "InternalName": "FCTracker",
-                "AssemblyVersion": "0.0.0.30",
+                "AssemblyVersion": "0.0.0.31",
                 "Description": "Tracks FCs and related info. Especially ideal for creating new sub FCs.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/135",
                 "RepoUrl": "https://github.com/erdelf/ffxiv_FCTracker",
-                "LastUpdate": 1784976766
+                "LastUpdate": 1785170164
             }
         ]
     },
@@ -17581,7 +17610,7 @@
                 "Author": "nainaiowo",
                 "Name": "Eidos",
                 "InternalName": "Eidos",
-                "AssemblyVersion": "0.1.0.21",
+                "AssemblyVersion": "0.1.0.25",
                 "Description": "A Gposing and scene tool.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nainaiowo/Eidos"
@@ -18236,11 +18265,11 @@
                 "Author": "liza, qstxiv, & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.0.0801",
+                "AssemblyVersion": "15.306.1.0402",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/QianChangUwU/Questionable",
-                "LastUpdate": 1784071920
+                "LastUpdate": 1785168186
             }
         ]
     },
@@ -21160,7 +21189,7 @@
                 "Description": "Headless overlay compositor for Penumbra. Discovers mods with a Proteus/ sidecar, composites their overlay textures in Penumbra priority order, and maintains a single managed mod at priority 999. No authoring UI — all work happens in external tools. Type /proteus to open the status window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1785099019,
+                "LastUpdate": 1785173418,
                 "is_ai_attributed": true
             }
         ]
