@@ -710,36 +710,36 @@
                 "Author": "XA",
                 "Name": "XA Database",
                 "InternalName": "XADatabase",
-                "AssemblyVersion": "0.0.0.39",
+                "AssemblyVersion": "0.0.0.40",
                 "Description": "Parser of all databases.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Database/master/XADatabase/images/icon.png",
                 "RepoUrl": "https://github.com/xa-io/XA-Database",
-                "LastUpdate": 1783300966,
+                "LastUpdate": 1785272904,
                 "is_ai_attributed": true
             },
             {
                 "Author": "XA",
                 "Name": "XA HUD Navigator",
                 "InternalName": "XAHudNavigator",
-                "AssemblyVersion": "0.0.0.7",
+                "AssemblyVersion": "0.0.0.8",
                 "Description": "Finding stuff is hard.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-HUD-Navigator/main/XAHudNavigator/images/icon.png",
                 "RepoUrl": "https://github.com/xa-io/XA-HUD-Navigator",
-                "LastUpdate": 1782583656,
+                "LastUpdate": 1785272508,
                 "is_ai_attributed": true
             },
             {
                 "Author": "XA",
                 "Name": "XA Slave",
                 "InternalName": "XASlave",
-                "AssemblyVersion": "0.0.0.40",
+                "AssemblyVersion": "0.0.0.42",
                 "Description": "Don't manual.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Slave/master/XASlave/images/icon.png",
                 "RepoUrl": "https://github.com/xa-io/XA-Slave",
-                "LastUpdate": 1782583309,
+                "LastUpdate": 1785283505,
                 "is_ai_attributed": true
             }
         ]
@@ -2594,11 +2594,11 @@
                 "Author": "Anna, beerpsi",
                 "Name": "ExtraChatFork",
                 "InternalName": "ExtraChatFork",
-                "AssemblyVersion": "1.4.5.0",
+                "AssemblyVersion": "1.4.6.0",
                 "Description": "ExtraChat adds end-to-end encrypted, cross-data-centre, unlimited linkshells\nto the game. (Fork of official plugin with features and some fixes)",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/beer-psi/ExtraChat",
-                "LastUpdate": 1785162428
+                "LastUpdate": 1785271287
             },
             {
                 "Author": "beerpsi",
@@ -4575,11 +4575,11 @@
                 "Author": "FF14 Accessibility Project",
                 "Name": "FF14 Accessibility",
                 "InternalName": "FF14Accessibility",
-                "AssemblyVersion": "5.59.0.0",
+                "AssemblyVersion": "5.60.0.0",
                 "Description": "Macht FF14 für blinde Spieler zugänglich via NVDA/TOLK Integration, Audio-Navigation und vollständiger Tastatursteuerung.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/derbruedi/ff14-accessibility",
-                "LastUpdate": 1785180082,
+                "LastUpdate": 1785272357,
                 "is_ai_attributed": true
             }
         ]
@@ -5120,12 +5120,12 @@
                 "Author": "Eauldane",
                 "Name": "Snowcloak Sync",
                 "InternalName": "Snowcloak",
-                "AssemblyVersion": "4.0.0.2",
+                "AssemblyVersion": "4.0.1.1",
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Eauldane/SnowcloakClient/refs/heads/main/Snowcloak/images/logo.png",
                 "RepoUrl": "https://github.com/Eauldane/SnowcloakClient",
-                "LastUpdate": 1785264442
+                "LastUpdate": 1785268126
             },
             {
                 "Author": "Eauldane",
@@ -5522,7 +5522,19 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Enceladeum/HMoniker/main/images/icon.png",
                 "RepoUrl": "https://github.com/Enceladeum/HMoniker",
-                "LastUpdate": 1784731778,
+                "LastUpdate": 1785190513,
+                "is_ai_attributed": true
+            },
+            {
+                "Author": "The Enceladeum",
+                "Name": "HMapSync (HMS)",
+                "InternalName": "HMSync",
+                "AssemblyVersion": "1.0.0.1",
+                "Description": "Load any in-game map client-side and explore it solo or with up to 20 friends, behind a packet filter that keeps the server seeing you as idle in your room. Shared weather, BGM and time; client-side mounts, emotes and minions; carpet floors for spots without collision; head-tilt and gaze sync for roleplay; and proximity say/yell passthrough. Co-op needs a relay key (closed beta); solo mode never connects to the relay.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Enceladeum/HMapSync/main/images/icon.png",
+                "RepoUrl": "https://github.com/Enceladeum/HMapSync",
+                "LastUpdate": 1785277252,
                 "is_ai_attributed": true
             },
             {
@@ -6343,7 +6355,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1785258894
+                "LastUpdate": 1785287445
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -7035,20 +7047,21 @@
         ]
     },
     {
-        "repo_developer_name": "gipsem",
-        "repo_url": "https://raw.githubusercontent.com/gipsem/FFXIV-Plugins/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/gipsem/FFXIV-Plugins",
+        "repo_developer_name": "gipsit",
+        "repo_url": "https://raw.githubusercontent.com/gipsit/FFXIV-Plugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/gipsit/FFXIV-Plugins",
         "repo_name": "FFXIV-Plugins",
         "plugins": [
             {
                 "Author": "gips",
                 "Name": "AetherCircuit",
                 "InternalName": "AetherCircuit",
-                "AssemblyVersion": "7.1.0.0",
+                "AssemblyVersion": "7.2.0.0",
                 "Description": "Coordinates Lifestream, vnavmesh, BossMod, Questionable, and TextAdvance to run configurable FATE and Allied Society circuits.",
                 "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/gipsem/AetherCircuit",
-                "LastUpdate": 1785190146
+                "RepoUrl": "https://github.com/gipsit/AetherCircuit",
+                "LastUpdate": 1785287669,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -9531,13 +9544,24 @@
                 "Author": "Faye / NiGuangOwO (适配&优化) / Ookura-Risona (汉化)",
                 "Name": "Better Occult Crescent & Chest Helper Interface",
                 "InternalName": "BOCCHI",
-                "AssemblyVersion": "3.2.0.0",
+                "AssemblyVersion": "3.2.1.0",
                 "Description": "BOCCHI 旨在让您的新月岛体验更加流畅。\n- 不再有那些烦人的“跑腿”或“寻找宝箱”了。那是给失败者玩的。\n- 一个可爱的小 Fate 和 CE 面板会告诉您它提供了什么奖励，并帮助您自动找到它，哇哦。\n- 一个极端非法的“非法模式”，适合那些宁愿摸摸草地或玩有价值内容的游戏的人。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/icon.png",
                 "RepoUrl": "https://github.com/KanoNoUta/BOCCHI",
-                "LastUpdate": 1785264037,
+                "LastUpdate": 1785266288,
                 "is_ai_attributed": true
+            },
+            {
+                "Author": "The Combat Reborn Team / KanoNoUta（国服适配）",
+                "Name": "BossMod Reborn CN",
+                "InternalName": "BossModReborn",
+                "AssemblyVersion": "7.5.5.1",
+                "Description": "BossMod Reborn 国服适配版，提供副本与大型探索任务的机制提示。",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
+                "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
+                "LastUpdate": 1785266489
             },
             {
                 "Author": "NightmareXIV / NiGuangOwO（汉化&适配）",
@@ -10523,7 +10547,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1785262978,
+                "LastUpdate": 1785266813,
                 "is_ai_attributed": true
             },
             {
@@ -10541,7 +10565,7 @@
                 "Author": "Team Wrath",
                 "Name": "Wrath Combo",
                 "InternalName": "WrathCombo",
-                "AssemblyVersion": "1.0.4.18",
+                "AssemblyVersion": "1.0.4.19",
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
@@ -10634,12 +10658,12 @@
                 "Author": "Kussie ",
                 "Name": "Aetherfit",
                 "InternalName": "Aetherfit",
-                "AssemblyVersion": "1.2.2607.293",
+                "AssemblyVersion": "1.2.2607.296",
                 "Description": "A custom simple frontend for applying designs from Glamourer. Lets you browse and apply designs, and optionally upload your own images to more easily be able to decide on which design to wear.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Kussie/Aetherfit/master/Data/icon-square.png",
                 "RepoUrl": "https://github.com/Kussie/Aetherfit",
-                "LastUpdate": 1785202984,
+                "LastUpdate": 1785280052,
                 "is_ai_attributed": true
             }
         ]
@@ -15417,12 +15441,12 @@
                 "Author": "ofnature",
                 "Name": "Charon",
                 "InternalName": "Charon",
-                "AssemblyVersion": "0.1.15",
+                "AssemblyVersion": "0.1.16",
                 "Description": "Auto pillion with smart seat scanning and whitelisted auto group invite. Companion to Daedalus.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ofnature/Charon/main/images/icon.png",
                 "RepoUrl": "https://github.com/ofnature/Charon",
-                "LastUpdate": 1785190690,
+                "LastUpdate": 1785287304,
                 "is_ai_attributed": true
             }
         ]
@@ -15716,12 +15740,12 @@
                 "Author": "Relicable contributors",
                 "Name": "Relicable",
                 "InternalName": "Relicable",
-                "AssemblyVersion": "1.5.2.5",
+                "AssemblyVersion": "1.5.3.2",
                 "Description": "EARLY ALPHA - an access code from the developer is required to run this plugin; it will not start without one.\n\nData-driven automation engine for the ARR Zodiac relic line (A Relic Reborn through Zodiac Zeta). It plans and drives the stage objectives - Atma FATE farming, Animus book leves and dungeons, Novus materia/scroll planning, Nexus light farming, and the Jalzahn/Gerolt upgrade turn-ins - by orchestrating other plugins over IPC rather than replacing them.\n\nRequires these companion plugins, installed and working: vnavmesh (movement), BossMod Reborn, Rotation Solver Reborn or Wrath Combo (combat), Lifestream (aetheryte travel), TextAdvance (dialogue), and AutoDuty (dungeons). The Dependencies tab in /relic config shows live status for each.\n\nUSE AT YOUR OWN RISK: automating movement and combat is botting under the FINAL FANTASY XIV User Agreement, and Square Enix suspends and terminates accounts for it. The risk is highest for the open-world stages (Atma, Animus, Nexus, Zeta), which run in shared content where other players can observe and report you. Neither this plugin nor its authors can reduce that risk or protect you from it.\n\nThis is alpha software that takes control of your character for long unattended sessions. It is incomplete, it has rough edges, and stages will occasionally stall and need manual help. Do not run it unattended if that is not acceptable to you. Bug reports should include /xllog output with 'Enable debug log' turned on in /relic config.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/OmegaJackie/Relicable/main/icon.png",
                 "RepoUrl": "https://github.com/OmegaJackie/Relicable",
-                "LastUpdate": 1785178467,
+                "LastUpdate": 1785272913,
                 "is_ai_attributed": true
             }
         ]
@@ -15950,7 +15974,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ktisis-tools/Ktisis/main/icon.png",
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1785188487
+                "LastUpdate": 1785261950
             },
             {
                 "Author": "kawaii, Glyceri, Minmoose",
@@ -15967,12 +15991,12 @@
                 "Author": "Ottermandias, Nylfae, Adam, Wintermute",
                 "Name": "Penumbra",
                 "InternalName": "Penumbra",
-                "AssemblyVersion": "1.6.1.10",
+                "AssemblyVersion": "1.6.1.11",
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png",
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1785167937
+                "LastUpdate": 1785269611
             },
             {
                 "Author": "Caraxi",
@@ -16313,11 +16337,11 @@
                 "Author": "Black Lantern",
                 "Name": "VenueBoard",
                 "InternalName": "VenueBoard",
-                "AssemblyVersion": "0.2.0.0",
+                "AssemblyVersion": "0.2.1.0",
                 "Description": "A venue macro board for Final Fantasy XIV hosts.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/penzfan23/VenueBoard",
-                "LastUpdate": 1783902623
+                "LastUpdate": 1785279186
             }
         ]
     },
@@ -16744,11 +16768,11 @@
                 "Author": "platis",
                 "Name": "XIV.fm",
                 "InternalName": "XIV.fm",
-                "AssemblyVersion": "0.1.5.0",
+                "AssemblyVersion": "0.1.9.0",
                 "Description": "XIV.fm displays Last.fm listening presence on cards anchored above player nameplates.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/platis/XIV.fm",
-                "LastUpdate": 1784476103,
+                "LastUpdate": 1785287656,
                 "is_ai_attributed": true
             }
         ]
@@ -16983,12 +17007,12 @@
                 "Author": "perchbird",
                 "Name": "Chronofoil",
                 "InternalName": "Chronofoil.Plugin",
-                "AssemblyVersion": "1.0.4.11",
+                "AssemblyVersion": "1.0.4.12",
                 "Description": "Chronofoil is a plugin that allows you to capture in-game packets for analysis later.\nIt also allows you to upload a censored version of these captures to a central repository for\npreservation and analysis. Privacy controls are at the center of Chronofoil, which is why it\nrequires two levels of user opt-in, has minimum delays on releasing any submitted user info,\nand allows users to delete their submitted data at any time.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ProjectChronofoil/Chronofoil.Plugin/main/src/Data/icon_small.png",
                 "RepoUrl": "https://github.com/ProjectChronofoil/Chronofoil.Plugin",
-                "LastUpdate": 1782253198
+                "LastUpdate": 1785266917
             }
         ]
     },
@@ -17187,12 +17211,12 @@
                 "Author": "Det, Taurenkey",
                 "Name": "AutoHook",
                 "InternalName": "AutoHook",
-                "AssemblyVersion": "6.0.0.82",
+                "AssemblyVersion": "6.0.0.83",
                 "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/47",
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1785212797
+                "LastUpdate": 1785274116
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -17203,7 +17227,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/24",
                 "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-                "LastUpdate": 1783792843
+                "LastUpdate": 1785280484
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -17279,7 +17303,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1785262978,
+                "LastUpdate": 1785266813,
                 "is_ai_attributed": true
             },
             {
@@ -17392,12 +17416,12 @@
                 "Author": "erdelf",
                 "Name": "FC Tracker",
                 "InternalName": "FCTracker",
-                "AssemblyVersion": "0.0.0.33",
+                "AssemblyVersion": "0.0.0.34",
                 "Description": "Tracks FCs and related info. Especially ideal for creating new sub FCs.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/135",
                 "RepoUrl": "https://github.com/erdelf/ffxiv_FCTracker",
-                "LastUpdate": 1785189433
+                "LastUpdate": 1785275389
             }
         ]
     },
@@ -17728,12 +17752,12 @@
                 "Author": "Nexai",
                 "Name": "Mogmail",
                 "InternalName": "Mogmail",
-                "AssemblyVersion": "1.2.3.0",
+                "AssemblyVersion": "1.2.4.0",
                 "Description": "A better mail service. Bulk attachment claiming, bulk delete, and inventory pop.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/148",
                 "RepoUrl": "https://github.com/Nexaii/Mogmail",
-                "LastUpdate": 1785111345
+                "LastUpdate": 1785277553
             }
         ]
     },
@@ -19809,12 +19833,12 @@
                 "Author": "Ruby Blaire",
                 "Name": "RE:Frame XIV",
                 "InternalName": "REFrameXIV",
-                "AssemblyVersion": "0.5.3.1",
+                "AssemblyVersion": "0.5.3.2",
                 "Description": "A seamless, adaptive replacement HUD for Final Fantasy XIV.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/rubyblaire/RE-Frame/main/Assets/icon.png",
                 "RepoUrl": "https://github.com/rubyblaire/RE-Frame",
-                "LastUpdate": 1785214233
+                "LastUpdate": 1785275451
             }
         ]
     },
@@ -20127,6 +20151,70 @@
     },
     {
         "repo_developer_name": "SamoyedQQ",
+        "repo_url": "https://raw.githubusercontent.com/SamoyedQQ/ffxiv-tw-api13/main/dist/repo.json",
+        "repo_source_url": "https://github.com/SamoyedQQ/ffxiv-tw-api13",
+        "repo_name": "ffxiv-tw-api13",
+        "plugins": [
+            {
+                "Author": "Taurenkey (Puni.sh)｜繁中：ffxiv-tw-api13",
+                "Name": "Artisan（繁中）",
+                "InternalName": "Artisan",
+                "AssemblyVersion": "4.0.4.12",
+                "Description": "一站式生產外掛。台服 API13 繁體中文版，介面用詞比照遊戲本體。",
+                "DalamudApiLevel": 13,
+                "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png",
+                "RepoUrl": "https://github.com/PunishXIV/Artisan",
+                "LastUpdate": 1783074148
+            },
+            {
+                "Author": "Herculezz, erdelf｜繁中：ffxiv-tw-api13",
+                "Name": "AutoDuty（繁中）",
+                "InternalName": "AutoDuty",
+                "AssemblyVersion": "0.0.0.2",
+                "Description": "自動跑迷宮，支援親信戰友、劇情輔助器、冒險者分隊、特殊迷宮與一般副本。需要搭配 BossMod、vnavmesh，以及一個循環外掛（Wrath Combo、BossMod AutoRotation 或 RotationSolverReborn）。台服 API13 繁體中文版，介面用詞比照遊戲本體。",
+                "DalamudApiLevel": 13,
+                "IconUrl": "https://s3.puni.sh/media/plugin/54/icon-15ug2vnr9m1.png",
+                "RepoUrl": "https://github.com/ffxivcode/AutoDuty",
+                "LastUpdate": 1769222451
+            },
+            {
+                "Author": "кайт машина (Puni.sh)｜繁中：ffxiv-tw-api13",
+                "Name": "AutoRetainer（繁中）",
+                "InternalName": "AutoRetainer",
+                "AssemblyVersion": "4.5.1.24",
+                "Description": "躺著也能收探險、派僱員。台服 API13 繁體中文版，介面用詞比照遊戲本體。",
+                "DalamudApiLevel": 13,
+                "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png",
+                "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
+                "LastUpdate": 1785280484
+            },
+            {
+                "Author": "The Combat Reborn Team｜繁中：ffxiv-tw-api13",
+                "Name": "Bossmod Reborn（繁中）",
+                "InternalName": "BossModReborn",
+                "AssemblyVersion": "7.3.8.4",
+                "Description": "王戰雷達、自動循環、冷卻規劃與 AI。台服 API13 繁體中文版，介面用詞比照遊戲本體。",
+                "DalamudApiLevel": 13,
+                "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
+                "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
+                "LastUpdate": 1785287445
+            },
+            {
+                "Author": "liza, qstxiv, & various contributors｜繁中：ffxiv-tw-api13",
+                "Name": "Questionable（繁中）",
+                "InternalName": "Questionable",
+                "AssemblyVersion": "13.68.129.6",
+                "Description": "小巧的任務小幫手，能在可行的範圍內自動替你跑任務。會用導航網格自動走到各個任務點，並盡量自動完成沿途的每個步驟（迷宮、單人任務與戰鬥除外）。\n\n並非所有任務都有支援，最新清單請看 Discord 或程式庫。\n\n必要外掛：vnavmesh、TextAdvance、Lifestream\n\n台服 API13 繁體中文版，介面用詞比照遊戲本體。",
+                "DalamudApiLevel": 13,
+                "IconUrl": "https://qstxiv.github.io/icons/Questionable.png",
+                "RepoUrl": "https://github.com/PunishXIV/Questionable",
+                "LastUpdate": 1785266813,
+                "is_ai_attributed": true
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "SamoyedQQ",
         "repo_url": "https://raw.githubusercontent.com/SamoyedQQ/TCRankingViewer/main/repo.json",
         "repo_source_url": "https://github.com/SamoyedQQ/TCRankingViewer",
         "repo_name": "TCRankingViewer",
@@ -20145,12 +20233,12 @@
                 "Author": "Whitedog",
                 "Name": "TCRankingViewer",
                 "InternalName": "TCRankingViewer",
-                "AssemblyVersion": "1.1.0.1",
+                "AssemblyVersion": "1.1.0.2",
                 "Description": "當隊友進入隊伍或開啟招募資訊時，自動從 ranking.init.engineer 與 samoyedqq.github.io/TCtomestone 抓取對應角色的零式/絕本排名資料，並顯示於聊天框與插件視窗。",
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/SamoyedQQ/TCRankingViewer/main/assets/icon.png",
                 "RepoUrl": "https://github.com/SamoyedQQ/TCRankingViewer",
-                "LastUpdate": 1785238404,
+                "LastUpdate": 1785268620,
                 "is_ai_attributed": true
             }
         ]
@@ -21251,7 +21339,7 @@
                 "Description": "Headless overlay compositor for Penumbra. Discovers mods with a Proteus/ sidecar, composites their overlay textures in Penumbra priority order, and maintains a single managed mod at priority 999. No authoring UI — all work happens in external tools. Type /proteus to open the status window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1785258577,
+                "LastUpdate": 1785276939,
                 "is_ai_attributed": true
             }
         ]
@@ -21904,12 +21992,12 @@
                 "Author": "T3chnicalD3ath Inc.",
                 "Name": "Hunter",
                 "InternalName": "HunterV2",
-                "AssemblyVersion": "1.4.3.0",
+                "AssemblyVersion": "1.4.4.0",
                 "Description": "Automatically hunts mobs to collect specific items. Teleports to the right zone, mounts and flies to spawn points, engages and chains kills, tracks inventory progress live, and returns home when every enabled item is complete.\n\nOrganise items into hunt lists, import ingredient lists from Artisan (only ingredients that drop from mobs in the database are added), and edit the mob database in game.\n\nRequires vnavmesh, Rotation Solver Reborn and Lifestream.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/t3knical/DalamudPlugins/main/plugins/HunterV2/icon.png",
                 "RepoUrl": "https://github.com/t3knical/DalamudPlugins",
-                "LastUpdate": 1785261733,
+                "LastUpdate": 1785270051,
                 "is_ai_attributed": true
             },
             {
@@ -22492,11 +22580,11 @@
                 "Author": "MOOGLradio",
                 "Name": "MOOGLradio",
                 "InternalName": "MooglRadio",
-                "AssemblyVersion": "0.1.16.0",
+                "AssemblyVersion": "0.1.17.0",
                 "Description": "Listen to MOOGLradio, the FFXIV-themed internet radio station, from in-game.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/timcade-stuff/moogl-radio-plugin",
-                "LastUpdate": 1785128480,
+                "LastUpdate": 1785285106,
                 "is_ai_attributed": true
             }
         ]
@@ -22829,6 +22917,26 @@
                 "IconUrl": "https://maresempiterne.io/download/plugin/icon.png",
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
                 "LastUpdate": 1784825326
+            }
+        ]
+    },
+    {
+        "repo_url": "https://downloads.honse.farm/repo.json",
+        "repo_source_url": "https://git.honse.farm/astraea/honse-farm/-/tree/dev/HonseFarm.Client",
+        "repo_discord_url": "https://discord.com/invite/uWnDgXzsMN",
+        "repo_developer_name": "Unknown Developer",
+        "repo_name": "repo",
+        "plugins": [
+            {
+                "Author": "Astraea",
+                "Name": "HonseFarm.Client",
+                "InternalName": "HonseFarm.Client",
+                "AssemblyVersion": "0.9.22.0",
+                "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://git.honse.farm/astraea/honse-farm/-/raw/main/HonseFarm.Client/images/icon.png",
+                "RepoUrl": "https://git.honse.farm/astraea/honse-farm",
+                "LastUpdate": 1777686200
             }
         ]
     },
@@ -23878,34 +23986,34 @@
                 "Author": "XA",
                 "Name": "XA Database",
                 "InternalName": "XADatabase",
-                "AssemblyVersion": "0.0.0.39",
+                "AssemblyVersion": "0.0.0.40",
                 "Description": "Parser of all databases.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Database/master/XADatabase/images/icon.png",
                 "RepoUrl": "https://github.com/xa-io/XA-Database",
-                "LastUpdate": 1783300966
+                "LastUpdate": 1785272904
             },
             {
                 "Author": "XA",
                 "Name": "XA HUD Navigator",
                 "InternalName": "XAHudNavigator",
-                "AssemblyVersion": "0.0.0.7",
+                "AssemblyVersion": "0.0.0.8",
                 "Description": "Finding stuff is hard.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-HUD-Navigator/master/XAHudNavigator/images/icon.png",
                 "RepoUrl": "https://github.com/xa-io/XA-HUD-Navigator",
-                "LastUpdate": 1782583656
+                "LastUpdate": 1785272508
             },
             {
                 "Author": "XA",
                 "Name": "XA Slave",
                 "InternalName": "XASlave",
-                "AssemblyVersion": "0.0.0.40",
+                "AssemblyVersion": "0.0.0.42",
                 "Description": "A Dalamud plugin for FINAL FANTASY XIV that automates repetitive multi-character workflows — relogging, world travel, chat announcements, housing checks, and more. Works alongside XA Database to collect and push character data hands-free.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Slave/master/XASlave/images/icon.png",
                 "RepoUrl": "https://github.com/xa-io/XA-Slave",
-                "LastUpdate": 1782583309
+                "LastUpdate": 1785283505
             }
         ]
     },
@@ -23955,12 +24063,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "0.9.9.3",
+                "AssemblyVersion": "0.9.9.4",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1785231597,
+                "LastUpdate": 1785276267,
                 "is_ai_attributed": true
             },
             {
@@ -24035,12 +24143,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "0.9.9.3",
+                "AssemblyVersion": "0.9.9.4",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1785231597,
+                "LastUpdate": 1785276267,
                 "is_ai_attributed": true
             }
         ]
@@ -24153,12 +24261,12 @@
                 "Author": "Ottermandias, Nylfae, Adam, Wintermute",
                 "Name": "Penumbra",
                 "InternalName": "Penumbra",
-                "AssemblyVersion": "1.6.1.10",
+                "AssemblyVersion": "1.6.1.11",
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png",
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1785114539
+                "LastUpdate": 1785269611
             }
         ]
     },
