@@ -956,6 +956,25 @@
     },
     {
         "repo_developer_name": "AiriTsukino",
+        "repo_url": "https://raw.githubusercontent.com/AiriTsukino/AirTablet/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/AiriTsukino/AirTablet",
+        "repo_name": "AirTablet",
+        "plugins": [
+            {
+                "Author": "Airi Tsukino",
+                "Name": "AirTablet",
+                "InternalName": "AirTablet",
+                "AssemblyVersion": "1.0.52.0",
+                "Description": "A modern tablet OS for Airi's venue apps.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/AiriTsukino/AirTablet/main/AirTablet/Resources/ATLogo.png",
+                "RepoUrl": "https://github.com/AiriTsukino/AirTablet",
+                "LastUpdate": 1785381332
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "AiriTsukino",
         "repo_url": "https://raw.githubusercontent.com/AiriTsukino/AutoGreet/main/pluginmaster.json",
         "repo_source_url": "https://github.com/AiriTsukino/AutoGreet",
         "repo_name": "AutoGreet",
@@ -2791,12 +2810,12 @@
                 "Author": "Eqbot, ViviAshe, astrodoobs, BeSlightly",
                 "Name": "Snappy",
                 "InternalName": "Snappy",
-                "AssemblyVersion": "0.5.2.8",
+                "AssemblyVersion": "0.5.2.9",
                 "Description": "Want to export your character and mods exactly as-is in a single collection *without* Mare? This plugin saves and loads your character's current appearance, and allows you to share modded characters without relying on MCDF.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/BeSlightly/Snappy/refs/heads/master/snappy.png",
                 "RepoUrl": "https://github.com/BeSlightly/Snappy",
-                "LastUpdate": 1785315667
+                "LastUpdate": 1785372232
             }
         ]
     },
@@ -3919,11 +3938,11 @@
                 "Author": "cycleapple",
                 "Name": "XIV 藏寶圖工具小幫手",
                 "InternalName": "XivTreasureParty",
-                "AssemblyVersion": "0.1.9.1",
+                "AssemblyVersion": "0.1.9.3",
                 "Description": "FFXIV 繁中藏寶圖協作插件，與網頁版 xiv-tc-treasure-finder 相通，遊戲內與網頁使用者可混合組隊、即時同步同一份清單。支援:打開藏寶圖時自動選取、在遊戲內開地圖打旗標、以 /p 發送可點擊地圖連結、順序調整、完成勾選、備註與負責玩家指派等。指令:/pth。(API12 版本，適用於繁中服)",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/cycleapple/xiv-party-treasure-helper",
-                "LastUpdate": 1785295308,
+                "LastUpdate": 1785375685,
                 "is_ai_attributed": true
             }
         ]
@@ -4089,12 +4108,12 @@
                 "Author": "dajoey",
                 "Name": "Gluttony Combo",
                 "InternalName": "GluttonyCombo",
-                "AssemblyVersion": "1.0.4.97",
+                "AssemblyVersion": "1.0.4.98",
                 "Description": "Gluttony Combo is a lalalazy-branded fork of Wrath Combo. Condenses combos and mutually exclusive abilities onto a single button — and then some. All upstream credit to Team Wrath / PunishXIV.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/dajoey/lalalazy/main/LalaImages/gluttonycombo-icon.png",
                 "RepoUrl": "https://github.com/dajoey/lalalazy/tree/main/plugins/GluttonyCombo/latest",
-                "LastUpdate": 1785312261,
+                "LastUpdate": 1785369617,
                 "is_ai_attributed": true
             },
             {
@@ -6268,12 +6287,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "BossMod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.5.2",
+                "AssemblyVersion": "7.5.5.4",
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1785357852
+                "LastUpdate": 1785381927
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -7558,7 +7577,7 @@
                 "Description": "For developers.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
-                "LastUpdate": 1785291035
+                "LastUpdate": 1785376089
             },
             {
                 "Author": "Haselnussbomber",
@@ -9426,11 +9445,11 @@
                 "Author": "KangasZ",
                 "Name": "Radar Plugin",
                 "InternalName": "RadarPlugin",
-                "AssemblyVersion": "2.1.9.0",
+                "AssemblyVersion": "2.1.9.1",
                 "Description": "Radar to see enemies, objects, and interactables through walls.\nThis is an ESP, please don't use it to call aliens down.\nPlease report any issues to the author.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/KangasZ/RadarPlugin",
-                "LastUpdate": 1782922479
+                "LastUpdate": 1785379414
             },
             {
                 "Author": "KangasZ",
@@ -10463,12 +10482,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.1.8",
+                "AssemblyVersion": "15.306.1.9",
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1785352890,
+                "LastUpdate": 1785382687,
                 "is_ai_attributed": true
             },
             {
@@ -10570,6 +10589,35 @@
         ]
     },
     {
+        "repo_developer_name": "Kussie",
+        "repo_url": "https://raw.githubusercontent.com/Kussie/Aetherfit/master/repo.json",
+        "repo_source_url": "https://github.com/Kussie/Aetherfit",
+        "repo_name": "Aetherfit",
+        "plugins": [
+            {
+                "Author": "Kussie ",
+                "Name": "Aetherfit",
+                "InternalName": "Aetherfit",
+                "AssemblyVersion": "1.2.2607.307",
+                "Description": "A custom simple frontend for applying designs from Glamourer. Lets you browse and apply designs, and optionally upload your own images to more easily be able to decide on which design to wear.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Kussie/Aetherfit/master/Data/icon-square.png",
+                "RepoUrl": "https://github.com/Kussie/Aetherfit",
+                "LastUpdate": 1785367075
+            },
+            {
+                "Author": "Kussie",
+                "Name": "AnimationLog",
+                "InternalName": "AnimationLog",
+                "AssemblyVersion": "1.0.2607.9",
+                "Description": "A minimal utility that displays your character's currently running animation and keeps a log of recent animations for as long as the window stays open.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Kussie/FFXIVAnimationLog",
+                "LastUpdate": 1785374328
+            }
+        ]
+    },
+    {
         "repo_developer_name": "kyaEH",
         "repo_url": "https://raw.githubusercontent.com/kyaEH/MusicHonorific/master/repo.json",
         "repo_source_url": "https://github.com/kyaEH/MusicHonorific",
@@ -10616,11 +10664,11 @@
                 "Author": "Kyo",
                 "Name": "HQ Sync",
                 "InternalName": "HQSync",
-                "AssemblyVersion": "1.0.1.0",
+                "AssemblyVersion": "1.0.4.0",
                 "Description": "Gosh dat thang is HQ..",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kyo-filet/hq-sync",
-                "LastUpdate": 1785364565
+                "LastUpdate": 1785371419
             }
         ]
     },
@@ -11266,7 +11314,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://git.lightless-sync.org/Lightless-Sync/LightlessSync/raw/branch/main/LightlessSync/icon.png",
                 "RepoUrl": "https://git.lightless-sync.org/Lightless-Sync/LightlessClient",
-                "LastUpdate": 1785243243
+                "LastUpdate": 1785382467
             }
         ]
     },
@@ -12899,6 +12947,24 @@
     },
     {
         "repo_developer_name": "miqote69",
+        "repo_url": "https://raw.githubusercontent.com/miqote69/CrescentAtlas/main/repo.json",
+        "repo_source_url": "https://github.com/miqote69/CrescentAtlas",
+        "repo_name": "CrescentAtlas",
+        "plugins": [
+            {
+                "Author": "miqote69",
+                "Name": "Crescent Atlas",
+                "InternalName": "CrescentAtlas",
+                "AssemblyVersion": "0.1.12.0",
+                "Description": "DEVELOPMENT PROTOTYPE. DO NOT USE outside active testing. May crash FFXIV or Dalamud. Display-only Occult Crescent atlas and local collector.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/miqote69/CrescentAtlas",
+                "LastUpdate": 1785386837
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "miqote69",
         "repo_url": "https://raw.githubusercontent.com/miqote69/MinionScalerRepo/main/repo.json",
         "repo_source_url": "https://github.com/miqote69/MinionScalerRepo",
         "repo_name": "MinionScalerRepo",
@@ -13292,12 +13358,12 @@
                 "Author": "MTVirux",
                 "Name": "Kaleidoscope",
                 "InternalName": "Kaleidoscope",
-                "AssemblyVersion": "1.1.1.12",
+                "AssemblyVersion": "1.1.1.13",
                 "Description": "Kaleidoscope is a Dalamud plugin for Final Fantasy XIV that provides an overlay for tracking game information across multiple characters.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MTVirux/Kaleidoscope/main/images/icon.png",
                 "RepoUrl": "https://github.com/MTVirux/Kaleidoscope",
-                "LastUpdate": 1785133562,
+                "LastUpdate": 1785365341,
                 "is_ai_attributed": true
             }
         ]
@@ -13403,11 +13469,11 @@
                 "Author": "MTVirux",
                 "Name": "RelicTerror",
                 "InternalName": "RelicTerror",
-                "AssemblyVersion": "1.0.0.4",
+                "AssemblyVersion": "1.0.0.5",
                 "Description": "Track FFXIV relic weapon quest progress across all expansion series.\n\nDM @mtvirux on discord for assistance or bug reports.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/MTVirux/RelicTerror",
-                "LastUpdate": 1785132738
+                "LastUpdate": 1785367668
             }
         ]
     },
@@ -13421,12 +13487,12 @@
                 "Author": "MTVirux",
                 "Name": "TempoTerror",
                 "InternalName": "TempoTerror",
-                "AssemblyVersion": "1.1.0.6",
+                "AssemblyVersion": "1.1.0.7",
                 "Description": "Real-time scrolling timeline showing skill usage with action icons, cast bars, and per-player tracking. Requires IINACT for network log data.\n\nDM @mtvirux on discord for assistance or bug reports.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MTVirux/TempoTerror/main/images/icon.png",
                 "RepoUrl": "https://github.com/MTVirux/TempoTerror",
-                "LastUpdate": 1781284944,
+                "LastUpdate": 1785366294,
                 "is_ai_attributed": true
             }
         ]
@@ -13863,12 +13929,12 @@
                 "Author": "Neprena",
                 "Name": "Eorzea Events",
                 "InternalName": "EorzeaEventsPlugin",
-                "AssemblyVersion": "2.2.11.0",
+                "AssemblyVersion": "2.3.0.0",
                 "Description": "Gérez vos sessions RP Eorzea Events directement depuis le jeu.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Neprena/eorzea-events-plugin/main/Plugin_Logo.png",
                 "RepoUrl": "https://github.com/Neprena/eorzea-events-plugin",
-                "LastUpdate": 1781100866
+                "LastUpdate": 1785377453
             }
         ]
     },
@@ -15379,12 +15445,12 @@
                 "Author": "ofnature",
                 "Name": "Charon",
                 "InternalName": "Charon",
-                "AssemblyVersion": "0.1.16",
+                "AssemblyVersion": "0.1.19",
                 "Description": "Auto pillion with smart seat scanning and whitelisted auto group invite. Companion to Daedalus.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ofnature/Charon/main/images/icon.png",
                 "RepoUrl": "https://github.com/ofnature/Charon",
-                "LastUpdate": 1785287304,
+                "LastUpdate": 1785370001,
                 "is_ai_attributed": true
             }
         ]
@@ -16706,11 +16772,11 @@
                 "Author": "platis",
                 "Name": "XIV.fm",
                 "InternalName": "XIV.fm",
-                "AssemblyVersion": "0.1.29.0",
+                "AssemblyVersion": "0.1.33.0",
                 "Description": "XIV.fm displays Last.fm listening presence on cards anchored above player nameplates.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/platis/XIV.fm",
-                "LastUpdate": 1785353719,
+                "LastUpdate": 1785371075,
                 "is_ai_attributed": true
             }
         ]
@@ -17160,7 +17226,7 @@
                 "Author": "kawaii, NightmareXIV",
                 "Name": "AutoRetainer",
                 "InternalName": "AutoRetainer",
-                "AssemblyVersion": "4.6.1.16",
+                "AssemblyVersion": "4.6.1.17",
                 "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/24",
@@ -17236,12 +17302,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.1.8",
+                "AssemblyVersion": "15.306.1.9",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1785352890,
+                "LastUpdate": 1785382687,
                 "is_ai_attributed": true
             },
             {
@@ -17264,7 +17330,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/10",
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1785351056
+                "LastUpdate": 1785368633
             },
             {
                 "Author": "Team Wrath",
@@ -17750,12 +17816,12 @@
                 "Author": "Raya",
                 "Name": "Better Discord Rich Presence",
                 "InternalName": "BetterDiscordRichPresence",
-                "AssemblyVersion": "1.0.4.3",
+                "AssemblyVersion": "1.0.5.0",
                 "Description": "Discord Rich Presence that allows you to utilize everything discord has to offer, including custom images, custom buttons, widgets, and more!",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/164",
                 "RepoUrl": "https://github.com/RayaSerahill/BetterDiscordRichpresence",
-                "LastUpdate": 1784760439
+                "LastUpdate": 1785372433
             }
         ]
     },
@@ -18476,12 +18542,12 @@
                 "Author": "Raiden",
                 "Name": "ZeroTweaks",
                 "InternalName": "ZeroTweaks",
-                "AssemblyVersion": "1.0.6.5",
+                "AssemblyVersion": "1.0.6.6",
                 "Description": "Tweaks that are already working: Loot Roll Tracker, ChatGPT, Mare switcher",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/RaidenvBlack/RaidenvPlugins/main/icons/zero.png",
                 "RepoUrl": "https://github.com/RaidenvBlack/RaidenvPlugins/blob/main/zero.zip",
-                "LastUpdate": 1785362124,
+                "LastUpdate": 1785366301,
                 "is_closed_source": true
             }
         ],
@@ -19053,9 +19119,9 @@
     },
     {
         "repo_developer_name": "renasagi",
-        "repo_url": "https://raw.githubusercontent.com/renasagi/critluck-repo/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/renasagi/critluck-repo",
-        "repo_name": "critluck-repo",
+        "repo_url": "https://raw.githubusercontent.com/renasagi/dalamud-plugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/renasagi/dalamud-plugins",
+        "repo_name": "dalamud-plugins",
         "plugins": [
             {
                 "Author": "renasagi",
@@ -19064,8 +19130,18 @@
                 "AssemblyVersion": "1.0.0.0",
                 "Description": "Shows party hit counts, actual and expected rates, and individual and overall 1–100 percentiles. Use /critluck to open the window.",
                 "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/renasagi/critluck-repo",
-                "LastUpdate": 1784066612
+                "RepoUrl": "https://github.com/renasagi/dalamud-plugins",
+                "LastUpdate": 1785379243
+            },
+            {
+                "Author": "renasagi",
+                "Name": "Party Initials",
+                "InternalName": "PartyInitials",
+                "AssemblyVersion": "1.1.0.0",
+                "Description": "Changes the party-list and chat name formats together. Use /pli for initials, /pli full for full names, or /pli help for every option.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/renasagi/dalamud-plugins",
+                "LastUpdate": 1785379243
             }
         ]
     },
@@ -19446,6 +19522,25 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Robert5204/FFLogsUploader",
                 "LastUpdate": 1783466509
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "rockerudon",
+        "repo_url": "https://raw.githubusercontent.com/rockerudon/AllaganRetroPocket/main/repo.json",
+        "repo_source_url": "https://github.com/rockerudon/AllaganRetroPocket",
+        "repo_name": "AllaganRetroPocket",
+        "plugins": [
+            {
+                "Author": "rockerudon",
+                "Name": "Allagan Retro Pocket",
+                "InternalName": "AllaganPocket",
+                "AssemblyVersion": "0.14.8.0",
+                "Description": "Import your ROM library and play supported retro games without leaving FFXIV. Allagan Retro Pocket runs Libretro cores in-game with per-system controls, controller support, save states, memory-card saves, firmware management and quick gameplay controls.\n\nCommand:\n/retro — Open Allagan Retro Pocket.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/rockerudon/AllaganRetroPocket/main/Images/icon.png",
+                "RepoUrl": "https://github.com/rockerudon/AllaganRetroPocket",
+                "LastUpdate": 1785377520
             }
         ]
     },
@@ -21630,12 +21725,12 @@
                 "Author": "veyn",
                 "Name": "Boss Mod",
                 "InternalName": "BossMod",
-                "AssemblyVersion": "7.5.5.201",
+                "AssemblyVersion": "7.5.5.301",
                 "Description": "Integrated Boss encounter toolkit with radar, mechanic hints, and combat assistance.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/SumomoAkihime/ffxiv_bossmod/master/Data/icon.png",
                 "RepoUrl": "https://github.com/SumomoAkihime/ffxiv_bossmod",
-                "LastUpdate": 1785314711
+                "LastUpdate": 1785380698
             },
             {
                 "Author": "Kouzukii",
@@ -22522,11 +22617,11 @@
                 "Author": "MOOGLradio",
                 "Name": "MOOGLradio",
                 "InternalName": "MooglRadio",
-                "AssemblyVersion": "0.1.17.0",
+                "AssemblyVersion": "0.1.18.0",
                 "Description": "Listen to MOOGLradio, the FFXIV-themed internet radio station, from in-game.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/timcade-stuff/moogl-radio-plugin",
-                "LastUpdate": 1785285106,
+                "LastUpdate": 1785377889,
                 "is_ai_attributed": true
             }
         ]
@@ -25076,12 +25171,12 @@
                 "Author": "The Combat Reborn Team / zhui-zi",
                 "Name": "Rotation Solver Reborn 汉化版",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.5.2",
+                "AssemblyVersion": "7.5.5.4",
                 "Description": "逐帧分析战斗信息并选择最佳技能。\n\n插件会分析队伍与敌对目标状态、技能冷却、角色资源与位置、目标咏唱、连击、战斗时长和玩家等级等信息，然后在热键栏上高亮最佳技能或协助点击。\n\n本插件面向一般战斗，并非专为零式或绝境战内容设计，请谨慎使用。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/zhui-zi/DalamudPlugins",
-                "LastUpdate": 1785332533
+                "LastUpdate": 1785366943
             }
         ]
     },
