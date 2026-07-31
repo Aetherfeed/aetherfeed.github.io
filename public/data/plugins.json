@@ -332,17 +332,17 @@
                 "Description": "Tracks pulls, wipes and clears in any duty. Per pull: fight name, phase, boss HP%, first death, duration.\n\nOutputs OBS chapter markers via websocket, a paste-ready YouTube description block, and a direct push to a live stream's description over the YouTube Data API.\n\nShort resets are filtered out automatically. /chrono to open, /chrono cfg for settings.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AemiliusXIV/ChronoLog",
-                "LastUpdate": 1783959709
+                "LastUpdate": 1784503454
             },
             {
                 "Author": "AemiliusXIV",
                 "Name": "Clarion",
                 "InternalName": "Clarion",
-                "AssemblyVersion": "0.1.0.2",
+                "AssemblyVersion": "0.1.0.3",
                 "Description": "Store a full Party Finder recruitment setup (duty, job slots, description, objective, loot rule, one player per job, language, and more) as a named preset and apply it in one go, instead of filling the form out by hand every time.\n\nFill a preset and review it, or fill and post the party in a single click. Optional auto-refresh keeps an active listing alive near the end of its hour, with the windows closed, and leaves your away status alone.\n\nOpen the Recruitment Criteria form (Recruit Members) to save or apply. Use /clarion.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AemiliusXIV/Clarion",
-                "LastUpdate": 1783837917
+                "LastUpdate": 1785447665
             },
             {
                 "Author": "AemiliusXIV",
@@ -362,7 +362,7 @@
                 "Description": "Hold Ctrl (configurable) and drag a party member onto another to reorder. Saves each group's preferred order and automatically restores it when the same members meet again — perfect for statics that want a consistent layout every pull. Supports per-group auto-apply modes, locking saved orders against accidental overwrites, and per-duty separate orders. Commands: /psorter (open settings), /psorter save (save current order to chat).",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AemiliusXIV/PartySorter",
-                "LastUpdate": 1783892606
+                "LastUpdate": 1784734527
             },
             {
                 "Author": "AemiliusXIV",
@@ -372,7 +372,7 @@
                 "Description": "Stops action, item, pop-up help and crossbar hint tooltips from cluttering the screen. Toggle each type independently for in-combat and out-of-combat, set a duty override (follow combat rules, always show, or always hide while in an instance), and keep an exception so tooltips come back automatically whenever an inventory, armoury or character window is open. Original game settings are restored when the plugin is disabled. Commands: /quiettips (open settings), /quiettips toggle|on|off.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AemiliusXIV/QuietTips",
-                "LastUpdate": 1783959745
+                "LastUpdate": 1784670838
             }
         ]
     },
@@ -474,12 +474,12 @@
                 "Author": "Mora",
                 "Name": "Aether Remote",
                 "InternalName": "AetherRemoteClient",
-                "AssemblyVersion": "2.10.3.1",
+                "AssemblyVersion": "2.10.3.2",
                 "Description": "This plugin allows you and your friends to control each other, and optionally allows even more control utilizing glamourer & mare",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/aetherremote/AetherRemote/main/Images/icon.jpg",
                 "RepoUrl": "https://github.com/aetherremote/AetherRemote",
-                "LastUpdate": 1785306038
+                "LastUpdate": 1785455775
             }
         ]
     },
@@ -566,12 +566,12 @@
                 "Author": "DhogGPT",
                 "Name": "dad",
                 "InternalName": "dad",
-                "AssemblyVersion": "0.5.0.0",
+                "AssemblyVersion": "0.5.0.1",
                 "Description": "DAD is a duty planner and multibox coordinator for FFXIV. Create reusable character presets, wake or relog the right clients, prepare jobs, assemble and verify parties, queue supported duties and roulettes, and chain presets into manual or daily schedules. Live readiness checks, clear blockers, reconnect status, cancellation, and Stop All keep every run visible and recoverable.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dad/main/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/dad",
-                "LastUpdate": 1785430286,
+                "LastUpdate": 1785468009,
                 "is_ai_attributed": true
             },
             {
@@ -5072,12 +5072,12 @@
                 "Author": "Eauldane",
                 "Name": "Snowcloak Sync",
                 "InternalName": "Snowcloak",
-                "AssemblyVersion": "4.0.3.0",
+                "AssemblyVersion": "4.0.4.0",
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Eauldane/SnowcloakClient/refs/heads/main/Snowcloak/images/logo.png",
                 "RepoUrl": "https://github.com/Eauldane/SnowcloakClient",
-                "LastUpdate": 1785426402
+                "LastUpdate": 1785466470
             },
             {
                 "Author": "Eauldane",
@@ -5387,12 +5387,12 @@
                 "Author": "emyxiv",
                 "Name": "Dresser Anywhere",
                 "InternalName": "Dresser",
-                "AssemblyVersion": "0.7.0.2",
+                "AssemblyVersion": "0.7.0.3",
                 "Description": "Use dresser outside of inns. Search items in other inventories or cheap at vendors. Try on your own character. Browse modded items.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/emyxiv/Dresser/master/icon.png",
                 "RepoUrl": "https://github.com/emyxiv/Dresser",
-                "LastUpdate": 1782683441,
+                "LastUpdate": 1785452252,
                 "is_ai_attributed": true
             }
         ]
@@ -6302,12 +6302,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "BossMod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.5.6",
+                "AssemblyVersion": "7.5.5.8",
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1785437208
+                "LastUpdate": 1785469653
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -6368,12 +6368,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.5.5",
+                "AssemblyVersion": "7.5.5.7",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1785447689
+                "LastUpdate": 1785459956
             },
             {
                 "Author": "Churin",
@@ -8701,7 +8701,7 @@
                 "Author": "jFray",
                 "Name": "EchoMix",
                 "InternalName": "EchoMix.Plugin",
-                "AssemblyVersion": "1.1.0.0",
+                "AssemblyVersion": "1.1.1.0",
                 "Description": "An interactive DJ deck with live mixing tools, custom playlists, and a synced listener mode with an audio visualizer.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/icon.png",
@@ -9483,7 +9483,7 @@
                 "Description": "Radar to see enemies, objects, and interactables through walls.\nThis is an ESP, please don't use it to call aliens down.\nPlease report any issues to the author.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/KangasZ/RadarPlugin",
-                "LastUpdate": 1785379414
+                "LastUpdate": 1785464921
             },
             {
                 "Author": "KangasZ",
@@ -9627,12 +9627,12 @@
                 "Author": "Tomok",
                 "Name": "Glamourer Preview Manager",
                 "InternalName": "GlamourerPreviewManager",
-                "AssemblyVersion": "1.1.1.1",
+                "AssemblyVersion": "1.1.2.1",
                 "Description": "A helper tool to easily attach local, XIVModArchive, direct URL preview/cover images, or take cropped screenshots of your characters to attach to your Glamourer designs.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/KaraRemy/TomokPlugins/main/GlamourerPreviewManager/icon.png",
                 "RepoUrl": "https://github.com/KaraRemy/GlamourerPreviewManager",
-                "LastUpdate": 1784766009
+                "LastUpdate": 1785468176
             },
             {
                 "Author": "Tomok",
@@ -10528,12 +10528,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.5.5",
+                "AssemblyVersion": "7.5.5.7",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1785447689
+                "LastUpdate": 1785459956
             },
             {
                 "Author": "Team Wrath",
@@ -10632,12 +10632,12 @@
                 "Author": "Kussie ",
                 "Name": "Aetherfit",
                 "InternalName": "Aetherfit",
-                "AssemblyVersion": "1.2.2607.307",
+                "AssemblyVersion": "1.2.2607.312",
                 "Description": "A custom simple frontend for applying designs from Glamourer. Lets you browse and apply designs, and optionally upload your own images to more easily be able to decide on which design to wear.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Kussie/Aetherfit/master/Data/icon-square.png",
                 "RepoUrl": "https://github.com/Kussie/Aetherfit",
-                "LastUpdate": 1785367075
+                "LastUpdate": 1785459479
             },
             {
                 "Author": "Kussie",
@@ -12042,18 +12042,18 @@
                 "Description": "Get a Discord DM the instant your duty pops. Join the DutyDM Discord server, enter your Discord username, and the bot will message you the moment your queue is ready - with an in-game popup confirming it sent.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Marobotic/PfPresets",
-                "LastUpdate": 1785404397
+                "LastUpdate": 1785461069
             },
             {
                 "Author": "Mayo Botic",
                 "Name": "PF Presets",
                 "InternalName": "PfPresets",
-                "AssemblyVersion": "3.2.2.0",
+                "AssemblyVersion": "3.2.3.0",
                 "Description": "Save and manage Party Finder recruitment presets. Configure duty, objective, roles, conditions, and more - then apply any preset with a single click to instantly set up your Party Finder listing.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Marobotic/PfPresets/main/images/icon.png",
                 "RepoUrl": "https://github.com/Marobotic/PfPresets",
-                "LastUpdate": 1785404397,
+                "LastUpdate": 1785461069,
                 "is_ai_attributed": true
             }
         ]
@@ -12259,12 +12259,12 @@
                 "Author": "DhogGPT",
                 "Name": "dad",
                 "InternalName": "dad",
-                "AssemblyVersion": "0.5.0.0",
+                "AssemblyVersion": "0.5.0.1",
                 "Description": "Private Dad duty operations shell with multiplayer status, preset planning, queue routing, and Duty Support automation.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dad/main/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/dad",
-                "LastUpdate": 1785416035,
+                "LastUpdate": 1785468009,
                 "is_ai_attributed": true
             }
         ]
@@ -12989,11 +12989,12 @@
                 "Author": "miqote69",
                 "Name": "Crescent Atlas",
                 "InternalName": "CrescentAtlas",
-                "AssemblyVersion": "0.1.38.0",
+                "AssemblyVersion": "0.1.61.0",
                 "Description": "DEVELOPMENT PROTOTYPE. DO NOT USE outside active testing. May crash FFXIV or Dalamud. Display-only Occult Crescent atlas and local collector.",
                 "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/miqote69/CrescentAtlas/main/images/icon-v44.png",
                 "RepoUrl": "https://github.com/miqote69/CrescentAtlas",
-                "LastUpdate": 1785421306
+                "LastUpdate": 1785468352
             }
         ]
     },
@@ -13963,12 +13964,12 @@
                 "Author": "Neprena",
                 "Name": "Eorzea Events",
                 "InternalName": "EorzeaEventsPlugin",
-                "AssemblyVersion": "2.3.2.0",
+                "AssemblyVersion": "2.4.1.0",
                 "Description": "Gérez vos sessions RP Eorzea Events directement depuis le jeu.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Neprena/eorzea-events-plugin/main/Plugin_Logo.png",
                 "RepoUrl": "https://github.com/Neprena/eorzea-events-plugin",
-                "LastUpdate": 1785419176
+                "LastUpdate": 1785455315
             }
         ]
     },
@@ -14046,7 +14047,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/NeXzRo/Stuff/main/BetterTargetingSystemPvP/icon.png",
                 "RepoUrl": "https://github.com/NeXzRo/BetterTargetingSystem",
-                "LastUpdate": 1785374082
+                "LastUpdate": 1785461291
             },
             {
                 "Author": "goat, Maple",
@@ -14067,10 +14068,10 @@
         "repo_name": "KefkaP4",
         "plugins": [
             {
-                "Author": "Monitor Technologies",
+                "Author": "Alexa Courtaine",
                 "Name": "Kefka P4 Trainer",
                 "InternalName": "KefkaP4Trainer",
-                "AssemblyVersion": "0.1.0.0",
+                "AssemblyVersion": "0.1.7.0",
                 "Description": "A private, local-only Kefka P4 practice simulator and ground overlay. It reads only your position and facing and never changes game state. Open it with /kefkap4.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Neycourt5/KefkaP4Trainer"
@@ -15333,12 +15334,12 @@
                 "Author": "Noranda",
                 "Name": "XIV Shinies Sync",
                 "InternalName": "XIVShinies.SyncPlugin",
-                "AssemblyVersion": "0.4.0.0",
+                "AssemblyVersion": "0.4.1.0",
                 "Description": "Automatically records your collection progress on XIV Shinies (https://xiv-shinies.com). New unlocks — quests, achievements, mounts, minions, and more — appear on the site within seconds, and everything else syncs automatically in the background. Fully opt-in: nothing uploads until you finish the short setup, and you choose exactly which collections to send. Use /shinies to get started.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/noranda/xiv-shinies-plugin/main/src/XIVShinies.SyncPlugin/images/icon.png",
                 "RepoUrl": "https://github.com/noranda/xiv-shinies-plugin",
-                "LastUpdate": 1784412036,
+                "LastUpdate": 1785462233,
                 "is_ai_attributed": true
             }
         ]
@@ -15496,12 +15497,12 @@
                 "Author": "ofnature",
                 "Name": "Charon",
                 "InternalName": "Charon",
-                "AssemblyVersion": "0.1.19",
+                "AssemblyVersion": "0.1.23",
                 "Description": "Auto pillion with smart seat scanning and whitelisted auto group invite. Companion to Daedalus.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ofnature/Charon/main/images/icon.png",
                 "RepoUrl": "https://github.com/ofnature/Charon",
-                "LastUpdate": 1785370001,
+                "LastUpdate": 1785465941,
                 "is_ai_attributed": true
             }
         ]
@@ -17288,12 +17289,12 @@
                 "Author": "kawaii, NightmareXIV",
                 "Name": "Avarice",
                 "InternalName": "Avarice",
-                "AssemblyVersion": "2.2.0.11",
+                "AssemblyVersion": "2.2.0.12",
                 "Description": "Positional feedback with pixel perfect rear/flank tracking, range indicators, and more.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/11",
                 "RepoUrl": "https://github.com/PunishXIV/Avarice",
-                "LastUpdate": 1785096357
+                "LastUpdate": 1785467204
             },
             {
                 "Author": "Taurenkey, Gid, NightmareXIV",
@@ -17365,12 +17366,12 @@
                 "Author": "Taurenkey, Kage, NightmareXIV",
                 "Name": "Saucy",
                 "InternalName": "Saucy",
-                "AssemblyVersion": "2.1.1.13",
+                "AssemblyVersion": "2.1.1.14",
                 "Description": "Automates certain Gold Saucer mini-games.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/7",
                 "RepoUrl": "https://github.com/PunishXIV/Saucy",
-                "LastUpdate": 1783724798
+                "LastUpdate": 1785448467
             },
             {
                 "Author": "NightmareXIV",
@@ -17381,7 +17382,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/10",
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1785422928
+                "LastUpdate": 1785467332
             },
             {
                 "Author": "Team Wrath",
@@ -17429,7 +17430,7 @@
                 "Author": "croizat",
                 "Name": "Glamour Log",
                 "InternalName": "GlamourLog",
-                "AssemblyVersion": "15.50",
+                "AssemblyVersion": "15.51",
                 "Description": "A log for all your glamours and other glam-related tweaks",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/136",
@@ -17707,12 +17708,12 @@
                 "Author": "nainaiowo",
                 "Name": "Better Deaths",
                 "InternalName": "BetterDeaths",
-                "AssemblyVersion": "0.1.0.274",
+                "AssemblyVersion": "0.1.0.275",
                 "Description": "Records party deaths with pull grouping, fatal events, active statuses, and recent action timelines.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/160",
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1785338642,
+                "LastUpdate": 1785467485,
                 "is_ai_attributed": true
             },
             {
@@ -20339,12 +20340,12 @@
                 "Author": "kersan",
                 "Name": "SwiftRaise",
                 "InternalName": "SwiftRaise",
-                "AssemblyVersion": "1.2.1.0",
+                "AssemblyVersion": "1.2.3.0",
                 "Description": "当前职业拥有复活手段时(治疗/赤魔/召唤，或新月岛携带药剂师且习得苏生)，只要鼠标悬停到已死亡的玩家(小队列表或场景中均可)，就会自动使用即刻咏唱+复活；没有即刻时优先用苏生瞬发拉人。开关集成在右上角原生信息栏(服务器信息栏)中，点击切换，也可用 /sres。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/sankerXD/SwiftRaise/main/images/icon.png",
                 "RepoUrl": "https://github.com/sankerXD/SwiftRaise",
-                "LastUpdate": 1785427177
+                "LastUpdate": 1785468083
             }
         ]
     },
@@ -21814,12 +21815,12 @@
                 "Author": "veyn",
                 "Name": "Boss Mod",
                 "InternalName": "BossMod",
-                "AssemblyVersion": "7.5.5.302",
+                "AssemblyVersion": "7.5.5.703",
                 "Description": "Integrated Boss encounter toolkit with radar, mechanic hints, and combat assistance.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/SumomoAkihime/ffxiv_bossmod/master/Data/icon.png",
                 "RepoUrl": "https://github.com/SumomoAkihime/ffxiv_bossmod",
-                "LastUpdate": 1785426800
+                "LastUpdate": 1785469826
             },
             {
                 "Author": "Kouzukii",
@@ -22638,12 +22639,12 @@
                 "Author": "Avaflow, Ars Magna, Kelvin, A Fox, Lucille",
                 "Name": "OopsAllNudist",
                 "InternalName": "OopsAllNudist",
-                "AssemblyVersion": "2.3.2.3",
+                "AssemblyVersion": "2.3.2.4",
                 "Description": "Turn everyone around you into a nudist.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/tigurand/OopsAllNudist/refs/heads/main/image/icon.png",
                 "RepoUrl": "https://github.com/tigurand/OopsAllNudist",
-                "LastUpdate": 1782320148
+                "LastUpdate": 1785461683
             },
             {
                 "Author": "Lucille",
@@ -24185,7 +24186,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1785436109,
+                "LastUpdate": 1785452055,
                 "is_ai_attributed": true
             },
             {
@@ -24713,6 +24714,24 @@
                 "RepoUrl": "https://github.com/yasatoma/MyDalamudPlugins/tree/master/plugins/PikuminMarker",
                 "LastUpdate": 1778316832,
                 "is_closed_source": true
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Yawnies",
+        "repo_url": "https://raw.githubusercontent.com/Yawnies/ophelia/main/repo.json",
+        "repo_source_url": "https://github.com/Yawnies/ophelia",
+        "repo_name": "ophelia",
+        "plugins": [
+            {
+                "Author": "Yuun",
+                "Name": "Ophelia",
+                "InternalName": "Ophelia",
+                "AssemblyVersion": "0.0.0.1",
+                "Description": "Opens a small text-entry window and sends messages wrapped as Ophelia dialogue through the currently selected FFXIV chat channel.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Yawnies/ophelia",
+                "LastUpdate": 1785454092
             }
         ]
     },
@@ -25268,12 +25287,12 @@
                 "Author": "The Combat Reborn Team / zhui-zi",
                 "Name": "Rotation Solver Reborn 汉化版",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.5.5",
+                "AssemblyVersion": "7.5.5.7",
                 "Description": "逐帧分析战斗信息并选择最佳技能。\n\n插件会分析队伍与敌对目标状态、技能冷却、角色资源与位置、目标咏唱、连击、战斗时长和玩家等级等信息，然后在热键栏上高亮最佳技能或协助点击。\n\n本插件面向一般战斗，并非专为零式或绝境战内容设计，请谨慎使用。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/zhui-zi/DalamudPlugins",
-                "LastUpdate": 1785442229
+                "LastUpdate": 1785460588
             }
         ]
     },
