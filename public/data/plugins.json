@@ -680,12 +680,12 @@
                 "Author": "DhogGPT",
                 "Name": "M.O.G.T.O.M.E.",
                 "InternalName": "MOGTOME",
-                "AssemblyVersion": "0.2.0.13",
+                "AssemblyVersion": "0.2.0.14",
                 "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open. M.O.G.T.O.M.E. = Management Of Grand Tome Operations & Management Engine",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/MOGTOME/master/MOGTOME/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/MOGTOME",
-                "LastUpdate": 1783905481,
+                "LastUpdate": 1785591457,
                 "is_ai_attributed": true
             },
             {
@@ -1594,12 +1594,12 @@
                 "Author": "Anmi",
                 "Name": "新月岛史官",
                 "InternalName": "Chronicler",
-                "AssemblyVersion": "0.2.0.11",
+                "AssemblyVersion": "0.2.0.13",
                 "Description": "进入新月岛后自动记录南征/北征 CE/FATE 出现时间，支持导入/导出 xyd.zzmelon.com 分享码，生成喊话，并监听游戏内喊话自动同步状态。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/anmili2022/Chronicler/main/images/icon.png",
                 "RepoUrl": "https://github.com/anmili2022/Chronicler",
-                "LastUpdate": 1785481298,
+                "LastUpdate": 1785584167,
                 "is_ai_attributed": true
             }
         ]
@@ -2297,7 +2297,7 @@
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/Dalamud-DailyRoutines/DailyRoutines/main/Resources/icon.png",
                 "RepoUrl": "https://github.com/Dalamud-DailyRoutines/DailyRoutines/releases/latest",
-                "LastUpdate": 1785495667,
+                "LastUpdate": 1785582641,
                 "is_closed_source": true
             },
             {
@@ -2309,19 +2309,19 @@
                 "DalamudApiLevel": 14,
                 "IconUrl": "https://raw.githubusercontent.com/Dalamud-DailyRoutines/DailyRoutines/main/Resources/icon.png",
                 "RepoUrl": "https://github.com/Dalamud-DailyRoutines/DailyRoutines/releases/latest",
-                "LastUpdate": 1785495667,
+                "LastUpdate": 1785582641,
                 "is_closed_source": true
             },
             {
                 "Author": "AtmoOmen",
                 "Name": "Daily Routines",
                 "InternalName": "DailyRoutines",
-                "AssemblyVersion": "2.1.4.3",
+                "AssemblyVersion": "2.1.4.4",
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Dalamud-DailyRoutines/DailyRoutines/main/Resources/icon.png",
                 "RepoUrl": "https://github.com/Dalamud-DailyRoutines/DailyRoutines/releases/latest",
-                "LastUpdate": 1785495667,
+                "LastUpdate": 1785582641,
                 "is_closed_source": true
             },
             {
@@ -5960,7 +5960,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1785487104
+                "LastUpdate": 1785571695
             }
         ]
     },
@@ -5979,7 +5979,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1785487104
+                "LastUpdate": 1785571695
             }
         ]
     },
@@ -6375,7 +6375,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1785565147
+                "LastUpdate": 1785590783
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -7987,6 +7987,91 @@
                 "IconUrl": "https://raw.githubusercontent.com/HoshinoCorp/Visibility/main/res/icon.png",
                 "RepoUrl": "https://github.com/HKazuki0818/Visibility",
                 "LastUpdate": 1767495782
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "HoshinoLYK",
+        "repo_url": "https://raw.githubusercontent.com/HoshinoLYK/DalamudPlugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/HoshinoLYK/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "UnknownX",
+                "Name": "A Realm Recorded",
+                "InternalName": "ARealmRecorded",
+                "AssemblyVersion": "1.0.1.5",
+                "Description": "Adds additional features to the duty recorder and automatically starts it in most instances.",
+                "DalamudApiLevel": 13,
+                "IconUrl": "https://raw.githubusercontent.com/goatcorp/PluginDistD17/main/stable/ARealmRecorded/images/icon.png",
+                "RepoUrl": "https://github.com/UnknownX7/ARealmRecorded",
+                "LastUpdate": 1777512621
+            },
+            {
+                "Author": "img02, HoshinoLYK（繁中服優化）",
+                "Name": "Hunt Helper",
+                "InternalName": "HuntHelper",
+                "AssemblyVersion": "1.0.0.31",
+                "Description": "提供狩獵地圖與重生點顯示、A級狩獵列車記錄器（支援匯出／匯入分享）、TTS語音通知、聊天頻道通知，以及S級狩獵怪重生計數器。",
+                "DalamudApiLevel": 13,
+                "IconUrl": "https://raw.githubusercontent.com/HoshinoCorp/HuntHelper/main/Images/icon.png",
+                "RepoUrl": "https://github.com/HoshinoCorp/HuntHelper",
+                "LastUpdate": 1785574101
+            },
+            {
+                "Author": "electr0sheep, HoshinoLYK（繁中服優化）",
+                "Name": "Item Vendor Location",
+                "InternalName": "ItemVendorLocation",
+                "AssemblyVersion": "2.11.0.0",
+                "Description": "為物品新增右鍵選單選項，可顯示該物品可向哪些商人購買。",
+                "DalamudApiLevel": 13,
+                "IconUrl": "https://raw.githubusercontent.com/HoshinoCorp/ItemVendorLocation/main/Images/icon.png",
+                "RepoUrl": "https://github.com/HoshinoCorp/ItemVendorLocation",
+                "LastUpdate": 1780642356
+            },
+            {
+                "Author": "Kouzukii, HoshinoLYK（繁中服優化）",
+                "Name": "Price Insight",
+                "InternalName": "PriceInsight",
+                "AssemblyVersion": "2.11.3.0",
+                "Description": "當滑鼠移到物品上時，會在下方顯示該物品普通品質（NQ）／高品質（HQ）的市場板價格，以及最近成交價格。\n價格資料取自 Universalis.app，並會快取 90 分鐘。\n若要重新整理價格，可在滑鼠停留於物品上時按下 Alt 鍵。",
+                "DalamudApiLevel": 13,
+                "IconUrl": "https://raw.githubusercontent.com/HoshinoCorp/PriceInsight/main/images/icon.png",
+                "RepoUrl": "https://github.com/HoshinoCorp/PriceInsight",
+                "LastUpdate": 1780641839
+            },
+            {
+                "Author": "UnknownX, HoshinoLYK（繁中服優化）",
+                "Name": "QoL Bar",
+                "InternalName": "QoLBar",
+                "AssemblyVersion": "2.3.3.5",
+                "Description": "此插件提供簡單、可自訂且隨時可用的介面，讓你執行聊天指令\n或其他插件功能，減少使用巨集及占用快捷列空間的需求，並達到相同的效果。\n\n插件初次啟動時，會在遊戲視窗底部中央顯示為一個小方框。",
+                "DalamudApiLevel": 13,
+                "IconUrl": "https://raw.githubusercontent.com/goatcorp/PluginDistD17/main/stable/QoLBar/images/icon.png",
+                "RepoUrl": "https://github.com/HoshinoCorp/QoLBar",
+                "LastUpdate": 1780702325
+            },
+            {
+                "Author": "veyn, HoshinoLYK（繁中服優化）",
+                "Name": "vnavmesh",
+                "InternalName": "vnavmesh",
+                "AssemblyVersion": "1.1.2.1",
+                "Description": "自動控制角色移動，並智慧避開沿途障礙物。",
+                "DalamudApiLevel": 13,
+                "IconUrl": "https://raw.githubusercontent.com/HoshinoCorp/vnavmesh/main/icon2.png",
+                "RepoUrl": "https://github.com/HoshinoLYK/DalamudPlugins",
+                "LastUpdate": 1785575775
+            },
+            {
+                "Author": "Infi, PunishedPineapple, sourpuh, HoshinoLYK（繁中服優化）",
+                "Name": "Waymark Preset",
+                "InternalName": "WaymarkPresetPlugin",
+                "AssemblyVersion": "1.5.5.1",
+                "Description": "支援無限數量的標記點配置管理，可輕鬆進行儲存、編輯、放置、匯入、匯出與預覽。",
+                "DalamudApiLevel": 13,
+                "IconUrl": "https://raw.githubusercontent.com/HoshinoCorp/WaymarkPreset/main/docs/Images/icon.png",
+                "RepoUrl": "https://github.com/HoshinoCorp/WaymarkPreset",
+                "LastUpdate": 1780145451
             }
         ]
     },
@@ -9636,12 +9721,12 @@
                 "Author": "KanoNoUta（国服 7.55 适配）",
                 "Name": "BossMod Reborn CN",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.5.12",
+                "AssemblyVersion": "7.5.5.14",
                 "Description": "BossMod Reborn 国服适配版，提供副本与大型探索任务的机制提示。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
-                "LastUpdate": 1785517542,
+                "LastUpdate": 1785584874,
                 "is_ai_attributed": true
             },
             {
@@ -10828,11 +10913,11 @@
                 "Author": "Kyo",
                 "Name": "HQ Sync",
                 "InternalName": "HQSync",
-                "AssemblyVersion": "1.0.0.0",
+                "AssemblyVersion": "1.0.4.0",
                 "Description": "Gosh dat thang is HQ..",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kyo-filet/hq-sync",
-                "LastUpdate": 1785408020
+                "LastUpdate": 1785586610
             }
         ]
     },
@@ -12602,12 +12687,12 @@
                 "Author": "DhogGPT",
                 "Name": "M.O.G.T.O.M.E.",
                 "InternalName": "MOGTOME",
-                "AssemblyVersion": "0.2.0.13",
+                "AssemblyVersion": "0.2.0.14",
                 "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/MOGTOME/master/MOGTOME/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/MOGTOME",
-                "LastUpdate": 1783905481,
+                "LastUpdate": 1785591457,
                 "is_ai_attributed": true
             }
         ]
@@ -13064,29 +13149,29 @@
                 "DalamudApiLevel": 12,
                 "IconUrl": "https://raw.githubusercontent.com/MilkVio/DalamudPlugins/main/PromeRotation/Icons/prome.png",
                 "RepoUrl": "https://github.com/MilkVio/DalamudPlugins",
-                "LastUpdate": 1785333993
+                "LastUpdate": 1785591049
             },
             {
                 "Author": "Miruku",
                 "Name": "PromeRotation API13",
                 "InternalName": "PromeRotation",
-                "AssemblyVersion": "1.3.1.2",
+                "AssemblyVersion": "1.3.1.3",
                 "Description": "An advanced combat rotation platform for FFXIV high-end content.",
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/MilkVio/DalamudPlugins/main/PromeRotation/Icons/prome.png",
                 "RepoUrl": "https://github.com/MilkVio/DalamudPlugins",
-                "LastUpdate": 1785333993
+                "LastUpdate": 1785591049
             },
             {
                 "Author": "Miruku",
                 "Name": "PromeRotation",
                 "InternalName": "PromeRotation",
-                "AssemblyVersion": "1.5.9.1",
+                "AssemblyVersion": "1.5.9.2",
                 "Description": "An advanced combat rotation platform for FFXIV high-end content.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MilkVio/DalamudPlugins/main/PromeRotation/Icons/prome.png",
                 "RepoUrl": "https://github.com/MilkVio/DalamudPlugins",
-                "LastUpdate": 1785333993
+                "LastUpdate": 1785591049
             }
         ]
     },
@@ -13144,6 +13229,25 @@
                 "RepoUrl": "https://github.com/miqote69/ActorMorpher",
                 "LastUpdate": 1785514581,
                 "is_ai_attributed": true
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "miqote69",
+        "repo_url": "https://raw.githubusercontent.com/miqote69/MinionScalerRepo/main/.dalamud/754623bc9780f1da0b27ed0a0968a170cee25b6a94cd0f2d/repo.json",
+        "repo_source_url": "https://github.com/miqote69/MinionScalerRepo",
+        "repo_name": "MinionScalerRepo",
+        "plugins": [
+            {
+                "Author": "miqote69",
+                "Name": "Minion Scaler",
+                "InternalName": "MinionScaler",
+                "AssemblyVersion": "1.0.0.1",
+                "Description": "Adjusts the local display scale of minions. Use /minionscaler to configure.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/miqote69/MinionScalerRepo/main/Assets/icon-v3.png",
+                "RepoUrl": "https://github.com/miqote69/MinionScalerRepo",
+                "LastUpdate": 1785489481
             }
         ]
     },
@@ -16210,7 +16314,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1785487104
+                "LastUpdate": 1785571695
             },
             {
                 "Author": "Risa and Contributors",
@@ -16265,7 +16369,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ktisis-tools/Ktisis/main/icon.png",
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1785361569
+                "LastUpdate": 1785529924
             },
             {
                 "Author": "kawaii, Glyceri, Minmoose",
@@ -16477,25 +16581,6 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/PassiveModding/XIVSplits",
                 "LastUpdate": 1766453367
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "PayneZA",
-        "repo_url": "https://raw.githubusercontent.com/PayneZA/Orbiter/main/repo.json",
-        "repo_source_url": "https://github.com/PayneZA/Orbiter",
-        "repo_name": "Orbiter",
-        "plugins": [
-            {
-                "Author": "PayneZA",
-                "Name": "Orbiter",
-                "InternalName": "Orbiter",
-                "AssemblyVersion": "0.1.0.0",
-                "Description": "Pick a nearby player and the game camera orbits them instead of you — zoom, rotation, look-at height and collision all behave natively, like gpose target framing in live gameplay. Commands: /orbiter, /orbiter target, /orbiter off",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/PayneZA/Orbiter",
-                "LastUpdate": 1784452592,
-                "is_ai_attributed": true
             }
         ]
     },
@@ -17612,7 +17697,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1785310365
+                "LastUpdate": 1785573845
             },
             {
                 "Author": "daemitus, kawaii",
@@ -17932,7 +18017,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/160",
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1785504323,
+                "LastUpdate": 1785583510,
                 "is_ai_attributed": true
             },
             {
@@ -19992,12 +20077,12 @@
                 "Author": "Rowsai",
                 "Name": "Crescent Isle Useful Tool",
                 "InternalName": "CrescentIsleUsefulTool",
-                "AssemblyVersion": "4.0.0.0",
+                "AssemblyVersion": "4.3.0.0",
                 "Description": "クレセントアイル向け総合探索支援ツールです。\n- 南征編・北征編のFATE／CE監視とエーテライト経由移動\n- 実測開始時刻に基づく北征編マジックポット発生予想\n- 中断再開できる青銅・白銀宝箱巡回と取得数表示\n- マジカルエリクサーを使ったマジックポット宝箱探索\n- にんじん探索、通貨・経験値の計測\n- 任意の不正モードによるアクティビティ移動と戦闘支援",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Rowsai/Crescent-Isle-Useful-Tool/main/assets/icon.png",
                 "RepoUrl": "https://github.com/Rowsai/Crescent-Isle-Useful-Tool",
-                "LastUpdate": 1785522238
+                "LastUpdate": 1785589052
             },
             {
                 "Author": "Rowsai",
@@ -20956,12 +21041,12 @@
                 "Author": "Sebastina",
                 "Name": "Artemis Roleplaying Kit",
                 "InternalName": "RoleplayingVoiceDalamud",
-                "AssemblyVersion": "0.6.0.8",
+                "AssemblyVersion": "0.6.0.9",
                 "Description": "Player synced custom voices, Twitch playback integration, and more!",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Sebane1/RoleplayingVoiceDalamud/master/icon.png",
                 "RepoUrl": "https://github.com/Sebane1/RoleplayingVoiceDalamud",
-                "LastUpdate": 1785028754,
+                "LastUpdate": 1785572793,
                 "is_ai_attributed": true
             }
         ]
@@ -22167,12 +22252,12 @@
                 "Author": "veyn",
                 "Name": "Boss Mod",
                 "InternalName": "BossMod",
-                "AssemblyVersion": "7.5.5.1101",
+                "AssemblyVersion": "7.5.5.1401",
                 "Description": "Integrated Boss encounter toolkit with radar, mechanic hints, and combat assistance.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/SumomoAkihime/ffxiv_bossmod/master/Data/icon.png",
                 "RepoUrl": "https://github.com/SumomoAkihime/ffxiv_bossmod",
-                "LastUpdate": 1785568827
+                "LastUpdate": 1785575893
             },
             {
                 "Author": "Kouzukii",
@@ -22695,12 +22780,12 @@
                 "Author": "ThatKwistine",
                 "Name": "Wardrobe",
                 "InternalName": "WardrobePlugin",
-                "AssemblyVersion": "1.0.0.1",
+                "AssemblyVersion": "1.2.1.0",
                 "Description": "A visual wardrobe for Penumbra mods. Each entry targets a single equipment slot, so you can wear or unwear exactly what you want without disturbing the rest of your look. Handles items spanning several mods, mod option groups, hair and other customisation mods, image previews, tags, favourites, search and sort, and automated screenshot sessions.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ThatKwistine/WardrobePlugin/main/images/icon.png",
                 "RepoUrl": "https://github.com/ThatKwistine/WardrobePlugin",
-                "LastUpdate": 1785517241,
+                "LastUpdate": 1785588871,
                 "is_ai_attributed": true
             }
         ]
@@ -24565,12 +24650,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "0.9.9.5",
+                "AssemblyVersion": "0.9.9.6",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1785546066,
+                "LastUpdate": 1785589877,
                 "is_ai_attributed": true
             },
             {
@@ -24645,12 +24730,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "0.9.9.5",
+                "AssemblyVersion": "0.9.9.6",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1785546066,
+                "LastUpdate": 1785589877,
                 "is_ai_attributed": true
             }
         ]
