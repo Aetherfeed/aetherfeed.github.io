@@ -500,12 +500,12 @@
                 "Author": "DhogGPT",
                 "Name": "AI Duty Solver",
                 "InternalName": "ADS",
-                "AssemblyVersion": "0.6.0.6",
+                "AssemblyVersion": "0.6.0.7",
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/ADS/main/ADS/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1785508582,
+                "LastUpdate": 1785560372,
                 "is_ai_attributed": true
             },
             {
@@ -632,12 +632,12 @@
                 "Author": "DhogGPT",
                 "Name": "Fren Rider",
                 "InternalName": "FrenRider",
-                "AssemblyVersion": "1.1.2.0",
+                "AssemblyVersion": "1.1.2.1",
                 "Description": "Native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider or /fr to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1785437159,
+                "LastUpdate": 1785560361,
                 "is_ai_attributed": true
             },
             {
@@ -6370,12 +6370,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "BossMod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.5.11",
+                "AssemblyVersion": "7.5.5.14",
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1785540127
+                "LastUpdate": 1785565147
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -6436,12 +6436,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.5.12",
+                "AssemblyVersion": "7.5.5.13",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1785542765
+                "LastUpdate": 1785566802
             },
             {
                 "Author": "Churin",
@@ -8302,6 +8302,24 @@
         ]
     },
     {
+        "repo_developer_name": "imadethisforonething",
+        "repo_url": "https://raw.githubusercontent.com/imadethisforonething/JobKeybinds/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/imadethisforonething/JobKeybinds",
+        "repo_name": "JobKeybinds",
+        "plugins": [
+            {
+                "Author": "some enby",
+                "Name": "Job Key Binds",
+                "InternalName": "JobKeybinds",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "Stores and automatically applies hotbar keybind profiles for every job.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/imadethisforonething/JobKeybinds",
+                "LastUpdate": 1785560400
+            }
+        ]
+    },
+    {
         "repo_developer_name": "ImOv3rburdened",
         "repo_url": "https://raw.githubusercontent.com/ImOv3rburdened/TomstonePhone/main/repo.json",
         "repo_source_url": "https://github.com/ImOv3rburdened/TomstonePhone",
@@ -8799,7 +8817,7 @@
                 "Author": "jFray",
                 "Name": "EchoMix",
                 "InternalName": "EchoMix.Plugin",
-                "AssemblyVersion": "1.1.4.1",
+                "AssemblyVersion": "1.1.5.0",
                 "Description": "An interactive DJ deck with live mixing tools, custom playlists, and a synced listener mode with an audio visualizer.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/icon.png",
@@ -8860,25 +8878,6 @@
                 "Description": "Mod from original plugin, customized version.",
                 "DalamudApiLevel": 15,
                 "LastUpdate": 1785117086
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "Jinjyu1211",
-        "repo_url": "https://raw.githubusercontent.com/Jinjyu1211/EliteHunt/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/Jinjyu1211/EliteHunt",
-        "repo_name": "EliteHunt",
-        "plugins": [
-            {
-                "Author": "Jinyu",
-                "Name": "EliteHunt - 精英狩猎助手",
-                "InternalName": "EliteHunt",
-                "AssemblyVersion": "1.0.1.0",
-                "Description": "EliteHunt 精英狩猎助手是一个专注于 S/A/B 级恶名精英的狩猎工具。它提供 S怪计数器、狩猎地图视图、怪物位置标记和自动寻路等功能，让你的狩猎体验更加便捷高效。\n\n主要功能：\n- S怪计数器，追踪 S级恶名精英刷新\n- 狩猎地图视图，自动识别当前地图\n- 显示 S/A/B 级恶名精英位置\n- 怪物搜索功能\n- 自动传送和寻路",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/Jinjyu1211/EliteHunt",
-                "LastUpdate": 1779611880,
-                "is_ai_attributed": true
             }
         ]
     },
@@ -10600,12 +10599,12 @@
                 "Author": "erdelf, Herculezz",
                 "Name": "AutoDuty",
                 "InternalName": "AutoDuty",
-                "AssemblyVersion": "0.0.0.329",
+                "AssemblyVersion": "0.0.0.330",
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1785182494,
+                "LastUpdate": 1785566689,
                 "is_ai_attributed": true
             },
             {
@@ -10645,24 +10644,24 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.1.18",
+                "AssemblyVersion": "15.306.1.19",
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1785533105,
+                "LastUpdate": 1785550906,
                 "is_ai_attributed": true
             },
             {
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.5.12",
+                "AssemblyVersion": "7.5.5.13",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1785542765
+                "LastUpdate": 1785566802
             },
             {
                 "Author": "Team Wrath",
@@ -12323,12 +12322,12 @@
                 "Author": "DhogGPT",
                 "Name": "AI Duty Solver",
                 "InternalName": "ADS",
-                "AssemblyVersion": "0.6.0.6",
+                "AssemblyVersion": "0.6.0.7",
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/ADS/main/ADS/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1785508582,
+                "LastUpdate": 1785560372,
                 "is_ai_attributed": true
             }
         ]
@@ -12503,12 +12502,12 @@
                 "Author": "DhogGPT",
                 "Name": "Fren Rider",
                 "InternalName": "FrenRider",
-                "AssemblyVersion": "1.1.2.0",
+                "AssemblyVersion": "1.1.2.1",
                 "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1785437159,
+                "LastUpdate": 1785560361,
                 "is_ai_attributed": true
             }
         ]
@@ -14509,7 +14508,7 @@
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/OhKannaDuh/OccultCrescentHelper/refs/heads/master/assets/icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/OccultCrescentHelper",
-                "LastUpdate": 1785502705,
+                "LastUpdate": 1785552491,
                 "is_ai_attributed": true
             },
             {
@@ -14521,19 +14520,19 @@
                 "DalamudApiLevel": 14,
                 "IconUrl": "https://raw.githubusercontent.com/OhKannaDuh/OccultCrescentHelper/refs/heads/master/assets/icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/OccultCrescentHelper",
-                "LastUpdate": 1785502705,
+                "LastUpdate": 1785552491,
                 "is_ai_attributed": true
             },
             {
                 "Author": "Faye / NiGuangOwO (适配&优化) / Ookura-Risona (汉化)",
                 "Name": "Better Occult Crescent & Chest Helper Interface",
                 "InternalName": "BOCCHI",
-                "AssemblyVersion": "3.3.2.0",
+                "AssemblyVersion": "3.3.3.0",
                 "Description": "BOCCHI 旨在让您的新月岛体验更加流畅。\n- 不再有那些烦人的“跑腿”或“寻找宝箱”了。那是给失败者玩的。\n- 一个可爱的小 Fate 和 CE 面板会告诉您它提供了什么奖励，并帮助您自动找到它，哇哦。\n- 一个极端非法的“非法模式”，适合那些宁愿摸摸草地或玩有价值内容的游戏的人。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/OhKannaDuh/OccultCrescentHelper/refs/heads/master/assets/icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/OccultCrescentHelper",
-                "LastUpdate": 1785502705,
+                "LastUpdate": 1785552491,
                 "is_ai_attributed": true
             },
             {
@@ -14545,7 +14544,7 @@
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1785497312,
+                "LastUpdate": 1785568058,
                 "is_closed_source": true
             },
             {
@@ -14557,19 +14556,19 @@
                 "DalamudApiLevel": 14,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1785497312,
+                "LastUpdate": 1785568058,
                 "is_closed_source": true
             },
             {
                 "Author": "The Combat Reborn Team / NiGuangOwO（本地化&适配）",
                 "Name": "Bossmod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.5.9",
+                "AssemblyVersion": "7.5.5.14",
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1785497312,
+                "LastUpdate": 1785568058,
                 "is_closed_source": true
             },
             {
@@ -17349,12 +17348,12 @@
                 "Author": "Abyeon",
                 "Name": "Housingway",
                 "InternalName": "Housingway",
-                "AssemblyVersion": "1.0.0.8",
+                "AssemblyVersion": "1.0.0.9",
                 "Description": "A small collection of tweaks pertaining to housing.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/153",
                 "RepoUrl": "https://github.com/Abyeon/Housingway",
-                "LastUpdate": 1785189963
+                "LastUpdate": 1785553834
             }
         ]
     },
@@ -17574,12 +17573,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.1.18",
+                "AssemblyVersion": "15.306.1.19",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1785533105,
+                "LastUpdate": 1785550906,
                 "is_ai_attributed": true
             },
             {
@@ -17680,12 +17679,12 @@
                 "Author": "erdelf, Herculezz",
                 "Name": "AutoDuty",
                 "InternalName": "AutoDuty",
-                "AssemblyVersion": "0.0.0.329",
+                "AssemblyVersion": "0.0.0.330",
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1785182494,
+                "LastUpdate": 1785566689,
                 "is_ai_attributed": true
             },
             {
@@ -18787,12 +18786,12 @@
                 "Author": "QianyanSR",
                 "Name": "新月岛宝藏标记",
                 "InternalName": "CrescentMarkers",
-                "AssemblyVersion": "1.0.12.0",
+                "AssemblyVersion": "1.0.13.0",
                 "Description": "在屏幕和列表中标记新月岛附近的宝箱与被啃过的胡萝卜。支持本地地图旗标，并在默语频道输出可点击坐标。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/QY-SR/DalamudPlugins/main/assets/icons/CrescentMarkers.png",
                 "RepoUrl": "https://github.com/QY-SR/DalamudPlugins/tree/main/CrescentMarkers",
-                "LastUpdate": 1785503078
+                "LastUpdate": 1785550462
             },
             {
                 "Author": "QianyanSR",
@@ -21141,6 +21140,24 @@
         ]
     },
     {
+        "repo_developer_name": "ShaalaXIV",
+        "repo_url": "https://raw.githubusercontent.com/ShaalaXIV/EmoteLink/main/repo.json",
+        "repo_source_url": "https://github.com/ShaalaXIV/EmoteLink",
+        "repo_name": "EmoteLink",
+        "plugins": [
+            {
+                "Author": "ShaalaXIV",
+                "Name": "EmoteLink",
+                "InternalName": "EmoteLink",
+                "AssemblyVersion": "1.0.8.0",
+                "Description": "A plain Penumbra animation launcher with temporary activation, target alignment, and synchronized group play.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/ShaalaXIV/EmoteLink",
+                "LastUpdate": 1785561000
+            }
+        ]
+    },
+    {
         "repo_developer_name": "shana321",
         "repo_url": "https://raw.githubusercontent.com/shana321/DalamudPlugins/main/pluginmaster.json",
         "repo_source_url": "https://github.com/shana321/DalamudPlugins",
@@ -22150,12 +22167,12 @@
                 "Author": "veyn",
                 "Name": "Boss Mod",
                 "InternalName": "BossMod",
-                "AssemblyVersion": "7.5.5.903",
+                "AssemblyVersion": "7.5.5.1101",
                 "Description": "Integrated Boss encounter toolkit with radar, mechanic hints, and combat assistance.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/SumomoAkihime/ffxiv_bossmod/master/Data/icon.png",
                 "RepoUrl": "https://github.com/SumomoAkihime/ffxiv_bossmod",
-                "LastUpdate": 1785521260
+                "LastUpdate": 1785568827
             },
             {
                 "Author": "Kouzukii",
@@ -22396,12 +22413,12 @@
                 "Author": "Sydsquish",
                 "Name": "Wondrous Places",
                 "InternalName": "WondrousPlaces",
-                "AssemblyVersion": "0.1.0.3",
+                "AssemblyVersion": "0.1.0.5",
                 "Description": "Wondrous Places brings venue-focused roleplay prompts and interactions into an in-game Dalamud window. The Covenstead is its first venue module.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Sydsquicious/wondrous-places-beta/main/icon.png",
                 "RepoUrl": "https://github.com/Sydsquicious/wondrous-places-beta",
-                "LastUpdate": 1785471678
+                "LastUpdate": 1785567059
             }
         ]
     },
@@ -25462,6 +25479,16 @@
         "repo_source_url": "https://github.com/YunaClover/Dalamud-Plugins",
         "repo_name": "Dalamud-Plugins",
         "plugins": [
+            {
+                "Author": "Yuna",
+                "Name": "艾欧泽亚售楼中心",
+                "InternalName": "FFhouse",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "艾欧泽亚售楼中心",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/YunaClover/FFhouse",
+                "LastUpdate": 1785568788
+            },
             {
                 "Author": "Aireil,Nuko",
                 "Name": "FF Logs Viewer(CN)",
