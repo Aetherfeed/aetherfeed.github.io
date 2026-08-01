@@ -970,12 +970,12 @@
                 "Author": "Airi Tsukino",
                 "Name": "AirTablet",
                 "InternalName": "AirTablet",
-                "AssemblyVersion": "1.0.54.0",
+                "AssemblyVersion": "1.0.55.0",
                 "Description": "A modern tablet OS for Airi's venue apps.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/AiriTsukino/AirTablet/main/AirTablet/Resources/ATLogo.png",
                 "RepoUrl": "https://github.com/AiriTsukino/AirTablet",
-                "LastUpdate": 1785396721
+                "LastUpdate": 1785545834
             }
         ]
     },
@@ -3166,7 +3166,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/BluntEXE/XIVVenueManagerSync/master/images/icon.png",
                 "RepoUrl": "https://github.com/BluntEXE/XIVVenueManagerSync",
-                "LastUpdate": 1785505333,
+                "LastUpdate": 1785532371,
                 "is_ai_attributed": true
             }
         ]
@@ -5527,24 +5527,24 @@
                 "Author": "The Enceladeum",
                 "Name": "HMoniker",
                 "InternalName": "HMoniker",
-                "AssemblyVersion": "1.3.1.0",
+                "AssemblyVersion": "1.4.0.0",
                 "Description": "Changes your display name. Local only: visible only to yourself outside of HMS (HMapSync) sessions.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Enceladeum/HMoniker/main/images/icon.png",
                 "RepoUrl": "https://github.com/Enceladeum/HMoniker",
-                "LastUpdate": 1785190513,
+                "LastUpdate": 1785534486,
                 "is_ai_attributed": true
             },
             {
                 "Author": "The Enceladeum",
                 "Name": "HMapSync (HMS)",
                 "InternalName": "HMSync",
-                "AssemblyVersion": "1.0.0.1",
+                "AssemblyVersion": "1.0.0.2",
                 "Description": "Load any in-game map client-side and explore it solo or with up to 20 friends, behind a packet filter that keeps the server seeing you as idle in your room. Shared weather, BGM and time; client-side mounts, emotes and minions; carpet floors for spots without collision; head-tilt and gaze sync for roleplay; and proximity say/yell passthrough. Co-op needs a relay key (closed beta); solo mode never connects to the relay.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Enceladeum/HMapSync/main/images/icon.png",
                 "RepoUrl": "https://github.com/Enceladeum/HMapSync",
-                "LastUpdate": 1785277252,
+                "LastUpdate": 1785535358,
                 "is_ai_attributed": true
             },
             {
@@ -5556,7 +5556,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Enceladeum/HOutfits/main/images/icon.png",
                 "RepoUrl": "https://github.com/Enceladeum/HOutfits",
-                "LastUpdate": 1785032514,
+                "LastUpdate": 1785442437,
                 "is_ai_attributed": true
             }
         ]
@@ -6370,12 +6370,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "BossMod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.5.10",
+                "AssemblyVersion": "7.5.5.11",
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1785515416
+                "LastUpdate": 1785540127
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -6419,7 +6419,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/PCR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn",
-                "LastUpdate": 1785259154
+                "LastUpdate": 1785527599
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -6436,12 +6436,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.5.9",
+                "AssemblyVersion": "7.5.5.12",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1785515963
+                "LastUpdate": 1785542765
             },
             {
                 "Author": "Churin",
@@ -6922,6 +6922,25 @@
                 "IconUrl": "https://raw.githubusercontent.com/GamerLatte/Ultimate-Gamba/main/icon.ico",
                 "RepoUrl": "https://github.com/GamerLatte/Ultimate-Gamba",
                 "LastUpdate": 1753886860,
+                "is_ai_attributed": true
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "GaugeMage",
+        "repo_url": "https://raw.githubusercontent.com/GaugeMage/BGMSeparator/main/repo.json",
+        "repo_source_url": "https://github.com/GaugeMage/BGMSeparator",
+        "repo_name": "BGMSeparator",
+        "plugins": [
+            {
+                "Author": "GaugeMage",
+                "Name": "BGM Separator",
+                "InternalName": "BgmSeparator",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "Detects the currently playing FFXIV BGM, decodes the game's own music file, and plays it out through an audio device you choose (e.g. a virtual audio cable). Combined with muting the game's built-in BGM, this lets OBS capture the music on a separate source that you can include in recordings but leave off the stream track. See the README for OBS routing.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/GaugeMage/BGMSeparator",
+                "LastUpdate": 1785457564,
                 "is_ai_attributed": true
             }
         ]
@@ -8780,7 +8799,7 @@
                 "Author": "jFray",
                 "Name": "EchoMix",
                 "InternalName": "EchoMix.Plugin",
-                "AssemblyVersion": "1.1.3.0",
+                "AssemblyVersion": "1.1.4.1",
                 "Description": "An interactive DJ deck with live mixing tools, custom playlists, and a synced listener mode with an audio visualizer.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/icon.png",
@@ -10282,6 +10301,16 @@
                 "RepoUrl": "https://github.com/kittenhaswares-ui/CrystalJobRank",
                 "LastUpdate": 1784141686,
                 "is_ai_attributed": true
+            },
+            {
+                "Author": "Glamour Pact contributors",
+                "Name": "Glamour Pact",
+                "InternalName": "GlamourPact.Plugin",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "A compact, opt-in Dom/Sub wardrobe companion. Pair with role-coded share IDs, use Glamourer's normal actor editor, and relay equipment-only looks under a private local lock. Use /gpact.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/kittenhaswares-ui/CrystalJobRank",
+                "LastUpdate": 1785533965
             }
         ]
     },
@@ -10314,11 +10343,11 @@
                 "Author": "kittenhaswares-ui",
                 "Name": "PulseQueue",
                 "InternalName": "PulseQueue.Plugin",
-                "AssemblyVersion": "0.3.4.0",
+                "AssemblyVersion": "0.3.5.0",
                 "Description": "A strict one-shot smart input buffer with adaptive local timing, hard cancellation rules, and automatic suspension around incompatible action plugins.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kittenhaswares-ui/PulseQueue",
-                "LastUpdate": 1784737502,
+                "LastUpdate": 1785545011,
                 "is_ai_attributed": true
             }
         ]
@@ -10599,7 +10628,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1785343714
+                "LastUpdate": 1785543547
             },
             {
                 "Author": "sourpuh",
@@ -10616,24 +10645,24 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.1.14",
+                "AssemblyVersion": "15.306.1.18",
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1785523887,
+                "LastUpdate": 1785533105,
                 "is_ai_attributed": true
             },
             {
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.5.9",
+                "AssemblyVersion": "7.5.5.12",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1785515963
+                "LastUpdate": 1785542765
             },
             {
                 "Author": "Team Wrath",
@@ -17458,12 +17487,12 @@
                 "Author": "Det, Taurenkey",
                 "Name": "AutoHook",
                 "InternalName": "AutoHook",
-                "AssemblyVersion": "6.0.0.85",
+                "AssemblyVersion": "6.0.0.86",
                 "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/47",
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1785522863
+                "LastUpdate": 1785538995
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -17485,7 +17514,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/11",
                 "RepoUrl": "https://github.com/PunishXIV/Avarice",
-                "LastUpdate": 1785467204
+                "LastUpdate": 1785545699
             },
             {
                 "Author": "Taurenkey, Gid, NightmareXIV",
@@ -17545,12 +17574,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.1.16",
+                "AssemblyVersion": "15.306.1.18",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1785523887,
+                "LastUpdate": 1785533105,
                 "is_ai_attributed": true
             },
             {
@@ -17573,7 +17602,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/10",
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1785467332
+                "LastUpdate": 1785546757
             },
             {
                 "Author": "Team Wrath",
@@ -17945,7 +17974,7 @@
                 "Author": "nainaiowo",
                 "Name": "Eidos",
                 "InternalName": "Eidos",
-                "AssemblyVersion": "0.1.0.31",
+                "AssemblyVersion": "0.1.0.32",
                 "Description": "A Gposing and scene tool.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nainaiowo/Eidos"
@@ -18042,7 +18071,7 @@
                 "Author": "OOF Games",
                 "Name": "Mini Games Emporium",
                 "InternalName": "MiniGamesEmporium",
-                "AssemblyVersion": "0.0.13.0",
+                "AssemblyVersion": "0.0.14.0",
                 "Description": "The all-in-one hosting tool for FFXIV gambling venues, with three live games: BAR 777, Deathroll Tournament, and Higher/Lower. Handles player queues, trade verification, boosted pots, automated chat, and a full transaction ledger.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/163",
@@ -18315,7 +18344,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1785343714
+                "LastUpdate": 1785543547
             },
             {
                 "Author": "veyn, croizat",
@@ -19795,11 +19824,11 @@
                 "Author": "RoarkGit",
                 "Name": "XIV Raid Tools",
                 "InternalName": "XIVRaidToolsPlugin",
-                "AssemblyVersion": "0.1.4.0",
+                "AssemblyVersion": "0.1.5.0",
                 "Description": "A growing set of in-game raid tools, starting with Kefka Says, an in-game mirror of the Kefka Says / UMAD room tracker, synced with the webapp over the same WebSocket relay. Open with /xrt kefka.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/RoarkGit/XIV-Raid-Tools",
-                "LastUpdate": 1785512388
+                "LastUpdate": 1785533418
             }
         ]
     },
@@ -20853,12 +20882,12 @@
                 "Author": "Sebastina",
                 "Name": "A Quest Reborn",
                 "InternalName": "AQuestReborn",
-                "AssemblyVersion": "0.2.9.7",
+                "AssemblyVersion": "0.2.9.8",
                 "Description": "Play custom quests made by the community, or make your own!",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Sebane1/AQuestReborn/refs/heads/master/AQuestReborn-C256.png",
                 "RepoUrl": "https://github.com/Sebane1/AQuestReborn",
-                "LastUpdate": 1781734267,
+                "LastUpdate": 1785543207,
                 "is_ai_attributed": true
             }
         ]
@@ -21310,22 +21339,32 @@
                 "Author": "Shinoyami",
                 "Name": "Auto Raise Accept",
                 "InternalName": "AutoRaiseAccept",
-                "AssemblyVersion": "1.0.0.3",
+                "AssemblyVersion": "1.0.0.5",
                 "Description": "Automatically clicks Accept on FFXIV's incoming Raise dialog. Detection uses the game's active resurrection agent and does not depend on the raising player's name.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Shinoyami/DalamudPlugins/tree/main/plugins/AutoRaiseAccept",
-                "LastUpdate": 1785513252
+                "LastUpdate": 1785545905
             },
             {
                 "Author": "Shinoyami",
                 "Name": "MitPlan",
                 "InternalName": "MitPlan",
-                "AssemblyVersion": "1.2.0.12",
+                "AssemblyVersion": "1.2.0.18",
                 "Description": "Displays editable job/role-specific mitigation reminders using default plans based on PF, Ikuya, and NAUR mitigation strategies where available.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Shinoyami/DalamudPlugins/tree/main/plugins/MitPlan",
-                "LastUpdate": 1785525209,
+                "LastUpdate": 1785541302,
                 "is_ai_attributed": true
+            },
+            {
+                "Author": "Shinoyami",
+                "Name": "MitPlan Recorder",
+                "InternalName": "MitPlanRecorder",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "Records encounter casts and abilities, provides editable phase anchors and mitigation assignments, imports mitigation CSV files, and sends reviewed plans directly to MitPlan.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Shinoyami/DalamudPlugins",
+                "LastUpdate": 1785545928
             }
         ]
     },
@@ -22116,7 +22155,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/SumomoAkihime/ffxiv_bossmod/master/Data/icon.png",
                 "RepoUrl": "https://github.com/SumomoAkihime/ffxiv_bossmod",
-                "LastUpdate": 1785512838
+                "LastUpdate": 1785521260
             },
             {
                 "Author": "Kouzukii",
@@ -24509,12 +24548,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "0.9.9.4",
+                "AssemblyVersion": "0.9.9.5",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1785510638,
+                "LastUpdate": 1785546066,
                 "is_ai_attributed": true
             },
             {
@@ -24589,12 +24628,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "0.9.9.4",
+                "AssemblyVersion": "0.9.9.5",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1785276267,
+                "LastUpdate": 1785546066,
                 "is_ai_attributed": true
             }
         ]
@@ -25287,12 +25326,12 @@
                 "Author": "youdianfengbao (基于 PunishXIV/Questionable)",
                 "Name": "Questionable (国服汉化)",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.1.13",
+                "AssemblyVersion": "15.306.1.18",
                 "Description": "国服汉化版自动任务插件，基于 PunishXIV/Questionable。可在尽可能的情况下自动完成游戏任务。\n所需插件：vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://qstxiv.github.io/icons/Questionable.png",
                 "RepoUrl": "https://github.com/youdianfengbao/Questionable",
-                "LastUpdate": 1785486862,
+                "LastUpdate": 1785538117,
                 "is_ai_attributed": true
             },
             {
@@ -25613,17 +25652,6 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zhui-zi/DalamudPlugins/tree/main/plugins/KeitaToolbox",
                 "LastUpdate": 1785432682
-            },
-            {
-                "Author": "The Combat Reborn Team / zhui-zi",
-                "Name": "Rotation Solver Reborn 汉化版",
-                "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.5.9",
-                "Description": "逐帧分析战斗信息并选择最佳技能。\n\n插件会分析队伍与敌对目标状态、技能冷却、角色资源与位置、目标咏唱、连击、战斗时长和玩家等级等信息，然后在热键栏上高亮最佳技能或协助点击。\n\n本插件面向一般战斗，并非专为零式或绝境战内容设计，请谨慎使用。",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
-                "RepoUrl": "https://github.com/zhui-zi/DalamudPlugins/tree/main/plugins/RotationSolver",
-                "LastUpdate": 1785516557
             }
         ]
     },
