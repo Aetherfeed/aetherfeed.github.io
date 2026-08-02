@@ -1594,12 +1594,12 @@
                 "Author": "Anmi",
                 "Name": "新月岛史官",
                 "InternalName": "Chronicler",
-                "AssemblyVersion": "0.2.0.15",
+                "AssemblyVersion": "0.2.0.16",
                 "Description": "进入新月岛后自动记录南征/北征 CE/FATE 出现时间，支持导入/导出 xyd.zzmelon.com 分享码，生成喊话，并监听游戏内喊话自动同步状态。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/anmili2022/Chronicler/main/images/icon.png",
                 "RepoUrl": "https://github.com/anmili2022/Chronicler",
-                "LastUpdate": 1785655155,
+                "LastUpdate": 1785663156,
                 "is_ai_attributed": true
             }
         ]
@@ -2094,6 +2094,26 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/ashandarei/fast-release",
                 "LastUpdate": 1772954432
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "ashdam",
+        "repo_url": "https://raw.githubusercontent.com/ashdam/gubal-library/main/repo.json",
+        "repo_source_url": "https://github.com/ashdam/gubal-library",
+        "repo_name": "gubal-library",
+        "plugins": [
+            {
+                "Author": "ashdam",
+                "Name": "Gubal Library",
+                "InternalName": "GubalLibrary",
+                "AssemblyVersion": "0.1.3.0",
+                "Description": "THE PLUGIN SHIPS EMPTY. It contains no translations. Installing it changes nothing: until you load a corpus, the game reads exactly as it always did.\n\nWhat it is, is a lookup engine. It loads a corpus file, matches what is on screen against it, and injects the result. It makes no network calls of any kind -- nothing is sent anywhere, and nothing is translated at runtime.\n\nYOU BRING THE CORPUS, and this project does not distribute one. The translations are somebody's separate work. Either use a corpus the community has published for your language, or build your own: the file format is documented in full so that starting from nothing is a real option, for any locale.\n\nThere is a self-test bundled -- two lines from one NPC, so you can tell a correct install from a broken one. Talk to Ahldskyf on the pier in Limsa Lominsa Lower Decks and they come out as Hello World. That is a smoke test, not content, and the settings window stays red for as long as it is all that is loaded.\n\nCoverage once you have a corpus: dialogue, quest text and cutscene speech (Talk), cutscene narration (TalkSubtitle), and speaker names. Battle callouts, speech balloons and the variant-dungeon banner are wired up but not yet characterised. This is a testing build -- please report problems on GitHub.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/ashdam/gubal-library/main/images/icon.png",
+                "RepoUrl": "https://github.com/ashdam/gubal-library",
+                "LastUpdate": 1785679822,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -3683,6 +3703,24 @@
         ]
     },
     {
+        "repo_developer_name": "ChaikaTeasus",
+        "repo_url": "https://raw.githubusercontent.com/ChaikaTeasus/Deezer-Honorific/main/repo.json",
+        "repo_source_url": "https://github.com/ChaikaTeasus/Deezer-Honorific",
+        "repo_name": "Deezer-Honorific",
+        "plugins": [
+            {
+                "Author": "ChaikaTeasus",
+                "Name": "Deezer Honorific",
+                "InternalName": "DeezerHonorific",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "Update your honorific title based on your currently playing Deezer track.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/ChaikaTeasus/Deezer-Honorific",
+                "LastUpdate": 1785669686
+            }
+        ]
+    },
+    {
         "repo_developer_name": "chalkos",
         "repo_url": "https://raw.githubusercontent.com/chalkos/Marketbuddy/main/repo.json",
         "repo_source_url": "https://github.com/chalkos/Marketbuddy",
@@ -4575,11 +4613,11 @@
                 "Author": "FF14 Accessibility Project",
                 "Name": "FF14 Accessibility",
                 "InternalName": "FF14Accessibility",
-                "AssemblyVersion": "5.65.0.0",
+                "AssemblyVersion": "5.66.0.0",
                 "Description": "Macht FF14 für blinde Spieler zugänglich via NVDA/TOLK Integration, Audio-Navigation und vollständiger Tastatursteuerung.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/derbruedi/ff14-accessibility",
-                "LastUpdate": 1785655303,
+                "LastUpdate": 1785663634,
                 "is_ai_attributed": true
             }
         ]
@@ -4755,11 +4793,11 @@
                 "Author": "Akari",
                 "Name": "Market Helper",
                 "InternalName": "MarketHelper",
-                "AssemblyVersion": "1.15.0.4",
+                "AssemblyVersion": "1.15.1.0",
                 "Description": "Market Helper is an all-in-one market board tool with three tabs:\n\nUNDERCUT — Stand near a summoning bell and press Run. It walks every retainer on the bell and undercuts each listed item to the lowest price. HQ/NQ handling, own-retainer protection, per-item overrides, and price memory within a run. Skips mannequin/display items (detected by the game's mannequin icon) so they're never touched or delisted.\n\nLISTER — Build a list of items (hold CTRL and hover to quick-add, or search). Press Go and it walks the bell and lists them all, pricing each at the most common market price (ignoring lone troll/outlier listings) minus your undercut. Prices against your world, data center, or whole region. Handles the 20-item-per-retainer cap by rolling extra items to the next retainer. Includes a no-touch dry-run preview.\n\nFLIPPER — Search any marketable item and compare prices across Japan, America, Europe and Materia via Universalis. Top 10 listings per region, best cross-region flip, and seller/buyer tax modeling.\n\nOpen with /markethelp, /market, /mh, or /undercut.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dexcss/MarketHelper",
-                "LastUpdate": 1784263428
+                "LastUpdate": 1785659446
             },
             {
                 "Author": "Akari",
@@ -4820,11 +4858,11 @@
                 "Author": "Akari",
                 "Name": "Market Helper",
                 "InternalName": "MarketHelper",
-                "AssemblyVersion": "1.15.0.4",
+                "AssemblyVersion": "1.15.1.0",
                 "Description": "Market Helper is an all-in-one market board tool with three tabs:\n\nUNDERCUT — Stand near a summoning bell and press Run. It walks every retainer on the bell and undercuts each listed item to the lowest price. HQ/NQ handling, own-retainer protection, per-item overrides, and price memory within a run. Skips mannequin/display items (detected by the game's mannequin icon) so they're never touched or delisted.\n\nLISTER — Build a list of items (hold CTRL and hover to quick-add, or search). Press Go and it walks the bell and lists them all, pricing each at the most common market price (ignoring lone troll/outlier listings) minus your undercut. Prices against your world, data center, or whole region. Handles the 20-item-per-retainer cap by rolling extra items to the next retainer. Includes a no-touch dry-run preview.\n\nFLIPPER — Search any marketable item and compare prices across Japan, America, Europe and Materia via Universalis. Top 10 listings per region, best cross-region flip, and seller/buyer tax modeling.\n\nOpen with /markethelp, /market, /mh, or /undercut.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dexcss/MarketHelper",
-                "LastUpdate": 1784263428
+                "LastUpdate": 1785659446
             }
         ]
     },
@@ -5547,12 +5585,12 @@
                 "Author": "The Enceladeum",
                 "Name": "HMapSync (HMS)",
                 "InternalName": "HMSync",
-                "AssemblyVersion": "1.0.0.3",
+                "AssemblyVersion": "1.0.0.4",
                 "Description": "Load any in-game map client-side and explore it solo or with up to 20 friends, behind a packet filter that keeps the server seeing you as idle in your room. Shared weather, BGM and time; client-side mounts, emotes and minions; carpet floors for spots without collision; head-tilt and gaze sync for roleplay; and proximity say/yell passthrough. Co-op needs a relay key (closed beta); solo mode never connects to the relay.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Enceladeum/HMapSync/main/images/icon.png",
                 "RepoUrl": "https://github.com/Enceladeum/HMapSync",
-                "LastUpdate": 1785623205,
+                "LastUpdate": 1785669997,
                 "is_ai_attributed": true
             },
             {
@@ -5651,12 +5689,12 @@
                 "Author": "Minmoose, Asgard 与贡献者；汉化：Endfish",
                 "Name": "Brio-CN",
                 "InternalName": "Brio-CN",
-                "AssemblyVersion": "1.0.5.0",
+                "AssemblyVersion": "1.0.6.0",
                 "Description": "Brio 的简体中文本地化版本，为 GPose 提供角色生成、骨骼姿势编辑、动作播放、灯光、镜头、时间、天气与场景控制等高级功能。\n\n本分支还包含常用姿势快捷入口、Penumbra 动作 Mod 识别，以及可导航的世界模型实时预览。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/endfish/Brio-CN/zh-CN/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/endfish/Brio-CN",
-                "LastUpdate": 1785638163
+                "LastUpdate": 1785668195
             },
             {
                 "Author": "kawaii, 汉化: Endfish",
@@ -5987,7 +6025,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1785571695
+                "LastUpdate": 1785658205
             }
         ]
     },
@@ -6278,24 +6316,24 @@
                 "Author": "fenk19",
                 "Name": "BossMod Reborn (RSR Integration)",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "99.0.0.5",
+                "AssemblyVersion": "99.0.1.0",
                 "Description": "Unofficial BossMod Reborn integration build with RotationSolverReborn movement request and feedback support.\n\nThis build keeps the original BossModReborn plugin identity so it replaces the original plugin in Dalamud. It includes RSR positional movement handling, movement feedback, melee-range-aware avoidance options, diagnostics, configuration import/export helpers, and kill-time statistics.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/fenk19/DalamudPluginRepo",
-                "LastUpdate": 1782278787,
+                "LastUpdate": 1785668405,
                 "is_ai_attributed": true
             },
             {
                 "Author": "fenk19",
                 "Name": "Rotation Solver Reborn (BMR Integration)",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "99.0.0.5",
+                "AssemblyVersion": "99.0.1.0",
                 "Description": "Unofficial Rotation Solver Reborn integration build with BossModReborn movement and feedback support.\n\nThis build keeps the original RotationSolver plugin identity so it replaces the original plugin in Dalamud. It includes additional BMR positional movement requests, movement feedback handling, interrupt movement support, diagnostics, and configuration import/export helpers.\n\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/fenk19/DalamudPluginRepo",
-                "LastUpdate": 1782278787,
+                "LastUpdate": 1785668405,
                 "is_ai_attributed": true
             }
         ]
@@ -6378,7 +6416,7 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "BossMod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.5.16",
+                "AssemblyVersion": "7.5.5.17",
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
@@ -8816,11 +8854,11 @@
                 "Author": "raynording",
                 "Name": "Dalamud ACT Compat",
                 "InternalName": "DalamudActCompat",
-                "AssemblyVersion": "0.2.33.0",
+                "AssemblyVersion": "0.2.34.0",
                 "Description": "Dalamud-side UI, storage, parser abstraction, and compatibility-host bridge for an ACT-compatible FFXIV parsing platform. This early build does not yet load FFXIV_ACT_Plugin.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/JackyWilliam/DalamudActCompat",
-                "LastUpdate": 1785425676
+                "LastUpdate": 1785667018
             }
         ]
     },
@@ -10755,12 +10793,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.1.23",
+                "AssemblyVersion": "15.306.1.27",
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1785654735,
+                "LastUpdate": 1785680678,
                 "is_ai_attributed": true
             },
             {
@@ -10783,7 +10821,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1785573845
+                "LastUpdate": 1785665116
             }
         ]
     },
@@ -12166,6 +12204,25 @@
                 "Description": "",
                 "RepoUrl": "https://github.com/MaJoRX0/MyDalamudPlugins/tree/main/plugins/PluginList",
                 "LastUpdate": 1772363250
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "MakorVihar",
+        "repo_url": "https://raw.githubusercontent.com/MakorVihar/Inviter/main/repo.json",
+        "repo_source_url": "https://github.com/MakorVihar/Inviter",
+        "repo_name": "Inviter",
+        "plugins": [
+            {
+                "Author": "Bluefissure",
+                "Name": "Inviter",
+                "InternalName": "Inviter",
+                "AssemblyVersion": "1.3.0.0",
+                "Description": "Automatically invite people to your party (doesn't work for CWLS). /xinvite to open.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/MakorVihar/Inviter/main/images/icon.png",
+                "RepoUrl": "https://github.com/MakorVihar/Inviter",
+                "LastUpdate": 1785679140
             }
         ]
     },
@@ -14693,7 +14750,7 @@
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1785640398,
+                "LastUpdate": 1785660988,
                 "is_closed_source": true
             },
             {
@@ -14705,19 +14762,19 @@
                 "DalamudApiLevel": 14,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1785640398,
+                "LastUpdate": 1785660988,
                 "is_closed_source": true
             },
             {
                 "Author": "The Combat Reborn Team / NiGuangOwO（本地化&适配）",
                 "Name": "Bossmod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.5.16",
+                "AssemblyVersion": "7.5.5.17",
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1785640398,
+                "LastUpdate": 1785660988,
                 "is_closed_source": true
             },
             {
@@ -15836,8 +15893,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/OhKannaDuh/OccultCrescentHelper/refs/heads/master/assets/icon.png",
                 "RepoUrl": "https://github.com/OhKannaDuh/OccultCrescentHelper",
-                "LastUpdate": 1785658541,
-                "is_ai_attributed": true
+                "LastUpdate": 1785658541
             },
             {
                 "Author": "Faye",
@@ -16359,7 +16415,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1785571695
+                "LastUpdate": 1785658205
             },
             {
                 "Author": "Risa and Contributors",
@@ -16414,7 +16470,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ktisis-tools/Ktisis/main/icon.png",
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1785529924
+                "LastUpdate": 1785680776
             },
             {
                 "Author": "kawaii, Glyceri, Minmoose",
@@ -17703,12 +17759,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.1.24",
+                "AssemblyVersion": "15.306.1.29",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1785654735,
+                "LastUpdate": 1785680678,
                 "is_ai_attributed": true
             },
             {
@@ -17742,7 +17798,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1785573845
+                "LastUpdate": 1785665116
             },
             {
                 "Author": "daemitus, kawaii",
@@ -17779,7 +17835,7 @@
                 "Author": "croizat",
                 "Name": "Glamour Log",
                 "InternalName": "GlamourLog",
-                "AssemblyVersion": "15.52",
+                "AssemblyVersion": "15.53",
                 "Description": "A log for all your glamours and other glam-related tweaks",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/136",
@@ -20122,12 +20178,12 @@
                 "Author": "Rowsai",
                 "Name": "Crescent Isle Useful Tool",
                 "InternalName": "CrescentIsleUsefulTool",
-                "AssemblyVersion": "4.5.0.0",
+                "AssemblyVersion": "4.7.2.0",
                 "Description": "クレセントアイル向け総合探索支援ツールです。\n- 南征編・北征編のFATE／CE監視とエーテライト経由移動\n- 実測開始時刻に基づく北征編マジックポット発生予想\n- 中断再開できる青銅・白銀宝箱巡回と取得数表示\n- マジカルエリクサーを使ったマジックポット宝箱探索\n- にんじん探索、通貨・経験値の計測\n- 任意の不正モードによるアクティビティ移動と戦闘支援",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Rowsai/Crescent-Isle-Useful-Tool/main/assets/icon.png",
                 "RepoUrl": "https://github.com/Rowsai/Crescent-Isle-Useful-Tool",
-                "LastUpdate": 1785608037
+                "LastUpdate": 1785678269
             },
             {
                 "Author": "Rowsai",
@@ -21279,11 +21335,11 @@
                 "Author": "ShaalaXIV",
                 "Name": "EmoteLink",
                 "InternalName": "EmoteLink",
-                "AssemblyVersion": "1.0.9.0",
+                "AssemblyVersion": "1.0.11.0",
                 "Description": "A plain Penumbra animation launcher with temporary activation, target alignment, and synchronized group play.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ShaalaXIV/EmoteLink",
-                "LastUpdate": 1785626736
+                "LastUpdate": 1785679484
             }
         ]
     },
@@ -22297,12 +22353,12 @@
                 "Author": "veyn",
                 "Name": "Boss Mod",
                 "InternalName": "BossMod",
-                "AssemblyVersion": "7.5.5.1402",
+                "AssemblyVersion": "7.5.5.1701",
                 "Description": "Integrated Boss encounter toolkit with radar, mechanic hints, and combat assistance.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/SumomoAkihime/ffxiv_bossmod/master/Data/icon.png",
                 "RepoUrl": "https://github.com/SumomoAkihime/ffxiv_bossmod",
-                "LastUpdate": 1785648579
+                "LastUpdate": 1785666573
             },
             {
                 "Author": "Kouzukii",
@@ -22587,6 +22643,25 @@
                 "RepoUrl": "https://github.com/Syrilai/rp-buddy",
                 "LastUpdate": 1784314709,
                 "is_ai_attributed": true
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "t0nysama",
+        "repo_url": "https://raw.githubusercontent.com/t0nysama/ChocoboColorCalculator/main/repo.json",
+        "repo_source_url": "https://github.com/t0nysama/ChocoboColorCalculator",
+        "repo_name": "ChocoboColorCalculator",
+        "plugins": [
+            {
+                "Author": "Null",
+                "Name": "Chocobo Color Calculator",
+                "InternalName": "ChocoboColorCalculator",
+                "AssemblyVersion": "0.3.3.0",
+                "Description": "Calculates and tracks ordered fruit routes between companion chocobo colors.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/t0nysama/ChocoboColorCalculator/79e26fa213c3934ec5d9246cbffc6fdb14423809/images/icon.png",
+                "RepoUrl": "https://github.com/t0nysama/ChocoboColorCalculator",
+                "LastUpdate": 1785676968
             }
         ]
     },
@@ -24154,7 +24229,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/VirstaXIV/DynamicTextureManager/master/images/icon.png",
                 "RepoUrl": "https://github.com/VirstaXIV/DynamicTextureManager",
-                "LastUpdate": 1785655728,
+                "LastUpdate": 1785667607,
                 "is_ai_attributed": true
             }
         ]
@@ -25577,19 +25652,19 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Macro%20Redirection/cursor_hr1.png",
                 "RepoUrl": "https://github.com/YouShux/DalamudPlugins/blob/main/Plugins/Macro%20Redirection/Macro%20Redirection.zip",
-                "LastUpdate": 1783270865,
+                "LastUpdate": 1785674211,
                 "is_closed_source": true
             },
             {
                 "Author": "YouShu",
                 "Name": "Omni Toolbox",
                 "InternalName": "OmniToolbox",
-                "AssemblyVersion": "1.0.9.13",
+                "AssemblyVersion": "1.1.0.0",
                 "Description": "支持物品价格查询、商店购买与兑换位置查找、库存追踪、食物/药品期望计算、物品监控预警自动补货、传送以及坐骑/宠物/发型/绘画作品的悬浮窗预览等等。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Resources/%E5%9B%BE%E6%A0%87.png",
                 "RepoUrl": "https://github.com/YouShux/DalamudPlugins/blob/main/Plugins/Omni%20Toolbox/Omni%20Toolbox.zip",
-                "LastUpdate": 1783270865,
+                "LastUpdate": 1785674211,
                 "is_closed_source": true
             }
         ]
