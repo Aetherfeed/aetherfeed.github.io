@@ -1802,7 +1802,7 @@
                 "Description": "Update honorific title based on discord activity informations",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/anya-hichu/DiscordActivityHonorific",
-                "LastUpdate": 1784744163
+                "LastUpdate": 1785774284
             },
             {
                 "Author": "Anya Hichu",
@@ -1822,7 +1822,7 @@
                 "Description": "Displays emote counters as honorific title dynamically",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/anya-hichu/PatMeHonorific",
-                "LastUpdate": 1784744151
+                "LastUpdate": 1785755173
             },
             {
                 "Author": "Anya Hichu",
@@ -3722,6 +3722,16 @@
         "plugins": [
             {
                 "Author": "CelineXIV",
+                "Name": "CelinesHousing",
+                "InternalName": "CelinesHousing",
+                "AssemblyVersion": "1.0.10.0",
+                "Description": "Reads the furniture placed in the house you are currently visiting (position, rotation, stain) and exports it as a Re:MakePlace-compatible JSON file, so you can load or edit the layout yourself.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/CelineXIV/CelinesTools",
+                "LastUpdate": 1785818763
+            },
+            {
+                "Author": "CelineXIV",
                 "Name": "CelinesRPChat",
                 "InternalName": "CelinesRPChat",
                 "AssemblyVersion": "1.0.3.0",
@@ -3729,17 +3739,18 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://cdn.jsdelivr.net/gh/CelineXIV/CelinesTools@main/CelinesRPChat/images/icon-v2.png",
                 "RepoUrl": "https://github.com/CelineXIV/CelinesTools",
-                "LastUpdate": 1785803315
+                "LastUpdate": 1785818763
             },
             {
                 "Author": "CelineXIV",
                 "Name": "CelinesToolkit",
                 "InternalName": "CelinesToolkit",
-                "AssemblyVersion": "1.4.0.0",
+                "AssemblyVersion": "1.5.5.0",
                 "Description": "Persoenliches Werkzeugkasten-Plugin mit mehreren Werkzeugen: Commandtool speichert Befehlsfolgen (z.B. \"/porch play 1\") als Makros und fuehrt sie per Chat-Befehl oder Klick aus. Quickbar ist eine kleine immer sichtbare Leiste, um ein gespeichertes Makro per Dropdown und Play-Button sofort auszufuehren. Orchestrion schaltet das Porch-Plugin bei Login/Gebietswechsel automatisch stumm. Preview Manager ergaenzt fehlende Vorschaubilder bei Penumbra-Mods, speichert sie direkt im jeweiligen Mod-Ordner und zeigt sie auch direkt in Penumbras eigenem Mod-Fenster an. Oberflaeche auf Deutsch/Englisch je nach Dalamud-Spracheinstellung.",
                 "DalamudApiLevel": 15,
+                "IconUrl": "https://cdn.jsdelivr.net/gh/CelineXIV/CelinesTools@main/CelinesToolkit/images/icon.png",
                 "RepoUrl": "https://github.com/CelineXIV/CelinesTools",
-                "LastUpdate": 1785803315
+                "LastUpdate": 1785818763
             }
         ]
     },
@@ -4939,11 +4950,11 @@
                 "Author": "deserokk",
                 "Name": "DeserokUtils",
                 "InternalName": "DeserokUtils",
-                "AssemblyVersion": "1.2.1.0",
+                "AssemblyVersion": "1.4.1.0",
                 "Description": "Small quality-of-life utilities, one feature per tab.\n\nCastWatch: gate a macro line on whether an action actually went off. Arm a watch above the /ac, then /ifwatch runs your line only if the action was accepted -- or cancels the macro if it was not. Works for instant casts, oGCDs and usable items, none of which produce a cast bar to observe. Optional target filters (--self, --notself, --party) and a {who} token that fills in whoever actually received it, which a vanilla macro cannot do.\n\nIt never composes or sends anything on your behalf; it only runs or suppresses a line you already wrote.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/deserokk/DeserokUtils",
-                "LastUpdate": 1785804324
+                "LastUpdate": 1785815938
             }
         ]
     },
@@ -4957,11 +4968,11 @@
                 "Author": "deserokk",
                 "Name": "DeserokUtils",
                 "InternalName": "DeserokUtils",
-                "AssemblyVersion": "1.2.1.0",
+                "AssemblyVersion": "1.4.1.0",
                 "Description": "Small quality-of-life utilities, one feature per tab.\n\nCastWatch: gate a macro line on whether an action actually went off. Arm a watch above the /ac, then /ifwatch runs your line only if the action was accepted -- or cancels the macro if it was not. Works for instant casts, oGCDs and usable items, none of which produce a cast bar to observe. Optional target filters (--self, --notself, --party) and a {who} token that fills in whoever actually received it, which a vanilla macro cannot do.\n\nIt never composes or sends anything on your behalf; it only runs or suppresses a line you already wrote.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/deserokk/DeserokUtils",
-                "LastUpdate": 1785804324
+                "LastUpdate": 1785815938
             }
         ]
     },
@@ -5136,11 +5147,11 @@
                 "Author": "Akari",
                 "Name": "Market Helper",
                 "InternalName": "MarketHelper",
-                "AssemblyVersion": "1.15.2.2",
+                "AssemblyVersion": "1.15.2.4",
                 "Description": "Market Helper is an all-in-one market board tool with three tabs:\n\nUNDERCUT — Stand near a summoning bell and press Run. It walks every retainer on the bell and undercuts each listed item to the lowest price. HQ/NQ handling, own-retainer protection, per-item overrides, and price memory within a run. Skips mannequin/display items (detected by the game's mannequin icon) so they're never touched or delisted.\n\nLISTER — Build a list of items (hold CTRL and hover to quick-add, or search). Press Go and it walks the bell and lists them all, pricing each at the most common market price (ignoring lone troll/outlier listings) minus your undercut. Prices against your world, data center, or whole region. Handles the 20-item-per-retainer cap by rolling extra items to the next retainer. Includes a no-touch dry-run preview.\n\nFLIPPER — Search any marketable item and compare prices across Japan, America, Europe and Materia via Universalis. Top 10 listings per region, best cross-region flip, and seller/buyer tax modeling.\n\nOpen with /markethelp, /market, /mh, or /undercut.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dexcss/MarketHelper",
-                "LastUpdate": 1785797201
+                "LastUpdate": 1785809526
             },
             {
                 "Author": "Akari",
@@ -5201,11 +5212,11 @@
                 "Author": "Akari",
                 "Name": "Market Helper",
                 "InternalName": "MarketHelper",
-                "AssemblyVersion": "1.15.2.2",
+                "AssemblyVersion": "1.15.2.4",
                 "Description": "Market Helper is an all-in-one market board tool with three tabs:\n\nUNDERCUT — Stand near a summoning bell and press Run. It walks every retainer on the bell and undercuts each listed item to the lowest price. HQ/NQ handling, own-retainer protection, per-item overrides, and price memory within a run. Skips mannequin/display items (detected by the game's mannequin icon) so they're never touched or delisted.\n\nLISTER — Build a list of items (hold CTRL and hover to quick-add, or search). Press Go and it walks the bell and lists them all, pricing each at the most common market price (ignoring lone troll/outlier listings) minus your undercut. Prices against your world, data center, or whole region. Handles the 20-item-per-retainer cap by rolling extra items to the next retainer. Includes a no-touch dry-run preview.\n\nFLIPPER — Search any marketable item and compare prices across Japan, America, Europe and Materia via Universalis. Top 10 listings per region, best cross-region flip, and seller/buyer tax modeling.\n\nOpen with /markethelp, /market, /mh, or /undercut.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dexcss/MarketHelper",
-                "LastUpdate": 1785797201
+                "LastUpdate": 1785809526
             }
         ]
     },
@@ -6758,12 +6769,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "BossMod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.5.24",
+                "AssemblyVersion": "7.5.5.25",
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1785798217
+                "LastUpdate": 1785820000
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -11566,12 +11577,12 @@
                 "Author": "LastOnionKnight",
                 "Name": "Tonberry Tactics",
                 "InternalName": "GearGoblin",
-                "AssemblyVersion": "1.5.7.3",
+                "AssemblyVersion": "1.5.7.4",
                 "Description": "BiS planner with acquisition tracking and materia advisor for FFXIV. Reads your gear, compares against an Etro/XIVGear BiS or a casual stat-priority preset, and tells you what to farm next, what to meld, and what not to bother melding.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/LastOnionKnight/GearGoblin/main/images/icon.png",
                 "RepoUrl": "https://github.com/LastOnionKnight/GearGoblin",
-                "LastUpdate": 1783305306,
+                "LastUpdate": 1785806517,
                 "is_ai_attributed": true
             }
         ]
@@ -18152,7 +18163,7 @@
                 "Author": "kawaii, NightmareXIV",
                 "Name": "AutoRetainer",
                 "InternalName": "AutoRetainer",
-                "AssemblyVersion": "4.6.1.17",
+                "AssemblyVersion": "4.6.1.24",
                 "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/24",
@@ -18228,12 +18239,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.1.34",
+                "AssemblyVersion": "15.306.1.35",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1785798560,
+                "LastUpdate": 1785820114,
                 "is_ai_attributed": true
             },
             {
@@ -20055,6 +20066,73 @@
         ]
     },
     {
+        "repo_url": "https://dalamud.xiv.zone",
+        "repo_source_url": "https://github.com/redstrate/DalamudPlugins",
+        "repo_developer_name": "redstrate",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "redstrate",
+                "Name": "Auracite",
+                "InternalName": "Auracite",
+                "AssemblyVersion": "1.8.1.3",
+                "Description": "Archive your character in a portable, generic format",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/redstrate/Auracite/refs/heads/main/images/icon.png",
+                "RepoUrl": "https://github.com/redstrate/Auracite",
+                "LastUpdate": 1780604492
+            },
+            {
+                "Author": "redstrate",
+                "Name": "Easy Fullscreen",
+                "InternalName": "EasyFullscreen",
+                "AssemblyVersion": "1.5.0.0",
+                "Description": "Use F11 to go between fullscreen and windowed mode.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://codeberg.org/redstrate/EasyFullscreen"
+            },
+            {
+                "Author": "redstrate",
+                "Name": "Hooky",
+                "InternalName": "Hooky",
+                "AssemblyVersion": "1.7.0.0",
+                "Description": "Sends messages to a specified webhook endpoint, such as when a duty is popped or your character has logged in.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://codeberg.org/redstrate/Hooky"
+            },
+            {
+                "Author": "redstrate",
+                "Name": "Rebound",
+                "InternalName": "Rebound",
+                "AssemblyVersion": "1.7.0.1",
+                "Description": "Enables an unused flag in the client that fixes bone physics at high framerates.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/redstrate/Rebound/main/images/icon.png?raw=true",
+                "RepoUrl": "https://github.com/redstrate/Rebound",
+                "LastUpdate": 1785778729
+            },
+            {
+                "Author": "redstrate",
+                "Name": "Refitter",
+                "InternalName": "Refitter",
+                "AssemblyVersion": "1.7.0.1",
+                "Description": "Add gear model-specific bone overrides.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://codeberg.org/redstrate/Refitter/raw/branch/main/images/icon.png",
+                "RepoUrl": "https://codeberg.org/redstrate/Refitter"
+            },
+            {
+                "Author": "redstrate",
+                "Name": "Scripter",
+                "InternalName": "Scripter",
+                "AssemblyVersion": "1.4.0.0",
+                "Description": "Inspect the game's Lua state and run custom Lua code",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://codeberg.org/redstrate/Scripter"
+            }
+        ]
+    },
+    {
         "repo_developer_name": "ReiwaTech",
         "repo_url": "https://raw.githubusercontent.com/ReiwaTech/DalamudPluginRepo/master/pluginmaster.json",
         "repo_source_url": "https://github.com/ReiwaTech/DalamudPluginRepo",
@@ -20488,11 +20566,11 @@
                 "Author": "RoarkGit",
                 "Name": "XIV Raid Tools",
                 "InternalName": "XIVRaidToolsPlugin",
-                "AssemblyVersion": "0.1.6.0",
+                "AssemblyVersion": "0.1.7.0",
                 "Description": "A growing set of in-game raid tools, starting with Kefka Says, an in-game mirror of the Kefka Says / UMAD room tracker, synced with the webapp over the same WebSocket relay. Open with /xrt kefka.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/RoarkGit/XIV-Raid-Tools",
-                "LastUpdate": 1785638506
+                "LastUpdate": 1785815207
             }
         ]
     },
@@ -21852,11 +21930,11 @@
                 "Author": "ShaalaXIV",
                 "Name": "EmoteLink",
                 "InternalName": "EmoteLink",
-                "AssemblyVersion": "1.0.25.0",
+                "AssemblyVersion": "1.0.33.0",
                 "Description": "A plain Penumbra animation launcher with temporary activation, target alignment, and synchronized group play.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ShaalaXIV/EmoteLink",
-                "LastUpdate": 1785717852
+                "LastUpdate": 1785820551
             }
         ]
     },
@@ -22069,11 +22147,11 @@
                 "Author": "Shinoyami",
                 "Name": "MitPlan",
                 "InternalName": "MitPlan",
-                "AssemblyVersion": "1.2.0.18",
+                "AssemblyVersion": "1.2.0.20",
                 "Description": "Displays editable job/role-specific mitigation reminders using default plans based on PF, Ikuya, and NAUR mitigation strategies where available.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Shinoyami/DalamudPlugins/tree/main/plugins/MitPlan",
-                "LastUpdate": 1785541302,
+                "LastUpdate": 1785814377,
                 "is_ai_attributed": true
             },
             {
@@ -22084,7 +22162,7 @@
                 "Description": "Records encounter casts and abilities, provides editable phase anchors and mitigation assignments, imports mitigation CSV files, and sends reviewed plans directly to MitPlan.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Shinoyami/DalamudPlugins",
-                "LastUpdate": 1785778138
+                "LastUpdate": 1785814391
             }
         ]
     },
@@ -22682,12 +22760,12 @@
                 "Author": "Spibane",
                 "Name": "Dungeon Drip",
                 "InternalName": "DungeonDrip",
-                "AssemblyVersion": "0.13.0.0",
+                "AssemblyVersion": "0.14.0.0",
                 "Description": "Enter a dungeon (or look one up) and Dungeon Drip shows the gear that drops there which is not yet in your Glamour Dresser or Armoire.\n\nOpen a vendor and a panel beside it lists the glamour gear that shop stocks, marked by where you already have each piece. Anything that cannot be kept as a glamour is left out.\n\nBecause the game wipes Glamour Dresser data on every zone change and only loads the Armoire on demand, the plugin caches your collection per character and tells you when that snapshot is getting old.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Spibane/DungeonDrip/main/images/icon.png",
                 "RepoUrl": "https://github.com/Spibane/DungeonDrip",
-                "LastUpdate": 1785787804,
+                "LastUpdate": 1785810164,
                 "is_ai_attributed": true
             }
         ]
@@ -23245,12 +23323,12 @@
                 "Author": "Null",
                 "Name": "Chocobo Color Calculator",
                 "InternalName": "ChocoboColorCalculator",
-                "AssemblyVersion": "0.5.0.0",
+                "AssemblyVersion": "0.6.1.0",
                 "Description": "Calculates and tracks ordered fruit routes between companion chocobo colors.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/t0nysama/ChocoboColorCalculator/79e26fa213c3934ec5d9246cbffc6fdb14423809/images/icon.png",
                 "RepoUrl": "https://github.com/t0nysama/ChocoboColorCalculator",
-                "LastUpdate": 1785744304
+                "LastUpdate": 1785818290
             }
         ]
     },
@@ -25382,7 +25460,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1785699533,
+                "LastUpdate": 1785820918,
                 "is_ai_attributed": true
             },
             {
@@ -26138,7 +26216,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/youdianfengbao/BossmodRebornCN",
-                "LastUpdate": 1785805536,
+                "LastUpdate": 1785816233,
                 "is_ai_attributed": true
             },
             {
@@ -26167,12 +26245,12 @@
                 "Author": "youdianfengbao (基于 PunishXIV/Questionable)",
                 "Name": "Questionable (国服汉化)",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.1.30",
+                "AssemblyVersion": "15.306.1.35",
                 "Description": "国服汉化版自动任务插件，基于 PunishXIV/Questionable。可在尽可能的情况下自动完成游戏任务。\n所需插件：vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://qstxiv.github.io/icons/Questionable.png",
                 "RepoUrl": "https://github.com/youdianfengbao/Questionable",
-                "LastUpdate": 1785742234,
+                "LastUpdate": 1785818628,
                 "is_ai_attributed": true
             },
             {
