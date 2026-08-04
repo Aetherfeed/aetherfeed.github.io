@@ -460,7 +460,7 @@
                 "Author": "Astraea, nihal_shadescale",
                 "Name": "AetherLove - AetherOS",
                 "InternalName": "AetherLovePlugin",
-                "AssemblyVersion": "2.1.3.0",
+                "AssemblyVersion": "2.2.1.0",
                 "Description": "FFXIV in-game dating and matchmaking — swipe, match, and chat with other adventurers. /al opens the phone.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/154",
@@ -3715,6 +3715,35 @@
         ]
     },
     {
+        "repo_developer_name": "CelineXIV",
+        "repo_url": "https://raw.githubusercontent.com/CelineXIV/CelinesTools/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/CelineXIV/CelinesTools",
+        "repo_name": "CelinesTools",
+        "plugins": [
+            {
+                "Author": "CelineXIV",
+                "Name": "CelinesRPChat",
+                "InternalName": "CelinesRPChat",
+                "AssemblyVersion": "1.0.3.0",
+                "Description": "Hello there! General Kenobi! This plugin is designed to replace the existing RP chat plugins. It ignores the character limit, allowing you to write as much as you want. Once you're finished, simply click **\"Send\"**, and the plugin will automatically post all paragraphs. Colors, font size, and many other settings can be customized to suit your preferences.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://cdn.jsdelivr.net/gh/CelineXIV/CelinesTools@main/CelinesRPChat/images/icon-v2.png",
+                "RepoUrl": "https://github.com/CelineXIV/CelinesTools",
+                "LastUpdate": 1785803315
+            },
+            {
+                "Author": "CelineXIV",
+                "Name": "CelinesToolkit",
+                "InternalName": "CelinesToolkit",
+                "AssemblyVersion": "1.4.0.0",
+                "Description": "Persoenliches Werkzeugkasten-Plugin mit mehreren Werkzeugen: Commandtool speichert Befehlsfolgen (z.B. \"/porch play 1\") als Makros und fuehrt sie per Chat-Befehl oder Klick aus. Quickbar ist eine kleine immer sichtbare Leiste, um ein gespeichertes Makro per Dropdown und Play-Button sofort auszufuehren. Orchestrion schaltet das Porch-Plugin bei Login/Gebietswechsel automatisch stumm. Preview Manager ergaenzt fehlende Vorschaubilder bei Penumbra-Mods, speichert sie direkt im jeweiligen Mod-Ordner und zeigt sie auch direkt in Penumbras eigenem Mod-Fenster an. Oberflaeche auf Deutsch/Englisch je nach Dalamud-Spracheinstellung.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/CelineXIV/CelinesTools",
+                "LastUpdate": 1785803315
+            }
+        ]
+    },
+    {
         "repo_url": "https://raw.githubusercontent.com/cfsen/Ktisis/main/repo.json",
         "repo_source_url": "https://github.com/cfsen/Ktisis",
         "repo_name": "Ktisis",
@@ -3892,7 +3921,7 @@
                 "Author": "CometTheFrog",
                 "Name": "Aethernet Explorer",
                 "InternalName": "AethernetExplorer.Plugin",
-                "AssemblyVersion": "0.9.0.8",
+                "AssemblyVersion": "0.9.0.13",
                 "Description": "An in-game web browser for FFXIV with isolated Chromium rendering, independent Shards, workspaces, Favored Destinations, and site-aware Focus modes.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/CometTheFrog/AethernetExplorer"
@@ -4331,7 +4360,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/dajoey/lalalazy/main/LalaImages/pvpsolver-icon.png",
                 "RepoUrl": "https://github.com/dajoey/lalalazy/tree/main/plugins/PvPSolver",
-                "LastUpdate": 1785506048,
+                "LastUpdate": 1785795081,
                 "is_ai_attributed": true
             }
         ]
@@ -4503,7 +4532,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Daydricoldsmith/Moddle/main/Assets/moddle-logo.png",
                 "RepoUrl": "https://github.com/Daydricoldsmith/Moddle",
-                "LastUpdate": 1785776901
+                "LastUpdate": 1785776901,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -4909,11 +4939,11 @@
                 "Author": "deserokk",
                 "Name": "DeserokUtils",
                 "InternalName": "DeserokUtils",
-                "AssemblyVersion": "1.0.0.0",
+                "AssemblyVersion": "1.2.1.0",
                 "Description": "Small quality-of-life utilities, one feature per tab.\n\nCastWatch: gate a macro line on whether an action actually went off. Arm a watch above the /ac, then /ifwatch runs your line only if the action was accepted -- or cancels the macro if it was not. Works for instant casts, oGCDs and usable items, none of which produce a cast bar to observe. Optional target filters (--self, --notself, --party) and a {who} token that fills in whoever actually received it, which a vanilla macro cannot do.\n\nIt never composes or sends anything on your behalf; it only runs or suppresses a line you already wrote.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/deserokk/DeserokUtils",
-                "LastUpdate": 1785682386
+                "LastUpdate": 1785804324
             }
         ]
     },
@@ -4927,11 +4957,11 @@
                 "Author": "deserokk",
                 "Name": "DeserokUtils",
                 "InternalName": "DeserokUtils",
-                "AssemblyVersion": "1.0.0.0",
+                "AssemblyVersion": "1.2.1.0",
                 "Description": "Small quality-of-life utilities, one feature per tab.\n\nCastWatch: gate a macro line on whether an action actually went off. Arm a watch above the /ac, then /ifwatch runs your line only if the action was accepted -- or cancels the macro if it was not. Works for instant casts, oGCDs and usable items, none of which produce a cast bar to observe. Optional target filters (--self, --notself, --party) and a {who} token that fills in whoever actually received it, which a vanilla macro cannot do.\n\nIt never composes or sends anything on your behalf; it only runs or suppresses a line you already wrote.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/deserokk/DeserokUtils",
-                "LastUpdate": 1785682386
+                "LastUpdate": 1785804324
             }
         ]
     },
@@ -5096,21 +5126,21 @@
                 "Author": "Akari",
                 "Name": "Housing Lotto Tracker",
                 "InternalName": "HousingLottoTracker",
-                "AssemblyVersion": "1.0.3.3",
+                "AssemblyVersion": "1.0.3.4",
                 "Description": "Passively records every housing lottery bid you place, per character, by reading the placard when you interact with it. One row per bid: character/world, region, district, ward, plot, size, FC-vs-personal, entry date, results-available date with live countdown, and outcome (Pending/Won/Lost). Auto-captures placard data during entry and results periods; auto-detects wins via the results SelectYesno; entry number is grabbed when shown and editable otherwise. Sortable table with click-to-expand details, per-column toggles, editable notes, and optional shared storage across all clients. Open with /hlt (alias /lotto).",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dexcss/HousingLottoTracker",
-                "LastUpdate": 1785146952
+                "LastUpdate": 1785797254
             },
             {
                 "Author": "Akari",
                 "Name": "Market Helper",
                 "InternalName": "MarketHelper",
-                "AssemblyVersion": "1.15.1.6",
+                "AssemblyVersion": "1.15.2.2",
                 "Description": "Market Helper is an all-in-one market board tool with three tabs:\n\nUNDERCUT — Stand near a summoning bell and press Run. It walks every retainer on the bell and undercuts each listed item to the lowest price. HQ/NQ handling, own-retainer protection, per-item overrides, and price memory within a run. Skips mannequin/display items (detected by the game's mannequin icon) so they're never touched or delisted.\n\nLISTER — Build a list of items (hold CTRL and hover to quick-add, or search). Press Go and it walks the bell and lists them all, pricing each at the most common market price (ignoring lone troll/outlier listings) minus your undercut. Prices against your world, data center, or whole region. Handles the 20-item-per-retainer cap by rolling extra items to the next retainer. Includes a no-touch dry-run preview.\n\nFLIPPER — Search any marketable item and compare prices across Japan, America, Europe and Materia via Universalis. Top 10 listings per region, best cross-region flip, and seller/buyer tax modeling.\n\nOpen with /markethelp, /market, /mh, or /undercut.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dexcss/MarketHelper",
-                "LastUpdate": 1785713419
+                "LastUpdate": 1785797201
             },
             {
                 "Author": "Akari",
@@ -5153,11 +5183,11 @@
                 "Author": "Akari",
                 "Name": "Housing Lotto Tracker",
                 "InternalName": "HousingLottoTracker",
-                "AssemblyVersion": "1.0.3.3",
+                "AssemblyVersion": "1.0.3.4",
                 "Description": "Passively records every housing lottery bid you place, per character, by reading the placard when you interact with it. One row per bid: character/world, region, district, ward, plot, size, FC-vs-personal, entrant count, entry date, results-available date with live countdown, and outcome (Pending/Won/Lost). Auto-captures placard data during entry and results periods; auto-detects wins via the results SelectYesno; entry number is grabbed when shown and editable otherwise. Sortable table with click-to-expand details, per-column toggles, editable notes, and optional shared storage across all clients. Open with /hlt (alias /lotto).",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dexcss/HousingLottoTracker",
-                "LastUpdate": 1785146952
+                "LastUpdate": 1785797254
             }
         ]
     },
@@ -5171,11 +5201,11 @@
                 "Author": "Akari",
                 "Name": "Market Helper",
                 "InternalName": "MarketHelper",
-                "AssemblyVersion": "1.15.1.6",
+                "AssemblyVersion": "1.15.2.2",
                 "Description": "Market Helper is an all-in-one market board tool with three tabs:\n\nUNDERCUT — Stand near a summoning bell and press Run. It walks every retainer on the bell and undercuts each listed item to the lowest price. HQ/NQ handling, own-retainer protection, per-item overrides, and price memory within a run. Skips mannequin/display items (detected by the game's mannequin icon) so they're never touched or delisted.\n\nLISTER — Build a list of items (hold CTRL and hover to quick-add, or search). Press Go and it walks the bell and lists them all, pricing each at the most common market price (ignoring lone troll/outlier listings) minus your undercut. Prices against your world, data center, or whole region. Handles the 20-item-per-retainer cap by rolling extra items to the next retainer. Includes a no-touch dry-run preview.\n\nFLIPPER — Search any marketable item and compare prices across Japan, America, Europe and Materia via Universalis. Top 10 listings per region, best cross-region flip, and seller/buyer tax modeling.\n\nOpen with /markethelp, /market, /mh, or /undercut.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dexcss/MarketHelper",
-                "LastUpdate": 1785713419
+                "LastUpdate": 1785797201
             }
         ]
     },
@@ -5909,19 +5939,19 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Enceladeum/HMoniker/main/images/icon.png",
                 "RepoUrl": "https://github.com/Enceladeum/HMoniker",
-                "LastUpdate": 1785534486,
+                "LastUpdate": 1785795315,
                 "is_ai_attributed": true
             },
             {
                 "Author": "The Enceladeum",
                 "Name": "HMapSync (HMS)",
                 "InternalName": "HMSync",
-                "AssemblyVersion": "1.0.0.5",
+                "AssemblyVersion": "1.0.0.6",
                 "Description": "Load any in-game map client-side and explore it solo or with up to 20 friends, behind a packet filter that keeps the server seeing you as idle in your room. Shared weather, BGM and time; client-side mounts, emotes and minions; carpet floors for spots without collision; head-tilt and gaze sync for roleplay; and proximity say/yell passthrough. Co-op needs a relay key (closed beta); solo mode never connects to the relay.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Enceladeum/HMapSync/main/images/icon.png",
                 "RepoUrl": "https://github.com/Enceladeum/HMapSync",
-                "LastUpdate": 1785710807,
+                "LastUpdate": 1785800877,
                 "is_ai_attributed": true
             },
             {
@@ -6728,12 +6758,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "BossMod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.5.23",
+                "AssemblyVersion": "7.5.5.24",
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1785781561
+                "LastUpdate": 1785798217
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -6794,12 +6824,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.5.20",
+                "AssemblyVersion": "7.5.5.21",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1785780939
+                "LastUpdate": 1785798191
             },
             {
                 "Author": "Churin",
@@ -9318,7 +9348,7 @@
                 "Author": "jFray",
                 "Name": "EchoMix",
                 "InternalName": "EchoMix.Plugin",
-                "AssemblyVersion": "1.1.7.2",
+                "AssemblyVersion": "1.2.0.1",
                 "Description": "An interactive DJ deck with live mixing tools, custom playlists, and a synced listener mode with an audio visualizer.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/icon.png",
@@ -10067,11 +10097,11 @@
                 "Author": "KangasZ",
                 "Name": "BattleLog",
                 "InternalName": "BattleLog",
-                "AssemblyVersion": "0.0.0.3",
+                "AssemblyVersion": "0.0.0.4",
                 "Description": "Trigger making made easy",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/KangasZ/BattleLog",
-                "LastUpdate": 1767619495
+                "LastUpdate": 1785789964
             },
             {
                 "Author": "KangasZ",
@@ -10087,11 +10117,11 @@
                 "Author": "KangasZ",
                 "Name": "Radar Plugin",
                 "InternalName": "RadarPlugin",
-                "AssemblyVersion": "2.2.1.0",
+                "AssemblyVersion": "2.2.1.1",
                 "Description": "Radar to see enemies, objects, and interactables through walls.\nThis is an ESP, please don't use it to call aliens down.\nPlease report any issues to the author.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/KangasZ/RadarPlugin",
-                "LastUpdate": 1785773844
+                "LastUpdate": 1785795020
             },
             {
                 "Author": "KangasZ",
@@ -11163,24 +11193,24 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.1.30",
+                "AssemblyVersion": "15.306.1.34",
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1785708221,
+                "LastUpdate": 1785798560,
                 "is_ai_attributed": true
             },
             {
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.5.19",
+                "AssemblyVersion": "7.5.5.21",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1785700988
+                "LastUpdate": 1785798191
             },
             {
                 "Author": "Team Wrath",
@@ -11191,7 +11221,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1785665116
+                "LastUpdate": 1785783566
             }
         ]
     },
@@ -11347,11 +11377,11 @@
                 "Author": "Kyo",
                 "Name": "HQ Sync",
                 "InternalName": "HQSync",
-                "AssemblyVersion": "1.0.5.0",
+                "AssemblyVersion": "1.0.14.0",
                 "Description": "Gosh dat thang is HQ..",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kyo-filet/hq-sync",
-                "LastUpdate": 1785681186
+                "LastUpdate": 1785784200
             }
         ]
     },
@@ -12509,6 +12539,44 @@
                 "IconUrl": "https://s3.puni.sh/media/plugin/7/icon-bl3wub19h2u.png",
                 "RepoUrl": "https://github.com/PunishXIV/Saucy",
                 "LastUpdate": 1783724798
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Maateria",
+        "repo_url": "https://raw.githubusercontent.com/Maateria/NearbyPlayers/main/repo.json",
+        "repo_source_url": "https://github.com/Maateria/NearbyPlayers",
+        "repo_name": "NearbyPlayers",
+        "plugins": [
+            {
+                "Author": "Maxime",
+                "Name": "Nearby Players",
+                "InternalName": "NearbyPlayers",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "Affiche tous les joueurs proches (groupe et hors groupe) tries par distance, avec une barre de PV cliquable pour les cibler. Pratique pour reperer et ressusciter les morts. Commande : /nearby",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Maateria/NearbyPlayers",
+                "LastUpdate": 1785788704,
+                "is_ai_attributed": true
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Maateria",
+        "repo_url": "https://raw.githubusercontent.com/Maateria/OccultWeakness/main/repo.json",
+        "repo_source_url": "https://github.com/Maateria/OccultWeakness",
+        "repo_name": "OccultWeakness",
+        "plugins": [
+            {
+                "Author": "Maxime",
+                "Name": "Occult Weakness",
+                "InternalName": "OccultWeakness",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "Apprend automatiquement la faiblesse elementaire de chaque boss de Critical Encounter et de FATE en lisant le statut pose par Occult Libra, puis vous l'affiche des l'entree dans la zone du CE, avant meme que le boss n'apparaisse. Commande : /occultweak",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Maateria/OccultWeakness",
+                "LastUpdate": 1785795642,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -13779,6 +13847,17 @@
                 "RepoUrl": "https://github.com/miralsoft/Dalamud-Eorzea-Arsenal",
                 "LastUpdate": 1785649511,
                 "is_ai_attributed": true
+            },
+            {
+                "Author": "Sanaka",
+                "Name": "Fate Compass",
+                "InternalName": "FateCompass",
+                "AssemblyVersion": "1.0.1.0",
+                "Description": "Lists the active FATEs in your current zone, ranks them by distance, remaining time, and progress, and shows the nearest aetheryte for each one. Adds a flag button for sharing a target with your party and an optional single trigger for the small preparation steps around entering a FATE. The plugin never plays for you.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/miralsoft/Dalamud-Fate-Compass/main/src/FateCompass/images/icon.png",
+                "RepoUrl": "https://github.com/miralsoft/Dalamud-Fate-Compass",
+                "LastUpdate": 1785793355
             }
         ]
     },
@@ -14002,7 +14081,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/monstersghost/PenumbraOrganizerPlugin/main/PenumbraOrganizer.Plugin/images/icon.png",
                 "RepoUrl": "https://github.com/monstersghost/PenumbraOrganizerPlugin",
-                "LastUpdate": 1785429074,
+                "LastUpdate": 1785787696,
                 "is_ai_attributed": true
             }
         ]
@@ -14762,12 +14841,12 @@
                 "Author": "nxships",
                 "Name": "PlayerNexusTracker",
                 "InternalName": "PlayerNexusTracker",
-                "AssemblyVersion": "0.2.0.0",
+                "AssemblyVersion": "0.3.0.0",
                 "Description": "Track players you meet in FFXIV — who they are, when you ran into them, how their characters change over time. A focused social tracker built on the NexusKit framework.\n\nPer-player detail view with Summary, Equipment, Class/Jobs, Achievements, Free Company, Encounters, History and Notes tabs. Optional enrichment from Lodestone (gear, FC link, achievement progress) and FFXIVCollect (mounts, minions, full achievement catalog). Live throttled refresh queue keeps external data fresh without hammering either service.\n\nConfigurable chat and toast notifications when players you've seen before change — rename, server transfer, Free Company join/leave/switch, achievement growth, refresh failures. Per-event filtering and history grouping so the chat doesn't drown you.\n\nPowerful player-filter language with live preview to slice your list however you want; encounter history scoped per duty and content type; optional bridges to other Dalamud plugins (Lifestream world-travel, more to come).\n\nLocal-first: all data lives in a single SQLite file under your XIVLauncher config. Automated weekly maintenance keeps it tidy. English and German localization.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/NexusFFXIV/PlayerNexusTracker/main/PlayerNexusTracker.Plugin/images/icon.png",
                 "RepoUrl": "https://github.com/NexusFFXIV/PlayerNexusTracker",
-                "LastUpdate": 1785495927,
+                "LastUpdate": 1785787337,
                 "is_ai_attributed": true
             }
         ]
@@ -16258,12 +16337,12 @@
                 "Author": "ofnature",
                 "Name": "SealBreaker",
                 "InternalName": "SealBreaker",
-                "AssemblyVersion": "1.2.0.0",
+                "AssemblyVersion": "1.2.0.1",
                 "Description": "Automates dungeon farming, GC expert delivery, and grand company item purchasing. Supports AutoDuty and ADS.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ofnature/SealBreaker/main/SealBreaker/icon.png",
                 "RepoUrl": "https://github.com/ofnature/SealBreaker",
-                "LastUpdate": 1785752400,
+                "LastUpdate": 1785792664,
                 "is_ai_attributed": true
             }
         ]
@@ -16278,12 +16357,12 @@
                 "Author": "Faye, Kage",
                 "Name": "Better Occult Crescent & Chest Helper Interface",
                 "InternalName": "BOCCHI",
-                "AssemblyVersion": "4.0.2.1",
+                "AssemblyVersion": "4.0.2.3",
                 "Description": "BOCCHI is here to smooth out your Occult Crescent experience.\n- No more of that pesky 'walking' or 'finding chests'. That's for losers.\n- A cute little Fate and CE panel that'll tell you what rewards it gives AND help you automatically path to it, wowee.\n- An extre illegal 'illegal mode' for those of you that would rather be touching grass or playing a game with worthwhile content.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/OhKannaDuh/OccultCrescentHelper/refs/heads/master/assets/icon.png",
                 "RepoUrl": "https://github.com/OhKannaDuh/OccultCrescentHelper",
-                "LastUpdate": 1785737775
+                "LastUpdate": 1785801268
             },
             {
                 "Author": "Faye",
@@ -18149,12 +18228,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.1.31",
+                "AssemblyVersion": "15.306.1.34",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1785782896,
+                "LastUpdate": 1785798560,
                 "is_ai_attributed": true
             },
             {
@@ -18225,7 +18304,7 @@
                 "Author": "croizat",
                 "Name": "Glamour Log",
                 "InternalName": "GlamourLog",
-                "AssemblyVersion": "15.55",
+                "AssemblyVersion": "15.56",
                 "Description": "A log for all your glamours and other glam-related tweaks",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/136",
@@ -18549,7 +18628,7 @@
                 "Author": "nainaiowo",
                 "Name": "Eidos",
                 "InternalName": "Eidos",
-                "AssemblyVersion": "0.1.0.36",
+                "AssemblyVersion": "0.1.0.38",
                 "Description": "A Gposing and scene tool.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nainaiowo/Eidos"
@@ -18594,23 +18673,23 @@
                 "Author": "Nexai",
                 "Name": "FCCH",
                 "InternalName": "FCCH",
-                "AssemblyVersion": "2.4.5.0",
+                "AssemblyVersion": "2.4.6.0",
                 "Description": "Free Company Chest Helper. Automate deposits, withdrawals, organization, crystals, workshop project pulls, and custom item lists.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/149",
                 "RepoUrl": "https://github.com/Nexaii/FCCH",
-                "LastUpdate": 1785111238
+                "LastUpdate": 1785794300
             },
             {
                 "Author": "Nexai",
                 "Name": "Mogmail",
                 "InternalName": "Mogmail",
-                "AssemblyVersion": "1.2.4.0",
+                "AssemblyVersion": "1.2.5.0",
                 "Description": "A better mail service. Bulk attachment claiming, bulk delete, and inventory pop.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/148",
                 "RepoUrl": "https://github.com/Nexaii/Mogmail",
-                "LastUpdate": 1785277553
+                "LastUpdate": 1785791163
             }
         ]
     },
@@ -21080,11 +21159,11 @@
                 "Author": "Kait",
                 "Name": "RetroFFXIV",
                 "InternalName": "SnesEmulator",
-                "AssemblyVersion": "0.2.1.4",
+                "AssemblyVersion": "0.2.1.6",
                 "Description": "A multi-core libretro emulator embedded in a Dalamud window. Drop any libretro core into the cores/ folder — SNES, GBA, Genesis, and more. Keyboard and controller support, configurable key bindings, resolution scaling, CRT effects, friend spectating, and netplay.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/SaekoFFXIV/RetroFFXIV",
-                "LastUpdate": 1785783578
+                "LastUpdate": 1785787487
             }
         ]
     },
@@ -22603,12 +22682,12 @@
                 "Author": "Spibane",
                 "Name": "Dungeon Drip",
                 "InternalName": "DungeonDrip",
-                "AssemblyVersion": "0.12.1.0",
+                "AssemblyVersion": "0.13.0.0",
                 "Description": "Enter a dungeon (or look one up) and Dungeon Drip shows the gear that drops there which is not yet in your Glamour Dresser or Armoire.\n\nOpen a vendor and a panel beside it lists the glamour gear that shop stocks, marked by where you already have each piece. Anything that cannot be kept as a glamour is left out.\n\nBecause the game wipes Glamour Dresser data on every zone change and only loads the Armoire on demand, the plugin caches your collection per character and tells you when that snapshot is getting old.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Spibane/DungeonDrip/main/images/icon.png",
                 "RepoUrl": "https://github.com/Spibane/DungeonDrip",
-                "LastUpdate": 1785733541,
+                "LastUpdate": 1785787804,
                 "is_ai_attributed": true
             }
         ]
@@ -22939,6 +23018,24 @@
     },
     {
         "repo_developer_name": "Surlako",
+        "repo_url": "https://raw.githubusercontent.com/Surlako/Delvui-Input-Guard/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/Surlako/Delvui-Input-Guard",
+        "repo_name": "Delvui-Input-Guard",
+        "plugins": [
+            {
+                "Author": "Surlako",
+                "Name": "DelvUI Input Guard",
+                "InternalName": "DelvUIInputGuard",
+                "AssemblyVersion": "0.2.0.0",
+                "Description": "Publishes interactive plugin-window rectangles to DelvUI's native third-party clipping system so DelvUI unit frames ignore hover, targeting, clicks, context menus, and drag input underneath Penumbra, QoLBar, and other ImGui windows. Use /dig for settings.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Surlako/Delvui-Input-Guard",
+                "LastUpdate": 1785805068
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Surlako",
         "repo_url": "https://raw.githubusercontent.com/Surlako/Lightless-Auto-Pair/main/pluginmaster.json",
         "repo_source_url": "https://github.com/Surlako/Lightless-Auto-Pair",
         "repo_name": "Lightless-Auto-Pair",
@@ -22947,11 +23044,11 @@
                 "Author": "Surlako",
                 "Name": "Lightless Auto Pair",
                 "InternalName": "LightlessAutoPair",
-                "AssemblyVersion": "0.1.0.0",
+                "AssemblyVersion": "0.1.3.0",
                 "Description": "A companion for Lightless Sync that can automatically contact nearby Lightfinder broadcasters. Includes a master toggle, a 3–30 second delay, persistent decline blacklist, pending/paired protection, status log, and automatic pause while Lightless is disconnected. Use /lightautopair for settings.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Surlako/Lightless-Auto-Pair",
-                "LastUpdate": 1785783555
+                "LastUpdate": 1785795260
             }
         ]
     },
@@ -22962,14 +23059,14 @@
         "repo_name": "QoLBarGlamourerPreview",
         "plugins": [
             {
-                "Author": "Surlako",
+                "Author": "Steve",
                 "Name": "QoLBar Glamour Preview",
                 "InternalName": "QoLBarGlamourPreview",
-                "AssemblyVersion": "0.1.0.0",
+                "AssemblyVersion": "0.1.1.0",
                 "Description": "Detects text shortcuts drawn inside QoLBar and displays the matching Glamourer Preview Manager screenshot as a hover preview. Use /qolglampreview for settings.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Surlako/QoLBarGlamourerPreview",
-                "LastUpdate": 1785774714
+                "LastUpdate": 1785797603
             }
         ]
     },
@@ -23392,12 +23489,12 @@
                 "Author": "ThatKwistine",
                 "Name": "Wardrobe",
                 "InternalName": "WardrobePlugin",
-                "AssemblyVersion": "1.3.0.0",
+                "AssemblyVersion": "1.3.0.1",
                 "Description": "A visual wardrobe for Penumbra mods. Each entry targets a single equipment slot, so you can wear or unwear exactly what you want without disturbing the rest of your look. Handles items spanning several mods, mod option groups, hair and other customisation mods, image previews, tags, favourites, search and sort, and automated screenshot sessions.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ThatKwistine/WardrobePlugin/main/images/icon.png",
                 "RepoUrl": "https://github.com/ThatKwistine/WardrobePlugin",
-                "LastUpdate": 1785783573,
+                "LastUpdate": 1785788863,
                 "is_ai_attributed": true
             }
         ]
@@ -24764,12 +24861,12 @@
                 "Author": "Izzy",
                 "Name": "Izzy's Furniture",
                 "InternalName": "IzzysFurniture",
-                "AssemblyVersion": "0.1.6.0",
+                "AssemblyVersion": "0.1.7.0",
                 "Description": "Spawn furniture, NPCs, and map assets anywhere.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/vmvrchelina/izzysfurniture/main/icon.png",
                 "RepoUrl": "https://github.com/vmvrchelina/izzysfurniture",
-                "LastUpdate": 1785427588
+                "LastUpdate": 1785802686
             }
         ]
     },
@@ -26036,12 +26133,12 @@
                 "Author": "youdianfengbao (基于 KanoNoUta/BossmodRebornCN)",
                 "Name": "BossMod Reborn CN (国服汉化)",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.5.20",
+                "AssemblyVersion": "7.5.5.22",
                 "Description": "BossMod Reborn 国服 7.55 适配版，提供副本与大型探索任务的机制提示。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/youdianfengbao/BossmodRebornCN",
-                "LastUpdate": 1785739720,
+                "LastUpdate": 1785805536,
                 "is_ai_attributed": true
             },
             {
