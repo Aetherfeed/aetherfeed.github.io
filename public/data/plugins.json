@@ -1203,11 +1203,11 @@
                 "Author": "AliaXIV",
                 "Name": "Kefka Helper",
                 "InternalName": "KefkaHelper",
-                "AssemblyVersion": "0.0.0.2",
+                "AssemblyVersion": "0.0.0.3",
                 "Description": "TBA",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AliaXIV/KefkaHelper",
-                "LastUpdate": 1782841426
+                "LastUpdate": 1785896466
             },
             {
                 "Author": "AliaXIV",
@@ -3725,23 +3725,23 @@
                 "Author": "CelineXIV",
                 "Name": "CelinesRPChat",
                 "InternalName": "CelinesRPChat",
-                "AssemblyVersion": "1.1.0.0",
+                "AssemblyVersion": "1.5.1.0",
                 "Description": "Hello there! General Kenobi! This plugin is designed to replace the existing RP chat plugins. It ignores the character limit, allowing you to write as much as you want. Once you're finished, simply click **\"Send\"**, and the plugin will automatically post all paragraphs. Colors, font size, and many other settings can be customized to suit your preferences.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://cdn.jsdelivr.net/gh/CelineXIV/CelinesTools@main/CelinesRPChat/images/icon-v2.png",
                 "RepoUrl": "https://github.com/CelineXIV/CelinesTools/tree/main/CelinesRPChat",
-                "LastUpdate": 1785885284
+                "LastUpdate": 1785893957
             },
             {
                 "Author": "CelineXIV",
                 "Name": "CelinesToolkit",
                 "InternalName": "CelinesToolkit",
-                "AssemblyVersion": "1.6.2.0",
+                "AssemblyVersion": "1.7.1.0",
                 "Description": "Persoenliches Werkzeugkasten-Plugin mit mehreren Werkzeugen: Commandtool speichert Befehlsfolgen (z.B. \"/porch play 1\") als Makros und fuehrt sie per Chat-Befehl oder Klick aus. Quickbar ist eine kleine immer sichtbare Leiste, um ein gespeichertes Makro per Dropdown und Play-Button sofort auszufuehren. Orchestrion schaltet das Porch-Plugin bei Login/Gebietswechsel automatisch stumm. Preview Manager ergaenzt fehlende Vorschaubilder bei Penumbra-Mods, speichert sie direkt im jeweiligen Mod-Ordner und zeigt sie auch direkt in Penumbras eigenem Mod-Fenster an. Oberflaeche auf Deutsch/Englisch je nach Dalamud-Spracheinstellung.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://cdn.jsdelivr.net/gh/CelineXIV/CelinesTools@main/CelinesToolkit/images/icon.png",
                 "RepoUrl": "https://github.com/CelineXIV/CelinesTools/tree/main/CelinesToolkit",
-                "LastUpdate": 1785875895
+                "LastUpdate": 1785899940
             }
         ]
     },
@@ -3923,7 +3923,7 @@
                 "Author": "CometTheFrog",
                 "Name": "Aethernet Explorer",
                 "InternalName": "AethernetExplorer.Plugin",
-                "AssemblyVersion": "0.9.0.13",
+                "AssemblyVersion": "0.9.0.18",
                 "Description": "An in-game web browser for FFXIV with isolated Chromium rendering, independent Shards, workspaces, Favored Destinations, and site-aware Focus modes.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/CometTheFrog/AethernetExplorer"
@@ -5488,15 +5488,15 @@
         "repo_name": "DululFFXIVTools",
         "plugins": [
             {
-                "Author": "dulu8",
+                "Author": "Dulul",
                 "Name": "Thank Helper",
                 "InternalName": "ThankHelper",
-                "AssemblyVersion": "0.1.0.0",
+                "AssemblyVersion": "0.1.1.0",
                 "Description": "面向骑士、战士、暗黑骑士和绝枪战士的 PvE 静默自动打断助手。插件会后台扫描已进入战斗的敌方读条，在不选择或切换目标的情况下优先使用插言，并可通过本地自学习使用下踢；同时支持打断延迟、插言黑名单、成功提示以及学习库分享码。PvP 中强制禁用，未知下踢试探默认关闭。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Dulul818/DululFFXIVTools/main/assets/thankhelper-icon.png",
                 "RepoUrl": "https://github.com/Dulul818/DululFFXIVTools",
-                "LastUpdate": 1785861343
+                "LastUpdate": 1785893918
             }
         ]
     },
@@ -6802,7 +6802,7 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "BossMod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.5.26",
+                "AssemblyVersion": "7.5.5.27",
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
@@ -6846,12 +6846,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "Passport Checker Reborn",
                 "InternalName": "PassportCheckerReborn",
-                "AssemblyVersion": "7.5.5.0",
+                "AssemblyVersion": "7.5.5.1",
                 "Description": "Passport Checker Reborn is an open-source alternative to the PFFinder plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/PCR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn",
-                "LastUpdate": 1785527599
+                "LastUpdate": 1785899332
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -6868,12 +6868,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.5.21",
+                "AssemblyVersion": "7.5.5.22",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1785798191
+                "LastUpdate": 1785897316
             },
             {
                 "Author": "Churin",
@@ -7154,7 +7154,7 @@
                 "Description": "In-game connector for the loopback-only Dalamud Agent Bridge utility. Use /dab to inspect status and configure optional permissions.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FranFkntastic/DalamudAgentBridge",
-                "LastUpdate": 1785702227
+                "LastUpdate": 1785711909
             },
             {
                 "Author": "FranFkntastic",
@@ -7165,7 +7165,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FranFkntastic/MarketMafioso/main/docs/pluginmaster/assets/icon.png",
                 "RepoUrl": "https://github.com/FranFkntastic/MarketMafioso",
-                "LastUpdate": 1785550848,
+                "LastUpdate": 1785908892,
                 "is_ai_attributed": true
             },
             {
@@ -7176,8 +7176,18 @@
                 "Description": "Retainer Quartermaster (RQ) lets you browse player and retainer stock, track\ntarget quantities, inspect listings, refresh retainer evidence, and run\nexplicitly reviewed retrieval or elemental deposit operations. Use /rq to\nopen Quartermaster.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FranFkntastic/Quartermaster",
-                "LastUpdate": 1785538970,
+                "LastUpdate": 1785909594,
                 "is_ai_attributed": true
+            },
+            {
+                "Author": "FranFkntastic",
+                "Name": "Sapphire Avenue Discord Bridge",
+                "InternalName": "SapphireAvenueRelay",
+                "AssemblyVersion": "0.2.0.0",
+                "Description": "By FranFkntastic. Connect one FFXIV cross-world linkshell to a community-owned Discord bot with exact CWLS identity checks.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/FranFkntastic/SapphireAvenueAssistant",
+                "LastUpdate": 1785895922
             }
         ]
     },
@@ -7545,12 +7555,12 @@
                 "Author": "gingertonik",
                 "Name": "OptionsFinder",
                 "InternalName": "OptionsFinder",
-                "AssemblyVersion": "1.0.0.0",
+                "AssemblyVersion": "0.0.1.0",
                 "Description": "Adds a searchable window over the options in the game's native Character Configuration and System Configuration menus. Type part of an option's name, see its current value, and edit it inline. Values are read and written through Dalamud's IGameConfig service, the same store the native menus use. Use /ofinder or /pfind to toggle the window in-game.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/gingertonik/OptionsFinder/master/images/icon.png",
                 "RepoUrl": "https://github.com/gingertonik/OptionsFinder",
-                "LastUpdate": 1785839492
+                "LastUpdate": 1785909445
             }
         ]
     },
@@ -10072,6 +10082,24 @@
                 "RepoUrl": "https://github.com/kadakatzenberg/SellEverything",
                 "LastUpdate": 1784942424,
                 "is_ai_attributed": true
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "kaerlath",
+        "repo_url": "https://raw.githubusercontent.com/kaerlath/Levemetes/main/repo.json",
+        "repo_source_url": "https://github.com/kaerlath/Levemetes",
+        "repo_name": "Levemetes",
+        "plugins": [
+            {
+                "Author": "Lynnaes Krazikaz",
+                "Name": "Levemetes",
+                "InternalName": "Levemetes",
+                "AssemblyVersion": "1.0.1.0",
+                "Description": "Player-run levemetes card game for truth or dare shenanigans.  Categorized play with custom decks that can be created and shared between players!  Open with /levemetes",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/kaerlath/Levemetes",
+                "LastUpdate": 1785908633
             }
         ]
     },
@@ -12894,14 +12922,14 @@
             },
             {
                 "Author": "Mayo Botic",
-                "Name": "PF Presets",
+                "Name": "PF Analysis",
                 "InternalName": "PfPresets",
-                "AssemblyVersion": "3.2.3.0",
+                "AssemblyVersion": "3.3.3.0",
                 "Description": "Save and manage Party Finder recruitment presets. Configure duty, objective, roles, conditions, and more - then apply any preset with a single click to instantly set up your Party Finder listing.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Marobotic/PfPresets/main/images/icon.png",
                 "RepoUrl": "https://github.com/Marobotic/PfPresets",
-                "LastUpdate": 1785461069,
+                "LastUpdate": 1785894893,
                 "is_ai_attributed": true
             }
         ]
@@ -14888,12 +14916,12 @@
                 "Author": "Neprena",
                 "Name": "Eorzea Events",
                 "InternalName": "EorzeaEventsPlugin",
-                "AssemblyVersion": "2.5.2.0",
+                "AssemblyVersion": "2.6.0.0",
                 "Description": "Gérez vos sessions RP Eorzea Events directement depuis le jeu.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Neprena/eorzea-events-plugin/main/Plugin_Logo.png",
                 "RepoUrl": "https://github.com/Neprena/eorzea-events-plugin",
-                "LastUpdate": 1785868810
+                "LastUpdate": 1785891356
             }
         ]
     },
@@ -18385,7 +18413,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/10",
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1785546757
+                "LastUpdate": 1785903562
             },
             {
                 "Author": "Team Wrath",
@@ -21856,12 +21884,12 @@
                 "Author": "Sebastina",
                 "Name": "Artemis Roleplaying Kit",
                 "InternalName": "RoleplayingVoiceDalamud",
-                "AssemblyVersion": "0.6.0.9",
+                "AssemblyVersion": "0.6.1.0",
                 "Description": "Player synced custom voices, Twitch playback integration, and more!",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Sebane1/RoleplayingVoiceDalamud/master/icon.png",
                 "RepoUrl": "https://github.com/Sebane1/RoleplayingVoiceDalamud",
-                "LastUpdate": 1785572793,
+                "LastUpdate": 1785906496,
                 "is_ai_attributed": true
             }
         ]
@@ -22049,11 +22077,11 @@
                 "Author": "ShaalaXIV",
                 "Name": "EmoteLink",
                 "InternalName": "EmoteLink",
-                "AssemblyVersion": "1.0.35.0",
+                "AssemblyVersion": "1.0.38.0",
                 "Description": "A plain Penumbra animation launcher with temporary activation, target alignment, and synchronized group play.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ShaalaXIV/EmoteLink",
-                "LastUpdate": 1785884895
+                "LastUpdate": 1785901918
             }
         ]
     },
@@ -25028,7 +25056,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/VirstaXIV/DynamicTextureManager/master/images/icon.png",
                 "RepoUrl": "https://github.com/VirstaXIV/DynamicTextureManager",
-                "LastUpdate": 1785740772,
+                "LastUpdate": 1785893258,
                 "is_ai_attributed": true
             }
         ]
@@ -26343,12 +26371,12 @@
                 "Author": "youdianfengbao (基于 KanoNoUta/BossmodRebornCN)",
                 "Name": "BossMod Reborn CN (国服汉化)",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.5.25",
+                "AssemblyVersion": "7.5.5.26",
                 "Description": "BossMod Reborn 国服 7.55 适配版，提供副本与大型探索任务的机制提示。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/youdianfengbao/BossmodRebornCN",
-                "LastUpdate": 1785873526,
+                "LastUpdate": 1785892543,
                 "is_ai_attributed": true
             },
             {
