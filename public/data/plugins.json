@@ -1184,12 +1184,12 @@
                 "Author": "Alex Vallière",
                 "Name": "Submarine ETA Planner",
                 "InternalName": "SubmarineEtaPlanner",
-                "AssemblyVersion": "0.4.9.0",
+                "AssemblyVersion": "0.4.16.0",
                 "Description": "Read-only ETA planner for tracked FC submarines using SubmarineTracker-compatible voyage, build, EXP, and unlock calculations.",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://alexvalliere.github.io/submarineEtaPlanner/images/icon-0.4.9.0.png",
+                "IconUrl": "https://alexvalliere.github.io/submarineEtaPlanner/images/icon-0.4.16.0.png",
                 "RepoUrl": "https://github.com/AlexValliere/submarineEtaPlanner",
-                "LastUpdate": 1785758443
+                "LastUpdate": 1785971108
             }
         ]
     },
@@ -1606,12 +1606,12 @@
                 "Author": "Anmi",
                 "Name": "新月岛史官",
                 "InternalName": "Chronicler",
-                "AssemblyVersion": "0.2.0.28",
+                "AssemblyVersion": "0.2.0.29",
                 "Description": "进入新月岛后自动记录南征/北征 CE/FATE 出现时间，支持导入/导出 xyd.zzmelon.com 分享码，生成喊话，并监听游戏内喊话自动同步状态。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/anmili2022/Chronicler/main/images/icon.png",
                 "RepoUrl": "https://github.com/anmili2022/Chronicler",
-                "LastUpdate": 1785923043,
+                "LastUpdate": 1785958255,
                 "is_ai_attributed": true
             }
         ]
@@ -2119,12 +2119,12 @@
                 "Author": "ashdam",
                 "Name": "Gubal Library",
                 "InternalName": "GubalLibrary",
-                "AssemblyVersion": "0.1.7.0",
+                "AssemblyVersion": "0.1.8.0",
                 "Description": "THE PLUGIN SHIPS EMPTY. It contains no translations. Installing it changes nothing: until you load a corpus, the game reads exactly as it always did.\n\nWhat it is, is a lookup engine. It loads a corpus file, matches what is on screen against it, and injects the result. It makes no network calls of any kind -- nothing is sent anywhere, and nothing is translated at runtime.\n\nYOU BRING THE CORPUS, and this project does not distribute one. The translations are somebody's separate work. Either use a corpus the community has published for your language, or build your own: the file format is documented in full so that starting from nothing is a real option, for any locale.\n\nThere is a self-test bundled -- two lines from one NPC, so you can tell a correct install from a broken one. Talk to Ahldskyf on the pier in Limsa Lominsa Lower Decks and they come out as Hello World. That is a smoke test, not content, and the settings window stays red for as long as it is all that is loaded.\n\nCoverage once you have a corpus: dialogue, quest text and cutscene speech (Talk), cutscene narration (TalkSubtitle), and speaker names. Battle callouts, speech balloons and the variant-dungeon banner are wired up but not yet characterised. This is a testing build -- please report problems on GitHub.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ashdam/gubal-library/main/images/icon.png",
                 "RepoUrl": "https://github.com/ashdam/gubal-library",
-                "LastUpdate": 1785875694,
+                "LastUpdate": 1785968028,
                 "is_ai_attributed": true
             }
         ]
@@ -2330,7 +2330,7 @@
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/Dalamud-DailyRoutines/DailyRoutines/main/Resources/icon.png",
                 "RepoUrl": "https://github.com/Dalamud-DailyRoutines/DailyRoutines/releases/latest",
-                "LastUpdate": 1785944637,
+                "LastUpdate": 1785957334,
                 "is_closed_source": true
             },
             {
@@ -2342,19 +2342,19 @@
                 "DalamudApiLevel": 14,
                 "IconUrl": "https://raw.githubusercontent.com/Dalamud-DailyRoutines/DailyRoutines/main/Resources/icon.png",
                 "RepoUrl": "https://github.com/Dalamud-DailyRoutines/DailyRoutines/releases/latest",
-                "LastUpdate": 1785944637,
+                "LastUpdate": 1785957334,
                 "is_closed_source": true
             },
             {
                 "Author": "AtmoOmen",
                 "Name": "Daily Routines",
                 "InternalName": "DailyRoutines",
-                "AssemblyVersion": "2.1.5.1",
+                "AssemblyVersion": "2.1.5.2",
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Dalamud-DailyRoutines/DailyRoutines/main/Resources/icon.png",
                 "RepoUrl": "https://github.com/Dalamud-DailyRoutines/DailyRoutines/releases/latest",
-                "LastUpdate": 1785944637,
+                "LastUpdate": 1785957334,
                 "is_closed_source": true
             },
             {
@@ -3725,12 +3725,13 @@
                 "Author": "CelineXIV",
                 "Name": "CelinesRPChat",
                 "InternalName": "CelinesRPChat",
-                "AssemblyVersion": "1.5.1.0",
+                "AssemblyVersion": "1.5.2.0",
                 "Description": "Hello there! General Kenobi! This plugin is designed to replace the existing RP chat plugins. It ignores the character limit, allowing you to write as much as you want. Once you're finished, simply click **\"Send\"**, and the plugin will automatically post all paragraphs. Colors, font size, and many other settings can be customized to suit your preferences.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://cdn.jsdelivr.net/gh/CelineXIV/CelinesTools@main/CelinesRPChat/images/icon-v2.png",
                 "RepoUrl": "https://github.com/CelineXIV/CelinesTools/tree/main/CelinesRPChat",
-                "LastUpdate": 1785893957
+                "LastUpdate": 1785967804,
+                "is_ai_attributed": true
             },
             {
                 "Author": "CelineXIV",
@@ -3924,7 +3925,7 @@
                 "Author": "CometTheFrog",
                 "Name": "Aethernet Explorer",
                 "InternalName": "AethernetExplorer.Plugin",
-                "AssemblyVersion": "0.9.0.21",
+                "AssemblyVersion": "0.9.0.22",
                 "Description": "An in-game web browser for FFXIV with isolated Chromium rendering, independent Shards, workspaces, Favored Destinations, and site-aware Focus modes.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/CometTheFrog/AethernetExplorer"
@@ -4299,12 +4300,12 @@
                 "Author": "dajoey",
                 "Name": "Gluttony Combo",
                 "InternalName": "GluttonyCombo",
-                "AssemblyVersion": "1.0.4.99",
+                "AssemblyVersion": "1.0.4.131",
                 "Description": "Gluttony Combo is a lalalazy-branded fork of Wrath Combo. Condenses combos and mutually exclusive abilities onto a single button — and then some. All upstream credit to Team Wrath / PunishXIV.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/dajoey/lalalazy/main/LalaImages/gluttonycombo-icon.png",
                 "RepoUrl": "https://github.com/dajoey/lalalazy/tree/main/plugins/GluttonyCombo/latest",
-                "LastUpdate": 1785417676,
+                "LastUpdate": 1785972615,
                 "is_ai_attributed": true
             },
             {
@@ -5510,12 +5511,12 @@
                 "Author": "Dulul",
                 "Name": "Thank Helper",
                 "InternalName": "ThankHelper",
-                "AssemblyVersion": "0.1.3.1",
+                "AssemblyVersion": "0.1.3.2",
                 "Description": "面向骑士、战士、暗黑骑士和绝枪战士的 PvE 静默自动打断助手。插件会后台扫描已进入战斗的敌方读条，在不选择或切换目标的情况下优先使用插言，并可通过本地自学习使用下踢；同时支持打断延迟、插言黑名单、成功提示以及学习库分享码。PvP 中强制禁用，未知下踢试探默认关闭。",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/Dulul818/DululFFXIVTools/main/assets/thankhelper-cover.png",
+                "IconUrl": "https://raw.githubusercontent.com/Dulul818/DululFFXIVTools/main/assets/thankhelper-icon.png",
                 "RepoUrl": "https://github.com/Dulul818/DululFFXIVTools",
-                "LastUpdate": 1785942932
+                "LastUpdate": 1785961007
             }
         ]
     },
@@ -6826,7 +6827,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1785952575
+                "LastUpdate": 1785957242
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -6887,12 +6888,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.5.22",
+                "AssemblyVersion": "7.5.5.23",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1785897316
+                "LastUpdate": 1785959522
             },
             {
                 "Author": "Churin",
@@ -9462,7 +9463,7 @@
                 "Author": "jFray",
                 "Name": "EchoMix",
                 "InternalName": "EchoMix.Plugin",
-                "AssemblyVersion": "1.2.1.0",
+                "AssemblyVersion": "1.2.1.1",
                 "Description": "An interactive DJ deck with live mixing tools, custom playlists, and a synced listener mode with an audio visualizer.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/icon.png",
@@ -10289,12 +10290,12 @@
                 "Author": "KanoNoUta、岚玉棠（国服 7.55 适配维护）",
                 "Name": "BOCCHI 新月岛综合辅助（国服）",
                 "InternalName": "BOCCHI",
-                "AssemblyVersion": "3.3.22.0",
+                "AssemblyVersion": "3.3.23.0",
                 "Description": "BOCCHI 旨在让您的新月岛体验更加流畅。\n- 不再有那些烦人的“跑腿”或“寻找宝箱”了。那是给失败者玩的。\n- 一个可爱的小 Fate 和 CE 面板会告诉您它提供了什么奖励，并帮助您自动找到它，哇哦。\n- 一个极端非法的“非法模式”，适合那些宁愿摸摸草地或玩有价值内容的游戏的人。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/icon.png",
                 "RepoUrl": "https://github.com/KanoNoUta/BOCCHI",
-                "LastUpdate": 1785946443,
+                "LastUpdate": 1785954871,
                 "is_ai_attributed": true
             },
             {
@@ -11317,7 +11318,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/34",
                 "RepoUrl": "https://github.com/Jaksuhn/Automaton",
-                "LastUpdate": 1785944803
+                "LastUpdate": 1785963760
             },
             {
                 "Author": "veyn, xan_0",
@@ -11345,24 +11346,24 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.1.36",
+                "AssemblyVersion": "15.306.1.40",
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1785929607,
+                "LastUpdate": 1785972127,
                 "is_ai_attributed": true
             },
             {
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.5.22",
+                "AssemblyVersion": "7.5.5.23",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1785897316
+                "LastUpdate": 1785959522
             },
             {
                 "Author": "Team Wrath",
@@ -11463,12 +11464,12 @@
                 "Author": "Kussie ",
                 "Name": "Aetherfit",
                 "InternalName": "Aetherfit",
-                "AssemblyVersion": "1.2.2608.318",
+                "AssemblyVersion": "1.2.2608.326",
                 "Description": "A custom simple frontend for applying designs from Glamourer. Lets you browse and apply designs, and optionally upload your own images to more easily be able to decide on which design to wear.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Kussie/Aetherfit/master/Data/icon-square.png",
                 "RepoUrl": "https://github.com/Kussie/Aetherfit",
-                "LastUpdate": 1785931138
+                "LastUpdate": 1785972198
             },
             {
                 "Author": "Kussie",
@@ -16550,23 +16551,12 @@
                 "Author": "Faye, Kage",
                 "Name": "Better Occult Crescent & Chest Helper Interface",
                 "InternalName": "BOCCHI",
-                "AssemblyVersion": "4.0.2.6",
+                "AssemblyVersion": "4.0.2.10",
                 "Description": "BOCCHI is here to smooth out your Occult Crescent experience.\n- No more of that pesky 'walking' or 'finding chests'. That's for losers.\n- A cute little Fate and CE panel that'll tell you what rewards it gives AND help you automatically path to it, wowee.\n- An extre illegal 'illegal mode' for those of you that would rather be touching grass or playing a game with worthwhile content.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/OhKannaDuh/BOCCHI/master/assets/icon.png",
                 "RepoUrl": "https://github.com/OhKannaDuh/OccultCrescentHelper",
-                "LastUpdate": 1785883506
-            },
-            {
-                "Author": "Faye",
-                "Name": "Twist Of Fayte",
-                "InternalName": "TwistOfFayte",
-                "AssemblyVersion": "3.4.0",
-                "Description": "You met with a terrible Fate. Haven't you?",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/OhKannaDuh/TwistOfFayte/refs/heads/master/assets/icon.png",
-                "RepoUrl": "https://github.com/OhKannaDuh/TwistOfFayte",
-                "LastUpdate": 1777744892
+                "LastUpdate": 1785964837
             }
         ]
     },
@@ -17554,6 +17544,25 @@
         ]
     },
     {
+        "repo_developer_name": "Piikmin",
+        "repo_url": "https://raw.githubusercontent.com/Piikmin/Prism-Cabinet/master/repo.json",
+        "repo_source_url": "https://github.com/Piikmin/Prism-Cabinet",
+        "repo_name": "Prism-Cabinet",
+        "plugins": [
+            {
+                "Author": "Piikmin",
+                "Name": "Prism Cabinet",
+                "InternalName": "QuickTestPlugin",
+                "AssemblyVersion": "0.3.0.0",
+                "Description": "Inspect and temporarily test a mod on your character, then preview and apply an organization for your Penumbra library. Command: /prism.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Piikmin/Prism-Cabinet/master/images/icon.png",
+                "RepoUrl": "https://github.com/Piikmin/Prism-Cabinet",
+                "LastUpdate": 1785963537
+            }
+        ]
+    },
+    {
         "repo_developer_name": "Pistachio-dev",
         "repo_url": "https://raw.githubusercontent.com/Pistachio-dev/CardsAgainsHyurmanity/master/Repo.json",
         "repo_source_url": "https://github.com/Pistachio-dev/CardsAgainsHyurmanity",
@@ -18421,12 +18430,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.1.36",
+                "AssemblyVersion": "15.306.1.40",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1785929607,
+                "LastUpdate": 1785972127,
                 "is_ai_attributed": true
             },
             {
@@ -18486,12 +18495,12 @@
                 "Author": "croizat",
                 "Name": "CBT 🐎",
                 "InternalName": "Automaton",
-                "AssemblyVersion": "69.202.0.0",
+                "AssemblyVersion": "69.203",
                 "Description": "Yet another tweaks collection plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/34",
                 "RepoUrl": "https://github.com/Jaksuhn/ffxiv-bundleoftweaks",
-                "LastUpdate": 1785944803
+                "LastUpdate": 1785963760
             },
             {
                 "Author": "croizat",
@@ -18821,7 +18830,7 @@
                 "Author": "nainaiowo",
                 "Name": "Eidos",
                 "InternalName": "Eidos",
-                "AssemblyVersion": "0.1.0.51",
+                "AssemblyVersion": "0.1.0.53",
                 "Description": "A Gposing and scene tool.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nainaiowo/Eidos"
@@ -20497,6 +20506,26 @@
         ]
     },
     {
+        "repo_developer_name": "ResFox",
+        "repo_url": "https://raw.githubusercontent.com/ResFox/YapYapDraw/main/repo.json",
+        "repo_source_url": "https://github.com/ResFox/YapYapDraw",
+        "repo_name": "YapYapDraw",
+        "repo_discord_url": "https://discord.com/invite/KZBxpkqbh4",
+        "plugins": [
+            {
+                "Author": "Res",
+                "Name": "YapYap Draw",
+                "InternalName": "YapYapDraw",
+                "AssemblyVersion": "1.0.6.17",
+                "Description": "Draws boss mechanics on the arena floor.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/ResFox/YapYapDraw/main/images/icon.png",
+                "RepoUrl": "https://github.com/ResFox/YapYapDraw",
+                "LastUpdate": 1782308673
+            }
+        ]
+    },
+    {
         "repo_developer_name": "ReSharkTwT",
         "repo_url": "https://raw.githubusercontent.com/ReSharkTwT/DalamudPlugins/main/pluginmaster.json",
         "repo_source_url": "https://github.com/ReSharkTwT/DalamudPlugins",
@@ -22103,11 +22132,11 @@
                 "Author": "ShaalaXIV",
                 "Name": "EmoteLink",
                 "InternalName": "EmoteLink",
-                "AssemblyVersion": "1.0.38.0",
+                "AssemblyVersion": "1.0.41.0",
                 "Description": "A plain Penumbra animation launcher with temporary activation, target alignment, and synchronized group play.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ShaalaXIV/EmoteLink",
-                "LastUpdate": 1785901918
+                "LastUpdate": 1785974318
             }
         ]
     },
@@ -22724,6 +22753,24 @@
         ]
     },
     {
+        "repo_developer_name": "SoftPawDevs",
+        "repo_url": "https://raw.githubusercontent.com/SoftPawDevs/catsino-dalamud-plugin/main/repo.json",
+        "repo_source_url": "https://github.com/SoftPawDevs/catsino-dalamud-plugin",
+        "repo_name": "catsino-dalamud-plugin",
+        "plugins": [
+            {
+                "Author": "Catsino",
+                "Name": "Catsino",
+                "InternalName": "Catsino.Plugin",
+                "AssemblyVersion": "1.0.1.0",
+                "Description": "Untrusted dealer client for authorization, sessions, deposits, and backend-directed Dropbox payouts.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/SoftPawDevs/catsino-dalamud-plugin",
+                "LastUpdate": 1785972016
+            }
+        ]
+    },
+    {
         "repo_developer_name": "Sojiroh",
         "repo_url": "https://raw.githubusercontent.com/Sojiroh/SojirohPlugins/main/pluginmaster.json",
         "repo_source_url": "https://github.com/Sojiroh/SojirohPlugins",
@@ -22944,12 +22991,12 @@
                 "Author": "Spibane",
                 "Name": "Dungeon Drip",
                 "InternalName": "DungeonDrip",
-                "AssemblyVersion": "0.16.0.0",
+                "AssemblyVersion": "0.17.1.0",
                 "Description": "Enter a dungeon (or look one up) and Dungeon Drip shows the gear that drops there which is not yet in your Glamour Dresser or Armoire.\n\nOpen a vendor and a panel beside it lists the glamour gear that shop stocks, marked by where you already have each piece. Anything that cannot be kept as a glamour is left out.\n\nBecause the game wipes Glamour Dresser data on every zone change and only loads the Armoire on demand, the plugin caches your collection per character and tells you when that snapshot is getting old.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Spibane/DungeonDrip/main/images/icon.png",
                 "RepoUrl": "https://github.com/Spibane/DungeonDrip",
-                "LastUpdate": 1785930050,
+                "LastUpdate": 1785957460,
                 "is_ai_attributed": true
             }
         ]
@@ -23206,7 +23253,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/SunnysTTV/VenueMapperXIV/main/images/icon.png",
                 "RepoUrl": "https://github.com/SunnysTTV/VenueMapperXIV",
-                "LastUpdate": 1785072088
+                "LastUpdate": 1785947499
             }
         ]
     },
@@ -23754,12 +23801,12 @@
                 "Author": "ThatKwistine",
                 "Name": "Wardrobe",
                 "InternalName": "WardrobePlugin",
-                "AssemblyVersion": "1.3.1.0",
+                "AssemblyVersion": "1.3.1.1",
                 "Description": "A visual wardrobe for Penumbra mods. Each entry targets a single equipment slot, so you can wear or unwear exactly what you want without disturbing the rest of your look. Handles items spanning several mods, mod option groups, hair and other customisation mods, image previews, tags, favourites, search and sort, and automated screenshot sessions.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ThatKwistine/WardrobePlugin/main/images/icon.png",
                 "RepoUrl": "https://github.com/ThatKwistine/WardrobePlugin",
-                "LastUpdate": 1785879138,
+                "LastUpdate": 1785964177,
                 "is_ai_attributed": true
             }
         ]
@@ -25083,7 +25130,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/VirstaXIV/DynamicTextureManager/master/images/icon.png",
                 "RepoUrl": "https://github.com/VirstaXIV/DynamicTextureManager",
-                "LastUpdate": 1785954444,
+                "LastUpdate": 1785971734,
                 "is_ai_attributed": true
             }
         ]
@@ -25642,12 +25689,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "0.9.9.7",
+                "AssemblyVersion": "0.9.9.8",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1785952543,
+                "LastUpdate": 1785971184,
                 "is_ai_attributed": true
             },
             {
@@ -25722,12 +25769,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "0.9.9.7",
+                "AssemblyVersion": "0.9.9.8",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1785699533,
+                "LastUpdate": 1785971184,
                 "is_ai_attributed": true
             }
         ]
@@ -26398,12 +26445,12 @@
                 "Author": "youdianfengbao (基于 KanoNoUta/BossmodRebornCN)",
                 "Name": "BossMod Reborn CN (国服汉化)",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.5.26",
+                "AssemblyVersion": "7.5.5.28",
                 "Description": "BossMod Reborn 国服 7.55 适配版，提供副本与大型探索任务的机制提示。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/youdianfengbao/BossmodRebornCN",
-                "LastUpdate": 1785892543,
+                "LastUpdate": 1785975792,
                 "is_ai_attributed": true
             },
             {
@@ -26432,12 +26479,12 @@
                 "Author": "youdianfengbao (基于 PunishXIV/Questionable)",
                 "Name": "Questionable (国服汉化)",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.1.35",
+                "AssemblyVersion": "15.306.1.40",
                 "Description": "国服汉化版自动任务插件，基于 PunishXIV/Questionable。可在尽可能的情况下自动完成游戏任务。\n所需插件：vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://qstxiv.github.io/icons/Questionable.png",
                 "RepoUrl": "https://github.com/youdianfengbao/Questionable",
-                "LastUpdate": 1785818628,
+                "LastUpdate": 1785974451,
                 "is_ai_attributed": true
             },
             {
