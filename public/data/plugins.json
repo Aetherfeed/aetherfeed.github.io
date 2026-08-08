@@ -6664,6 +6664,34 @@
         ]
     },
     {
+        "repo_developer_name": "exloser123",
+        "repo_url": "https://raw.githubusercontent.com/exloser123/DalamudPlugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/exloser123/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "kawaii, NightmareXIV（汉化: exloser123）",
+                "Name": "AutoRetainer (自动雇员)",
+                "InternalName": "AutoRetainer",
+                "AssemblyVersion": "4.6.1.25",
+                "Description": "躺在床上就能收取并指派你的雇员冒险委托。\n\n主要功能：\n\t- 一键指派/重新指派雇员冒险委托，自动处理繁琐的确认弹窗\n\t- 一键部署远征探险（飞空艇/潜水艇）\n\t- 创建出售列表，自动清理垃圾物品\n\t- 创建存放列表，将贵重物品存入雇员以节省背包空间",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
+                "LastUpdate": 1786193784
+            },
+            {
+                "Author": "Critical_Impact",
+                "Name": "Allagan Tools (中文版)",
+                "InternalName": "InventoryTools",
+                "AssemblyVersion": "1.15.0.9",
+                "Description": "亚拉戈工具箱的核心功能是追踪你所有角色、雇员和部队仓库中的物品。借助强大的筛选系统，你再也不用担心找不到物品，或者不知道该把物品整理到哪里。\n\n除了核心功能外，本插件还提供了丰富的扩展功能：\n\t- 制作规划\n\t- 市场板价格集成\n\t- 在背包中搜索/整理物品以及选择制作材料时高亮显示目标物品\n\t- 物品信息窗口，包含商人售价、获取来源等详细信息\n\t- 副本/怪物/飞空艇/潜水艇查询窗口，全部支持搜索\n\t- 强大的筛选系统，可设置复杂条件查找特定物品\n\t- 鼠标提示集成，悬停即可查看物品所在位置",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Critical-Impact/InventoryTools",
+                "LastUpdate": 1786176197
+            }
+        ]
+    },
+    {
         "repo_url": "https://raw.githubusercontent.com/extrant/DalamudPlugins/main/pluginmaster.json",
         "repo_source_url": "https://github.com/extrant/DalamudPlugins",
         "repo_name": "DalamudPlugins",
@@ -8233,12 +8261,12 @@
                 "Author": "Haselnussbomber",
                 "Name": "HaselTweaks",
                 "InternalName": "HaselTweaks",
-                "AssemblyVersion": "49.2.2.0",
+                "AssemblyVersion": "49.2.3.0",
                 "Description": "A collection of quality of life tweaks and more.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/main/HaselTweaks/Assets/Icon.png",
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1786118076
+                "LastUpdate": 1786190730
             },
             {
                 "Author": "Haselnussbomber",
@@ -9887,12 +9915,12 @@
                 "Author": "Meowmeowmeow Cat",
                 "Name": "Skyrim Compass",
                 "InternalName": "SkyrimCompass",
-                "AssemblyVersion": "2.0.0.1",
+                "AssemblyVersion": "2.0.0.5",
                 "Description": "Adds a Skyrim-style compass bar at the top of your screen. Shows cardinal directions, tick marks, and nearby entity markers (players, enemies, gathering nodes, and more). Use /compass to toggle and /compass config to open settings.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/JTayGang/MeowyUtils/main/SkyrimCompass/images/icon.png",
                 "RepoUrl": "https://github.com/JTayGang/MeowyUtils/tree/main/SkyrimCompass",
-                "LastUpdate": 1786136367
+                "LastUpdate": 1786192451
             },
             {
                 "Author": "Meowmeowmeow Cat",
@@ -9916,7 +9944,7 @@
                 "Author": "Meowmeowmeow Cat",
                 "Name": "Skyrim Compass",
                 "InternalName": "SkyrimCompass",
-                "AssemblyVersion": "2.0.0.1",
+                "AssemblyVersion": "2.0.0.5",
                 "Description": "Adds a Skyrim-style compass bar at the top of your screen. Shows cardinal directions, tick marks, and nearby entity markers (players, enemies, gathering nodes, and more). Use /compass to toggle and /compass config to open settings.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/JTayGang/MeowyUtils/main/SkyrimCompass/images/icon.png",
@@ -9931,7 +9959,7 @@
                 "Description": "Mirrors your live Moodles and Loci statuses onto each other, so whichever sync plugin you use (Snowcloak, Sundouleia, or anything else) picks up a unified status regardless of which backend it natively reads.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/JTayGang/MeowyUtils",
-                "LastUpdate": 1786136460
+                "LastUpdate": 1786192452
             }
         ]
     },
@@ -11871,23 +11899,6 @@
         ]
     },
     {
-        "repo_developer_name": "LatiDev",
-        "repo_url": "https://raw.githubusercontent.com/LatiDev/EVBB/master/pluginmaster.json",
-        "repo_source_url": "https://github.com/LatiDev/EVBB",
-        "repo_name": "EVBB",
-        "plugins": [
-            {
-                "Author": "AmIBeingTrackedCreator",
-                "Name": "AmIBeingTracked",
-                "InternalName": "AmIBeingTracked",
-                "AssemblyVersion": "1.0.0.0",
-                "Description": "Marks player nameplates with an icon when the character has a known profile on an external lookup service. Use /aibt to see pending and cached lookup status, or the plugin's settings (gear icon) to set an optional API key for a higher lookup rate.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/LatiDev/AmIBeingTracked"
-            }
-        ]
-    },
-    {
         "repo_developer_name": "Latihas",
         "repo_url": "https://raw.githubusercontent.com/Latihas/dalamud-plugins/main/repo.json",
         "repo_source_url": "https://github.com/Latihas/dalamud-plugins",
@@ -11911,7 +11922,7 @@
                 "Description": "开发者工具",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Latihas/HaselDebug",
-                "LastUpdate": 1782752618
+                "LastUpdate": 1786186373
             },
             {
                 "Author": "Jukkales",
@@ -11928,12 +11939,12 @@
                 "Author": "Usagi, Latihas",
                 "Name": "IINACTEx",
                 "InternalName": "IINACTEx",
-                "AssemblyVersion": "7.55.0.0",
+                "AssemblyVersion": "7.55.1.1",
                 "Description": "该插件会在一个类ACT的环境下运行FFXIV_ACT_Plugin与大量修改的Overlay Plugin以适配现代.NET。与此同时，也添加了大量修改的Triggernometry与Postnamazu。包括类ACT、Triggernometry、Postnamazu在内，这些并非完整的代码移植，并且仍在开发完善中，可能缺少部分原版的函数，开发时请注意。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/marzent/IINACT/master/images/icon.png",
                 "RepoUrl": "https://github.com/marzent/IINACT",
-                "LastUpdate": 1785248686
+                "LastUpdate": 1786125750
             },
             {
                 "Author": "Latihas",
@@ -15143,7 +15154,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/NeXzRo/Stuff/main/BetterTargetingSystemPvP/icon.png",
                 "RepoUrl": "https://github.com/NeXzRo/BetterTargetingSystem",
-                "LastUpdate": 1785461291
+                "LastUpdate": 1785547767
             },
             {
                 "Author": "goat, Maple",
@@ -16266,6 +16277,24 @@
                 "IconUrl": "https://raw.githubusercontent.com/NNekoPlugins/NNekoWeaponIcons/main/NNekoWeaponIcons/Data/NNeko.png",
                 "RepoUrl": "https://github.com/NNekoPlugins/NNekoWeaponIcons",
                 "LastUpdate": 1779201206
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "nnillni",
+        "repo_url": "https://raw.githubusercontent.com/nnillni/pfexplorer-client/main/repo.json",
+        "repo_source_url": "https://github.com/nnillni/pfexplorer-client",
+        "repo_name": "pfexplorer-client",
+        "plugins": [
+            {
+                "Author": "Nahuel Nillni",
+                "Name": "PF Explorer",
+                "InternalName": "PfExplorer",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "Plugin to contribute on party finder for pfexplorer.com.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/nnillni/pfexplorer-client",
+                "LastUpdate": 1786192102
             }
         ]
     },
@@ -18080,19 +18109,39 @@
     },
     {
         "repo_developer_name": "porys",
+        "repo_url": "https://raw.githubusercontent.com/porys/TomestoneTranslate/main/deploy/pluginmaster.json",
+        "repo_source_url": "https://github.com/porys/TomestoneTranslate",
+        "repo_name": "TomestoneTranslate",
+        "plugins": [
+            {
+                "Author": "Porys",
+                "Name": "Tomestone Translate",
+                "InternalName": "Tomestone.Translate",
+                "AssemblyVersion": "0.0.0.2",
+                "Description": "Translates in-game cutscene and NPC dialogue in real time using a user-defined AI translation endpoint (OpenAI-compatible, e.g. OpenAI, DeepSeek, Ollama, LM Studio, OpenRouter). The translation is drawn as an overlay on top of or above the original text.\n\nCommands:\n/tt - open the main window\n/ttconfig - open the settings window",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://porys.github.io/xivplugins/icon.png",
+                "RepoUrl": "https://github.com/porys/TomestoneTranslate",
+                "LastUpdate": 1786174703
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "porys",
         "repo_url": "https://raw.githubusercontent.com/porys/xivplugins/main/pluginmaster.json",
         "repo_source_url": "https://github.com/porys/xivplugins",
         "repo_name": "xivplugins",
         "plugins": [
             {
-                "Author": "Tomestone",
+                "Author": "Porys",
                 "Name": "Tomestone Translate",
                 "InternalName": "Tomestone.Translate",
-                "AssemblyVersion": "0.0.0.1",
+                "AssemblyVersion": "0.0.0.2",
                 "Description": "Translates in-game cutscene and NPC dialogue in real time using a user-defined AI translation endpoint (OpenAI-compatible, e.g. OpenAI, DeepSeek, Ollama, LM Studio, OpenRouter). The translation is drawn as an overlay on top of or above the original text.\n\nCommands:\n/tt - open the main window\n/ttconfig - open the settings window",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/porys/xivplugins/main/icon.png",
-                "RepoUrl": "https://github.com/porys/TomestoneTranslate"
+                "IconUrl": "https://porys.github.io/xivplugins/icon.png",
+                "RepoUrl": "https://github.com/porys/TomestoneTranslate",
+                "LastUpdate": 1786174943
             }
         ]
     },
@@ -18517,7 +18566,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/24",
                 "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-                "LastUpdate": 1786150986
+                "LastUpdate": 1786193784
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -18588,12 +18637,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.1.46",
+                "AssemblyVersion": "15.306.1.47",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1786151456,
+                "LastUpdate": 1786195061,
                 "is_ai_attributed": true
             },
             {
@@ -18627,7 +18676,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1786109802
+                "LastUpdate": 1786182594
             },
             {
                 "Author": "daemitus, croizat",
@@ -19711,13 +19760,23 @@
             },
             {
                 "Author": "斯温",
+                "Name": "副坦克监控",
+                "InternalName": "DualTankWatch",
+                "AssemblyVersion": "0.4.2.0",
+                "Description": "在原生焦点目标下方显示自定义玩家的血量、护盾和防御状态。支持从任意当前可见玩家的右键菜单加入监控，也可使用 /dtw add 添加游戏当前目标；可自定义窗口宽高、内容缩放、透明度和位置偏移。Debug 模式可显示右键捕获、保存身份、解析来源与窗口条件。点击监控框可将角色设为游戏当前目标。命令：/dtw",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/qliczz/DualTankWatch",
+                "LastUpdate": 1786185384
+            },
+            {
+                "Author": "斯温",
                 "Name": "关键技能时间轴",
                 "InternalName": "KeySkillTimeline",
-                "AssemblyVersion": "0.1.0.0",
+                "AssemblyVersion": "0.3.2.0",
                 "Description": "为妖星乱舞绝境战的白魔法师提供可编辑的关键技能时间轴。支持每项技能独立开关、颜色、提前秒数、中文语音、计划编辑、导入导出、手动及首领读条自动校时。命令：/kst",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/qliczz/KeySkillTimeline",
-                "LastUpdate": 1785769172
+                "LastUpdate": 1786188007
             },
             {
                 "Author": "斯温",
@@ -22350,12 +22409,12 @@
                 "Author": "ShaalaXIV",
                 "Name": "Synastry",
                 "InternalName": "EmoteLink",
-                "AssemblyVersion": "1.0.45.0",
+                "AssemblyVersion": "1.0.46.0",
                 "Description": "A plain Penumbra animation launcher with temporary activation, target alignment, and synchronized group play.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://aethercast.org/repo/images/synastry.png",
                 "RepoUrl": "https://github.com/ShaalaXIV/EmoteLink",
-                "LastUpdate": 1786153650
+                "LastUpdate": 1786181106
             }
         ]
     },
@@ -22369,12 +22428,12 @@
                 "Author": "ShaalaXIV",
                 "Name": "Synastry",
                 "InternalName": "EmoteLink",
-                "AssemblyVersion": "1.0.45.0",
+                "AssemblyVersion": "1.0.46.0",
                 "Description": "A Penumbra animation launcher for organizing, pairing, and synchronizing multi-actor animations.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://aethercast.org/repo/images/synastry.png",
                 "RepoUrl": "https://github.com/ShaalaXIV/Synastry",
-                "LastUpdate": 1786153650
+                "LastUpdate": 1786181106
             }
         ]
     },
@@ -24040,12 +24099,12 @@
                 "Author": "ThatKwistine",
                 "Name": "Wardrobe",
                 "InternalName": "WardrobePlugin",
-                "AssemblyVersion": "1.4.0.0",
+                "AssemblyVersion": "1.4.1.1",
                 "Description": "A visual wardrobe for Penumbra mods. Each entry targets a single equipment slot, so you can wear or unwear exactly what you want without disturbing the rest of your look. Handles items spanning several mods, mod option groups, hair and other customisation mods, image previews, tags, favourites, search and sort, and automated screenshot sessions.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ThatKwistine/WardrobePlugin/main/images/icon.png",
                 "RepoUrl": "https://github.com/ThatKwistine/WardrobePlugin",
-                "LastUpdate": 1786137107,
+                "LastUpdate": 1786186553,
                 "is_ai_attributed": true
             }
         ]
@@ -25966,12 +26025,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "0.9.9.8",
+                "AssemblyVersion": "0.9.9.9",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1786149308,
+                "LastUpdate": 1786181931,
                 "is_ai_attributed": true
             },
             {
@@ -26046,12 +26105,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "0.9.9.8",
+                "AssemblyVersion": "0.9.9.9",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1785971184,
+                "LastUpdate": 1786181931,
                 "is_ai_attributed": true
             }
         ]
@@ -27087,11 +27146,11 @@
                 "Author": "zhui-zi",
                 "Name": "Keita 工具箱",
                 "InternalName": "KeitaToolbox",
-                "AssemblyVersion": "1.5.3.0",
+                "AssemblyVersion": "1.5.7.0",
                 "Description": "Combines duty automation, recruitment tools, plugin and map gearset switching, trade protection, IME cleanup, portrait synchronization, Ayano tools, and I-Ching utilities.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zhui-zi/DalamudPlugins/tree/main/plugins/KeitaToolbox",
-                "LastUpdate": 1786172796
+                "LastUpdate": 1786182198
             }
         ]
     },
