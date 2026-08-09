@@ -500,12 +500,12 @@
                 "Author": "DhogGPT",
                 "Name": "AI Duty Solver",
                 "InternalName": "ADS",
-                "AssemblyVersion": "0.6.1.2",
+                "AssemblyVersion": "0.6.1.4",
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/ADS/main/ADS/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1785723699,
+                "LastUpdate": 1786258953,
                 "is_ai_attributed": true
             },
             {
@@ -632,12 +632,12 @@
                 "Author": "DhogGPT",
                 "Name": "Fren Rider",
                 "InternalName": "FrenRider",
-                "AssemblyVersion": "1.1.2.4",
+                "AssemblyVersion": "1.2.0.2",
                 "Description": "Native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider or /fr to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1785723691,
+                "LastUpdate": 1786259015,
                 "is_ai_attributed": true
             },
             {
@@ -704,12 +704,12 @@
                 "Author": "DhogGPT",
                 "Name": "Vermaxion",
                 "InternalName": "VERMAXION",
-                "AssemblyVersion": "0.3.1.13",
+                "AssemblyVersion": "0.3.1.14",
                 "Description": "Automates weekly and daily tasks triggered by AutoRetainer post-processing. Configurable per character: Verminion queue, Cactpot, Chocobo Racing, FC buff refill, and Henchman management.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1786206570,
+                "LastUpdate": 1786241966,
                 "is_ai_attributed": true
             },
             {
@@ -2459,12 +2459,12 @@
                 "Author": "veyn, AtmoOmen",
                 "Name": "vnavmesh",
                 "InternalName": "vnavmesh",
-                "AssemblyVersion": "0.7.8.0",
+                "AssemblyVersion": "0.7.9.0",
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/AtmoOmen/ffxiv_navmesh-cn/CN/Resources/icon2.png",
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1786034183
+                "LastUpdate": 1786259884
             }
         ]
     },
@@ -3214,11 +3214,11 @@
                 "Author": "bonkBANK, Infi, Anna",
                 "Name": "Chat 2 (BonkChat)",
                 "InternalName": "BonkChat",
-                "AssemblyVersion": "1.45.0.0",
+                "AssemblyVersion": "1.47.0.0",
                 "Description": "Chat 2 is a complete rewrite of the in-game chat window as a plugin.\nIt supports:\n\n- Unlimited tabs\n- Tabs that always send to a certain channel\n- More flexible filtering\n- RGB channel colouring\n- Completely variable font size\n- Sidebar tabs\n- Unread counts\n- Emotes\n- Screenshot mode (obfuscate names)",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/bonkbank45/BonkChat",
-                "LastUpdate": 1783890847,
+                "LastUpdate": 1786259186,
                 "is_ai_attributed": true
             }
         ]
@@ -4962,11 +4962,11 @@
                 "Author": "FF14 Accessibility Project",
                 "Name": "FF14 Accessibility",
                 "InternalName": "FF14Accessibility",
-                "AssemblyVersion": "5.74.0.0",
+                "AssemblyVersion": "5.75.0.0",
                 "Description": "Macht FF14 für blinde Spieler zugänglich via NVDA/TOLK Integration, Audio-Navigation und vollständiger Tastatursteuerung.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/derbruedi/ff14-accessibility",
-                "LastUpdate": 1786035040,
+                "LastUpdate": 1786260765,
                 "is_ai_attributed": true
             }
         ]
@@ -4992,11 +4992,11 @@
                 "Author": "deserokk",
                 "Name": "DeserokUtils",
                 "InternalName": "DeserokUtils",
-                "AssemblyVersion": "1.5.1.0",
+                "AssemblyVersion": "1.5.2.0",
                 "Description": "Small quality-of-life utilities, one feature per tab.\n\nCastWatch: gate a macro line on whether an action actually went off. Arm a watch above the /ac, then /ifwatch runs your line only if the action was accepted -- or cancels the macro if it was not. Works for instant casts, oGCDs and usable items, none of which produce a cast bar to observe. Optional target filters (--self, --notself, --party) and a {who} token that fills in whoever actually received it, which a vanilla macro cannot do.\n\nIt never composes or sends anything on your behalf; it only runs or suppresses a line you already wrote.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/deserokk/DeserokUtils",
-                "LastUpdate": 1786116667,
+                "LastUpdate": 1786260355,
                 "is_ai_attributed": true
             }
         ]
@@ -5011,11 +5011,11 @@
                 "Author": "deserokk",
                 "Name": "DeserokUtils",
                 "InternalName": "DeserokUtils",
-                "AssemblyVersion": "1.5.1.0",
+                "AssemblyVersion": "1.5.2.0",
                 "Description": "Small quality-of-life utilities, one feature per tab.\n\nCastWatch: gate a macro line on whether an action actually went off. Arm a watch above the /ac, then /ifwatch runs your line only if the action was accepted -- or cancels the macro if it was not. Works for instant casts, oGCDs and usable items, none of which produce a cast bar to observe. Optional target filters (--self, --notself, --party) and a {who} token that fills in whoever actually received it, which a vanilla macro cannot do.\n\nIt never composes or sends anything on your behalf; it only runs or suppresses a line you already wrote.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/deserokk/DeserokUtils",
-                "LastUpdate": 1786116667,
+                "LastUpdate": 1786260355,
                 "is_ai_attributed": true
             }
         ]
@@ -6499,7 +6499,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1786171093
+                "LastUpdate": 1786257719
             }
         ]
     },
@@ -6518,7 +6518,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1786171093
+                "LastUpdate": 1786257719
             }
         ]
     },
@@ -6923,7 +6923,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1786169750
+                "LastUpdate": 1786259537
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -7671,12 +7671,12 @@
                 "Author": "gingertonik",
                 "Name": "OptionsFinder",
                 "InternalName": "OptionsFinder",
-                "AssemblyVersion": "0.0.1.0",
+                "AssemblyVersion": "0.0.2.0",
                 "Description": "Adds a searchable window over the options in the game's native Character Configuration and System Configuration menus. Type part of an option's name, see its current value, and edit it inline. Values are read and written through Dalamud's IGameConfig service, the same store the native menus use. Use /ofinder or /pfind to toggle the window in-game.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/gingertonik/OptionsFinder/main/images/icon.png",
                 "RepoUrl": "https://github.com/gingertonik/OptionsFinder",
-                "LastUpdate": 1785910324
+                "LastUpdate": 1786249021
             }
         ]
     },
@@ -10047,7 +10047,7 @@
                 "Author": "Just-Chaldea",
                 "Name": "CarbunclePartner",
                 "InternalName": "CarbunclePartner",
-                "AssemblyVersion": "1.3.0.1",
+                "AssemblyVersion": "1.4.0.0",
                 "Description": "Companion to the carbuncleplushy FFXIV Fish Tracker: tracks which fish you've caught, with website-matching filters and one-click export.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Just-Chaldea/DalamudPluginRepo/main/icon.png",
@@ -10213,12 +10213,12 @@
                 "Author": "Lynnaes Krazikaz",
                 "Name": "Levemetes",
                 "InternalName": "Levemetes",
-                "AssemblyVersion": "1.0.4.0",
+                "AssemblyVersion": "1.0.6.0",
                 "Description": "Player-run levemetes card game for truth or dare shenanigans.  Categorized play with custom decks that can be created and shared between players!  Open with /levemetes",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/kaerlath/Levemetes/main/images/icon.png",
                 "RepoUrl": "https://github.com/kaerlath/Levemetes",
-                "LastUpdate": 1786082508
+                "LastUpdate": 1786256592
             }
         ]
     },
@@ -10316,7 +10316,7 @@
                 "Description": "Trigger making made easy",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/KangasZ/BattleLog",
-                "LastUpdate": 1785789964
+                "LastUpdate": 1786247869
             },
             {
                 "Author": "KangasZ",
@@ -10332,11 +10332,11 @@
                 "Author": "KangasZ",
                 "Name": "Radar Plugin",
                 "InternalName": "RadarPlugin",
-                "AssemblyVersion": "2.2.1.1",
+                "AssemblyVersion": "2.2.1.2",
                 "Description": "Radar to see enemies, objects, and interactables through walls.\nThis is an ESP, please don't use it to call aliens down.\nPlease report any issues to the author.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/KangasZ/RadarPlugin",
-                "LastUpdate": 1785795020
+                "LastUpdate": 1786248171
             },
             {
                 "Author": "KangasZ",
@@ -11457,12 +11457,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.1.48",
+                "AssemblyVersion": "15.306.1.49",
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1786200089,
+                "LastUpdate": 1786243317,
                 "is_ai_attributed": true
             },
             {
@@ -11987,11 +11987,11 @@
                 "Author": "Latihas",
                 "Name": "LatihasChocobo",
                 "InternalName": "LatihasChocobo",
-                "AssemblyVersion": "7.55.0.0",
+                "AssemblyVersion": "7.55.1.0",
                 "Description": "陆行鸟竞赛自动化",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Latihas/LatihasChocobo",
-                "LastUpdate": 1785251889
+                "LastUpdate": 1786251898
             },
             {
                 "Author": "Latihas",
@@ -12520,34 +12520,6 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/llllinkz/LinkzTP",
                 "LastUpdate": 1786013498
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "llm1016",
-        "repo_url": "https://raw.githubusercontent.com/llm1016/DalamudPlugins/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/llm1016/DalamudPlugins",
-        "repo_name": "DalamudPlugins",
-        "plugins": [
-            {
-                "Author": "Knightmore",
-                "Name": "HenchmanCN",
-                "InternalName": "Henchman",
-                "AssemblyVersion": "3.0.1.2",
-                "Description": "自动执行各种繁琐任务：狩猎日志、讨伐单、雇员创建、A/B级狩猎、陆行鸟传送解锁、角色创建、海钓升级、多角色交易等（汉化版）",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/llm1016/HenchmanCN",
-                "LastUpdate": 1785156485
-            },
-            {
-                "Author": "veyn",
-                "Name": "vsatisfy",
-                "InternalName": "vsatisfy",
-                "AssemblyVersion": "0.0.0.37",
-                "Description": "自动老主顾交付（制作/采集）",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/llm1016/ffxiv_satisfy",
-                "LastUpdate": 1785156567
             }
         ]
     },
@@ -13230,12 +13202,12 @@
                 "Author": "DhogGPT",
                 "Name": "AI Duty Solver",
                 "InternalName": "ADS",
-                "AssemblyVersion": "0.6.1.2",
+                "AssemblyVersion": "0.6.1.4",
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/ADS/main/ADS/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1785723699,
+                "LastUpdate": 1786258953,
                 "is_ai_attributed": true
             }
         ]
@@ -13410,12 +13382,12 @@
                 "Author": "DhogGPT",
                 "Name": "Fren Rider",
                 "InternalName": "FrenRider",
-                "AssemblyVersion": "1.1.2.4",
+                "AssemblyVersion": "1.2.0.2",
                 "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1785723691,
+                "LastUpdate": 1786259015,
                 "is_ai_attributed": true
             }
         ]
@@ -13595,7 +13567,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1785723691,
+                "LastUpdate": 1786259015,
                 "is_ai_attributed": true
             },
             {
@@ -13662,12 +13634,12 @@
                 "Author": "DhogGPT",
                 "Name": "Vermaxion",
                 "InternalName": "VERMAXION",
-                "AssemblyVersion": "0.3.1.13",
+                "AssemblyVersion": "0.3.1.14",
                 "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1786206570,
+                "LastUpdate": 1786241966,
                 "is_ai_attributed": true
             }
         ],
@@ -13703,12 +13675,12 @@
                 "Author": "DhogGPT",
                 "Name": "VerMAXion",
                 "InternalName": "VERMAXION",
-                "AssemblyVersion": "0.3.1.13",
+                "AssemblyVersion": "0.3.1.14",
                 "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1786206570,
+                "LastUpdate": 1786241966,
                 "is_ai_attributed": true
             }
         ]
@@ -14068,12 +14040,12 @@
                 "Author": "miqote69",
                 "Name": "Crescent Atlas",
                 "InternalName": "CrescentAtlas",
-                "AssemblyVersion": "0.1.98.0",
+                "AssemblyVersion": "0.1.101.0",
                 "Description": "Display-only Occult Crescent atlas with treasure spot checks and field markers, FATE/CE timers and progress, Magic Pot prediction and alerts, carrot and Forked Tower markers, aetherytes, visit history, and local observation collection. It does not automate movement or interaction.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/miqote69/CrescentAtlas/main/images/icon-v44.png",
                 "RepoUrl": "https://github.com/miqote69/CrescentAtlas",
-                "LastUpdate": 1785762119
+                "LastUpdate": 1786251864
             }
         ]
     },
@@ -15525,7 +15497,7 @@
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1786198738,
+                "LastUpdate": 1786260820,
                 "is_closed_source": true
             },
             {
@@ -15537,7 +15509,7 @@
                 "DalamudApiLevel": 14,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1786198738,
+                "LastUpdate": 1786260820,
                 "is_closed_source": true
             },
             {
@@ -15549,7 +15521,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1786198738,
+                "LastUpdate": 1786260820,
                 "is_closed_source": true
             },
             {
@@ -16679,12 +16651,12 @@
                 "Author": "ofnature",
                 "Name": "Charon",
                 "InternalName": "Charon",
-                "AssemblyVersion": "0.1.24",
+                "AssemblyVersion": "0.1.25",
                 "Description": "Auto pillion with smart seat scanning and whitelisted auto group invite. Companion to Daedalus.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ofnature/Charon/main/images/icon.png",
                 "RepoUrl": "https://github.com/ofnature/Charon",
-                "LastUpdate": 1785698649,
+                "LastUpdate": 1786244114,
                 "is_ai_attributed": true
             }
         ]
@@ -17255,7 +17227,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1786171093
+                "LastUpdate": 1786257719
             },
             {
                 "Author": "Risa and Contributors",
@@ -17730,11 +17702,11 @@
                 "Author": "Zune",
                 "Name": "Master Of Puppets",
                 "InternalName": "MasterOfPuppets",
-                "AssemblyVersion": "1.15.0.223",
+                "AssemblyVersion": "1.15.0.224",
                 "Description": "FFXIV plugin that lets you create and send custom actions (similar to in-game macros), either locally or via chat-based broadcast. It supports broadcasting actions to multiple clients locally, or through in-game chat channels such as Party, Linkshell, and Cross-World Linkshell. Use it to trigger custom actions like emotes, minions, mounts, fashion changes, and more.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1784325860,
+                "LastUpdate": 1786225538,
                 "is_ai_attributed": true
             },
             {
@@ -18454,7 +18426,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/153",
                 "RepoUrl": "https://github.com/Abyeon/Housingway",
-                "LastUpdate": 1786226478
+                "LastUpdate": 1786253825
             }
         ]
     },
@@ -18592,7 +18564,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/47",
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1786054301
+                "LastUpdate": 1786251371
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -18674,12 +18646,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.1.48",
+                "AssemblyVersion": "15.306.1.49",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1786200089,
+                "LastUpdate": 1786243317,
                 "is_ai_attributed": true
             },
             {
@@ -25298,12 +25270,12 @@
                 "Author": "UnknownX, Veever(汉化)",
                 "Name": "A Realm Recorded (Unrestricted)",
                 "InternalName": "A-Realm-Recorded-Unrestricted",
-                "AssemblyVersion": "1.0.3.2",
+                "AssemblyVersion": "1.0.3.3",
                 "Description": "为副本记录器添加了额外功能，并在副本中自动录制\n在旅馆中使用 /record 指令来打开回放列表\n如果相关指令未解锁，请完成「回顾英雄诗篇」任务",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/VeeverSW/DalamudPlugins/main/Plugins/A-Realm-Recorded-Unrestricted/icon.png",
                 "RepoUrl": "https://github.com/VeeverSW/DalamudPlugins/tree/main/Plugins/A-Realm-Recorded-Unrestricted",
-                "LastUpdate": 1785694680
+                "LastUpdate": 1786242784
             },
             {
                 "Author": "XeldarAlz, Veever (国服适配)",
@@ -25326,7 +25298,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/VeeverSW/DalamudPlugins/main/Plugins/Hyperborea/icon.png",
                 "RepoUrl": "https://github.com/VeeverSW/Hyperborea",
-                "LastUpdate": 1785254910
+                "LastUpdate": 1786242349
             },
             {
                 "Author": "Uiharu,NiGuangOwO,Veever(维护)",
@@ -26837,12 +26809,12 @@
                 "Author": "youdianfengbao (基于 KanoNoUta/BossmodRebornCN)",
                 "Name": "BossMod Reborn CN (国服汉化)",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.5.32",
+                "AssemblyVersion": "7.5.5.34",
                 "Description": "BossMod Reborn 国服 7.55 适配版，提供副本与大型探索任务的机制提示。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/youdianfengbao/BossmodRebornCN",
-                "LastUpdate": 1786218877,
+                "LastUpdate": 1786259351,
                 "is_ai_attributed": true
             },
             {
@@ -27202,11 +27174,11 @@
                 "Author": "zhui-zi",
                 "Name": "Keita 工具箱",
                 "InternalName": "KeitaToolbox",
-                "AssemblyVersion": "1.5.7.0",
+                "AssemblyVersion": "1.5.8.0",
                 "Description": "Combines duty automation, recruitment tools, plugin and map gearset switching, trade protection, IME cleanup, portrait synchronization, Ayano tools, and I-Ching utilities.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zhui-zi/DalamudPlugins/tree/main/plugins/KeitaToolbox",
-                "LastUpdate": 1786182198
+                "LastUpdate": 1786246078
             }
         ]
     },
