@@ -3741,12 +3741,12 @@
                 "Author": "CelineXIV",
                 "Name": "CelinesChat",
                 "InternalName": "CelinesChat",
-                "AssemblyVersion": "1.0.10.0",
+                "AssemblyVersion": "1.0.11.0",
                 "Description": "Just a Beta Version of a Chatbox",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://cdn.jsdelivr.net/gh/CelineXIV/CelinesTools@main/CelinesChat/images/icon-v2.png",
                 "RepoUrl": "https://github.com/CelineXIV/CelinesTools/tree/main/CelinesChat",
-                "LastUpdate": 1786306354,
+                "LastUpdate": 1786380386,
                 "is_ai_attributed": true
             },
             {
@@ -3962,6 +3962,24 @@
         ]
     },
     {
+        "repo_developer_name": "CometTheFrog",
+        "repo_url": "https://raw.githubusercontent.com/CometTheFrog/Cactjack/master/pluginmaster.json",
+        "repo_source_url": "https://github.com/CometTheFrog/Cactjack",
+        "repo_name": "Cactjack",
+        "plugins": [
+            {
+                "Author": "CometTheFrog",
+                "Name": "Cactjack",
+                "InternalName": "Cactjack",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "An experimental multiplayer blackjack table for FFXIV. Includes solo practice, hosted tables, and remote online play.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/CometTheFrog/Cactjack",
+                "LastUpdate": 1786381440
+            }
+        ]
+    },
+    {
         "repo_url": "https://raw.githubusercontent.com/CondeSaheki/MeterWay/main/repo.json",
         "repo_source_url": "https://github.com/CondeSaheki/MeterWay",
         "repo_name": "MeterWay",
@@ -3990,11 +4008,11 @@
                 "Author": "Coptone",
                 "Name": "VedaAxis",
                 "InternalName": "VedaAxis",
-                "AssemblyVersion": "0.1.19.0",
+                "AssemblyVersion": "0.1.20.0",
                 "Description": "VedaAxis MVP：4/8 轨计划运行时、时间锚点、ActionEffect 确认与原生热键栏描边。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://gitee.com/Need4Spd/VedaAxis",
-                "LastUpdate": 1786205756
+                "LastUpdate": 1786377878
             }
         ]
     },
@@ -4475,12 +4493,12 @@
                 "Author": "dalamudx",
                 "Name": "One Piece",
                 "InternalName": "OnePiece",
-                "AssemblyVersion": "1.0.4.0",
+                "AssemblyVersion": "1.0.4.1",
                 "Description": "Import coordinates from selected channels and enjoy your treasure hunt. Optimize routes considering player location, aetheryte costs, and distances.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/dalamudx/onepiece/refs/heads/master/OnePiece/img/logo.png",
                 "RepoUrl": "https://github.com/dalamudx/onepiece",
-                "LastUpdate": 1777528238,
+                "LastUpdate": 1786379968,
                 "is_ai_attributed": true
             }
         ]
@@ -8330,12 +8348,12 @@
                 "Author": "Haselnussbomber",
                 "Name": "HaselTweaks",
                 "InternalName": "HaselTweaks",
-                "AssemblyVersion": "49.2.3.0",
+                "AssemblyVersion": "49.2.4.0",
                 "Description": "A collection of quality of life tweaks and more.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/main/HaselTweaks/Assets/Icon.png",
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1786190730
+                "LastUpdate": 1786378662
             },
             {
                 "Author": "Haselnussbomber",
@@ -9054,20 +9072,20 @@
         ]
     },
     {
-        "repo_developer_name": "imadethisforonething",
-        "repo_url": "https://raw.githubusercontent.com/imadethisforonething/JobKeybinds/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/imadethisforonething/JobKeybinds",
-        "repo_name": "JobKeybinds",
+        "repo_developer_name": "imadethisjustforthis",
+        "repo_url": "https://raw.githubusercontent.com/imadethisjustforthis/FFXIV-Job-Keybinds/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/imadethisjustforthis/FFXIV-Job-Keybinds",
+        "repo_name": "FFXIV-Job-Keybinds",
         "plugins": [
             {
-                "Author": "some enby",
+                "Author": "Pip",
                 "Name": "Job Key Binds",
                 "InternalName": "JobKeybinds",
                 "AssemblyVersion": "1.0.0.0",
                 "Description": "Stores and automatically applies hotbar keybind profiles for every job.",
                 "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/imadethisforonething/JobKeybinds",
-                "LastUpdate": 1785560400
+                "RepoUrl": "https://github.com/imadethisjustforthis/FFXIV-Job-Keybinds",
+                "LastUpdate": 1786381844
             }
         ]
     },
@@ -9456,12 +9474,12 @@
                 "Author": "raynording",
                 "Name": "Dalamud ACT Compat",
                 "InternalName": "DalamudActCompat",
-                "AssemblyVersion": "0.3.7.7",
+                "AssemblyVersion": "0.3.8.1",
                 "Description": "Dalamud-side UI, storage, parser abstraction, and compatibility-host bridge for an ACT-compatible FFXIV parsing platform. This early build does not yet load FFXIV_ACT_Plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/JackyWilliam/DalamudActCompat/main/src/DalamudActCompat/Assets/act-logo.jpg",
                 "RepoUrl": "https://github.com/JackyWilliam/DalamudActCompat",
-                "LastUpdate": 1786287147,
+                "LastUpdate": 1786352115,
                 "is_ai_attributed": true
             }
         ]
@@ -9476,12 +9494,12 @@
                 "Author": "raynording",
                 "Name": "Dalamud ACT Compat",
                 "InternalName": "DalamudActCompat",
-                "AssemblyVersion": "0.3.7.7",
+                "AssemblyVersion": "0.3.8.1",
                 "Description": "Dalamud-side UI, storage, parser abstraction, and compatibility-host bridge for an ACT-compatible FFXIV parsing platform. This early build does not yet load FFXIV_ACT_Plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/JackyWilliam/DalamudActCompat/main/src/DalamudActCompat/Assets/act-logo.jpg",
                 "RepoUrl": "https://github.com/JackyWilliam/DalamudActCompat",
-                "LastUpdate": 1786289310,
+                "LastUpdate": 1786368398,
                 "is_ai_attributed": true
             }
         ]
@@ -9590,12 +9608,23 @@
                 "Author": "jFray",
                 "Name": "EchoMix",
                 "InternalName": "EchoMix.Plugin",
-                "AssemblyVersion": "1.2.1.9",
+                "AssemblyVersion": "1.2.2.0",
                 "Description": "An interactive DJ deck with live mixing tools, custom playlists, and a synced listener mode with an audio visualizer.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/icon.png",
                 "RepoUrl": "https://echomix.app",
-                "LastUpdate": 1786323810
+                "LastUpdate": 1786377854
+            },
+            {
+                "Author": "jFray",
+                "Name": "EchoSim",
+                "InternalName": "EchoSim.Plugin",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "Simulates a full-length fight for your job using your own gear or a best-in-slot preset, then reports the DPS and shows exactly where it came from. Compares gear, melds and consumables, checks your openers and burst windows, and analyses an FFLogs report against the simulated ceiling. Kills on supported encounters can be scored and submitted to per-job leaderboards.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/echosim-icon.png",
+                "RepoUrl": "https://echoxiv.com",
+                "LastUpdate": 1786384422
             }
         ]
     },
@@ -10421,24 +10450,24 @@
                 "Author": "KanoNoUta、岚玉棠（国服 7.55 适配维护）",
                 "Name": "BOCCHI 新月岛综合辅助（国服）",
                 "InternalName": "BOCCHI",
-                "AssemblyVersion": "3.3.30.0",
+                "AssemblyVersion": "3.3.31.0",
                 "Description": "BOCCHI 旨在让您的新月岛体验更加流畅。\n- 不再有那些烦人的“跑腿”或“寻找宝箱”了。那是给失败者玩的。\n- 一个可爱的小 Fate 和 CE 面板会告诉您它提供了什么奖励，并帮助您自动找到它，哇哦。\n- 一个极端非法的“非法模式”，适合那些宁愿摸摸草地或玩有价值内容的游戏的人。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/icon.png",
                 "RepoUrl": "https://github.com/KanoNoUta/BOCCHI",
-                "LastUpdate": 1786344309,
+                "LastUpdate": 1786381109,
                 "is_ai_attributed": true
             },
             {
                 "Author": "KanoNoUta（国服 7.55 适配）",
                 "Name": "BossMod Reborn CN",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.5.33",
+                "AssemblyVersion": "7.5.5.34",
                 "Description": "BossMod Reborn 国服适配版，提供副本与大型探索任务的机制提示。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
-                "LastUpdate": 1786290230,
+                "LastUpdate": 1786380355,
                 "is_ai_attributed": true
             },
             {
@@ -14035,32 +14064,32 @@
                 "Description": "An advanced combat rotation platform for FFXIV high-end content.",
                 "DalamudApiLevel": 12,
                 "IconUrl": "https://raw.githubusercontent.com/MilkVio/DalamudPlugins/main/PromeRotation/Icons/prome.png",
-                "RepoUrl": "https://github.com/MilkVio/DalamudPlugins/tree/main/PromeRotation/API12",
-                "LastUpdate": 1784591143,
+                "RepoUrl": "https://github.com/MilkVio/DalamudPlugins/tree/main/PromeRotation/API15",
+                "LastUpdate": 1786375882,
                 "is_closed_source": true
             },
             {
                 "Author": "Miruku",
                 "Name": "PromeRotation API13",
                 "InternalName": "PromeRotation",
-                "AssemblyVersion": "1.3.1.3",
+                "AssemblyVersion": "1.3.1.4",
                 "Description": "An advanced combat rotation platform for FFXIV high-end content.",
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/MilkVio/DalamudPlugins/main/PromeRotation/Icons/prome.png",
-                "RepoUrl": "https://github.com/MilkVio/DalamudPlugins/tree/main/PromeRotation/API13",
-                "LastUpdate": 1785591038,
+                "RepoUrl": "https://github.com/MilkVio/DalamudPlugins/tree/main/PromeRotation/API15",
+                "LastUpdate": 1786375882,
                 "is_closed_source": true
             },
             {
                 "Author": "Miruku",
                 "Name": "PromeRotation",
                 "InternalName": "PromeRotation",
-                "AssemblyVersion": "1.5.9.3",
+                "AssemblyVersion": "1.5.9.4",
                 "Description": "An advanced combat rotation platform for FFXIV high-end content.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MilkVio/DalamudPlugins/main/PromeRotation/Icons/prome.png",
                 "RepoUrl": "https://github.com/MilkVio/DalamudPlugins/tree/main/PromeRotation/API15",
-                "LastUpdate": 1785834865,
+                "LastUpdate": 1786375882,
                 "is_closed_source": true
             }
         ]
@@ -15237,7 +15266,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/NeXzRo/Stuff/main/BetterTargetingSystemPvP/icon.png",
                 "RepoUrl": "https://github.com/NeXzRo/BetterTargetingSystem",
-                "LastUpdate": 1785547767
+                "LastUpdate": 1786236289
             },
             {
                 "Author": "goat, Maple",
@@ -15590,7 +15619,7 @@
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1786260820,
+                "LastUpdate": 1786362287,
                 "is_closed_source": true
             },
             {
@@ -15602,19 +15631,19 @@
                 "DalamudApiLevel": 14,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1786260820,
+                "LastUpdate": 1786362287,
                 "is_closed_source": true
             },
             {
                 "Author": "The Combat Reborn Team / NiGuangOwO（本地化&适配）",
                 "Name": "Bossmod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.5.36",
+                "AssemblyVersion": "7.5.5.38",
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1786260820,
+                "LastUpdate": 1786362287,
                 "is_closed_source": true
             },
             {
@@ -16854,12 +16883,12 @@
                 "Author": "Faye, Kage",
                 "Name": "Better Occult Crescent & Chest Helper Interface",
                 "InternalName": "BOCCHI",
-                "AssemblyVersion": "4.0.2.21",
+                "AssemblyVersion": "4.0.2.23",
                 "Description": "BOCCHI is here to smooth out your Occult Crescent experience.\n- No more of that pesky 'walking' or 'finding chests'. That's for losers.\n- A cute little Fate and CE panel that'll tell you what rewards it gives AND help you automatically path to it, wowee.\n- An extre illegal 'illegal mode' for those of you that would rather be touching grass or playing a game with worthwhile content.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/OhKannaDuh/BOCCHI/master/assets/icon.png",
                 "RepoUrl": "https://github.com/OhKannaDuh/OccultCrescentHelper",
-                "LastUpdate": 1786322334
+                "LastUpdate": 1786381104
             }
         ]
     },
@@ -18772,12 +18801,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.1.50",
+                "AssemblyVersion": "15.306.1.52",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1786326131,
+                "LastUpdate": 1786382238,
                 "is_ai_attributed": true
             },
             {
@@ -19048,12 +19077,12 @@
                 "Author": "Kage",
                 "Name": "Relic Tracker",
                 "InternalName": "RelicTracker",
-                "AssemblyVersion": "1.0.1.2",
+                "AssemblyVersion": "1.0.1.3",
                 "Description": "Track relic weapon, tool, and armor progress across every job, with live material counts and optional FFXIV Collect sync.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/159",
                 "RepoUrl": "https://github.com/Kagekazu/RelicTracker",
-                "LastUpdate": 1786320757
+                "LastUpdate": 1786379273
             }
         ]
     },
@@ -19107,12 +19136,12 @@
                 "Author": "Knightmore",
                 "Name": "Henchman",
                 "InternalName": "Henchman",
-                "AssemblyVersion": "3.0.1.10",
+                "AssemblyVersion": "3.0.1.11",
                 "Description": "Your personal Henchman doing all the heavy lifting for you!\n\n- Hunt Logs\n- Hunt Bills\n- Retainer Creation\nand more to come.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/85",
                 "RepoUrl": "https://github.com/Knightmore/Henchman",
-                "LastUpdate": 1785698028
+                "LastUpdate": 1786374162
             }
         ]
     },
@@ -19172,7 +19201,7 @@
                 "Author": "nainaiowo",
                 "Name": "Eidos",
                 "InternalName": "Eidos",
-                "AssemblyVersion": "0.1.0.68",
+                "AssemblyVersion": "0.1.0.69",
                 "Description": "A Gposing and scene tool.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nainaiowo/Eidos"
@@ -19542,7 +19571,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1786313173
+                "LastUpdate": 1786373823
             },
             {
                 "Author": "veyn, croizat",
@@ -19585,7 +19614,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/48",
                 "RepoUrl": "https://github.com/awgil/ffxiv_navmesh",
-                "LastUpdate": 1785942787
+                "LastUpdate": 1786372318
             },
             {
                 "Author": "veyn, croizat",
@@ -26240,7 +26269,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1786335103,
+                "LastUpdate": 1786382911,
                 "is_ai_attributed": true
             },
             {
