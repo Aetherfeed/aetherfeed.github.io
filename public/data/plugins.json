@@ -6968,12 +6968,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "BossMod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.5.36",
+                "AssemblyVersion": "7.5.5.37",
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1786315654
+                "LastUpdate": 1786336339
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -7017,7 +7017,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/PCR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn",
-                "LastUpdate": 1785899332
+                "LastUpdate": 1786336238
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -7034,12 +7034,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.5.26",
+                "AssemblyVersion": "7.5.5.27",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1786265642
+                "LastUpdate": 1786336348
             },
             {
                 "Author": "Churin",
@@ -7612,12 +7612,12 @@
                 "Author": "gerulla",
                 "Name": "FullParty",
                 "InternalName": "FullParty",
-                "AssemblyVersion": "0.1.12.0",
+                "AssemblyVersion": "0.1.13.0",
                 "Description": "Dalamud Plugin Companion for FullParty.gg",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/gerulla/fullparty-plugin/master/Data/icon.png",
                 "RepoUrl": "https://github.com/gerulla/fullparty-plugin",
-                "LastUpdate": 1785687036
+                "LastUpdate": 1786323485
             }
         ]
     },
@@ -8324,7 +8324,7 @@
                 "Description": "For developers.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
-                "LastUpdate": 1786305199
+                "LastUpdate": 1786315087
             },
             {
                 "Author": "Haselnussbomber",
@@ -9590,12 +9590,12 @@
                 "Author": "jFray",
                 "Name": "EchoMix",
                 "InternalName": "EchoMix.Plugin",
-                "AssemblyVersion": "1.2.1.8",
+                "AssemblyVersion": "1.2.1.9",
                 "Description": "An interactive DJ deck with live mixing tools, custom playlists, and a synced listener mode with an audio visualizer.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/icon.png",
                 "RepoUrl": "https://echomix.app",
-                "LastUpdate": 1785444068
+                "LastUpdate": 1786323810
             }
         ]
     },
@@ -10268,7 +10268,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/kaerlath/Levemetes/main/images/icon.png",
                 "RepoUrl": "https://github.com/kaerlath/Levemetes",
-                "LastUpdate": 1786315416,
+                "LastUpdate": 1786325213,
                 "is_ai_attributed": true
             }
         ]
@@ -10887,12 +10887,12 @@
                 "Author": "kernelcurry",
                 "Name": "PopotoVox",
                 "InternalName": "PopotoVox",
-                "AssemblyVersion": "0.9.14.0",
+                "AssemblyVersion": "0.9.16.0",
                 "Description": "Distinct, LLM-cast synthetic voices for FFXIV NPCs, rendered locally.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/kernelcurry/popotovox-plugin/main/images/icon.png",
                 "RepoUrl": "https://github.com/kernelcurry/popotovox-plugin",
-                "LastUpdate": 1785987558,
+                "LastUpdate": 1786336267,
                 "is_ai_attributed": true
             }
         ]
@@ -11220,6 +11220,24 @@
     },
     {
         "repo_developer_name": "kittenhaswares-ui",
+        "repo_url": "https://raw.githubusercontent.com/kittenhaswares-ui/SuperFocusGlow/main/repo.json",
+        "repo_source_url": "https://github.com/kittenhaswares-ui/SuperFocusGlow",
+        "repo_name": "SuperFocusGlow",
+        "plugins": [
+            {
+                "Author": "kittenhaswares-ui",
+                "Name": "Super Focus Glow",
+                "InternalName": "SuperFocusGlow",
+                "AssemblyVersion": "0.2.0.0",
+                "Description": "Zeichnet einen konfigurierbaren, stark leuchtenden Ring, Halo und Chevron über das bereits gesetzte Fokusziel — jetzt auch in Crystalline Conflict, Frontline und anderen PvP-Gebieten. Befehl: /focusglow.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/kittenhaswares-ui/SuperFocusGlow",
+                "LastUpdate": 1786336953
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "kittenhaswares-ui",
         "repo_url": "https://raw.githubusercontent.com/kittenhaswares-ui/XivBlend/main/repo.json",
         "repo_source_url": "https://github.com/kittenhaswares-ui/XivBlend",
         "repo_name": "XivBlend",
@@ -11471,7 +11489,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1786303555,
+                "LastUpdate": 1786318797,
                 "is_ai_attributed": true
             },
             {
@@ -11494,7 +11512,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1786234192
+                "LastUpdate": 1786313173
             },
             {
                 "Author": "sourpuh",
@@ -11516,7 +11534,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1786304555,
+                "LastUpdate": 1786326131,
                 "is_ai_attributed": true
             },
             {
@@ -11528,7 +11546,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1786265642
+                "LastUpdate": 1786336348
             },
             {
                 "Author": "Team Wrath",
@@ -11629,12 +11647,12 @@
                 "Author": "Kussie ",
                 "Name": "Aetherfit",
                 "InternalName": "Aetherfit",
-                "AssemblyVersion": "1.2.2608.332",
+                "AssemblyVersion": "1.2.2608.339",
                 "Description": "A custom simple frontend for applying designs from Glamourer. Lets you browse and apply designs, and optionally upload your own images to more easily be able to decide on which design to wear.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Kussie/Aetherfit/master/Data/icon-square.png",
                 "RepoUrl": "https://github.com/Kussie/Aetherfit",
-                "LastUpdate": 1786316737,
+                "LastUpdate": 1786336803,
                 "is_ai_attributed": true
             },
             {
@@ -12101,12 +12119,12 @@
                 "Author": "Legends of the Game",
                 "Name": "Time Memoria",
                 "InternalName": "TimeMemoriaV3",
-                "AssemblyVersion": "3.0.6.15",
+                "AssemblyVersion": "3.1.0.15",
                 "Description": "Quest progression and pacing — a reflective notebook for your story journey, not a scoreboard.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/LegendsOfTheGame/TimeMemoriaV3/main/assets/icon.png",
                 "RepoUrl": "https://github.com/LegendsOfTheGame/TimeMemoriaV3",
-                "LastUpdate": 1786280637,
+                "LastUpdate": 1786321686,
                 "is_ai_attributed": true
             }
         ]
@@ -15015,12 +15033,12 @@
                 "Author": "Valenth Siveria",
                 "Name": "BlackJack Buttler",
                 "InternalName": "BlackJackButtler",
-                "AssemblyVersion": "1.8.4.9",
+                "AssemblyVersion": "1.9.0.0",
                 "Description": "/bjb - opens the blackjack buttler tool",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/NeoGriever/BlackJackButtler/main/plugins/BlackJackButtler/icon.png",
                 "RepoUrl": "https://github.com/NeoGriever/BlackJackButtler",
-                "LastUpdate": 1784155417,
+                "LastUpdate": 1786318019,
                 "is_ai_attributed": true
             }
         ]
@@ -16758,12 +16776,12 @@
                 "Author": "ofnature",
                 "Name": "Charon",
                 "InternalName": "Charon",
-                "AssemblyVersion": "0.1.25",
+                "AssemblyVersion": "0.1.26",
                 "Description": "Auto pillion with smart seat scanning and whitelisted auto group invite. Companion to Daedalus.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ofnature/Charon/main/images/icon.png",
                 "RepoUrl": "https://github.com/ofnature/Charon",
-                "LastUpdate": 1786244114,
+                "LastUpdate": 1786318429,
                 "is_ai_attributed": true
             }
         ]
@@ -16818,12 +16836,12 @@
                 "Author": "Faye, Kage",
                 "Name": "Better Occult Crescent & Chest Helper Interface",
                 "InternalName": "BOCCHI",
-                "AssemblyVersion": "4.0.2.20",
+                "AssemblyVersion": "4.0.2.21",
                 "Description": "BOCCHI is here to smooth out your Occult Crescent experience.\n- No more of that pesky 'walking' or 'finding chests'. That's for losers.\n- A cute little Fate and CE panel that'll tell you what rewards it gives AND help you automatically path to it, wowee.\n- An extre illegal 'illegal mode' for those of you that would rather be touching grass or playing a game with worthwhile content.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/OhKannaDuh/BOCCHI/master/assets/icon.png",
                 "RepoUrl": "https://github.com/OhKannaDuh/OccultCrescentHelper",
-                "LastUpdate": 1786298669
+                "LastUpdate": 1786322334
             }
         ]
     },
@@ -18480,12 +18498,12 @@
                 "Author": "ptMuta",
                 "Name": "CursorRing",
                 "InternalName": "CursorRing",
-                "AssemblyVersion": "1.0.0.2",
+                "AssemblyVersion": "1.0.0.3",
                 "Description": "Replaces the in-game cursor with a hollow ring and center dot. Global cooldown progress can appear as an inner ring, outer ring, stroke overlay, or pie overlay. Open settings with /cursorring.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ptMuta/CursorRing/master/images/icon.png",
                 "RepoUrl": "https://github.com/ptMuta/CursorRing",
-                "LastUpdate": 1786290637,
+                "LastUpdate": 1786321877,
                 "is_ai_attributed": true
             }
         ]
@@ -18741,7 +18759,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1786314849,
+                "LastUpdate": 1786326131,
                 "is_ai_attributed": true
             },
             {
@@ -18847,7 +18865,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1786317839,
+                "LastUpdate": 1786318797,
                 "is_ai_attributed": true
             },
             {
@@ -19012,12 +19030,12 @@
                 "Author": "Kage",
                 "Name": "Relic Tracker",
                 "InternalName": "RelicTracker",
-                "AssemblyVersion": "1.0.1.1",
+                "AssemblyVersion": "1.0.1.2",
                 "Description": "Track relic weapon, tool, and armor progress across every job, with live material counts and optional FFXIV Collect sync.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/159",
                 "RepoUrl": "https://github.com/Kagekazu/RelicTracker",
-                "LastUpdate": 1786294131
+                "LastUpdate": 1786320757
             }
         ]
     },
@@ -19361,12 +19379,12 @@
                 "Author": "Valenth Siveria",
                 "Name": "BlackJack Buttler",
                 "InternalName": "BlackJackButtler",
-                "AssemblyVersion": "1.8.4.9",
+                "AssemblyVersion": "1.9.0.0",
                 "Description": "/bjb - opens the blackjack buttler tool",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/118",
                 "RepoUrl": "https://github.com/NeoGriever/BlackJackButtler",
-                "LastUpdate": 1784155419,
+                "LastUpdate": 1786318021,
                 "is_ai_attributed": true
             },
             {
@@ -22042,11 +22060,11 @@
                 "Author": "Sansflaire",
                 "Name": "LimLo Toolkit",
                 "InternalName": "LimLoToolkit",
-                "AssemblyVersion": "0.6.0.0",
+                "AssemblyVersion": "0.12.0.0",
                 "Description": "LimLoToolkit is a single window that collects small quality-of-life tools for the Occult Crescent and beyond. Coffer Lines draws a line from you to nearby bronze and silver treasure coffers, and can optionally target and open one once you walk up to it. Enemy Vision draws each nearby enemy's detection area on the ground - a wedge for enemies that only see in front, a circle for those that detect in all directions - and turns it red when you are standing inside. Alongside them sit a live character and zone readout and an Eorzea clock with the next weather window. Every tool can be switched on or off individually. The plugin is fully standalone - it needs no other plugins installed and talks to nothing outside the game.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sansflaire/LimLoToolkit",
-                "LastUpdate": 1786316167
+                "LastUpdate": 1786328819
             }
         ]
     },
@@ -22550,12 +22568,12 @@
                 "Author": "ShaalaXIV",
                 "Name": "Synastry",
                 "InternalName": "EmoteLink",
-                "AssemblyVersion": "1.0.49.0",
+                "AssemblyVersion": "1.0.50.0",
                 "Description": "A Penumbra animation launcher for organizing, pairing, and synchronizing multi-actor animations.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ShaalaXIV/Synastry/main/images/icon.png",
                 "RepoUrl": "https://github.com/ShaalaXIV/Synastry",
-                "LastUpdate": 1786298134,
+                "LastUpdate": 1786324198,
                 "is_ai_attributed": true
             }
         ]
@@ -23162,7 +23180,7 @@
                 "Author": "SnipeGrzywa",
                 "Name": "PVP Soundboard",
                 "InternalName": "PvPSoundboard",
-                "AssemblyVersion": "0.1.0.0",
+                "AssemblyVersion": "0.1.0.1",
                 "Description": "Plays configurable sound clips on PvP kills, deaths, assists, killstreaks, and Frontline Battle High rank-ups. Version 0.1 — experimental.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/snipegrzywa/PvPSoundboard",
@@ -26194,7 +26212,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1786315106,
+                "LastUpdate": 1786335103,
                 "is_ai_attributed": true
             },
             {
