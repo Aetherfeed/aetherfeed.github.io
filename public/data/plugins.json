@@ -6549,7 +6549,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1786257719
+                "LastUpdate": 1786346179
             }
         ]
     },
@@ -6568,7 +6568,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1786257719
+                "LastUpdate": 1786346179
             }
         ]
     },
@@ -6968,12 +6968,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "BossMod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.5.37",
+                "AssemblyVersion": "7.5.5.38",
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1786336339
+                "LastUpdate": 1786356058
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -10421,12 +10421,12 @@
                 "Author": "KanoNoUta、岚玉棠（国服 7.55 适配维护）",
                 "Name": "BOCCHI 新月岛综合辅助（国服）",
                 "InternalName": "BOCCHI",
-                "AssemblyVersion": "3.3.29.0",
+                "AssemblyVersion": "3.3.30.0",
                 "Description": "BOCCHI 旨在让您的新月岛体验更加流畅。\n- 不再有那些烦人的“跑腿”或“寻找宝箱”了。那是给失败者玩的。\n- 一个可爱的小 Fate 和 CE 面板会告诉您它提供了什么奖励，并帮助您自动找到它，哇哦。\n- 一个极端非法的“非法模式”，适合那些宁愿摸摸草地或玩有价值内容的游戏的人。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/icon.png",
                 "RepoUrl": "https://github.com/KanoNoUta/BOCCHI",
-                "LastUpdate": 1786298042,
+                "LastUpdate": 1786344309,
                 "is_ai_attributed": true
             },
             {
@@ -11182,6 +11182,24 @@
     },
     {
         "repo_developer_name": "kittenhaswares-ui",
+        "repo_url": "https://raw.githubusercontent.com/kittenhaswares-ui/NearAssist/main/repo.json",
+        "repo_source_url": "https://github.com/kittenhaswares-ui/NearAssist",
+        "repo_name": "NearAssist",
+        "plugins": [
+            {
+                "Author": "kittenhaswares-ui",
+                "Name": "Near Assist",
+                "InternalName": "NearAssist",
+                "AssemblyVersion": "0.1.0.1",
+                "Description": "Der Befehl /nearassist sucht einmalig den nächsten lebenden Party-/Alliance-Mitspieler mit einem gültigen Ziel und übernimmt dessen Ziel. Für Hotbar-Makros geeignet; keine dauerhafte Automatik, keine Hooks und keine Fähigkeit wird vom Plugin ausgelöst.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/kittenhaswares-ui/NearAssist",
+                "LastUpdate": 1786345481
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "kittenhaswares-ui",
         "repo_url": "https://raw.githubusercontent.com/kittenhaswares-ui/PersonalCombatLog/main/repo.json",
         "repo_source_url": "https://github.com/kittenhaswares-ui/PersonalCombatLog",
         "repo_name": "PersonalCombatLog",
@@ -11209,11 +11227,11 @@
                 "Author": "kittenhaswares-ui",
                 "Name": "PulseQueue",
                 "InternalName": "PulseQueue.Plugin",
-                "AssemblyVersion": "0.3.5.0",
+                "AssemblyVersion": "0.3.6.0",
                 "Description": "A strict one-shot smart input buffer with adaptive local timing, hard cancellation rules, and automatic suspension around incompatible action plugins.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kittenhaswares-ui/PulseQueue",
-                "LastUpdate": 1785545011,
+                "LastUpdate": 1786359371,
                 "is_ai_attributed": true
             }
         ]
@@ -11541,7 +11559,7 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.5.26",
+                "AssemblyVersion": "7.5.5.27",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
@@ -11557,7 +11575,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1786292410
+                "LastUpdate": 1786351970
             }
         ]
     },
@@ -13136,15 +13154,15 @@
                 "is_ai_attributed": true
             },
             {
-                "Author": "Mayo Botic",
+                "Author": "Mayo Botic, Ultranova Violet",
                 "Name": "PF Analysis",
                 "InternalName": "PfPresets",
-                "AssemblyVersion": "3.3.6.0",
+                "AssemblyVersion": "3.4.0.0",
                 "Description": "AI slop that lets you rate other people you played with in pf.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Marobotic/PfPresets/main/images/icon.png",
                 "RepoUrl": "https://github.com/Marobotic/PfPresets",
-                "LastUpdate": 1786293289,
+                "LastUpdate": 1786356075,
                 "is_ai_attributed": true
             }
         ]
@@ -17352,7 +17370,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1786257719
+                "LastUpdate": 1786346179
             },
             {
                 "Author": "Risa and Contributors",
@@ -17385,7 +17403,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Ottermandias/Glamourer/main/images/icon.png",
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1785708942
+                "LastUpdate": 1786280172
             },
             {
                 "Author": "Anna",
@@ -18793,7 +18811,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1786292410
+                "LastUpdate": 1786351970
             },
             {
                 "Author": "daemitus, croizat",
@@ -18830,12 +18848,12 @@
                 "Author": "croizat",
                 "Name": "Glamour Log",
                 "InternalName": "GlamourLog",
-                "AssemblyVersion": "15.62",
+                "AssemblyVersion": "15.63",
                 "Description": "A log for all your glamours and other glam-related tweaks",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/136",
                 "RepoUrl": "https://github.com/Jaksuhn/ffxiv_glamourlog",
-                "LastUpdate": 1786149419
+                "LastUpdate": 1786349056
             },
             {
                 "Author": "daemitus, croizat",
@@ -19154,7 +19172,7 @@
                 "Author": "nainaiowo",
                 "Name": "Eidos",
                 "InternalName": "Eidos",
-                "AssemblyVersion": "0.1.0.67",
+                "AssemblyVersion": "0.1.0.68",
                 "Description": "A Gposing and scene tool.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nainaiowo/Eidos"
@@ -20004,6 +20022,16 @@
                 "IconUrl": "https://raw.githubusercontent.com/QY-SR/DalamudPlugins/main/assets/icons/InventorySlotLock.png?v=20260805-512",
                 "RepoUrl": "https://github.com/QY-SR/DalamudPlugins",
                 "LastUpdate": 1785930399
+            },
+            {
+                "Author": "QianyanSR",
+                "Name": "定型文快速筛选",
+                "InternalName": "QuickAutoTranslate",
+                "AssemblyVersion": "1.5.0.0",
+                "Description": "为原生定型文提供轻量快速搜索窗口，支持中文与拼音筛选、动态技能和历史技能定型文。历史技能热键栏支持按当前或指定职业筛选、查看旧技能描述与原图标，并在图标失效时显示默认失效图标。使用 /qat 打开，/qat hotbar 打开历史技能热键栏。",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/QY-SR/DalamudPlugins",
+                "LastUpdate": 1786347664
             },
             {
                 "Author": "QianyanSR",
@@ -21954,11 +21982,11 @@
                 "Author": "WhiteDog",
                 "Name": "PartyBell",
                 "InternalName": "PartyBell",
-                "AssemblyVersion": "1.0.2.0",
+                "AssemblyVersion": "1.1.0.0",
                 "Description": "當隊伍有任何變動（隊員加入、退出、滿員、隊伍訊息、密語、副本排到）時，透過 Discord Webhook 發送通知並可 @ 提及；招募即將到期（60 分鐘）前自動重新發布；排到副本後可延遲自動按下出發。",
-                "DalamudApiLevel": 12,
+                "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/SamoyedQQ/PartyBell",
-                "LastUpdate": 1783766718,
+                "LastUpdate": 1786352411,
                 "is_ai_attributed": true
             },
             {
@@ -21970,7 +21998,7 @@
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/SamoyedQQ/TCRankingViewer/main/assets/icon.png",
                 "RepoUrl": "https://github.com/SamoyedQQ/TCRankingViewer",
-                "LastUpdate": 1786104764,
+                "LastUpdate": 1786352456,
                 "is_ai_attributed": true
             }
         ]
@@ -24266,7 +24294,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ThatKwistine/WardrobePlugin/main/images/icon.png",
                 "RepoUrl": "https://github.com/ThatKwistine/WardrobePlugin",
-                "LastUpdate": 1786186553,
+                "LastUpdate": 1786347531,
                 "is_ai_attributed": true
             }
         ]
@@ -25295,7 +25323,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Valiice/SpotifyHonorific/master/images/icon.png",
                 "RepoUrl": "https://github.com/Valiice/SpotifyHonorific",
-                "LastUpdate": 1785824289,
+                "LastUpdate": 1786354459,
                 "is_ai_attributed": true
             }
         ]
@@ -26901,6 +26929,24 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/yimo0908/DalamudPlugin/tree/main/TreasureForecast",
                 "LastUpdate": 1785073606
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "yixianweiyan",
+        "repo_url": "https://raw.githubusercontent.com/yixianweiyan/ganwu-jiansuo/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/yixianweiyan/ganwu-jiansuo",
+        "repo_name": "ganwu-jiansuo",
+        "plugins": [
+            {
+                "Author": "冰棒",
+                "Name": "肝武检索",
+                "InternalName": "GanWuJianSuo",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "扫描背包/兵器库/鞍囊/雇员等容器，查看已获得的曼德维尔武器和幻境武器，支持阶段、升级材料、来源识别。",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/yixianweiyan/ganwu-jiansuo",
+                "LastUpdate": 1786343265
             }
         ]
     },
