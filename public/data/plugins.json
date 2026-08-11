@@ -637,7 +637,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1786259015,
+                "LastUpdate": 1786443119,
                 "is_ai_attributed": true
             },
             {
@@ -1198,12 +1198,12 @@
                 "Author": "Alex Vallière",
                 "Name": "Submarine ETA Planner",
                 "InternalName": "SubmarineEtaPlanner",
-                "AssemblyVersion": "0.5.30.0",
+                "AssemblyVersion": "0.5.33.0",
                 "Description": "Read-only ETA planner for tracked FC submarines using SubmarineTracker-compatible voyage, build, EXP, and unlock calculations.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://alexvalliere.github.io/submarineEtaPlanner/images/icon.png",
                 "RepoUrl": "https://github.com/AlexValliere/submarineEtaPlanner",
-                "LastUpdate": 1786291095
+                "LastUpdate": 1786451088
             }
         ]
     },
@@ -3953,7 +3953,7 @@
                 "Author": "CinthyaBunny",
                 "Name": "Vein & Vine",
                 "InternalName": "VeinAndVine",
-                "AssemblyVersion": "0.0.1.4",
+                "AssemblyVersion": "0.0.1.5",
                 "Description": "Shows a priority-sorted list of active and upcoming gathering nodes from your wishlist, using FFXIV's deterministic weather and Eorzea clock. Read-only by design: no automated movement or gathering.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/USER/VeinAndVine"
@@ -3974,7 +3974,8 @@
                 "Description": "An in-game web browser for FFXIV with isolated Chromium rendering, independent Shards, workspaces, Favored Destinations, and site-aware Focus modes.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://github.com/CometTheFrog/AethernetExplorer-Repo/releases/download/v0.9.0.37/icon.png",
-                "RepoUrl": "https://github.com/CometTheFrog/AethernetExplorer"
+                "RepoUrl": "https://github.com/CometTheFrog/AethernetExplorer",
+                "LastUpdate": 1786430557
             }
         ]
     },
@@ -6584,7 +6585,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1786346179
+                "LastUpdate": 1786431236
             }
         ]
     },
@@ -6603,7 +6604,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1786346179
+                "LastUpdate": 1786431236
             }
         ]
     },
@@ -7036,12 +7037,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "No Silly Reborn",
                 "InternalName": "NoSillyReborn",
-                "AssemblyVersion": "7.5.0.2",
+                "AssemblyVersion": "7.5.5.0",
                 "Description": "No Silly Reborn intercepts your action inputs during combat and replaces incorrect actions with the correct ones based on your current job state.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/NSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/NoSillyReborn",
-                "LastUpdate": 1777837454
+                "LastUpdate": 1786440076
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -9491,7 +9492,7 @@
                 "Author": "raynording",
                 "Name": "Dalamud ACT Compat",
                 "InternalName": "DalamudActCompat",
-                "AssemblyVersion": "0.3.8.1",
+                "AssemblyVersion": "0.3.9.0",
                 "Description": "Dalamud-side UI, storage, parser abstraction, and compatibility-host bridge for an ACT-compatible FFXIV parsing platform. This early build does not yet load FFXIV_ACT_Plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/JackyWilliam/DalamudActCompat/main/src/DalamudActCompat/Assets/act-logo.jpg",
@@ -9511,12 +9512,12 @@
                 "Author": "raynording",
                 "Name": "Dalamud ACT Compat",
                 "InternalName": "DalamudActCompat",
-                "AssemblyVersion": "0.3.8.1",
+                "AssemblyVersion": "0.3.9.0",
                 "Description": "Dalamud-side UI, storage, parser abstraction, and compatibility-host bridge for an ACT-compatible FFXIV parsing platform. This early build does not yet load FFXIV_ACT_Plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/JackyWilliam/DalamudActCompat/main/src/DalamudActCompat/Assets/act-logo.jpg",
                 "RepoUrl": "https://github.com/JackyWilliam/DalamudActCompat",
-                "LastUpdate": 1786368398,
+                "LastUpdate": 1786444244,
                 "is_ai_attributed": true
             }
         ]
@@ -9631,6 +9632,17 @@
                 "IconUrl": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/icon.png",
                 "RepoUrl": "https://echomix.app",
                 "LastUpdate": 1786418007
+            },
+            {
+                "Author": "jFray",
+                "Name": "EchoNav",
+                "InternalName": "EchoNav.Plugin",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "Lists the Critical Encounters and FATEs running in Occult Crescent: North Horn and walks you to any of them with a single click, choosing between walking, an aetheryte hop and Occult Return. Also tracks the pot cycle, keeps your knowledge-crystal buffs topped up, and can step around monsters and pick up coffers on the way. Does nothing outside North Horn.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/echonav-icon.png",
+                "RepoUrl": "https://echoxiv.com",
+                "LastUpdate": 1786429472
             },
             {
                 "Author": "jFray",
@@ -10467,24 +10479,24 @@
                 "Author": "KanoNoUta、岚玉棠（国服 7.55 适配维护）",
                 "Name": "BOCCHI 新月岛综合辅助（国服）",
                 "InternalName": "BOCCHI",
-                "AssemblyVersion": "3.3.31.0",
+                "AssemblyVersion": "3.3.33.0",
                 "Description": "BOCCHI 旨在让您的新月岛体验更加流畅。\n- 不再有那些烦人的“跑腿”或“寻找宝箱”了。那是给失败者玩的。\n- 一个可爱的小 Fate 和 CE 面板会告诉您它提供了什么奖励，并帮助您自动找到它，哇哦。\n- 一个极端非法的“非法模式”，适合那些宁愿摸摸草地或玩有价值内容的游戏的人。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/icon.png",
                 "RepoUrl": "https://github.com/KanoNoUta/BOCCHI",
-                "LastUpdate": 1786381109,
+                "LastUpdate": 1786442824,
                 "is_ai_attributed": true
             },
             {
                 "Author": "KanoNoUta（国服 7.55 适配）",
                 "Name": "BossMod Reborn CN",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.5.34",
+                "AssemblyVersion": "7.5.5.36",
                 "Description": "BossMod Reborn 国服适配版，提供副本与大型探索任务的机制提示。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
-                "LastUpdate": 1786380355,
+                "LastUpdate": 1786441667,
                 "is_ai_attributed": true
             },
             {
@@ -11310,11 +11322,11 @@
                 "Author": "kittenhaswares-ui",
                 "Name": "Seiton Sense",
                 "InternalName": "SeitonSense.Plugin",
-                "AssemblyVersion": "0.1.0.1",
+                "AssemblyVersion": "0.3.0.1",
                 "Description": "A display-only Ninja PvP overlay that maps FFXIV's native enemy slots to S1-S5 and shows the matching label only when an enemy is below 50% HP, passes Seiton's native range check, and Seiton is currently usable.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kittenhaswares-ui/SeitonSense",
-                "LastUpdate": 1786424812
+                "LastUpdate": 1786449620
             }
         ]
     },
@@ -14214,12 +14226,12 @@
                 "Author": "miqote69",
                 "Name": "Crescent Atlas",
                 "InternalName": "CrescentAtlas",
-                "AssemblyVersion": "0.1.101.0",
+                "AssemblyVersion": "0.1.102.0",
                 "Description": "Display-only Occult Crescent atlas with treasure spot checks and field markers, FATE/CE timers and progress, Magic Pot prediction and alerts, carrot and Forked Tower markers, aetherytes, visit history, and local observation collection. It does not automate movement or interaction.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/miqote69/CrescentAtlas/main/images/icon-v44.png",
                 "RepoUrl": "https://github.com/miqote69/CrescentAtlas",
-                "LastUpdate": 1786251864
+                "LastUpdate": 1786430941
             }
         ]
     },
@@ -15672,7 +15684,7 @@
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1786362287,
+                "LastUpdate": 1786447454,
                 "is_closed_source": true
             },
             {
@@ -15684,19 +15696,19 @@
                 "DalamudApiLevel": 14,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1786362287,
+                "LastUpdate": 1786447454,
                 "is_closed_source": true
             },
             {
                 "Author": "The Combat Reborn Team / NiGuangOwO（本地化&适配）",
                 "Name": "Bossmod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.5.38",
+                "AssemblyVersion": "7.5.5.40",
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1786362287,
+                "LastUpdate": 1786447454,
                 "is_closed_source": true
             },
             {
@@ -17452,7 +17464,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1786346179
+                "LastUpdate": 1786431236
             },
             {
                 "Author": "Risa and Contributors",
@@ -17507,7 +17519,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ktisis-tools/Ktisis/main/icon.png",
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1786161589
+                "LastUpdate": 1786396302
             },
             {
                 "Author": "kawaii, Glyceri, Minmoose",
@@ -18772,7 +18784,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/47",
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1786297078
+                "LastUpdate": 1786449542
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -20076,55 +20088,56 @@
                 "Author": "QianyanSR",
                 "Name": "战斗模型屏蔽",
                 "InternalName": "CombatModelBlocker",
-                "AssemblyVersion": "1.0.4.0",
+                "AssemblyVersion": "1.0.5.0",
                 "Description": "屏蔽所有非小队成员的玩家模型，可选择仅在战斗中生效或常驻生效，并可保留死亡玩家模型以便完成复活成就。",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/QY-SR/DalamudPlugins/main/assets/icons/CombatModelBlocker.png?v=20260805-512",
+                "IconUrl": "https://raw.githubusercontent.com/QY-SR/DalamudPlugins/main/assets/icons/CombatModelBlocker.png?v=20260811-localmanifest",
                 "RepoUrl": "https://github.com/QY-SR/DalamudPlugins",
-                "LastUpdate": 1785473206
+                "LastUpdate": 1786445946
             },
             {
                 "Author": "QianyanSR",
                 "Name": "新月岛宝藏标记",
                 "InternalName": "CrescentMarkers",
-                "AssemblyVersion": "1.0.13.0",
+                "AssemblyVersion": "1.0.14.0",
                 "Description": "在屏幕和列表中标记新月岛附近的宝箱与被啃过的胡萝卜。支持本地地图旗标，并在默语频道输出可点击坐标。",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/QY-SR/DalamudPlugins/main/assets/icons/CrescentMarkers.png?v=20260805-512",
+                "IconUrl": "https://raw.githubusercontent.com/QY-SR/DalamudPlugins/main/assets/icons/CrescentMarkers.png?v=20260811-localmanifest",
                 "RepoUrl": "https://github.com/QY-SR/DalamudPlugins/tree/main/CrescentMarkers",
-                "LastUpdate": 1785550462
+                "LastUpdate": 1786446515
             },
             {
                 "Author": "QianyanSR",
                 "Name": "背包格子锁",
                 "InternalName": "InventorySlotLock",
-                "AssemblyVersion": "1.3.4.0",
+                "AssemblyVersion": "1.3.5.0",
                 "Description": "可锁定四页角色背包中的指定格子。受保护道具不会参与自动整理，仍可选中、使用和手动拖动，但无法出售、丢弃或上交任务。支持物品右键菜单、纯本地幽灵物品、物品 ID 浏览器和 /isl 设置窗口。",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/QY-SR/DalamudPlugins/main/assets/icons/InventorySlotLock.png?v=20260805-512",
+                "IconUrl": "https://raw.githubusercontent.com/QY-SR/DalamudPlugins/main/assets/icons/InventorySlotLock.png?v=20260811-localmanifest",
                 "RepoUrl": "https://github.com/QY-SR/DalamudPlugins",
-                "LastUpdate": 1785930399
+                "LastUpdate": 1786445946
             },
             {
                 "Author": "QianyanSR",
                 "Name": "定型文快速筛选",
                 "InternalName": "QuickAutoTranslate",
-                "AssemblyVersion": "1.5.0.0",
+                "AssemblyVersion": "1.5.1.0",
                 "Description": "为原生定型文提供轻量快速搜索窗口，支持中文与拼音筛选、动态技能和历史技能定型文。历史技能热键栏支持按当前或指定职业筛选、查看旧技能描述与原图标，并在图标失效时显示默认失效图标。使用 /qat 打开，/qat hotbar 打开历史技能热键栏。",
                 "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/QY-SR/DalamudPlugins/main/assets/icons/QuickAutoTranslate.png?v=20260811-localmanifest",
                 "RepoUrl": "https://github.com/QY-SR/DalamudPlugins",
-                "LastUpdate": 1786347664
+                "LastUpdate": 1786445946
             },
             {
                 "Author": "QianyanSR",
                 "Name": "白魔低等级救疗重定向",
                 "InternalName": "WhiteMageCureRedirect",
-                "AssemblyVersion": "1.0.0.0",
+                "AssemblyVersion": "1.0.1.0",
                 "Description": "游玩白魔法师时，如果当前同步等级尚未达到救疗的解锁等级，按下救疗会改为施放治疗。达到解锁等级后，救疗保持原样。",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/QY-SR/DalamudPlugins/main/assets/icons/WhiteMageCureRedirect.png?v=20260805-512",
+                "IconUrl": "https://raw.githubusercontent.com/QY-SR/DalamudPlugins/main/assets/icons/WhiteMageCureRedirect.png?v=20260811-localmanifest",
                 "RepoUrl": "https://github.com/QY-SR/DalamudPlugins/tree/main/WhiteMageCureRedirect",
-                "LastUpdate": 1785471777
+                "LastUpdate": 1786446515
             }
         ]
     },
@@ -22465,11 +22478,11 @@
                 "Author": "Sebby",
                 "Name": "XivMediaPlayer",
                 "InternalName": "XivMediaPlayer",
-                "AssemblyVersion": "0.1.2.9",
+                "AssemblyVersion": "0.1.3.1",
                 "Description": "Play nearly any public facing video/image/music URL in game and with friends!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/XivMediaPlayer",
-                "LastUpdate": 1782255661
+                "LastUpdate": 1786450385
             }
         ]
     },
@@ -23328,11 +23341,11 @@
                 "Author": "Catsino",
                 "Name": "Catsino",
                 "InternalName": "Catsino.Plugin",
-                "AssemblyVersion": "1.4.1.0",
+                "AssemblyVersion": "1.5.4.0",
                 "Description": "Untrusted dealer client for authorization, sessions, deposits, and backend-directed Dropbox payouts.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/SoftPawDevs/catsino-dalamud-plugin",
-                "LastUpdate": 1786424470,
+                "LastUpdate": 1786445831,
                 "is_ai_attributed": true
             }
         ]
@@ -24376,7 +24389,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ThatKwistine/WardrobePlugin/main/images/icon.png",
                 "RepoUrl": "https://github.com/ThatKwistine/WardrobePlugin",
-                "LastUpdate": 1786390548,
+                "LastUpdate": 1786435913,
                 "is_ai_attributed": true
             }
         ]
@@ -26706,6 +26719,24 @@
         ]
     },
     {
+        "repo_developer_name": "XivXiv-FF",
+        "repo_url": "https://raw.githubusercontent.com/XivXiv-FF/NorthTowerPing/main/repo.json",
+        "repo_source_url": "https://github.com/XivXiv-FF/NorthTowerPing",
+        "repo_name": "NorthTowerPing",
+        "plugins": [
+            {
+                "Author": "XivXiv-FF",
+                "Name": "NorthTowerPing",
+                "InternalName": "NorthTowerPing",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "Sends one Discord webhook notification when Auroral Mirage appears while you are in North Horn.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/XivXiv-FF/NorthTowerPing",
+                "LastUpdate": 1786446422
+            }
+        ]
+    },
+    {
         "repo_developer_name": "Xverion",
         "repo_url": "https://raw.githubusercontent.com/Xverion/ThePromiseReturns/main/repo.json",
         "repo_source_url": "https://github.com/Xverion/ThePromiseReturns",
@@ -27135,12 +27166,12 @@
                 "Author": "youdianfengbao (基于 PunishXIV/Questionable)",
                 "Name": "Questionable (国服汉化)",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.1.44",
+                "AssemblyVersion": "15.306.1.50",
                 "Description": "国服汉化版自动任务插件，基于 PunishXIV/Questionable。可在尽可能的情况下自动完成游戏任务。\n所需插件：vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://qstxiv.github.io/icons/Questionable.png",
                 "RepoUrl": "https://github.com/youdianfengbao/Questionable",
-                "LastUpdate": 1786145959,
+                "LastUpdate": 1786442139,
                 "is_ai_attributed": true
             },
             {
