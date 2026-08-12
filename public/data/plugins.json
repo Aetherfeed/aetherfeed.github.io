@@ -14,7 +14,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/0ceal0t/Dalamud-VFXEditor/main/assets/icon.png",
                 "RepoUrl": "https://github.com/0ceal0t/Dalamud-VFXEditor",
-                "LastUpdate": 1781492068
+                "LastUpdate": 1781492068,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -1639,12 +1640,12 @@
                 "Author": "Anmi",
                 "Name": "新月岛史官",
                 "InternalName": "Chronicler",
-                "AssemblyVersion": "0.2.0.30",
+                "AssemblyVersion": "0.2.0.32",
                 "Description": "进入新月岛后自动记录南征/北征 CE/FATE 出现时间，支持导入/导出 xyd.zzmelon.com 分享码，生成喊话，并监听游戏内喊话自动同步状态。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/anmili2022/Chronicler/main/images/icon.png",
                 "RepoUrl": "https://github.com/anmili2022/Chronicler",
-                "LastUpdate": 1786134935,
+                "LastUpdate": 1786539370,
                 "is_ai_attributed": true
             }
         ]
@@ -5132,6 +5133,63 @@
         ]
     },
     {
+        "repo_developer_name": "destesasinsh",
+        "repo_url": "https://raw.githubusercontent.com/destesasinsh/DalamudPlugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/destesasinsh/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "嗨呀",
+                "Name": "Browsingway",
+                "InternalName": "Browsingway",
+                "AssemblyVersion": "1.7.5.0",
+                "Description": "GPU-accelerated browser overlays with external IPC API for plugin control. Based on BrowserHost by ackwell.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/denghaoxuan991876906/Browsingway",
+                "LastUpdate": 1783845100
+            },
+            {
+                "Author": "嗨呀www",
+                "Name": "HiAuRo",
+                "InternalName": "HiAuRo",
+                "AssemblyVersion": "0.2.36.0",
+                "Description": "HiAuRo 是一个全栈战斗辅助框架，提供 ACR 接口、执行轴、事实轴、智能决策层和完整的 UI 系统。ACR 作者可开发各职业的战斗逻辑，普通用户也可通过内置轴获得完整的战斗辅助体验。",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/denghaoxuan991876906/HiAuRo",
+                "LastUpdate": 1784228762
+            },
+            {
+                "Author": "嗨呀",
+                "Name": "MCP for Dalamud",
+                "InternalName": "MCPforDalamud",
+                "AssemblyVersion": "0.2.0.0",
+                "Description": "MCP(Model Context Protocol)服务插件，让AI工具获取FFXIV游戏实时数据、操作角色/系统，以及与插件交互测试。",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/denghaoxuan991876906/MCPforDalamud",
+                "LastUpdate": 1783717631
+            },
+            {
+                "Author": "嗨呀",
+                "Name": "判定点指示器",
+                "InternalName": "PixelPerfect",
+                "AssemblyVersion": "3.3.4.1",
+                "Description": "显示角色判定点，支持圆点/圆环样式与基础显示条件。",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/denghaoxuan991876906/PixelPerfect",
+                "LastUpdate": 1782736482
+            },
+            {
+                "Author": "嗨呀",
+                "Name": "RemoteRelay",
+                "InternalName": "RemoteRelay",
+                "AssemblyVersion": "0.1.5.6",
+                "Description": "房间管理 / 玩家职能 / 指令分发 / IPC 提供方。",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/denghaoxuan991876906/RemoteRelay"
+            }
+        ]
+    },
+    {
         "repo_developer_name": "devckuw",
         "repo_url": "https://raw.githubusercontent.com/devckuw/DistribPluginFFXIV/main/repo.json",
         "repo_source_url": "https://github.com/devckuw/DistribPluginFFXIV",
@@ -6624,7 +6682,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1786431236
+                "LastUpdate": 1786518799
             }
         ]
     },
@@ -6643,7 +6701,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1786431236
+                "LastUpdate": 1786518799
             }
         ]
     },
@@ -6799,7 +6857,7 @@
                 "Author": "mirage",
                 "Name": "Oracle",
                 "InternalName": "Oracle",
-                "AssemblyVersion": "1.0.2.0",
+                "AssemblyVersion": "1.0.3.0",
                 "Description": "Shows mitigation and skill timing cues as a timeline overlay. Matches zone, job, and scene; starts on countdown (-N) or combat.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/exatrines/Oracle/main/Oracle/Data/plugin-icon.png",
@@ -7043,7 +7101,7 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "ActionTimeline Reborn",
                 "InternalName": "ActionTimelineReborn",
-                "AssemblyVersion": "7.5.5.0",
+                "AssemblyVersion": "7.5.5.1",
                 "Description": "Configurable timeline display of all the actions you use.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/ATR_Icon.png",
@@ -7120,12 +7178,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.5.27",
+                "AssemblyVersion": "7.5.5.28",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1786336348
+                "LastUpdate": 1786526442
             },
             {
                 "Author": "Churin",
@@ -9561,12 +9619,12 @@
                 "Author": "raynording",
                 "Name": "Dalamud ACT Compat",
                 "InternalName": "DalamudActCompat",
-                "AssemblyVersion": "0.3.9.0",
+                "AssemblyVersion": "0.3.9.5",
                 "Description": "Dalamud-side UI, storage, parser abstraction, and compatibility-host bridge for an ACT-compatible FFXIV parsing platform. This early build does not yet load FFXIV_ACT_Plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/JackyWilliam/DalamudActCompat/main/src/DalamudActCompat/Assets/act-logo.jpg",
                 "RepoUrl": "https://github.com/JackyWilliam/DalamudActCompat",
-                "LastUpdate": 1786352115,
+                "LastUpdate": 1786527125,
                 "is_ai_attributed": true
             }
         ]
@@ -9581,12 +9639,12 @@
                 "Author": "raynording",
                 "Name": "Dalamud ACT Compat",
                 "InternalName": "DalamudActCompat",
-                "AssemblyVersion": "0.3.9.0",
+                "AssemblyVersion": "0.3.9.5",
                 "Description": "Dalamud-side UI, storage, parser abstraction, and compatibility-host bridge for an ACT-compatible FFXIV parsing platform. This early build does not yet load FFXIV_ACT_Plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/JackyWilliam/DalamudActCompat/main/src/DalamudActCompat/Assets/act-logo.jpg",
                 "RepoUrl": "https://github.com/JackyWilliam/DalamudActCompat",
-                "LastUpdate": 1786456583,
+                "LastUpdate": 1786528667,
                 "is_ai_attributed": true
             }
         ]
@@ -9719,12 +9777,12 @@
                 "Author": "jFray",
                 "Name": "EchoSim",
                 "InternalName": "EchoSim.Plugin",
-                "AssemblyVersion": "1.0.1.4",
+                "AssemblyVersion": "1.0.1.5",
                 "Description": "Simulates a full-length fight for your job using your own gear or a best-in-slot preset, then reports the DPS and shows exactly where it came from. Compares gear, melds and consumables, checks your openers and burst windows, and analyses an FFLogs report against the simulated ceiling. Kills on supported encounters can be scored and submitted to per-job leaderboards.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/echosim-icon.png",
                 "RepoUrl": "https://echoxiv.com",
-                "LastUpdate": 1786513082,
+                "LastUpdate": 1786519583,
                 "is_ai_attributed": true
             }
         ]
@@ -10132,22 +10190,22 @@
                 "Author": "Meowmeowmeow Cat",
                 "Name": "Skyrim Compass",
                 "InternalName": "SkyrimCompass",
-                "AssemblyVersion": "2.0.0.6",
+                "AssemblyVersion": "2.0.0.7",
                 "Description": "Adds a Skyrim-style compass bar at the top of your screen. Shows cardinal directions, tick marks, and nearby entity markers (players, enemies, gathering nodes, and more). Use /compass to toggle and /compass config to open settings.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/JTayGang/MeowyUtils/main/SkyrimCompass/images/icon.png",
                 "RepoUrl": "https://github.com/JTayGang/MeowyUtils/tree/main/SkyrimCompass",
-                "LastUpdate": 1786309537
+                "LastUpdate": 1786523357
             },
             {
                 "Author": "Meowmeowmeow Cat",
                 "Name": "StatusBridge",
                 "InternalName": "StatusBridge",
-                "AssemblyVersion": "1.0.0.2",
+                "AssemblyVersion": "1.0.0.5",
                 "Description": "Mirrors your live Moodles and Loci statuses onto each other, so whichever sync plugin you use (Snowcloak, Sundouleia, or anything else) picks up a unified status regardless of which backend it natively reads.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/JTayGang/MeowyUtils/tree/main/StatusBridge",
-                "LastUpdate": 1784178061
+                "LastUpdate": 1786533445
             }
         ]
     },
@@ -10161,7 +10219,7 @@
                 "Author": "Meowmeowmeow Cat",
                 "Name": "Skyrim Compass",
                 "InternalName": "SkyrimCompass",
-                "AssemblyVersion": "2.0.0.6",
+                "AssemblyVersion": "2.0.0.7",
                 "Description": "Adds a Skyrim-style compass bar at the top of your screen. Shows cardinal directions, tick marks, and nearby entity markers (players, enemies, gathering nodes, and more). Use /compass to toggle and /compass config to open settings.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/JTayGang/MeowyUtils/main/SkyrimCompass/images/icon.png",
@@ -10172,11 +10230,11 @@
                 "Author": "Meowmeowmeow Cat",
                 "Name": "StatusBridge",
                 "InternalName": "StatusBridge",
-                "AssemblyVersion": "1.0.0.2",
+                "AssemblyVersion": "1.0.0.5",
                 "Description": "Mirrors your live Moodles and Loci statuses onto each other, so whichever sync plugin you use (Snowcloak, Sundouleia, or anything else) picks up a unified status regardless of which backend it natively reads.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/JTayGang/MeowyUtils",
-                "LastUpdate": 1786309752
+                "LastUpdate": 1786533564
             }
         ]
     },
@@ -10563,12 +10621,12 @@
                 "Author": "KanoNoUta（国服 7.55 适配）",
                 "Name": "BossMod Reborn CN",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.5.36",
+                "AssemblyVersion": "7.5.5.37",
                 "Description": "BossMod Reborn 国服适配版，提供副本与大型探索任务的机制提示。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
-                "LastUpdate": 1786441667,
+                "LastUpdate": 1786527499,
                 "is_ai_attributed": true
             },
             {
@@ -13165,7 +13223,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Magg-droid/Vestiary/main/Data/Vestiary.png",
                 "RepoUrl": "https://github.com/Magg-droid/Vestiary",
-                "LastUpdate": 1786497903
+                "LastUpdate": 1786519105
             }
         ]
     },
@@ -13342,12 +13400,12 @@
                 "Author": "Mayo Botic, Ultranova Violet",
                 "Name": "PF Analysis",
                 "InternalName": "PfPresets",
-                "AssemblyVersion": "3.4.2.0",
+                "AssemblyVersion": "3.4.4.0",
                 "Description": "AI slop that lets you rate other people you played with in pf. Parts of the sourcecode are not on Github, which breaks AGPL terms as well.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Marobotic/PfPresets/main/images/icon.png",
                 "RepoUrl": "https://github.com/Marobotic/PfPresets",
-                "LastUpdate": 1786508061,
+                "LastUpdate": 1786538602,
                 "is_closed_source": true,
                 "is_ai_attributed": true
             }
@@ -14350,12 +14408,12 @@
                 "Author": "miqote69",
                 "Name": "Actor Morpher",
                 "InternalName": "ActorMorpher",
-                "AssemblyVersion": "0.0.0.44",
+                "AssemblyVersion": "0.0.0.45",
                 "Description": "Locally changes visible actors into selected NPC, demihuman, or monster forms. Use /actormorpher to open the window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/miqote69/ActorMorpher/main/images/icon-v18.png",
                 "RepoUrl": "https://github.com/miqote69/ActorMorpher",
-                "LastUpdate": 1785514581,
+                "LastUpdate": 1786538665,
                 "is_ai_attributed": true
             }
         ]
@@ -17589,7 +17647,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1786431236
+                "LastUpdate": 1786518799
             },
             {
                 "Author": "Risa and Contributors",
@@ -17644,7 +17702,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ktisis-tools/Ktisis/main/icon.png",
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1786396302
+                "LastUpdate": 1786497560
             },
             {
                 "Author": "kawaii, Glyceri, Minmoose",
@@ -18771,7 +18829,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/153",
                 "RepoUrl": "https://github.com/Abyeon/Housingway",
-                "LastUpdate": 1786394803
+                "LastUpdate": 1786520670
             }
         ]
     },
@@ -18991,12 +19049,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.1.52",
+                "AssemblyVersion": "15.306.1.53",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1786492814,
+                "LastUpdate": 1786524686,
                 "is_ai_attributed": true
             },
             {
@@ -19030,7 +19088,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1786351970
+                "LastUpdate": 1786525364
             },
             {
                 "Author": "daemitus, croizat",
@@ -19312,7 +19370,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/45",
                 "RepoUrl": "https://github.com/kawaii/Hyperborea",
-                "LastUpdate": 1786464305
+                "LastUpdate": 1786538297
             }
         ]
     },
@@ -19326,7 +19384,7 @@
                 "Author": "Knightmore",
                 "Name": "Henchman",
                 "InternalName": "Henchman",
-                "AssemblyVersion": "3.0.1.13",
+                "AssemblyVersion": "3.0.1.14",
                 "Description": "Your personal Henchman doing all the heavy lifting for you!\n\n- Hunt Logs\n- Hunt Bills\n- Retainer Creation\nand more to come.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/85",
@@ -20213,78 +20271,78 @@
                 "Author": "QianyanSR",
                 "Name": "战斗模型屏蔽",
                 "InternalName": "CombatModelBlocker",
-                "AssemblyVersion": "1.0.5.0",
+                "AssemblyVersion": "1.0.6.0",
                 "Description": "屏蔽所有非小队成员的玩家模型，可选择仅在战斗中生效或常驻生效，并可保留死亡玩家模型以便完成复活成就。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/QY-SR/DalamudPlugins/main/assets/icons/CombatModelBlocker.png?v=20260811-localmanifest",
                 "RepoUrl": "https://github.com/QY-SR/DalamudPlugins",
-                "LastUpdate": 1786445946
+                "LastUpdate": 1786526000
             },
             {
                 "Author": "QianyanSR",
                 "Name": "新月岛宝藏标记",
                 "InternalName": "CrescentMarkers",
-                "AssemblyVersion": "1.0.14.0",
+                "AssemblyVersion": "1.0.15.0",
                 "Description": "在屏幕和列表中标记新月岛附近的宝箱与被啃过的胡萝卜。支持本地地图旗标，并在默语频道输出可点击坐标。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/QY-SR/DalamudPlugins/main/assets/icons/CrescentMarkers.png?v=20260811-localmanifest",
                 "RepoUrl": "https://github.com/QY-SR/DalamudPlugins/tree/main/CrescentMarkers",
-                "LastUpdate": 1786446515
+                "LastUpdate": 1786518400
             },
             {
                 "Author": "QianyanSR",
                 "Name": "增强背包搜索",
                 "InternalName": "InventorySearch",
-                "AssemblyVersion": "1.5.3.0",
+                "AssemblyVersion": "1.5.4.0",
                 "Description": "将角色背包、陆行鸟鞍囊、雇员背包、幻化台和收藏柜保存为本地快照并提供搜索。支持按各条目独立数量批量取出与批量存入、“可堆叠物品”筛选，以及跨雇员堆叠整理建议。所有数量均经过原生格子与堆叠上限校验。使用 /isearch 打开。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/QY-SR/DalamudPlugins/main/assets/icons/InventorySearch.png?v=20260811-inventorysearch",
                 "RepoUrl": "https://github.com/QY-SR/DalamudPlugins",
-                "LastUpdate": 1786515253
+                "LastUpdate": 1786526000
             },
             {
                 "Author": "QianyanSR",
                 "Name": "背包格子锁",
                 "InternalName": "InventorySlotLock",
-                "AssemblyVersion": "1.3.5.0",
+                "AssemblyVersion": "1.3.6.0",
                 "Description": "可锁定四页角色背包中的指定格子。受保护道具不会参与自动整理，仍可选中、使用和手动拖动，但无法出售、丢弃或上交任务。支持物品右键菜单、纯本地幽灵物品、物品 ID 浏览器和 /isl 设置窗口。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/QY-SR/DalamudPlugins/main/assets/icons/InventorySlotLock.png?v=20260811-localmanifest",
                 "RepoUrl": "https://github.com/QY-SR/DalamudPlugins",
-                "LastUpdate": 1786445946
+                "LastUpdate": 1786526000
             },
             {
                 "Author": "QianyanSR",
                 "Name": "QToolKit",
                 "InternalName": "QToolKit",
-                "AssemblyVersion": "1.0.1.0",
+                "AssemblyVersion": "1.0.2.0",
                 "Description": "一个注重整合体验与模块化管理的卫月插件合集。通过统一入口管理各项功能，支持按需启用、独立设置，并可导入旧版数据完成平滑迁移。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/QY-SR/DalamudPlugins/main/assets/icons/QToolKit.png?v=20260812-qtk-1",
                 "RepoUrl": "https://github.com/QY-SR/DalamudPlugins",
-                "LastUpdate": 1786517182
+                "LastUpdate": 1786526000
             },
             {
                 "Author": "QianyanSR",
                 "Name": "定型文快速筛选",
                 "InternalName": "QuickAutoTranslate",
-                "AssemblyVersion": "1.5.1.0",
+                "AssemblyVersion": "1.5.2.0",
                 "Description": "为原生定型文提供轻量快速搜索窗口，支持中文与拼音筛选、动态技能和历史技能定型文。历史技能热键栏支持按当前或指定职业筛选、查看旧技能描述与原图标，并在图标失效时显示默认失效图标。使用 /qat 打开，/qat hotbar 打开历史技能热键栏。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/QY-SR/DalamudPlugins/main/assets/icons/QuickAutoTranslate.png?v=20260811-localmanifest",
                 "RepoUrl": "https://github.com/QY-SR/DalamudPlugins",
-                "LastUpdate": 1786445946
+                "LastUpdate": 1786526000
             },
             {
                 "Author": "QianyanSR",
                 "Name": "白魔低等级救疗重定向",
                 "InternalName": "WhiteMageCureRedirect",
-                "AssemblyVersion": "1.0.1.0",
+                "AssemblyVersion": "1.0.2.0",
                 "Description": "游玩白魔法师时，如果当前同步等级尚未达到救疗的解锁等级，按下救疗会改为施放治疗。达到解锁等级后，救疗保持原样。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/QY-SR/DalamudPlugins/main/assets/icons/WhiteMageCureRedirect.png?v=20260811-localmanifest",
                 "RepoUrl": "https://github.com/QY-SR/DalamudPlugins/tree/main/WhiteMageCureRedirect",
-                "LastUpdate": 1786446515
+                "LastUpdate": 1786518400
             }
         ]
     },
@@ -20296,12 +20354,12 @@
                 "Author": "Raiden",
                 "Name": "BlackjackSolver",
                 "InternalName": "BlackjackSolver",
-                "AssemblyVersion": "1.0.2.5",
+                "AssemblyVersion": "1.6.2.0",
                 "Description": "A simple blackjack solver that tells you the best move to make, helps you with bets and customize your calls.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/RaidenvBlack/RaidenvPlugins/main/icons/casino.png",
                 "RepoUrl": "https://github.com/RaidenvBlack/RaidenvPlugins/blob/main/BlackjackSolver.zip",
-                "LastUpdate": 1785061851,
+                "LastUpdate": 1786527225,
                 "is_closed_source": true
             },
             {
@@ -20344,12 +20402,12 @@
                 "Author": "Raiden",
                 "Name": "ZeroTweaks",
                 "InternalName": "ZeroTweaks",
-                "AssemblyVersion": "1.0.8.5",
+                "AssemblyVersion": "1.1.0.10",
                 "Description": "Tweaks that are already working: Loot Roll Tracker, ChatGPT, Mare switcher",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/RaidenvBlack/RaidenvPlugins/main/icons/zero.png",
                 "RepoUrl": "https://github.com/RaidenvBlack/RaidenvPlugins/blob/main/zero.zip",
-                "LastUpdate": 1785489265,
+                "LastUpdate": 1786527073,
                 "is_closed_source": true
             }
         ],
@@ -22584,11 +22642,11 @@
                 "Author": "Sebby",
                 "Name": "XivMediaPlayer",
                 "InternalName": "XivMediaPlayer",
-                "AssemblyVersion": "0.1.4.6",
+                "AssemblyVersion": "0.1.4.9",
                 "Description": "Play nearly any public facing video/image/music URL in game and with friends!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/XivMediaPlayer",
-                "LastUpdate": 1786517088
+                "LastUpdate": 1786540135
             }
         ]
     },
@@ -23903,12 +23961,12 @@
                 "Author": "veyn",
                 "Name": "Boss Mod",
                 "InternalName": "BossMod",
-                "AssemblyVersion": "7.5.5.3501",
+                "AssemblyVersion": "7.5.5.4001",
                 "Description": "Integrated Boss encounter toolkit with radar, mechanic hints, and combat assistance.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/SumomoAkihime/ffxiv_bossmod/master/Data/icon.png",
                 "RepoUrl": "https://github.com/SumomoAkihime/ffxiv_bossmod",
-                "LastUpdate": 1786263316
+                "LastUpdate": 1786531957
             },
             {
                 "Author": "Kouzukii",
@@ -27273,12 +27331,12 @@
                 "Author": "youdianfengbao (基于 PunishXIV/Questionable)",
                 "Name": "Questionable (国服汉化)",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.1.50",
+                "AssemblyVersion": "15.306.1.53",
                 "Description": "国服汉化版自动任务插件，基于 PunishXIV/Questionable。可在尽可能的情况下自动完成游戏任务。\n所需插件：vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://qstxiv.github.io/icons/Questionable.png",
                 "RepoUrl": "https://github.com/youdianfengbao/Questionable",
-                "LastUpdate": 1786442139,
+                "LastUpdate": 1786526174,
                 "is_ai_attributed": true
             },
             {
@@ -27604,11 +27662,11 @@
                 "Author": "zhui-zi",
                 "Name": "Keita 工具箱",
                 "InternalName": "KeitaToolbox",
-                "AssemblyVersion": "1.5.8.0",
+                "AssemblyVersion": "1.5.9.0",
                 "Description": "Combines duty automation, recruitment tools, plugin and map gearset switching, trade protection, IME cleanup, portrait synchronization, Ayano tools, and I-Ching utilities.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zhui-zi/DalamudPlugins/tree/main/plugins/KeitaToolbox",
-                "LastUpdate": 1786246078
+                "LastUpdate": 1786536205
             }
         ]
     },
