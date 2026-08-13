@@ -2364,7 +2364,7 @@
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/Dalamud-DailyRoutines/DailyRoutines/main/Resources/icon.png",
                 "RepoUrl": "https://github.com/Dalamud-DailyRoutines/DailyRoutines/releases/latest",
-                "LastUpdate": 1786621960,
+                "LastUpdate": 1786644655,
                 "is_closed_source": true
             },
             {
@@ -2376,19 +2376,19 @@
                 "DalamudApiLevel": 14,
                 "IconUrl": "https://raw.githubusercontent.com/Dalamud-DailyRoutines/DailyRoutines/main/Resources/icon.png",
                 "RepoUrl": "https://github.com/Dalamud-DailyRoutines/DailyRoutines/releases/latest",
-                "LastUpdate": 1786621960,
+                "LastUpdate": 1786644655,
                 "is_closed_source": true
             },
             {
                 "Author": "AtmoOmen",
                 "Name": "Daily Routines",
                 "InternalName": "DailyRoutines",
-                "AssemblyVersion": "2.1.6.0",
+                "AssemblyVersion": "2.1.6.1",
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Dalamud-DailyRoutines/DailyRoutines/main/Resources/icon.png",
                 "RepoUrl": "https://github.com/Dalamud-DailyRoutines/DailyRoutines/releases/latest",
-                "LastUpdate": 1786621960,
+                "LastUpdate": 1786644655,
                 "is_closed_source": true
             },
             {
@@ -3234,7 +3234,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/BluntEXE/XIVVenueManagerSync/master/images/icon.png",
                 "RepoUrl": "https://github.com/BluntEXE/XIVVenueManagerSync",
-                "LastUpdate": 1786487310,
+                "LastUpdate": 1786630747,
                 "is_ai_attributed": true
             }
         ]
@@ -5746,12 +5746,12 @@
                 "Author": "Dulul",
                 "Name": "Thank Helper",
                 "InternalName": "ThankHelper",
-                "AssemblyVersion": "0.1.3.11",
+                "AssemblyVersion": "0.1.3.12",
                 "Description": "面向骑士、战士、暗黑骑士和绝枪战士的 PvE 静默自动打断助手。插件会后台扫描已进入战斗的敌方读条，在不选择或切换目标的情况下优先使用插言，并可通过本地自学习使用下踢；同时支持打断延迟、插言黑名单、成功提示以及学习库分享码。PvP 中强制禁用，未知下踢试探默认关闭。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Dulul818/DululFFXIVTools/main/assets/thankhelper-icon.png",
                 "RepoUrl": "https://github.com/Dulul818/DululFFXIVTools",
-                "LastUpdate": 1786595619
+                "LastUpdate": 1786651425
             }
         ]
     },
@@ -5927,6 +5927,24 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Eisenhuth/dalamud-nael",
                 "LastUpdate": 1777603057
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "EITecYi",
+        "repo_url": "https://raw.githubusercontent.com/EITecYi/GlamourModelBrowser/main/repo.json",
+        "repo_source_url": "https://github.com/EITecYi/GlamourModelBrowser",
+        "repo_name": "GlamourModelBrowser",
+        "plugins": [
+            {
+                "Author": "EITecYi",
+                "Name": "同模幻化浏览器",
+                "InternalName": "GlamourModelBrowser",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "在最终幻想 XIV 的普通试穿、投影模板和幻化柜预览中读取当前装备，使用本机客户端 Item 数据查找同模型装备。结果包含当前装备本身，点击图标可在默语频道显示可点击物品链接。",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/EITecYi/GlamourModelBrowser",
+                "LastUpdate": 1786651249
             }
         ]
     },
@@ -7199,7 +7217,7 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.5.28",
+                "AssemblyVersion": "7.5.5.29",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
@@ -9772,6 +9790,17 @@
         "plugins": [
             {
                 "Author": "jFray",
+                "Name": "EchoGlam",
+                "InternalName": "EchoGlam.Plugin",
+                "AssemblyVersion": "1.0.0.2",
+                "Description": "Dress your character in any item in the game from a searchable in-game wardrobe, dye every slot, edit full appearance and save named outfits. Then publish the look to a community catalogue you can browse, filter, vote on and favourite without leaving the game - and put anyone else's glamour on with one click, with a revert that is always one click away. No other plugins required.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/echoglam-icon.png",
+                "RepoUrl": "https://echoxiv.com",
+                "LastUpdate": 1786646465
+            },
+            {
+                "Author": "jFray",
                 "Name": "EchoMix",
                 "InternalName": "EchoMix.Plugin",
                 "AssemblyVersion": "1.3.0.0",
@@ -10766,12 +10795,12 @@
                 "Author": "Tomok",
                 "Name": "Pose Manager",
                 "InternalName": "PoseManager",
-                "AssemblyVersion": "0.1.0.1",
+                "AssemblyVersion": "0.1.0.2",
                 "Description": "A manager solution for organizing pose presets inside FFXIV, with an interactive 3D skeleton mannequin and full-screen preview viewer.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/KaraRemy/TomokPlugins/main/PoseManager/icon.png",
                 "RepoUrl": "https://github.com/KaraRemy/PoseManager",
-                "LastUpdate": 1783542407,
+                "LastUpdate": 1786650703,
                 "is_ai_attributed": true
             },
             {
@@ -11497,11 +11526,11 @@
                 "Author": "kittenhaswares-ui",
                 "Name": "Seiton Sense",
                 "InternalName": "SeitonSense.Plugin",
-                "AssemblyVersion": "0.9.0.0",
+                "AssemblyVersion": "0.10.0.0",
                 "Description": "A display-only Ninja PvP overlay that maps FFXIV's native enemy slots to S1-S5 and shows the matching label only when an enemy is below 50% HP, passes Seiton's native range check, and Seiton is currently usable.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kittenhaswares-ui/SeitonSense",
-                "LastUpdate": 1786606213,
+                "LastUpdate": 1786635801,
                 "is_ai_attributed": true
             }
         ]
@@ -11817,19 +11846,19 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.1.55",
+                "AssemblyVersion": "15.306.1.56",
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1786609863,
+                "LastUpdate": 1786634555,
                 "is_ai_attributed": true
             },
             {
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.5.28",
+                "AssemblyVersion": "7.5.5.29",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
@@ -18889,12 +18918,12 @@
                 "Author": "Abyeon",
                 "Name": "Housingway",
                 "InternalName": "Housingway",
-                "AssemblyVersion": "1.0.1.8",
+                "AssemblyVersion": "1.0.2.0",
                 "Description": "A small collection of tweaks pertaining to housing.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/153",
                 "RepoUrl": "https://github.com/Abyeon/Housingway",
-                "LastUpdate": 1786589240
+                "LastUpdate": 1786650701
             }
         ]
     },
@@ -19114,12 +19143,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.1.55",
+                "AssemblyVersion": "15.306.1.56",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1786609863,
+                "LastUpdate": 1786634555,
                 "is_ai_attributed": true
             },
             {
@@ -19237,7 +19266,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/135",
                 "RepoUrl": "https://github.com/erdelf/ffxiv_FCTracker",
-                "LastUpdate": 1786299316
+                "LastUpdate": 1786651321
             }
         ]
     },
@@ -21595,12 +21624,12 @@
                 "Author": "Rowsai",
                 "Name": "devLibra",
                 "InternalName": "devLibra",
-                "AssemblyVersion": "0.0.0.21",
+                "AssemblyVersion": "0.0.0.23",
                 "Description": "Dalamud plugin development helper with party-list barrier-adjusted HP display and a Scholar Fairy Gauge overlay.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Rowsai/devLibra/main/image/icon-512.png",
                 "RepoUrl": "https://github.com/Rowsai/devLibra",
-                "LastUpdate": 1786558056
+                "LastUpdate": 1786634975
             }
         ]
     },
@@ -21644,12 +21673,12 @@
                 "Author": "Rowsai",
                 "Name": "devLibra",
                 "InternalName": "devLibra",
-                "AssemblyVersion": "0.0.0.21",
+                "AssemblyVersion": "0.0.0.23",
                 "Description": "Dalamud plugin development helper. Shows party member statuses and enemy casting information.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Rowsai/devLibra/main/image/icon-512.png",
                 "RepoUrl": "https://github.com/Rowsai/devLibra",
-                "LastUpdate": 1786558056
+                "LastUpdate": 1786634975
             },
             {
                 "Author": "Rowsai",
@@ -23337,12 +23366,12 @@
                 "Author": "Sin7000",
                 "Name": "Glamour Tracker+",
                 "InternalName": "GlamourTrackerNative",
-                "AssemblyVersion": "0.1.196.0",
+                "AssemblyVersion": "1.0.0.1",
                 "Description": "Track glamour dresser and armoire items, Fashion Report, and randomize glamour plates.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Sin7000git/DalamudPluginRepo/main/icons/GlamourTrackerNative.png",
                 "RepoUrl": "https://github.com/Sin7000git/GlamourTrackerPlus",
-                "LastUpdate": 1786573253,
+                "LastUpdate": 1786646690,
                 "is_ai_attributed": true
             }
         ]
@@ -23678,11 +23707,11 @@
                 "Author": "Solona",
                 "Name": "Proteus",
                 "InternalName": "Proteus",
-                "AssemblyVersion": "2608.248.0.0",
+                "AssemblyVersion": "2608.258.0.0",
                 "Description": "Headless overlay compositor for Penumbra. Discovers mods with a Proteus/ sidecar, composites their overlay textures in Penumbra priority order, and maintains a single managed mod at priority 999. No authoring UI — all work happens in external tools. Type /proteus to open the status window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1786628611,
+                "LastUpdate": 1786651196,
                 "is_ai_attributed": true
             }
         ]
@@ -26594,7 +26623,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1786604240,
+                "LastUpdate": 1786646943,
                 "is_ai_attributed": true
             },
             {
@@ -27343,6 +27372,25 @@
         ]
     },
     {
+        "repo_developer_name": "yocopk",
+        "repo_url": "https://raw.githubusercontent.com/yocopk/moghouse-dalamud/main/repo.json",
+        "repo_source_url": "https://github.com/yocopk/moghouse-dalamud",
+        "repo_name": "moghouse-dalamud",
+        "plugins": [
+            {
+                "Author": "yocopk",
+                "Name": "MogHouse Companion",
+                "InternalName": "MogHouseCompanion",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "Companion plugin for MogHouse (mog-house.com).\n\nAn all-in-one home for quality-of-life tools that link FINAL FANTASY XIV to your MogHouse account. Tools are added over time; each one can be switched on or off individually, and nothing leaves the game unless you enable it.\n\nTimers: reads the timers you already see in the game's own Timers window (CTRL+U), including submarine and airship voyages, retainer ventures, map and leve allowances, custom deliveries and allied society dailies, and syncs them to your profile. MogHouse then pushes you a notification the moment one comes up, on web and mobile, even while the game and your PC are off. Voyages are timed to the last vessel back, so one notification means the whole fleet is home.\n\nDuty Finder: when the confirm window appears, MogHouse pushes the duty or roulette name to your phone, so you know whether it is worth the sprint back to the desk. By default it stays quiet while the game is the window you are looking at.\n\nThe plugin is read-only: it collects your own data and reports status. It never performs an in-game action — it will not commence a duty for you, and it does not skip, confirm or automate anything.\n\nOpen it with /moghouse. Requires a MogHouse account, and a free one is enough: it syncs one character and sends one timer alert of your choosing, plus duty pops. Mog+ lifts both limits and warns you before a timer lands rather than as it does.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/yocopk/moghouse-dalamud/main/images/icon.png",
+                "RepoUrl": "https://github.com/yocopk/moghouse-dalamud",
+                "LastUpdate": 1786638361
+            }
+        ]
+    },
+    {
         "repo_developer_name": "Yodhrin13",
         "repo_url": "https://raw.githubusercontent.com/Yodhrin13/HousingMarketShopper/main/pluginmaster.json",
         "repo_source_url": "https://github.com/Yodhrin13/HousingMarketShopper",
@@ -27520,19 +27568,19 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Macro%20Redirection/cursor_hr1.png",
                 "RepoUrl": "https://github.com/YouShux/DalamudPlugins/blob/main/Plugins/Macro%20Redirection/Macro%20Redirection.zip",
-                "LastUpdate": 1786422230,
+                "LastUpdate": 1786647145,
                 "is_closed_source": true
             },
             {
                 "Author": "YouShu",
                 "Name": "Omni Toolbox",
                 "InternalName": "OmniToolbox",
-                "AssemblyVersion": "1.1.0.6",
+                "AssemblyVersion": "1.1.0.8",
                 "Description": "支持物品价格查询、商店购买与兑换位置查找、库存追踪、食物/药品期望计算、物品监控预警自动补货、传送以及坐骑/宠物/发型/绘画作品的悬浮窗预览等等。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Resources/%E5%9B%BE%E6%A0%87.png",
                 "RepoUrl": "https://github.com/YouShux/DalamudPlugins/blob/main/Plugins/Omni%20Toolbox/Omni%20Toolbox.zip",
-                "LastUpdate": 1786422230,
+                "LastUpdate": 1786647145,
                 "is_closed_source": true
             }
         ]
