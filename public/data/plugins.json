@@ -571,6 +571,17 @@
             },
             {
                 "Author": "DhogGPT",
+                "Name": "dad",
+                "InternalName": "dad",
+                "AssemblyVersion": "0.5.0.9",
+                "Description": "DAD is a duty planner and multibox coordinator for FFXIV. Create reusable character presets, wake or relog the right clients, prepare jobs, assemble and verify parties, queue supported duties and roulettes, and chain presets into manual or daily schedules. Live readiness checks, clear blockers, reconnect status, cancellation, and Stop All keep every run visible and recoverable.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/McVaxius/dad/main/images/icon.png",
+                "RepoUrl": "https://github.com/McVaxius/dad",
+                "LastUpdate": 1786576355
+            },
+            {
+                "Author": "DhogGPT",
                 "Name": "Dheacon",
                 "InternalName": "dheacon",
                 "AssemblyVersion": "2.1.0.2",
@@ -1290,13 +1301,24 @@
         "plugins": [
             {
                 "Author": "fanh",
+                "Name": "PriorityMacro",
+                "InternalName": "PriorityMacro",
+                "AssemblyVersion": "0.1.0.1",
+                "Description": "使用 /pmacrolock 管理最多两级宏优先级，并在原生等待期间运行其它宏。",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Aliks-F/Dalamud",
+                "LastUpdate": 1786709262,
+                "is_ai_attributed": true
+            },
+            {
+                "Author": "fanh",
                 "Name": "PVPACT",
                 "InternalName": "PVPACT",
                 "AssemblyVersion": "0.1.4.0",
                 "Description": "统计关注队友的伤害、技能、控制、受击目标和最终击杀。使用 /pvpact 打开。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Aliks-F/Dalamud",
-                "LastUpdate": 1786674790,
+                "LastUpdate": 1786709262,
                 "is_ai_attributed": true
             }
         ]
@@ -2141,12 +2163,12 @@
                 "Author": "ashdam",
                 "Name": "Gubal Library",
                 "InternalName": "GubalLibrary",
-                "AssemblyVersion": "0.2.4.0",
+                "AssemblyVersion": "0.2.5.1",
                 "Description": "THE PLUGIN SHIPS EMPTY. It contains no translations. Installing it changes nothing: until you load a corpus, the game reads exactly as it always did.\n\nWhat it is, is a lookup engine. It loads a corpus file, matches what is on screen against it, and injects the result. It makes no network calls of any kind -- nothing is sent anywhere, and nothing is translated at runtime.\n\nYOU BRING THE CORPUS, and this project does not distribute one. The translations are somebody's separate work. Either use a corpus the community has published for your language, or build your own: the file format is documented in full so that starting from nothing is a real option, for any locale.\n\nThere is a self-test bundled -- two lines from one NPC, so you can tell a correct install from a broken one. Talk to Ahldskyf on the pier in Limsa Lominsa Lower Decks and they come out as Hello World. That is a smoke test, not content, and the settings window stays red for as long as it is all that is loaded.\n\nCoverage once you have a corpus: dialogue, quest text and cutscene speech (Talk), cutscene narration (TalkSubtitle), and speaker names. Battle callouts, speech balloons and the variant-dungeon banner are wired up but not yet characterised. This is a testing build -- please report problems on GitHub.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ashdam/gubal-library/main/images/icon.png",
                 "RepoUrl": "https://github.com/ashdam/gubal-library",
-                "LastUpdate": 1786542952,
+                "LastUpdate": 1786707014,
                 "is_ai_attributed": true
             }
         ]
@@ -2481,12 +2503,12 @@
                 "Author": "veyn, AtmoOmen",
                 "Name": "vnavmesh",
                 "InternalName": "vnavmesh",
-                "AssemblyVersion": "0.7.9.0",
+                "AssemblyVersion": "0.8.0.0",
                 "Description": "不仅会自动寻路, 还能自动避障",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/AtmoOmen/ffxiv_navmesh-cn/CN/Resources/icon2.png",
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1786351922
+                "LastUpdate": 1786704016
             }
         ]
     },
@@ -2737,11 +2759,11 @@
                 "Author": "Anna, beerpsi",
                 "Name": "ExtraChatFork",
                 "InternalName": "ExtraChatFork",
-                "AssemblyVersion": "1.4.6.0",
+                "AssemblyVersion": "1.4.7.0",
                 "Description": "ExtraChat adds end-to-end encrypted, cross-data-centre, unlimited linkshells\nto the game. (Fork of official plugin with features and some fixes)",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/beer-psi/ExtraChat",
-                "LastUpdate": 1785271287
+                "LastUpdate": 1786712743
             },
             {
                 "Author": "beerpsi",
@@ -4018,12 +4040,12 @@
                 "Author": "CometTheFrog",
                 "Name": "Aethernet Explorer",
                 "InternalName": "AethernetExplorer.Plugin",
-                "AssemblyVersion": "0.9.0.38",
+                "AssemblyVersion": "0.9.0.40",
                 "Description": "An in-game web browser for FFXIV with isolated Chromium rendering, independent Shards, workspaces, Favored Destinations, and site-aware Focus modes.",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://github.com/CometTheFrog/AethernetExplorer-Repo/releases/download/v0.9.0.38/icon.png",
+                "IconUrl": "https://github.com/CometTheFrog/AethernetExplorer-Repo/releases/download/v0.9.0.40/icon.png",
                 "RepoUrl": "https://github.com/CometTheFrog/AethernetExplorer",
-                "LastUpdate": 1786653625,
+                "LastUpdate": 1786713006,
                 "is_ai_attributed": true
             }
         ]
@@ -5752,12 +5774,12 @@
                 "Author": "Dulul",
                 "Name": "Thank Helper",
                 "InternalName": "ThankHelper",
-                "AssemblyVersion": "0.1.3.12",
+                "AssemblyVersion": "0.1.3.13",
                 "Description": "面向骑士、战士、暗黑骑士和绝枪战士的 PvE 静默自动打断助手。插件会后台扫描已进入战斗的敌方读条，在不选择或切换目标的情况下优先使用插言，并可通过本地自学习使用下踢；同时支持打断延迟、插言黑名单、成功提示以及学习库分享码。PvP 中强制禁用，未知下踢试探默认关闭。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Dulul818/DululFFXIVTools/main/assets/thankhelper-icon.png",
                 "RepoUrl": "https://github.com/Dulul818/DululFFXIVTools",
-                "LastUpdate": 1786651425
+                "LastUpdate": 1786716768
             }
         ]
     },
@@ -6902,11 +6924,12 @@
                 "Author": "mirage",
                 "Name": "Goetia",
                 "InternalName": "Goetia",
-                "AssemblyVersion": "1.0.0.0",
+                "AssemblyVersion": "1.0.2.0",
                 "Description": "Highlights mark-macro hotbar slots by party order for manual marking.",
                 "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/exatrines/Goetia/main/Goetia/Data/plugin-icon.png",
                 "RepoUrl": "https://github.com/exatrines/Goetia",
-                "LastUpdate": 1786687538
+                "LastUpdate": 1786703536
             },
             {
                 "Author": "mirage",
@@ -6918,34 +6941,6 @@
                 "IconUrl": "https://raw.githubusercontent.com/exatrines/Oracle/main/Oracle/Data/plugin-icon.png",
                 "RepoUrl": "https://github.com/exatrines/Oracle",
                 "LastUpdate": 1786603736
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "exloser123",
-        "repo_url": "https://raw.githubusercontent.com/exloser123/DalamudPlugins/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/exloser123/DalamudPlugins",
-        "repo_name": "DalamudPlugins",
-        "plugins": [
-            {
-                "Author": "kawaii, NightmareXIV（汉化: exloser123）",
-                "Name": "AutoRetainer (自动雇员)",
-                "InternalName": "AutoRetainer",
-                "AssemblyVersion": "4.6.1.25",
-                "Description": "躺在床上就能收取并指派你的雇员冒险委托。\n\n主要功能：\n\t- 一键指派/重新指派雇员冒险委托，自动处理繁琐的确认弹窗\n\t- 一键部署远征探险（飞空艇/潜水艇）\n\t- 创建出售列表，自动清理垃圾物品\n\t- 创建存放列表，将贵重物品存入雇员以节省背包空间",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-                "LastUpdate": 1786193784
-            },
-            {
-                "Author": "Critical_Impact",
-                "Name": "Allagan Tools (中文版)",
-                "InternalName": "InventoryTools",
-                "AssemblyVersion": "1.15.0.9",
-                "Description": "亚拉戈工具箱的核心功能是追踪你所有角色、雇员和部队仓库中的物品。借助强大的筛选系统，你再也不用担心找不到物品，或者不知道该把物品整理到哪里。\n\n除了核心功能外，本插件还提供了丰富的扩展功能：\n\t- 制作规划\n\t- 市场板价格集成\n\t- 在背包中搜索/整理物品以及选择制作材料时高亮显示目标物品\n\t- 物品信息窗口，包含商人售价、获取来源等详细信息\n\t- 副本/怪物/飞空艇/潜水艇查询窗口，全部支持搜索\n\t- 强大的筛选系统，可设置复杂条件查找特定物品\n\t- 鼠标提示集成，悬停即可查看物品所在位置",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/Critical-Impact/InventoryTools",
-                "LastUpdate": 1786176197
             }
         ]
     },
@@ -8528,11 +8523,11 @@
                 "Author": "Haselnussbomber",
                 "Name": "HaselDebug",
                 "InternalName": "HaselDebug",
-                "AssemblyVersion": "1.69.0.0",
+                "AssemblyVersion": "1.70.0.0",
                 "Description": "For developers.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
-                "LastUpdate": 1786315087
+                "LastUpdate": 1786717739
             },
             {
                 "Author": "Haselnussbomber",
@@ -9810,12 +9805,12 @@
                 "Author": "jFray",
                 "Name": "EchoMix",
                 "InternalName": "EchoMix.Plugin",
-                "AssemblyVersion": "1.3.0.0",
+                "AssemblyVersion": "1.3.0.1",
                 "Description": "An interactive DJ deck with live mixing tools, custom playlists, and a synced listener mode with an audio visualizer.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/icon.png",
                 "RepoUrl": "https://echomix.app",
-                "LastUpdate": 1786591406,
+                "LastUpdate": 1786718130,
                 "is_ai_attributed": true
             },
             {
@@ -10666,12 +10661,12 @@
                 "Author": "KanoNoUta、岚玉棠（国服 7.55 适配维护）",
                 "Name": "BOCCHI 新月岛综合辅助（国服）",
                 "InternalName": "BOCCHI",
-                "AssemblyVersion": "3.3.34.0",
+                "AssemblyVersion": "3.3.35.0",
                 "Description": "BOCCHI 旨在让您的新月岛体验更加流畅。\n- 不再有那些烦人的“跑腿”或“寻找宝箱”了。那是给失败者玩的。\n- 一个可爱的小 Fate 和 CE 面板会告诉您它提供了什么奖励，并帮助您自动找到它，哇哦。\n- 一个极端非法的“非法模式”，适合那些宁愿摸摸草地或玩有价值内容的游戏的人。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/icon.png",
                 "RepoUrl": "https://github.com/KanoNoUta/BOCCHI",
-                "LastUpdate": 1786550870,
+                "LastUpdate": 1786709387,
                 "is_ai_attributed": true
             },
             {
@@ -13482,12 +13477,12 @@
                 "Author": "Mayo Botic, Ultranova Violet",
                 "Name": "PF Analysis",
                 "InternalName": "PfPresets",
-                "AssemblyVersion": "3.4.4.0",
+                "AssemblyVersion": "3.4.5.0",
                 "Description": "AI slop that lets you rate other people you played with in pf. Parts of the sourcecode are not on Github, which breaks AGPL terms as well.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Marobotic/PfPresets/main/images/icon.png",
                 "RepoUrl": "https://github.com/Marobotic/PfPresets",
-                "LastUpdate": 1786538602,
+                "LastUpdate": 1786706979,
                 "is_closed_source": true,
                 "is_ai_attributed": true
             }
@@ -14414,31 +14409,31 @@
                 "DalamudApiLevel": 12,
                 "IconUrl": "https://raw.githubusercontent.com/MilkVio/DalamudPlugins/main/PromeRotation/Icons/prome.png",
                 "RepoUrl": "https://github.com/MilkVio/DalamudPlugins/tree/main/PromeRotation/API15",
-                "LastUpdate": 1786557901,
+                "LastUpdate": 1786709840,
                 "is_closed_source": true
             },
             {
                 "Author": "Miruku",
                 "Name": "PromeRotation API13",
                 "InternalName": "PromeRotation",
-                "AssemblyVersion": "1.3.1.5",
+                "AssemblyVersion": "1.3.1.6",
                 "Description": "An advanced combat rotation platform for FFXIV high-end content.",
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/MilkVio/DalamudPlugins/main/PromeRotation/Icons/prome.png",
                 "RepoUrl": "https://github.com/MilkVio/DalamudPlugins/tree/main/PromeRotation/API15",
-                "LastUpdate": 1786557901,
+                "LastUpdate": 1786709840,
                 "is_closed_source": true
             },
             {
                 "Author": "Miruku",
                 "Name": "PromeRotation",
                 "InternalName": "PromeRotation",
-                "AssemblyVersion": "1.5.9.5",
+                "AssemblyVersion": "1.5.9.6",
                 "Description": "An advanced combat rotation platform for FFXIV high-end content.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MilkVio/DalamudPlugins/main/PromeRotation/Icons/prome.png",
                 "RepoUrl": "https://github.com/MilkVio/DalamudPlugins/tree/main/PromeRotation/API15",
-                "LastUpdate": 1786557901,
+                "LastUpdate": 1786709840,
                 "is_closed_source": true
             }
         ]
@@ -15987,7 +15982,7 @@
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1786620950,
+                "LastUpdate": 1786709508,
                 "is_closed_source": true
             },
             {
@@ -15999,19 +15994,19 @@
                 "DalamudApiLevel": 14,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1786620950,
+                "LastUpdate": 1786709508,
                 "is_closed_source": true
             },
             {
                 "Author": "The Combat Reborn Team / NiGuangOwO（本地化&适配）",
                 "Name": "Bossmod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.5.41",
+                "AssemblyVersion": "7.5.5.43",
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1786620950,
+                "LastUpdate": 1786709508,
                 "is_closed_source": true
             },
             {
@@ -17781,7 +17776,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Ottermandias/Glamourer/main/images/icon.png",
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1786280172
+                "LastUpdate": 1786716147
             },
             {
                 "Author": "Anna",
@@ -17825,7 +17820,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png",
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1786664720
+                "LastUpdate": 1786716408
             },
             {
                 "Author": "Caraxi",
@@ -19178,7 +19173,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/10",
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1786676976
+                "LastUpdate": 1786717384
             },
             {
                 "Author": "Team Wrath",
@@ -19189,7 +19184,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1786525364
+                "LastUpdate": 1786717356
             },
             {
                 "Author": "daemitus, croizat",
@@ -19268,12 +19263,12 @@
                 "Author": "erdelf",
                 "Name": "FC Tracker",
                 "InternalName": "FCTracker",
-                "AssemblyVersion": "0.0.0.37",
+                "AssemblyVersion": "0.0.0.38",
                 "Description": "Tracks FCs and related info. Especially ideal for creating new sub FCs.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/135",
                 "RepoUrl": "https://github.com/erdelf/ffxiv_FCTracker",
-                "LastUpdate": 1786651321
+                "LastUpdate": 1786699269
             }
         ]
     },
@@ -19636,7 +19631,7 @@
                 "Author": "OOF Games, Asuna",
                 "Name": "Gamba Where",
                 "InternalName": "GambaWhere",
-                "AssemblyVersion": "1.0.3.1",
+                "AssemblyVersion": "1.0.4.0",
                 "Description": "Browse live gambling events across Eorzea, filter by game or data centre, and teleport straight there with Lifestream. Host your own session with game-specific rules, presets, and host profiles with automatic location updates, Discord webhooks, minimap host icons, and Party Finder shortcuts. Find or advertise for venues and hosts on the Recruitment board, and set custom alerts to be notified when a new event matches your preferences.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/158",
@@ -20185,11 +20180,11 @@
                 "Author": "Anna, QianChangUwU",
                 "Name": "ExtraChat-CN",
                 "InternalName": "ExtraChat-CN",
-                "AssemblyVersion": "1.3.11.27",
+                "AssemblyVersion": "1.3.11.28",
                 "Description": "ExtraChat 添加端到端加密、跨数据中心、不限成员数量的额外聊天频道到游戏中。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/QianChangUwU/ChatExtra",
-                "LastUpdate": 1782763483
+                "LastUpdate": 1786706780
             },
             {
                 "Author": "Critical_Impact, QianChangUwU(汉化)",
@@ -20216,11 +20211,11 @@
                 "Author": "liza, qstxiv, & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.1.5401",
+                "AssemblyVersion": "15.306.1.5601",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/QianChangUwU/Questionable",
-                "LastUpdate": 1786610749,
+                "LastUpdate": 1786704310,
                 "is_ai_attributed": true
             }
         ]
@@ -22353,11 +22348,11 @@
                 "Author": "WhiteDog",
                 "Name": "PartyBell",
                 "InternalName": "PartyBell",
-                "AssemblyVersion": "1.2.0.0",
+                "AssemblyVersion": "1.2.1.0",
                 "Description": "當隊伍有任何變動（隊員加入、退出、滿員、隊伍訊息、密語、副本排到）時，透過 Discord Webhook 發送通知並可 @ 提及；招募即將到期（60 分鐘）前自動重新發布；排到副本後可延遲自動按下出發。",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/SamoyedQQ/PartyBell",
-                "LastUpdate": 1786664108,
+                "LastUpdate": 1786707831,
                 "is_ai_attributed": true
             },
             {
@@ -22369,7 +22364,7 @@
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/SamoyedQQ/TCRankingViewer/main/assets/icon.png",
                 "RepoUrl": "https://github.com/SamoyedQQ/TCRankingViewer",
-                "LastUpdate": 1786664207,
+                "LastUpdate": 1786707866,
                 "is_ai_attributed": true
             }
         ]
@@ -24073,12 +24068,12 @@
                 "Author": "veyn",
                 "Name": "Boss Mod",
                 "InternalName": "BossMod",
-                "AssemblyVersion": "7.5.5.4001",
+                "AssemblyVersion": "7.5.5.4002",
                 "Description": "Integrated Boss encounter toolkit with radar, mechanic hints, and combat assistance.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/SumomoAkihime/ffxiv_bossmod/master/Data/icon.png",
                 "RepoUrl": "https://github.com/SumomoAkihime/ffxiv_bossmod",
-                "LastUpdate": 1786531957
+                "LastUpdate": 1786717163
             },
             {
                 "Author": "Kouzukii",
@@ -25574,11 +25569,11 @@
                 "Author": "unmonitoredlemmings",
                 "Name": "DMU Tank Helper",
                 "InternalName": "DmuTankHelper",
-                "AssemblyVersion": "0.1.0.0",
+                "AssemblyVersion": "0.2.0.0",
                 "Description": "Movable high-contrast MT/OT callouts for the MUR/OCE Tank LB3 Bowels of Agony strategy in Dancing Mad (Ultimate) Phase 3.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/unmonitoredlemmings/DMUTankHelper",
-                "LastUpdate": 1786624369
+                "LastUpdate": 1786712535
             }
         ]
     },
@@ -26828,7 +26823,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png",
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1785596095
+                "LastUpdate": 1786716408
             }
         ]
     },
@@ -27332,11 +27327,11 @@
                 "Author": "yimo",
                 "Name": "特殊地图成就追踪",
                 "InternalName": "FieldAchievements",
-                "AssemblyVersion": "0.1.2.0",
+                "AssemblyVersion": "0.1.3.0",
                 "Description": "追踪特殊场景探索（蜃景幻界新月岛南征/北征之章、南方博兹雅战线、扎杜诺尔高原）相关成就进度。\n主窗口分 Tab 显示各个地图的成就追踪，悬浮窗显示当前地图的成就追踪。\n相同成就的不同数量目标只追踪最高数量。\n命令：/fach 打开主窗口",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/yimo0908/DalamudPlugin",
-                "LastUpdate": 1786295805
+                "LastUpdate": 1786717021
             },
             {
                 "Author": "KirisameVanilla, Yimo",
@@ -27640,11 +27635,11 @@
                 "Author": "Yuna",
                 "Name": "艾欧泽亚售楼中心",
                 "InternalName": "FFhouse",
-                "AssemblyVersion": "1.0.0.0",
+                "AssemblyVersion": "1.0.0.5",
                 "Description": "艾欧泽亚售楼中心",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/YunaClover/FFhouse",
-                "LastUpdate": 1785568788
+                "LastUpdate": 1786711990
             },
             {
                 "Author": "Aireil,Nuko",
