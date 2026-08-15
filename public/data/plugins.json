@@ -578,7 +578,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dad/main/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/dad",
-                "LastUpdate": 1786800958
+                "LastUpdate": 1786800958,
+                "is_ai_attributed": true
             },
             {
                 "Author": "DhogGPT",
@@ -1450,7 +1451,8 @@
                 "Description": "Visual face bone sculpting with brush tools, mirroring, and direct Customize+ import/export.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/amatiramisu/mascaron",
-                "LastUpdate": 1786761688
+                "LastUpdate": 1786761688,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -1809,6 +1811,24 @@
                 "RepoUrl": "https://github.com/Anomek/TomestoneViewer",
                 "LastUpdate": 1782586240,
                 "is_ai_attributed": true
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Antipokemon",
+        "repo_url": "https://raw.githubusercontent.com/Antipokemon/HuntAutomator/main/repo.json",
+        "repo_source_url": "https://github.com/Antipokemon/HuntAutomator",
+        "repo_name": "HuntAutomator",
+        "plugins": [
+            {
+                "Author": "Andrew Campbell",
+                "Name": "Hunt Automator",
+                "InternalName": "HuntAutomator",
+                "AssemblyVersion": "0.2.0.0",
+                "Description": "Automates FFXIV hunt bills using vnavmesh, RotationSolverReborn, Teleporter, and optional HuntHelper integration.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Antipokemon/HuntAutomator",
+                "LastUpdate": 1786829821
             }
         ]
     },
@@ -2228,8 +2248,9 @@
                 "AssemblyVersion": "1.7.4.0",
                 "Description": "A simple plugin that lets you play any game emote, whether you unlocked it or not.\nClient side only.\nJust type the emote command as you would normally.\nWorks with custom animations and syncable over Mare.",
                 "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Aspher0/BypassEmote/main/Data/BypassEmote_LOGO.png",
                 "RepoUrl": "https://github.com/Aspher0/BypassEmote",
-                "LastUpdate": 1777595660
+                "LastUpdate": 1786829386
             }
         ]
     },
@@ -5161,11 +5182,11 @@
                 "Author": "FF14 Accessibility Project",
                 "Name": "FF14 Accessibility",
                 "InternalName": "FF14Accessibility",
-                "AssemblyVersion": "5.83.0.0",
+                "AssemblyVersion": "5.84.0.0",
                 "Description": "Macht FF14 für blinde Spieler zugänglich via NVDA/TOLK Integration, Audio-Navigation und vollständiger Tastatursteuerung.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/derbruedi/ff14-accessibility",
-                "LastUpdate": 1786566269,
+                "LastUpdate": 1786825993,
                 "is_ai_attributed": true
             }
         ]
@@ -5812,12 +5833,12 @@
                 "Author": "Dulul",
                 "Name": "Thank Helper",
                 "InternalName": "ThankHelper",
-                "AssemblyVersion": "0.1.3.14",
+                "AssemblyVersion": "0.1.3.16",
                 "Description": "面向骑士、战士、暗黑骑士和绝枪战士的 PvE 静默自动打断助手。插件会后台扫描已进入战斗的敌方读条，在不选择或切换目标的情况下优先使用插言，并可通过本地自学习使用下踢；同时支持打断延迟、插言黑名单、成功提示以及学习库分享码。PvP 中强制禁用，未知下踢试探默认关闭。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Dulul818/DululFFXIVTools/main/assets/thankhelper-icon.png",
                 "RepoUrl": "https://github.com/Dulul818/DululFFXIVTools",
-                "LastUpdate": 1786799776
+                "LastUpdate": 1786829327
             }
         ]
     },
@@ -6121,10 +6142,10 @@
                 "Author": "Ellinae",
                 "Name": "Hornwatch",
                 "InternalName": "Hornwatch",
-                "AssemblyVersion": "0.1.4.0",
+                "AssemblyVersion": "0.1.5.0",
                 "Description": "Tracking Occult Crescent. Use /hornwatch to open the plugin. Settings are available from the gear icon in the Plugin Installer.",
                 "RepoUrl": "https://github.com/EllinaeXIV/HornWatch",
-                "LastUpdate": 1786312687
+                "LastUpdate": 1786828324
             }
         ]
     },
@@ -7542,7 +7563,8 @@
                 "Description": "In-game connector for the loopback-only Dalamud Agent Bridge utility. Use /dab to inspect status and configure optional permissions.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FranFkntastic/DalamudAgentBridge",
-                "LastUpdate": 1786746494
+                "LastUpdate": 1786746494,
+                "is_ai_attributed": true
             },
             {
                 "Author": "FranFkntastic",
@@ -7947,7 +7969,7 @@
                 "Description": "Exports your active HUD layout (element positions, scale, visibility) to a shareable code, and imports someone else's code with per-section checkboxes to pick what gets applied. Companion to DelvUI/DelvCD share codes for everything else on the vanilla HUD.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/gingertonik/Dalamud.ShareHUD",
-                "LastUpdate": 1786764129
+                "LastUpdate": 1786814131
             }
         ]
     },
@@ -9734,12 +9756,12 @@
                 "Author": "raynording",
                 "Name": "Dalamud ACT Compat",
                 "InternalName": "DalamudActCompat",
-                "AssemblyVersion": "0.3.9.12",
+                "AssemblyVersion": "0.3.9.15",
                 "Description": "Dalamud-side UI, storage, parser abstraction, and compatibility-host bridge for an ACT-compatible FFXIV parsing platform. This early build does not yet load FFXIV_ACT_Plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/JackyWilliam/DalamudActCompat/main/src/DalamudActCompat/Assets/act-logo.jpg",
                 "RepoUrl": "https://github.com/JackyWilliam/DalamudActCompat",
-                "LastUpdate": 1786787378,
+                "LastUpdate": 1786810085,
                 "is_ai_attributed": true
             }
         ]
@@ -9754,12 +9776,12 @@
                 "Author": "raynording",
                 "Name": "Dalamud ACT Compat",
                 "InternalName": "DalamudActCompat",
-                "AssemblyVersion": "0.3.9.12",
+                "AssemblyVersion": "0.3.9.15",
                 "Description": "Dalamud-side UI, storage, parser abstraction, and compatibility-host bridge for an ACT-compatible FFXIV parsing platform. This early build does not yet load FFXIV_ACT_Plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/JackyWilliam/DalamudActCompat/main/src/DalamudActCompat/Assets/act-logo.jpg",
                 "RepoUrl": "https://github.com/JackyWilliam/DalamudActCompat",
-                "LastUpdate": 1786789613,
+                "LastUpdate": 1786811956,
                 "is_ai_attributed": true
             }
         ]
@@ -9868,24 +9890,24 @@
                 "Author": "jFray",
                 "Name": "EchoGlam",
                 "InternalName": "EchoGlam.Plugin",
-                "AssemblyVersion": "1.0.0.7",
+                "AssemblyVersion": "1.0.0.8",
                 "Description": "Dress your character in any item in the game from a searchable in-game wardrobe, dye every slot, edit full appearance and save named outfits. Then publish the look to a community catalogue you can browse, filter, vote on and favourite without leaving the game - and put anyone else's glamour on with one click, with a revert that is always one click away. No other plugins required.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/echoglam-icon.png",
                 "RepoUrl": "https://echoxiv.com",
-                "LastUpdate": 1786785306,
+                "LastUpdate": 1786814735,
                 "is_ai_attributed": true
             },
             {
                 "Author": "jFray",
                 "Name": "EchoMix",
                 "InternalName": "EchoMix.Plugin",
-                "AssemblyVersion": "1.3.0.2",
+                "AssemblyVersion": "1.3.0.5",
                 "Description": "An interactive DJ deck with live mixing tools, custom playlists, and a synced listener mode with an audio visualizer.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/icon.png",
                 "RepoUrl": "https://echomix.app",
-                "LastUpdate": 1786725660,
+                "LastUpdate": 1786822974,
                 "is_ai_attributed": true
             },
             {
@@ -9904,12 +9926,13 @@
                 "Author": "jFray",
                 "Name": "EchoRoleplay",
                 "InternalName": "EchoRoleplay.Plugin",
-                "AssemblyVersion": "1.0.0.1",
+                "AssemblyVersion": "1.0.0.3",
                 "Description": "Write a full roleplay profile for your character - name, appearance, backstory, hooks and rumours - and read anyone else's by hovering them. Set statuses that hang under your character for others to read at a glance, and keep private notes on everyone you have met.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/echorp-icon.png",
                 "RepoUrl": "https://echoxiv.com",
-                "LastUpdate": 1786754253
+                "LastUpdate": 1786823358,
+                "is_ai_attributed": true
             },
             {
                 "Author": "jFray",
@@ -10589,12 +10612,12 @@
                 "Author": "Lynnaes Krazikaz",
                 "Name": "Levemetes",
                 "InternalName": "Levemetes",
-                "AssemblyVersion": "1.3.0.0",
+                "AssemblyVersion": "1.3.1.0",
                 "Description": "Player-run levemetes card game for truth or dare shenanigans.  Categorized play with custom decks that can be created and shared between players!  Open with /levemetes",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/kaerlath/Levemetes/main/images/icon.png",
                 "RepoUrl": "https://github.com/kaerlath/Levemetes",
-                "LastUpdate": 1786726435,
+                "LastUpdate": 1786815700,
                 "is_ai_attributed": true
             }
         ]
@@ -11894,7 +11917,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1786393527,
+                "LastUpdate": 1786828052,
                 "is_ai_attributed": true
             },
             {
@@ -11917,7 +11940,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1786669335
+                "LastUpdate": 1786827266
             },
             {
                 "Author": "sourpuh",
@@ -11934,12 +11957,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.1.56",
+                "AssemblyVersion": "15.306.1.59",
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1786634555,
+                "LastUpdate": 1786816186,
                 "is_ai_attributed": true
             },
             {
@@ -11962,7 +11985,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1786525364
+                "LastUpdate": 1786828930
             }
         ]
     },
@@ -12120,12 +12143,12 @@
                 "Author": "Kyo",
                 "Name": "HQ Sync",
                 "InternalName": "HQSync",
-                "AssemblyVersion": "1.1.3.0",
+                "AssemblyVersion": "1.1.11.0",
                 "Description": "Gosh dat thang is HQ..",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://kyo-studio.ch/images/logos/hq-sync/icon.png",
                 "RepoUrl": "https://github.com/kyo-filet/hq-sync",
-                "LastUpdate": 1786746857
+                "LastUpdate": 1786821403
             }
         ]
     },
@@ -13186,7 +13209,8 @@
                 "Description": "",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Luna-Salamanca/no-sauce-releases",
-                "LastUpdate": 1786772522
+                "LastUpdate": 1786772522,
+                "is_closed_source": true
             }
         ]
     },
@@ -13405,7 +13429,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Magg-droid/Vestiary/main/Data/Vestiary.png",
                 "RepoUrl": "https://github.com/Magg-droid/Vestiary",
-                "LastUpdate": 1786770065
+                "LastUpdate": 1786770065,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -14839,7 +14864,7 @@
                 "Description": "Displays a Discord channel's live voice-to-text callouts inside FFXIV, in a dedicated, fully customizable accessibility window. One-way relay (Discord to game). This repo is configured for one specific setup — fork it and run your own copy. See the README.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/monkdim/maples-echo",
-                "LastUpdate": 1786542203,
+                "LastUpdate": 1786824264,
                 "is_ai_attributed": true
             }
         ]
@@ -15036,7 +15061,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MTVirux/DamageTerror/master/images/icon.png",
                 "RepoUrl": "https://github.com/MTVirux/DamageTerror",
-                "LastUpdate": 1786553860,
+                "LastUpdate": 1786824947,
                 "is_ai_attributed": true
             }
         ]
@@ -19181,12 +19206,12 @@
                 "Author": "Det, croizat",
                 "Name": "AutoHook",
                 "InternalName": "AutoHook",
-                "AssemblyVersion": "6.0.0.90",
+                "AssemblyVersion": "6.0.0.91",
                 "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/47",
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1786449542
+                "LastUpdate": 1786812746
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -19268,12 +19293,12 @@
                 "Author": "the Puni.sh Quest Squad",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.1.58",
+                "AssemblyVersion": "15.306.1.59",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1786805563,
+                "LastUpdate": 1786816186,
                 "is_ai_attributed": true
             },
             {
@@ -19307,7 +19332,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1786725091
+                "LastUpdate": 1786828930
             },
             {
                 "Author": "daemitus, croizat",
@@ -19379,7 +19404,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1786393527,
+                "LastUpdate": 1786828052,
                 "is_ai_attributed": true
             },
             {
@@ -19589,7 +19614,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/45",
                 "RepoUrl": "https://github.com/kawaii/Hyperborea",
-                "LastUpdate": 1786538297
+                "LastUpdate": 1786827900
             }
         ]
     },
@@ -20049,7 +20074,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1786669335
+                "LastUpdate": 1786827266
             },
             {
                 "Author": "veyn, croizat",
@@ -20193,7 +20218,7 @@
                 "Author": "alydev",
                 "Name": "TouristMod",
                 "InternalName": "TouristMod",
-                "AssemblyVersion": "1.15.1000.10",
+                "AssemblyVersion": "1.15.1000.11",
                 "Description": "Tourist adds a window to assist with the sightseeing log.\n\n- ! Added vnavmesh features\n- Show when sightseeing log vistas are available\n- Add markers for ARR vistas\n- Open vista locations on your map\n- Hide already completed or unavailable vistas\n- Show the command needed for each vista\n\n\"sightseeing\" icon by muhammad, from thenounproject.com CC BY 3.0",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/171",
@@ -22009,12 +22034,12 @@
                 "Author": "Ruby Blaire",
                 "Name": "RE:Frame XIV",
                 "InternalName": "REFrameXIV",
-                "AssemblyVersion": "0.5.3.2",
+                "AssemblyVersion": "0.5.3.3",
                 "Description": "A seamless, adaptive replacement HUD for Final Fantasy XIV.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/rubyblaire/RE-Frame/main/Assets/icon.png",
                 "RepoUrl": "https://github.com/rubyblaire/RE-Frame",
-                "LastUpdate": 1785275451
+                "LastUpdate": 1786816518
             }
         ]
     },
@@ -22827,11 +22852,11 @@
                 "Author": "Sebastina",
                 "Name": "Drag And Drop Texturing",
                 "InternalName": "DragAndDropTexturing",
-                "AssemblyVersion": "0.1.0.7",
+                "AssemblyVersion": "0.1.0.8",
                 "Description": "Drag and and drop textured directly onto what you see!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/DragAndDropTexturing",
-                "LastUpdate": 1786774712
+                "LastUpdate": 1786809340
             }
         ]
     },
@@ -23441,12 +23466,12 @@
                 "Author": "XSZYYS",
                 "Name": "XSZToolbox",
                 "InternalName": "XSZToolbox",
-                "AssemblyVersion": "1.7.4.2",
+                "AssemblyVersion": "1.7.4.3",
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ShoOtaku/DalamudPlugins/main/plugins/XSZToolbox/icon.png",
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins/tree/main/plugins/XSZToolbox",
-                "LastUpdate": 1786624257,
+                "LastUpdate": 1786807482,
                 "is_closed_source": true
             }
         ]
@@ -23784,11 +23809,11 @@
                 "Author": "Catsino",
                 "Name": "Catsino",
                 "InternalName": "Catsino.Plugin",
-                "AssemblyVersion": "1.8.1.0",
+                "AssemblyVersion": "1.10.2.0",
                 "Description": "Untrusted dealer client for authorization, sessions, deposits, and backend-directed Dropbox payouts.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/SoftPawDevs/catsino-dalamud-plugin",
-                "LastUpdate": 1786795991,
+                "LastUpdate": 1786817013,
                 "is_ai_attributed": true
             }
         ]
@@ -23861,12 +23886,12 @@
                 "Author": "Solona",
                 "Name": "Proteus",
                 "InternalName": "Proteus",
-                "AssemblyVersion": "2608.271.0.0",
+                "AssemblyVersion": "2608.274.0.0",
                 "Description": "Headless overlay compositor for Penumbra. Discovers mods with a Proteus/ sidecar, composites their overlay textures in Penumbra priority order, and maintains a single managed mod at priority 999. No authoring UI — all work happens in external tools. Type /proteus to open the status window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/solona-m/proteus/main/Proteus/images/icon.png",
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1786776957,
+                "LastUpdate": 1786827083,
                 "is_ai_attributed": true
             }
         ]
@@ -24040,7 +24065,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ssalazar217/EchoXIV/master/EchoXIV/images/icon.png",
                 "RepoUrl": "https://github.com/ssalazar217/EchoXIV",
-                "LastUpdate": 1786802253
+                "LastUpdate": 1786802253,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -24221,12 +24247,12 @@
                 "Author": "veyn",
                 "Name": "Boss Mod",
                 "InternalName": "BossMod",
-                "AssemblyVersion": "7.5.5.4401",
+                "AssemblyVersion": "7.5.5.4402",
                 "Description": "Integrated Boss encounter toolkit with radar, mechanic hints, and combat assistance.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/SumomoAkihime/ffxiv_bossmod/master/Data/icon.png",
                 "RepoUrl": "https://github.com/SumomoAkihime/ffxiv_bossmod",
-                "LastUpdate": 1786805307
+                "LastUpdate": 1786812987
             },
             {
                 "Author": "Kouzukii",
@@ -25781,7 +25807,7 @@
                 "Description": "Define rules: when a player targets you and performs an emote, automatically perform an emote back.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Valiice/EmoteReactor",
-                "LastUpdate": 1786211648,
+                "LastUpdate": 1786816497,
                 "is_ai_attributed": true
             },
             {
@@ -26758,7 +26784,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1786804289,
+                "LastUpdate": 1786825061,
                 "is_ai_attributed": true
             },
             {
