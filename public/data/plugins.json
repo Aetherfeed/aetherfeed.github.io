@@ -578,7 +578,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dad/main/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/dad",
-                "LastUpdate": 1786723263
+                "LastUpdate": 1786762245
             },
             {
                 "Author": "DhogGPT",
@@ -1446,11 +1446,11 @@
                 "Author": "amatiramisu",
                 "Name": "Mascaron",
                 "InternalName": "Mascaron",
-                "AssemblyVersion": "0.3.2.0",
+                "AssemblyVersion": "0.3.3.0",
                 "Description": "Visual face bone sculpting with brush tools, mirroring, and direct Customize+ import/export.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/amatiramisu/mascaron",
-                "LastUpdate": 1779480131
+                "LastUpdate": 1786761688
             }
         ]
     },
@@ -2163,12 +2163,12 @@
                 "Author": "ashdam",
                 "Name": "Gubal Library",
                 "InternalName": "GubalLibrary",
-                "AssemblyVersion": "0.2.5.1",
+                "AssemblyVersion": "0.2.5.2",
                 "Description": "THE PLUGIN SHIPS EMPTY. It contains no translations. Installing it changes nothing: until you load a corpus, the game reads exactly as it always did.\n\nWhat it is, is a lookup engine. It loads a corpus file, matches what is on screen against it, and injects the result. It makes no network calls of any kind -- nothing is sent anywhere, and nothing is translated at runtime.\n\nYOU BRING THE CORPUS, and this project does not distribute one. The translations are somebody's separate work. Either use a corpus the community has published for your language, or build your own: the file format is documented in full so that starting from nothing is a real option, for any locale.\n\nThere is a self-test bundled -- two lines from one NPC, so you can tell a correct install from a broken one. Talk to Ahldskyf on the pier in Limsa Lominsa Lower Decks and they come out as Hello World. That is a smoke test, not content, and the settings window stays red for as long as it is all that is loaded.\n\nCoverage once you have a corpus: dialogue, quest text and cutscene speech (Talk), cutscene narration (TalkSubtitle), and speaker names. Battle callouts, speech balloons and the variant-dungeon banner are wired up but not yet characterised. This is a testing build -- please report problems on GitHub.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ashdam/gubal-library/main/images/icon.png",
                 "RepoUrl": "https://github.com/ashdam/gubal-library",
-                "LastUpdate": 1786707014,
+                "LastUpdate": 1786754140,
                 "is_ai_attributed": true
             }
         ]
@@ -4040,12 +4040,12 @@
                 "Author": "CometTheFrog",
                 "Name": "Aethernet Explorer",
                 "InternalName": "AethernetExplorer.Plugin",
-                "AssemblyVersion": "0.9.0.40",
+                "AssemblyVersion": "0.9.0.41",
                 "Description": "An in-game web browser for FFXIV with isolated Chromium rendering, independent Shards, workspaces, Favored Destinations, and site-aware Focus modes.",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://github.com/CometTheFrog/AethernetExplorer-Repo/releases/download/v0.9.0.40/icon.png",
+                "IconUrl": "https://github.com/CometTheFrog/AethernetExplorer-Repo/releases/download/v0.9.0.41/icon.png",
                 "RepoUrl": "https://github.com/CometTheFrog/AethernetExplorer",
-                "LastUpdate": 1786713006,
+                "LastUpdate": 1786742662,
                 "is_ai_attributed": true
             }
         ]
@@ -7176,7 +7176,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1786739210
+                "LastUpdate": 1786743873
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -7507,45 +7507,45 @@
                 "Author": "FranFkntastic",
                 "Name": "ComplicatedMarketBoard",
                 "InternalName": "ComplicatedMarketBoard",
-                "AssemblyVersion": "1.14.2.0",
+                "AssemblyVersion": "1.15.0.0",
                 "Description": "A niche plugin designed to be user-friendly and multi-functional with rich customisation options, for power users.\n\nHighlights:\n  - Compact UI and user theme\n  - Customisable search options\n  - Rich ways for plugin interaction\n\nCheck out the 'Introduction' on Config Window for documentation.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FranFkntastic/ComplicatedMarketBoard/master/images/icon.png",
                 "RepoUrl": "https://github.com/FranFkntastic/ComplicatedMarketBoard",
-                "LastUpdate": 1786477330,
+                "LastUpdate": 1786746496,
                 "is_ai_attributed": true
             },
             {
                 "Author": "FranFkntastic",
                 "Name": "Dalamud Agent Bridge",
                 "InternalName": "DalamudAgentBridge",
-                "AssemblyVersion": "0.3.1.0",
+                "AssemblyVersion": "0.5.0.0",
                 "Description": "In-game connector for the loopback-only Dalamud Agent Bridge utility. Use /dab to inspect status and configure optional permissions.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FranFkntastic/DalamudAgentBridge",
-                "LastUpdate": 1786477822
+                "LastUpdate": 1786746494
             },
             {
                 "Author": "FranFkntastic",
                 "Name": "MarketMafioso",
                 "InternalName": "MarketMafioso",
-                "AssemblyVersion": "1.3.1.0",
+                "AssemblyVersion": "1.4.0.0",
                 "Description": "A practical FFXIV utility plugin for Workshop Logistics and optional receiver-backed inventory history.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FranFkntastic/MarketMafioso/main/docs/pluginmaster/assets/icon.png",
                 "RepoUrl": "https://github.com/FranFkntastic/MarketMafioso",
-                "LastUpdate": 1786492806,
+                "LastUpdate": 1786746491,
                 "is_ai_attributed": true
             },
             {
                 "Author": "FranFkntastic",
                 "Name": "Quartermaster",
                 "InternalName": "RQ",
-                "AssemblyVersion": "0.1.1.0",
+                "AssemblyVersion": "0.2.0.0",
                 "Description": "Retainer Quartermaster (RQ) lets you browse player and retainer stock, track\ntarget quantities, inspect listings, refresh retainer evidence, and run\nexplicitly reviewed retrieval or elemental deposit operations. Use /rq to\nopen Quartermaster.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FranFkntastic/Quartermaster",
-                "LastUpdate": 1786489027,
+                "LastUpdate": 1786746492,
                 "is_ai_attributed": true
             },
             {
@@ -9865,6 +9865,17 @@
             },
             {
                 "Author": "jFray",
+                "Name": "EchoRoleplay",
+                "InternalName": "EchoRoleplay.Plugin",
+                "AssemblyVersion": "1.0.0.1",
+                "Description": "Write a full roleplay profile for your character - name, appearance, backstory, hooks and rumours - and read anyone else's by hovering them. Set statuses that hang under your character for others to read at a glance, and keep private notes on everyone you have met.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/echorp-icon.png",
+                "RepoUrl": "https://echoxiv.com",
+                "LastUpdate": 1786754253
+            },
+            {
+                "Author": "jFray",
                 "Name": "EchoSim",
                 "InternalName": "EchoSim.Plugin",
                 "AssemblyVersion": "1.0.2.2",
@@ -11566,11 +11577,11 @@
                 "Author": "kittenhaswares-ui",
                 "Name": "Seiton Sense",
                 "InternalName": "SeitonSense.Plugin",
-                "AssemblyVersion": "0.12.0.1",
+                "AssemblyVersion": "0.13.0.0",
                 "Description": "A display-only Ninja PvP overlay that maps FFXIV's native enemy slots to S1-S5 and shows the matching label only when an enemy is below 50% HP, passes Seiton's native range check, and Seiton is currently usable.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kittenhaswares-ui/SeitonSense",
-                "LastUpdate": 1786683091,
+                "LastUpdate": 1786759737,
                 "is_ai_attributed": true
             }
         ]
@@ -12072,12 +12083,12 @@
                 "Author": "Kyo",
                 "Name": "HQ Sync",
                 "InternalName": "HQSync",
-                "AssemblyVersion": "1.1.0.0",
+                "AssemblyVersion": "1.1.3.0",
                 "Description": "Gosh dat thang is HQ..",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://kyo-studio.ch/images/logos/hq-sync/icon.png",
                 "RepoUrl": "https://github.com/kyo-filet/hq-sync",
-                "LastUpdate": 1786726197
+                "LastUpdate": 1786746857
             }
         ]
     },
@@ -12224,12 +12235,12 @@
                 "Author": "Laci Synchroni Team and Contributors",
                 "Name": "Laci Synchroni",
                 "InternalName": "LaciSynchroni",
-                "AssemblyVersion": "2.0.16.0",
+                "AssemblyVersion": "2.0.17.0",
                 "Description": "Connect to multiple servers at once to share how you look to those you're paired with.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/LaciSynchroni/repo/main/images/icon.png",
                 "RepoUrl": "https://github.com/LaciSynchroni/client",
-                "LastUpdate": 1781620495
+                "LastUpdate": 1786744826
             }
         ]
     },
@@ -15211,12 +15222,12 @@
                 "Author": "naco-ff14",
                 "Name": "AltMate",
                 "InternalName": "AltMate",
-                "AssemblyVersion": "1.19.3.0",
+                "AssemblyVersion": "1.20.0.0",
                 "Description": "AltMate supports multiple FFXIV clients running on the same PC. It provides linked controls, housing tracking, Penumbra emote playback, and shared gil summaries. Data stays on the local PC. Japanese and English UI are supported.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/naco-ff14/AltMate/main/images/icon.png",
                 "RepoUrl": "https://github.com/naco-ff14/AltMate",
-                "LastUpdate": 1786740627
+                "LastUpdate": 1786742577
             }
         ]
     },
@@ -15947,7 +15958,7 @@
                 "Author": "Amadeus",
                 "Name": "Replica",
                 "InternalName": "Replica",
-                "AssemblyVersion": "1.0.6.18",
+                "AssemblyVersion": "1.0.6.21",
                 "Description": "Draws boss mechanics on the arena floor.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/nightraidwiki/dalamud-plugins/main/images/icon.png",
@@ -18613,11 +18624,11 @@
                 "Author": "platis",
                 "Name": "XIV.fm",
                 "InternalName": "XIV.fm",
-                "AssemblyVersion": "0.1.33.0",
+                "AssemblyVersion": "0.1.34.0",
                 "Description": "XIV.fm displays Last.fm listening presence on cards anchored above player nameplates.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/platis/XIV.fm",
-                "LastUpdate": 1785371075,
+                "LastUpdate": 1786744885,
                 "is_ai_attributed": true
             }
         ]
@@ -23765,11 +23776,12 @@
                 "Author": "Solona",
                 "Name": "Proteus",
                 "InternalName": "Proteus",
-                "AssemblyVersion": "2608.266.0.0",
+                "AssemblyVersion": "2608.270.0.0",
                 "Description": "Headless overlay compositor for Penumbra. Discovers mods with a Proteus/ sidecar, composites their overlay textures in Penumbra priority order, and maintains a single managed mod at priority 999. No authoring UI — all work happens in external tools. Type /proteus to open the status window.",
                 "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/solona-m/proteus/main/Proteus/images/icon.png",
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1786738739,
+                "LastUpdate": 1786755199,
                 "is_ai_attributed": true
             }
         ]
@@ -24263,11 +24275,11 @@
                 "Author": "Surlako",
                 "Name": "DelvUI Input Guard",
                 "InternalName": "DelvUIInputGuard",
-                "AssemblyVersion": "0.2.0.0",
+                "AssemblyVersion": "0.2.1.0",
                 "Description": "Publishes interactive plugin-window rectangles to DelvUI's native third-party clipping system so DelvUI unit frames ignore hover, targeting, clicks, context menus, and drag input underneath Penumbra, QoLBar, and other ImGui windows. Use /dig for settings.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Surlako/Delvui-Input-Guard",
-                "LastUpdate": 1785805068,
+                "LastUpdate": 1786759186,
                 "is_ai_attributed": true
             }
         ]
@@ -25083,11 +25095,11 @@
                 "Author": "Tihlyn",
                 "Name": "RedMoonCappuccino",
                 "InternalName": "RedMoonCappuccino",
-                "AssemblyVersion": "4.7.0.0",
+                "AssemblyVersion": "4.7.0.7",
                 "Description": "Connects to your FC's WebSocket server to display the lowest market tax rate and location, as well as upcoming and past FC events with event images.",
                 "IconUrl": "https://raw.githubusercontent.com/Tihlyn/RedMoon-Cappuccino/main/Data/icon.png",
                 "RepoUrl": "https://github.com/Tihlyn/RedMoon-Cappuccino",
-                "LastUpdate": 1786740587,
+                "LastUpdate": 1786751040,
                 "is_ai_attributed": true
             }
         ]
@@ -26681,7 +26693,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1786740218,
+                "LastUpdate": 1786751995,
                 "is_ai_attributed": true
             },
             {
@@ -27626,19 +27638,19 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Macro%20Redirection/cursor_hr1.png",
                 "RepoUrl": "https://github.com/YouShux/DalamudPlugins/blob/main/Plugins/Macro%20Redirection/Macro%20Redirection.zip",
-                "LastUpdate": 1786733184,
+                "LastUpdate": 1786760552,
                 "is_closed_source": true
             },
             {
                 "Author": "YouShu",
                 "Name": "Omni Toolbox",
                 "InternalName": "OmniToolbox",
-                "AssemblyVersion": "1.1.1.0",
+                "AssemblyVersion": "1.1.1.1",
                 "Description": "支持物品价格查询、商店购买与兑换位置查找、库存追踪、食物/药品期望计算、物品监控预警自动补货、传送以及坐骑/宠物/发型/绘画作品的悬浮窗预览等等。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Resources/%E5%9B%BE%E6%A0%87.png",
                 "RepoUrl": "https://github.com/YouShux/DalamudPlugins/blob/main/Plugins/Omni%20Toolbox/Omni%20Toolbox.zip",
-                "LastUpdate": 1786733184,
+                "LastUpdate": 1786760552,
                 "is_closed_source": true
             }
         ]
