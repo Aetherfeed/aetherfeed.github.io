@@ -1650,12 +1650,12 @@
                 "Author": "Anmi",
                 "Name": "新月岛史官",
                 "InternalName": "Chronicler",
-                "AssemblyVersion": "0.2.0.33",
+                "AssemblyVersion": "0.2.0.34",
                 "Description": "进入新月岛后自动记录南征/北征 CE/FATE 出现时间，支持导入/导出 xyd.zzmelon.com 分享码，生成喊话，并监听游戏内喊话自动同步状态。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/anmili2022/Chronicler/main/images/icon.png",
                 "RepoUrl": "https://github.com/anmili2022/Chronicler",
-                "LastUpdate": 1786600786,
+                "LastUpdate": 1786779953,
                 "is_ai_attributed": true
             }
         ]
@@ -6768,7 +6768,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1786691606
+                "LastUpdate": 1786775061
             }
         ]
     },
@@ -6787,7 +6787,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1786691606
+                "LastUpdate": 1786775061
             }
         ]
     },
@@ -7171,12 +7171,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "BossMod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.5.43",
+                "AssemblyVersion": "7.5.5.44",
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1786743873
+                "LastUpdate": 1786784733
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -7911,6 +7911,24 @@
                 "IconUrl": "https://gezimao.github.io/Plugins/plugins/NotePlugin/icon.png",
                 "RepoUrl": "https://github.com/gezimao/notePlugin",
                 "LastUpdate": 1782732667
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "gingertonik",
+        "repo_url": "https://raw.githubusercontent.com/gingertonik/Dalamud.ShareHUD/master/repo.json",
+        "repo_source_url": "https://github.com/gingertonik/Dalamud.ShareHUD",
+        "repo_name": "Dalamud.ShareHUD",
+        "plugins": [
+            {
+                "Author": "gingertonik",
+                "Name": "ShareHUD",
+                "InternalName": "Dalamud.ShareHUD",
+                "AssemblyVersion": "0.0.0.1",
+                "Description": "Exports your active HUD layout (element positions, scale, visibility) to a shareable code, and imports someone else's code with per-section checkboxes to pick what gets applied. Companion to DelvUI/DelvCD share codes for everything else on the vanilla HUD.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/gingertonik/Dalamud.ShareHUD",
+                "LastUpdate": 1786764129
             }
         ]
     },
@@ -9697,12 +9715,12 @@
                 "Author": "raynording",
                 "Name": "Dalamud ACT Compat",
                 "InternalName": "DalamudActCompat",
-                "AssemblyVersion": "0.3.9.5",
+                "AssemblyVersion": "0.3.9.11",
                 "Description": "Dalamud-side UI, storage, parser abstraction, and compatibility-host bridge for an ACT-compatible FFXIV parsing platform. This early build does not yet load FFXIV_ACT_Plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/JackyWilliam/DalamudActCompat/main/src/DalamudActCompat/Assets/act-logo.jpg",
                 "RepoUrl": "https://github.com/JackyWilliam/DalamudActCompat",
-                "LastUpdate": 1786527125,
+                "LastUpdate": 1786784202,
                 "is_ai_attributed": true
             }
         ]
@@ -9831,12 +9849,12 @@
                 "Author": "jFray",
                 "Name": "EchoGlam",
                 "InternalName": "EchoGlam.Plugin",
-                "AssemblyVersion": "1.0.0.5",
+                "AssemblyVersion": "1.0.0.7",
                 "Description": "Dress your character in any item in the game from a searchable in-game wardrobe, dye every slot, edit full appearance and save named outfits. Then publish the look to a community catalogue you can browse, filter, vote on and favourite without leaving the game - and put anyone else's glamour on with one click, with a revert that is always one click away. No other plugins required.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/echoglam-icon.png",
                 "RepoUrl": "https://echoxiv.com",
-                "LastUpdate": 1786725357,
+                "LastUpdate": 1786785306,
                 "is_ai_attributed": true
             },
             {
@@ -11577,11 +11595,11 @@
                 "Author": "kittenhaswares-ui",
                 "Name": "Seiton Sense",
                 "InternalName": "SeitonSense.Plugin",
-                "AssemblyVersion": "0.13.0.0",
+                "AssemblyVersion": "0.13.0.1",
                 "Description": "A display-only Ninja PvP overlay that maps FFXIV's native enemy slots to S1-S5 and shows the matching label only when an enemy is below 50% HP, passes Seiton's native range check, and Seiton is currently usable.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kittenhaswares-ui/SeitonSense",
-                "LastUpdate": 1786759737,
+                "LastUpdate": 1786768259,
                 "is_ai_attributed": true
             }
         ]
@@ -12015,12 +12033,12 @@
                 "Author": "Kussie ",
                 "Name": "Aetherfit",
                 "InternalName": "Aetherfit",
-                "AssemblyVersion": "1.2.2608.349",
+                "AssemblyVersion": "1.3.2608.365",
                 "Description": "A custom simple frontend for applying designs from Glamourer. Lets you browse and apply designs, and optionally upload your own images to more easily be able to decide on which design to wear.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Kussie/Aetherfit/master/Data/icon-square.png",
                 "RepoUrl": "https://github.com/Kussie/Aetherfit",
-                "LastUpdate": 1786667430,
+                "LastUpdate": 1786771586,
                 "is_ai_attributed": true
             },
             {
@@ -13136,6 +13154,24 @@
         ]
     },
     {
+        "repo_developer_name": "Luna-Salamanca",
+        "repo_url": "https://raw.githubusercontent.com/Luna-Salamanca/no-sauce-releases/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/Luna-Salamanca/no-sauce-releases",
+        "repo_name": "no-sauce-releases",
+        "plugins": [
+            {
+                "Author": "Luna",
+                "Name": "NoSauce",
+                "InternalName": "NoSaucePlugin",
+                "AssemblyVersion": "1.0.3",
+                "Description": "",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Luna-Salamanca/no-sauce-releases",
+                "LastUpdate": 1786772522
+            }
+        ]
+    },
+    {
         "repo_developer_name": "Lunauryae",
         "repo_url": "https://raw.githubusercontent.com/Lunauryae/Gaia/main/repo.json",
         "repo_source_url": "https://github.com/Lunauryae/Gaia",
@@ -13345,12 +13381,12 @@
                 "Author": "Maggie",
                 "Name": "Vestiary",
                 "InternalName": "Vestiary",
-                "AssemblyVersion": "1.1.5.0",
+                "AssemblyVersion": "1.1.6.0",
                 "Description": "A visual companion for Glamourer with outfit thumbnails, collections, and one-click application.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Magg-droid/Vestiary/main/Data/Vestiary.png",
                 "RepoUrl": "https://github.com/Magg-droid/Vestiary",
-                "LastUpdate": 1786726721
+                "LastUpdate": 1786770065
             }
         ]
     },
@@ -15107,11 +15143,11 @@
                 "Author": "MTVirux",
                 "Name": "RelicTerror",
                 "InternalName": "RelicTerror",
-                "AssemblyVersion": "1.0.0.5",
+                "AssemblyVersion": "1.0.0.6",
                 "Description": "Track FFXIV relic weapon quest progress across all expansion series.\n\nDM @mtvirux on discord for assistance or bug reports.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/MTVirux/RelicTerror",
-                "LastUpdate": 1785367668
+                "LastUpdate": 1786764407
             }
         ]
     },
@@ -15958,7 +15994,7 @@
                 "Author": "Amadeus",
                 "Name": "Replica",
                 "InternalName": "Replica",
-                "AssemblyVersion": "1.0.6.21",
+                "AssemblyVersion": "1.0.6.22",
                 "Description": "Draws boss mechanics on the arena floor.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/nightraidwiki/dalamud-plugins/main/images/icon.png",
@@ -17811,7 +17847,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1786691606
+                "LastUpdate": 1786775061
             },
             {
                 "Author": "Risa and Contributors",
@@ -19218,7 +19254,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1786634555,
+                "LastUpdate": 1786766759,
                 "is_ai_attributed": true
             },
             {
@@ -19241,7 +19277,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/10",
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1786717384
+                "LastUpdate": 1786772698
             },
             {
                 "Author": "Team Wrath",
@@ -20127,12 +20163,12 @@
                 "Author": "alydev",
                 "Name": "TouristMod",
                 "InternalName": "TouristMod",
-                "AssemblyVersion": "1.15.2.0",
+                "AssemblyVersion": "1.15.1000.3",
                 "Description": "Tourist adds a window to assist with the sightseeing log.\n\n- ! Added vnavmesh features\n- Show when sightseeing log vistas are available\n- Add markers for ARR vistas\n- Open vista locations on your map\n- Hide already completed or unavailable vistas\n- Show the command needed for each vista\n\n\"sightseeing\" icon by muhammad, from thenounproject.com CC BY 3.0",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/171",
                 "RepoUrl": "https://github.com/alydevs/Tourist/",
-                "LastUpdate": 1784179955
+                "LastUpdate": 1786776831
             }
         ]
     },
@@ -20248,11 +20284,11 @@
                 "Author": "Anna, QianChangUwU",
                 "Name": "ExtraChat-CN",
                 "InternalName": "ExtraChat-CN",
-                "AssemblyVersion": "1.3.11.28",
+                "AssemblyVersion": "1.3.11.29",
                 "Description": "ExtraChat 添加端到端加密、跨数据中心、不限成员数量的额外聊天频道到游戏中。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/QianChangUwU/ChatExtra",
-                "LastUpdate": 1786706780
+                "LastUpdate": 1786765107
             },
             {
                 "Author": "Critical_Impact, QianChangUwU(汉化)",
@@ -20490,12 +20526,12 @@
                 "Author": "QianyanSR",
                 "Name": "QToolKit",
                 "InternalName": "QToolKit",
-                "AssemblyVersion": "1.1.0.0",
+                "AssemblyVersion": "1.2.1.0",
                 "Description": "一个注重整合体验与模块化管理的卫月插件合集。通过统一入口管理各项功能，支持按需启用、独立设置，并可导入旧版数据完成平滑迁移。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/QY-SR/DalamudPlugins/main/assets/icons/QToolKit.png?v=20260812-qtk-1",
                 "RepoUrl": "https://github.com/QY-SR/DalamudPlugins",
-                "LastUpdate": 1786675521
+                "LastUpdate": 1786777394
             },
             {
                 "Author": "QianyanSR",
@@ -22761,11 +22797,11 @@
                 "Author": "Sebastina",
                 "Name": "Drag And Drop Texturing",
                 "InternalName": "DragAndDropTexturing",
-                "AssemblyVersion": "0.1.0.6",
+                "AssemblyVersion": "0.1.0.7",
                 "Description": "Drag and and drop textured directly onto what you see!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sebane1/DragAndDropTexturing",
-                "LastUpdate": 1786690238
+                "LastUpdate": 1786774712
             }
         ]
     },
@@ -23029,12 +23065,12 @@
                 "Author": "ShaalaXIV",
                 "Name": "Synastry",
                 "InternalName": "EmoteLink",
-                "AssemblyVersion": "1.0.57.0",
+                "AssemblyVersion": "1.0.60.0",
                 "Description": "A Penumbra animation launcher for organizing, pairing, and synchronizing multi-actor animations.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ShaalaXIV/Synastry/main/images/icon.png",
                 "RepoUrl": "https://github.com/ShaalaXIV/Synastry",
-                "LastUpdate": 1786689724,
+                "LastUpdate": 1786767758,
                 "is_ai_attributed": true
             }
         ]
@@ -23699,11 +23735,11 @@
                 "Author": "Catsino",
                 "Name": "Catsino",
                 "InternalName": "Catsino.Plugin",
-                "AssemblyVersion": "1.6.0.0",
+                "AssemblyVersion": "1.7.0.0",
                 "Description": "Untrusted dealer client for authorization, sessions, deposits, and backend-directed Dropbox payouts.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/SoftPawDevs/catsino-dalamud-plugin",
-                "LastUpdate": 1786623855,
+                "LastUpdate": 1786785105,
                 "is_ai_attributed": true
             }
         ]
@@ -23776,12 +23812,12 @@
                 "Author": "Solona",
                 "Name": "Proteus",
                 "InternalName": "Proteus",
-                "AssemblyVersion": "2608.270.0.0",
+                "AssemblyVersion": "2608.271.0.0",
                 "Description": "Headless overlay compositor for Penumbra. Discovers mods with a Proteus/ sidecar, composites their overlay textures in Penumbra priority order, and maintains a single managed mod at priority 999. No authoring UI — all work happens in external tools. Type /proteus to open the status window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/solona-m/proteus/main/Proteus/images/icon.png",
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1786755199,
+                "LastUpdate": 1786776957,
                 "is_ai_attributed": true
             }
         ]
@@ -24388,26 +24424,6 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/switchy-nia/inflection",
                 "LastUpdate": 1755527548
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "swixum",
-        "repo_url": "https://raw.githubusercontent.com/swixum/FrenMits/main/repo.json",
-        "repo_source_url": "https://github.com/swixum/FrenMits",
-        "repo_name": "FrenMits",
-        "plugins": [
-            {
-                "Author": "swix",
-                "Name": "Fren Mits",
-                "InternalName": "FrenMits",
-                "AssemblyVersion": "2.0.0.4",
-                "Description": "Plugin to help turning mit sheets into callouts, with fight timelines and auto syncing.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://swixum.github.io/FrenMits/icon.png",
-                "RepoUrl": "https://github.com/swixum/FrenMits",
-                "LastUpdate": 1786306000,
-                "is_ai_attributed": true
             }
         ]
     },
@@ -26693,7 +26709,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1786751995,
+                "LastUpdate": 1786784838,
                 "is_ai_attributed": true
             },
             {
@@ -27529,12 +27545,12 @@
                 "Author": "youdianfengbao (基于 KanoNoUta/BossmodRebornCN)",
                 "Name": "BossMod Reborn CN (国服汉化)",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.5.40",
+                "AssemblyVersion": "7.5.5.41",
                 "Description": "BossMod Reborn 国服 7.55 适配版，提供副本与大型探索任务的机制提示。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/youdianfengbao/BossmodRebornCN",
-                "LastUpdate": 1786666118,
+                "LastUpdate": 1786767298,
                 "is_ai_attributed": true
             },
             {
@@ -27568,7 +27584,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://qstxiv.github.io/icons/Questionable.png",
                 "RepoUrl": "https://github.com/youdianfengbao/Questionable",
-                "LastUpdate": 1786526174,
+                "LastUpdate": 1786741560,
                 "is_ai_attributed": true
             },
             {
