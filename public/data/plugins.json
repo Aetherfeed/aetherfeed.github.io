@@ -578,7 +578,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dad/main/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/dad",
-                "LastUpdate": 1786762245
+                "LastUpdate": 1786800958
             },
             {
                 "Author": "DhogGPT",
@@ -3975,6 +3975,25 @@
         ]
     },
     {
+        "repo_developer_name": "ChrisChiu9016",
+        "repo_url": "https://raw.githubusercontent.com/ChrisChiu9016/RaidDebrief/main/repo.json",
+        "repo_source_url": "https://github.com/ChrisChiu9016/RaidDebrief",
+        "repo_name": "RaidDebrief",
+        "plugins": [
+            {
+                "Author": "LeScent",
+                "Name": "Raid Debrief",
+                "InternalName": "RaidDebrief",
+                "AssemblyVersion": "1.0.2.0",
+                "Description": "使用 /rdb 或 /rdebrief 開啟最近一次 Pull 的 Replay 主畫面。",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/ChrisChiu9016/RaidDebrief/main/images/icon.png",
+                "RepoUrl": "https://github.com/ChrisChiu9016/RaidDebrief",
+                "LastUpdate": 1786802582
+            }
+        ]
+    },
+    {
         "repo_url": "https://raw.githubusercontent.com/cielo-h/c-pluginrepo/main/pluginmaster.json",
         "repo_source_url": "https://github.com/cielo-h/c-pluginrepo",
         "repo_name": "c-pluginrepo",
@@ -5793,12 +5812,12 @@
                 "Author": "Dulul",
                 "Name": "Thank Helper",
                 "InternalName": "ThankHelper",
-                "AssemblyVersion": "0.1.3.13",
+                "AssemblyVersion": "0.1.3.14",
                 "Description": "面向骑士、战士、暗黑骑士和绝枪战士的 PvE 静默自动打断助手。插件会后台扫描已进入战斗的敌方读条，在不选择或切换目标的情况下优先使用插言，并可通过本地自学习使用下踢；同时支持打断延迟、插言黑名单、成功提示以及学习库分享码。PvP 中强制禁用，未知下踢试探默认关闭。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Dulul818/DululFFXIVTools/main/assets/thankhelper-icon.png",
                 "RepoUrl": "https://github.com/Dulul818/DululFFXIVTools",
-                "LastUpdate": 1786716768
+                "LastUpdate": 1786799776
             }
         ]
     },
@@ -9606,7 +9625,7 @@
                 "Author": "J1ntttao",
                 "Name": "Triad Buddy Auto",
                 "InternalName": "TriadBuddyAuto",
-                "AssemblyVersion": "0.2.0.0",
+                "AssemblyVersion": "0.3.0.1",
                 "Description": "读取 Triad Buddy 的求解结果并自动落牌，在连续再战流程中自动点击再战、挑战并选择最优卡组。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/J1ntttao/FFXIVDalamudPlugins/master/plugins/TriadBuddyAuto/icon.png",
@@ -9715,12 +9734,12 @@
                 "Author": "raynording",
                 "Name": "Dalamud ACT Compat",
                 "InternalName": "DalamudActCompat",
-                "AssemblyVersion": "0.3.9.11",
+                "AssemblyVersion": "0.3.9.12",
                 "Description": "Dalamud-side UI, storage, parser abstraction, and compatibility-host bridge for an ACT-compatible FFXIV parsing platform. This early build does not yet load FFXIV_ACT_Plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/JackyWilliam/DalamudActCompat/main/src/DalamudActCompat/Assets/act-logo.jpg",
                 "RepoUrl": "https://github.com/JackyWilliam/DalamudActCompat",
-                "LastUpdate": 1786784202,
+                "LastUpdate": 1786787378,
                 "is_ai_attributed": true
             }
         ]
@@ -9735,12 +9754,12 @@
                 "Author": "raynording",
                 "Name": "Dalamud ACT Compat",
                 "InternalName": "DalamudActCompat",
-                "AssemblyVersion": "0.3.9.5",
+                "AssemblyVersion": "0.3.9.12",
                 "Description": "Dalamud-side UI, storage, parser abstraction, and compatibility-host bridge for an ACT-compatible FFXIV parsing platform. This early build does not yet load FFXIV_ACT_Plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/JackyWilliam/DalamudActCompat/main/src/DalamudActCompat/Assets/act-logo.jpg",
                 "RepoUrl": "https://github.com/JackyWilliam/DalamudActCompat",
-                "LastUpdate": 1786528667,
+                "LastUpdate": 1786789613,
                 "is_ai_attributed": true
             }
         ]
@@ -9873,12 +9892,12 @@
                 "Author": "jFray",
                 "Name": "EchoNav",
                 "InternalName": "EchoNav.Plugin",
-                "AssemblyVersion": "1.0.0.4",
+                "AssemblyVersion": "1.0.0.5",
                 "Description": "Lists the Critical Encounters and FATEs running in Occult Crescent: North Horn and walks you to any of them with a single click, choosing between walking, an aetheryte hop and Occult Return. Also tracks the pot cycle, keeps your knowledge-crystal buffs topped up, and can step around monsters and pick up coffers on the way. Does nothing outside North Horn.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/echonav-icon.png",
                 "RepoUrl": "https://echoxiv.com",
-                "LastUpdate": 1786725030,
+                "LastUpdate": 1786806827,
                 "is_ai_attributed": true
             },
             {
@@ -9896,12 +9915,12 @@
                 "Author": "jFray",
                 "Name": "EchoSim",
                 "InternalName": "EchoSim.Plugin",
-                "AssemblyVersion": "1.0.2.2",
+                "AssemblyVersion": "1.0.2.3",
                 "Description": "Simulates a full-length fight for your job using your own gear or a best-in-slot preset, then reports the DPS and shows exactly where it came from. Compares gear, melds and consumables, checks your openers and burst windows, and analyses an FFLogs report against the simulated ceiling. Kills on supported encounters can be scored and submitted to per-job leaderboards.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/echosim-icon.png",
                 "RepoUrl": "https://echoxiv.com",
-                "LastUpdate": 1786736681,
+                "LastUpdate": 1786805515,
                 "is_ai_attributed": true
             }
         ]
@@ -16086,7 +16105,7 @@
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1786709508,
+                "LastUpdate": 1786797581,
                 "is_closed_source": true
             },
             {
@@ -16098,19 +16117,19 @@
                 "DalamudApiLevel": 14,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1786709508,
+                "LastUpdate": 1786797581,
                 "is_closed_source": true
             },
             {
                 "Author": "The Combat Reborn Team / NiGuangOwO（本地化&适配）",
                 "Name": "Bossmod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.5.43",
+                "AssemblyVersion": "7.5.5.44",
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1786709508,
+                "LastUpdate": 1786797581,
                 "is_closed_source": true
             },
             {
@@ -19246,15 +19265,15 @@
                 "LastUpdate": 1780111606
             },
             {
-                "Author": "Liza Carvelli & various contributors",
+                "Author": "the Puni.sh Quest Squad",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.1.56",
+                "AssemblyVersion": "15.306.1.58",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1786766759,
+                "LastUpdate": 1786805563,
                 "is_ai_attributed": true
             },
             {
@@ -19752,6 +19771,17 @@
                 "IconUrl": "https://puni.sh/api/plugins/icon/163",
                 "RepoUrl": "https://github.com/OOFGamesss/MiniGamesEmporium",
                 "LastUpdate": 1785425496
+            },
+            {
+                "Author": "OOF Games",
+                "Name": "Truth or Dare",
+                "InternalName": "TruthOrDare",
+                "AssemblyVersion": "0.0.1.0",
+                "Description": "Opens a timed entry window, records one /random or /dice roll per player, then works out who asks and who answers. Highest roller sets the prompt, lowest takes it. Editable truth and dare lists feed !truth and !dare, plus jackpots, bonus prizes and settings profiles.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/172",
+                "RepoUrl": "https://github.com/OOFGamesss/TruthOrDare",
+                "LastUpdate": 1786803189
             }
         ]
     },
@@ -20163,12 +20193,12 @@
                 "Author": "alydev",
                 "Name": "TouristMod",
                 "InternalName": "TouristMod",
-                "AssemblyVersion": "1.15.1000.3",
+                "AssemblyVersion": "1.15.1000.10",
                 "Description": "Tourist adds a window to assist with the sightseeing log.\n\n- ! Added vnavmesh features\n- Show when sightseeing log vistas are available\n- Add markers for ARR vistas\n- Open vista locations on your map\n- Hide already completed or unavailable vistas\n- Show the command needed for each vista\n\n\"sightseeing\" icon by muhammad, from thenounproject.com CC BY 3.0",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/171",
                 "RepoUrl": "https://github.com/alydevs/Tourist/",
-                "LastUpdate": 1786776831
+                "LastUpdate": 1786800871
             }
         ]
     },
@@ -23315,6 +23345,25 @@
         ]
     },
     {
+        "repo_developer_name": "ShiraisumiKiyoshi",
+        "repo_url": "https://raw.githubusercontent.com/ShiraisumiKiyoshi/FFXIVDalamudPlugins/main/repo.json",
+        "repo_source_url": "https://github.com/ShiraisumiKiyoshi/FFXIVDalamudPlugins",
+        "repo_name": "FFXIVDalamudPlugins",
+        "plugins": [
+            {
+                "Author": "白泉澈",
+                "Name": "FreeAction",
+                "InternalName": "FreeAction",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "通用框架，支持 JSON / GUI 双模式自定义技能轴，ActionManager 调用技能，按职业切换配置。",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://shiraisumikiyoshi.github.io/FFXIVDalamudPlugins/FreeAction/icon.png",
+                "RepoUrl": "https://github.com/shiraisumikiyoshi/FFXIVDalamudPlugins",
+                "LastUpdate": 1786794979
+            }
+        ]
+    },
+    {
         "repo_developer_name": "shironayuta",
         "repo_url": "https://raw.githubusercontent.com/shironayuta/ShiroUtils/main/repo.json",
         "repo_source_url": "https://github.com/shironayuta/ShiroUtils",
@@ -23735,11 +23784,11 @@
                 "Author": "Catsino",
                 "Name": "Catsino",
                 "InternalName": "Catsino.Plugin",
-                "AssemblyVersion": "1.7.0.0",
+                "AssemblyVersion": "1.8.1.0",
                 "Description": "Untrusted dealer client for authorization, sessions, deposits, and backend-directed Dropbox payouts.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/SoftPawDevs/catsino-dalamud-plugin",
-                "LastUpdate": 1786785105,
+                "LastUpdate": 1786795991,
                 "is_ai_attributed": true
             }
         ]
@@ -23986,12 +24035,12 @@
                 "Author": "ssalazar217 (SteSE)",
                 "Name": "EchoXIV",
                 "InternalName": "EchoXIV",
-                "AssemblyVersion": "1.0.0.0",
+                "AssemblyVersion": "1.0.1.0",
                 "Description": "Automatically translates your outgoing messages (to the party language) and incoming messages (to your local language) using Google Translate. Overlay window included. No API Key required.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ssalazar217/EchoXIV/master/EchoXIV/images/icon.png",
                 "RepoUrl": "https://github.com/ssalazar217/EchoXIV",
-                "LastUpdate": 1778197706
+                "LastUpdate": 1786802253
             }
         ]
     },
@@ -24172,12 +24221,12 @@
                 "Author": "veyn",
                 "Name": "Boss Mod",
                 "InternalName": "BossMod",
-                "AssemblyVersion": "7.5.5.4002",
+                "AssemblyVersion": "7.5.5.4401",
                 "Description": "Integrated Boss encounter toolkit with radar, mechanic hints, and combat assistance.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/SumomoAkihime/ffxiv_bossmod/master/Data/icon.png",
                 "RepoUrl": "https://github.com/SumomoAkihime/ffxiv_bossmod",
-                "LastUpdate": 1786717163
+                "LastUpdate": 1786805307
             },
             {
                 "Author": "Kouzukii",
@@ -25111,11 +25160,11 @@
                 "Author": "Tihlyn",
                 "Name": "RedMoonCappuccino",
                 "InternalName": "RedMoonCappuccino",
-                "AssemblyVersion": "4.7.0.7",
+                "AssemblyVersion": "4.7.0.9",
                 "Description": "Connects to your FC's WebSocket server to display the lowest market tax rate and location, as well as upcoming and past FC events with event images.",
                 "IconUrl": "https://raw.githubusercontent.com/Tihlyn/RedMoon-Cappuccino/main/Data/icon.png",
                 "RepoUrl": "https://github.com/Tihlyn/RedMoon-Cappuccino",
-                "LastUpdate": 1786751040,
+                "LastUpdate": 1786791055,
                 "is_ai_attributed": true
             }
         ]
@@ -26709,7 +26758,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1786784838,
+                "LastUpdate": 1786804289,
                 "is_ai_attributed": true
             },
             {
