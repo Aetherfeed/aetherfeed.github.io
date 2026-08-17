@@ -4705,12 +4705,12 @@
                 "Author": "Dalagab Group",
                 "Name": "Omega",
                 "InternalName": "DalagabOmega",
-                "AssemblyVersion": "0.8.82.0",
+                "AssemblyVersion": "0.8.95.0",
                 "Description": "In-game third-party plugin installer. Heavy AI usage, not affiliated with Aetherfeed.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/dalagab/omega/main/images/icon.png",
                 "RepoUrl": "https://github.com/dalagab/omega/tree/main/Omega",
-                "LastUpdate": 1786984873,
+                "LastUpdate": 1787001937,
                 "is_ai_attributed": true
             }
         ]
@@ -6228,10 +6228,10 @@
                 "Author": "Ellinae",
                 "Name": "Hornwatch",
                 "InternalName": "Hornwatch",
-                "AssemblyVersion": "0.1.5.0",
+                "AssemblyVersion": "0.1.5.4",
                 "Description": "Tracking Occult Crescent. Use /hornwatch to open the plugin. Settings are available from the gear icon in the Plugin Installer.",
                 "RepoUrl": "https://github.com/EllinaeXIV/HornWatch",
-                "LastUpdate": 1786922554
+                "LastUpdate": 1786998569
             }
         ]
     },
@@ -8387,7 +8387,27 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/goodmasta/CollectionViewer/main/CollectionViewer/images/icon.png",
                 "RepoUrl": "https://github.com/goodmasta/CollectionViewer",
-                "LastUpdate": 1786480462
+                "LastUpdate": 1786996741
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "goodmasta",
+        "repo_url": "https://raw.githubusercontent.com/goodmasta/TomeScroll-Chat/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/goodmasta/TomeScroll-Chat",
+        "repo_name": "TomeScroll-Chat",
+        "plugins": [
+            {
+                "Author": "goodmasta",
+                "Name": "TomeScroll Chat",
+                "InternalName": "TomeScrollChat",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "Replaces the default FFXIV chat log with a custom ImGui interface: unlimited freely-configurable tabs (any mix of channels), any tab can be popped out into its own floating window, whispers get their own per-partner tab or window, clickable links, BTTV/7TV emote rendering, AI-assisted replies/rephrasing (optional Gemini key), auto-reply, and disk-backed history capped at 1 GiB. Not affiliated with Square Enix, Twitch, BetterTTV, 7TV or Google.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/goodmasta/TomeScroll-Chat/main/TomeScrollChat/images/icon.png",
+                "RepoUrl": "https://github.com/goodmasta/TomeScroll-Chat",
+                "LastUpdate": 1786999174,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -10719,12 +10739,12 @@
                 "Author": "Lynnaes Krazikaz",
                 "Name": "Levemetes",
                 "InternalName": "Levemetes",
-                "AssemblyVersion": "1.3.4.0",
+                "AssemblyVersion": "1.4.0.1",
                 "Description": "Player-run levemetes card game for truth or dare shenanigans.  Categorized play with custom decks that can be created and shared between players!  Open with /levemetes",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/kaerlath/Levemetes/main/images/icon.png",
                 "RepoUrl": "https://github.com/kaerlath/Levemetes",
-                "LastUpdate": 1786983077,
+                "LastUpdate": 1787001186,
                 "is_ai_attributed": true
             }
         ]
@@ -12019,12 +12039,12 @@
                 "Author": "erdelf, Herculezz",
                 "Name": "AutoDuty",
                 "InternalName": "AutoDuty",
-                "AssemblyVersion": "0.0.0.334",
+                "AssemblyVersion": "0.0.0.335",
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1786828052,
+                "LastUpdate": 1787004609,
                 "is_ai_attributed": true
             },
             {
@@ -12047,7 +12067,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1786909430
+                "LastUpdate": 1787005138
             },
             {
                 "Author": "sourpuh",
@@ -12069,7 +12089,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1786951947,
+                "LastUpdate": 1787001092,
                 "is_ai_attributed": true
             },
             {
@@ -16194,7 +16214,7 @@
                 "Author": "Amadeus",
                 "Name": "Replica",
                 "InternalName": "Replica",
-                "AssemblyVersion": "1.0.6.37",
+                "AssemblyVersion": "1.0.6.38",
                 "Description": "Draws boss mechanics on the arena floor.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/nightraidwiki/dalamud-plugins/main/images/icon.png",
@@ -17551,12 +17571,12 @@
                 "Author": "Faye, Kage",
                 "Name": "Better Occult Crescent & Chest Helper Interface",
                 "InternalName": "BOCCHI",
-                "AssemblyVersion": "4.0.2.27",
+                "AssemblyVersion": "4.0.2.28",
                 "Description": "BOCCHI is here to smooth out your Occult Crescent experience.\n- No more of that pesky 'walking' or 'finding chests'. That's for losers.\n- A cute little Fate and CE panel that'll tell you what rewards it gives AND help you automatically path to it, wowee.\n- An extre illegal 'illegal mode' for those of you that would rather be touching grass or playing a game with worthwhile content.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/OhKannaDuh/BOCCHI/master/assets/icon.png",
                 "RepoUrl": "https://github.com/OhKannaDuh/OccultCrescentHelper",
-                "LastUpdate": 1786558846
+                "LastUpdate": 1786997367
             }
         ]
     },
@@ -18881,6 +18901,25 @@
         ]
     },
     {
+        "repo_developer_name": "pl1nk1",
+        "repo_url": "https://raw.githubusercontent.com/pl1nk1/PlainFlyText/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/pl1nk1/PlainFlyText",
+        "repo_name": "PlainFlyText",
+        "plugins": [
+            {
+                "Author": "pl1nk1",
+                "Name": "Plain Fly Text",
+                "InternalName": "PlainFlyText",
+                "AssemblyVersion": "1.0.1.0",
+                "Description": "Removes the skill/ability name label from floating combat text, leaving only the number, color, size, and crit/direct-hit bounce animation.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/pl1nk1/PlainFlyText",
+                "LastUpdate": 1786996667,
+                "is_ai_attributed": true
+            }
+        ]
+    },
+    {
         "repo_developer_name": "PlatikaViout",
         "repo_url": "https://raw.githubusercontent.com/PlatikaViout/xiv-tools/main/pluginmaster.json",
         "repo_source_url": "https://github.com/PlatikaViout/xiv-tools",
@@ -19503,7 +19542,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1786961414,
+                "LastUpdate": 1787001092,
                 "is_ai_attributed": true
             },
             {
@@ -19604,12 +19643,12 @@
                 "Author": "erdelf, Herculezz",
                 "Name": "AutoDuty",
                 "InternalName": "AutoDuty",
-                "AssemblyVersion": "0.0.0.330",
+                "AssemblyVersion": "0.0.0.335",
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1786988794,
+                "LastUpdate": 1787004609,
                 "is_ai_attributed": true
             },
             {
@@ -20279,7 +20318,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1786909430
+                "LastUpdate": 1787005138
             },
             {
                 "Author": "veyn, croizat",
@@ -20423,12 +20462,12 @@
                 "Author": "alydev",
                 "Name": "TouristMod",
                 "InternalName": "TouristMod",
-                "AssemblyVersion": "1.15.1000.12",
+                "AssemblyVersion": "1.15.1000.14",
                 "Description": "Tourist adds a window to assist with the sightseeing log.\n\n- ! Added vnavmesh features\n- Show when sightseeing log vistas are available\n- Add markers for ARR vistas\n- Open vista locations on your map\n- Hide already completed or unavailable vistas\n- Show the command needed for each vista\n\n\"sightseeing\" icon by muhammad, from thenounproject.com CC BY 3.0",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/171",
                 "RepoUrl": "https://github.com/alydevs/Tourist/",
-                "LastUpdate": 1786800871
+                "LastUpdate": 1786999976
             }
         ]
     },
@@ -24155,12 +24194,12 @@
                 "Author": "Solona",
                 "Name": "Proteus",
                 "InternalName": "Proteus",
-                "AssemblyVersion": "2608.277.0.0",
+                "AssemblyVersion": "2608.279.0.0",
                 "Description": "Headless overlay compositor for Penumbra. Discovers mods with a Proteus/ sidecar, composites their overlay textures in Penumbra priority order, and maintains a single managed mod at priority 999. No authoring UI — all work happens in external tools. Type /proteus to open the status window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/solona-m/proteus/main/Proteus/images/icon.png",
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1786988508,
+                "LastUpdate": 1786995276,
                 "is_ai_attributed": true
             }
         ]
@@ -24703,6 +24742,24 @@
         ]
     },
     {
+        "repo_developer_name": "Surlako",
+        "repo_url": "https://raw.githubusercontent.com/Surlako/SyncBridge/main/repo.json",
+        "repo_source_url": "https://github.com/Surlako/SyncBridge",
+        "repo_name": "SyncBridge",
+        "plugins": [
+            {
+                "Author": "Steve",
+                "Name": "SyncBridge",
+                "InternalName": "SyncBridge",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "Coordinates PlayerSync and Lightless to avoid duplicate handling of the same on-screen character. /syncbridge",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Surlako/SyncBridge",
+                "LastUpdate": 1786993601
+            }
+        ]
+    },
+    {
         "repo_developer_name": "susy-bakaa",
         "repo_url": "https://raw.githubusercontent.com/susy-bakaa/susy-bakaa.github.io/master/ffxiv/dalamud/repo.json",
         "repo_source_url": "https://github.com/susy-bakaa/susy-bakaa.github.io",
@@ -25103,12 +25160,12 @@
                 "Author": "ThatKwistine",
                 "Name": "Wardrobe",
                 "InternalName": "WardrobePlugin",
-                "AssemblyVersion": "1.5.1.3",
+                "AssemblyVersion": "1.5.2.0",
                 "Description": "A visual wardrobe for Penumbra mods. Each entry targets a single equipment slot, so you can wear or unwear exactly what you want without disturbing the rest of your look. Handles items spanning several mods, mod option groups, hair and other customisation mods, image previews, tags, favourites, search and sort, and automated screenshot sessions.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ThatKwistine/WardrobePlugin/main/images/icon.png",
                 "RepoUrl": "https://github.com/ThatKwistine/WardrobePlugin",
-                "LastUpdate": 1786966968,
+                "LastUpdate": 1786996286,
                 "is_ai_attributed": true
             }
         ]
@@ -27048,12 +27105,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "1.0.0.2",
+                "AssemblyVersion": "1.0.0.3",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1786979104,
+                "LastUpdate": 1786994392,
                 "is_ai_attributed": true
             },
             {
@@ -27128,12 +27185,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "1.0.0.2",
+                "AssemblyVersion": "1.0.0.3",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1786979104,
+                "LastUpdate": 1786994392,
                 "is_ai_attributed": true
             }
         ]
