@@ -4697,20 +4697,21 @@
         ]
     },
     {
-        "repo_url": "https://raw.githubusercontent.com/dalagab/omega/main/examples/pluginmaster.json",
+        "repo_url": "https://raw.githubusercontent.com/dalagab/omega/main/repository/pluginmaster.json",
         "repo_source_url": "https://github.com/dalagab/omega",
-        "repo_name": "omega",
         "repo_developer_name": "dalagab",
+        "repo_name": "omega",
         "plugins": [
             {
-                "Author": "Example Author",
-                "Name": "Example Plugin",
-                "InternalName": "ExamplePlugin",
-                "AssemblyVersion": "1.2.3.0",
-                "Description": "This file demonstrates fields Omega consumes. It is not a real downloadable plugin.",
+                "Author": "Dalagab Group",
+                "Name": "Omega",
+                "InternalName": "DalagabOmega",
+                "AssemblyVersion": "0.8.76.0",
+                "Description": "Find the plugin you want without hunting through repository lists. Omega brings official and community Dalamud plugins into one searchable storefront with Spotlight, screenshots, tags, compatibility, source choice, and security insights.\n\nOpen Omega with /omega or /omg. Discover plugins, compare repositories, inspect what a plugin can access, install through Dalamud, and keep your Library and Updates together.",
                 "DalamudApiLevel": 15,
-                "RepoUrl": "https://example.invalid/ExamplePlugin",
-                "LastUpdate": 1786579200
+                "IconUrl": "https://raw.githubusercontent.com/dalagab/omega/main/images/icon.png",
+                "RepoUrl": "https://github.com/dalagab/omega",
+                "LastUpdate": 1786953764
             }
         ]
     },
