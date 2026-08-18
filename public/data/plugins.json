@@ -1484,6 +1484,24 @@
         ]
     },
     {
+        "repo_developer_name": "AmberPlume",
+        "repo_url": "https://raw.githubusercontent.com/AmberPlume/JumpHelper/master/pluginmaster.json",
+        "repo_source_url": "https://github.com/AmberPlume/JumpHelper",
+        "repo_name": "JumpHelper",
+        "plugins": [
+            {
+                "Author": "AmberPlume",
+                "Name": "跳跳乐助手",
+                "InternalName": "JumpHelper",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "可以记录玩家的跳跃路线，并进行回放，从而达到类似读档的效果。也可以直接加载其他玩家分享的路线。允许段落编辑，重录某段特定的段落。当前为初步测试版本，欢迎在discord内反馈。",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/AmberPlume/JumpHelper",
+                "LastUpdate": 1787067286
+            }
+        ]
+    },
+    {
         "repo_developer_name": "amki",
         "repo_url": "https://raw.githubusercontent.com/amki/AkuTrack/master/repo.json",
         "repo_source_url": "https://github.com/amki/AkuTrack",
@@ -3875,12 +3893,12 @@
                 "Author": "CelineXIV",
                 "Name": "CelinesChat",
                 "InternalName": "CelinesChat",
-                "AssemblyVersion": "1.0.17.0",
+                "AssemblyVersion": "1.0.18.0",
                 "Description": "Just a Beta Version of a Chatbox",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://cdn.jsdelivr.net/gh/CelineXIV/CelinesTools@main/CelinesChat/images/icon-v2.png",
                 "RepoUrl": "https://github.com/CelineXIV/CelinesTools/tree/main/CelinesChat",
-                "LastUpdate": 1787026632,
+                "LastUpdate": 1787057964,
                 "is_ai_attributed": true
             },
             {
@@ -4705,12 +4723,12 @@
                 "Author": "Dalagab Group",
                 "Name": "Omega",
                 "InternalName": "DalagabOmega",
-                "AssemblyVersion": "0.8.99.0",
+                "AssemblyVersion": "0.9.8.0",
                 "Description": "In-game third-party plugin installer. Heavy AI usage, not affiliated with Aetherfeed.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/dalagab/omega/main/images/icon.png",
                 "RepoUrl": "https://github.com/dalagab/omega/tree/main/Omega",
-                "LastUpdate": 1787040880,
+                "LastUpdate": 1787059680,
                 "is_ai_attributed": true
             }
         ]
@@ -5248,11 +5266,11 @@
                 "Author": "FF14 Accessibility Project",
                 "Name": "FF14 Accessibility",
                 "InternalName": "FF14Accessibility",
-                "AssemblyVersion": "5.87.0.0",
+                "AssemblyVersion": "5.88.0.0",
                 "Description": "Macht FF14 für blinde Spieler zugänglich via NVDA/TOLK Integration, Audio-Navigation und vollständiger Tastatursteuerung.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/derbruedi/ff14-accessibility",
-                "LastUpdate": 1786989499,
+                "LastUpdate": 1787060360,
                 "is_ai_attributed": true
             }
         ]
@@ -5278,11 +5296,11 @@
                 "Author": "deserokk",
                 "Name": "DeserokUtils",
                 "InternalName": "DeserokUtils",
-                "AssemblyVersion": "1.7.1.0",
+                "AssemblyVersion": "1.7.2.0",
                 "Description": "Small quality-of-life utilities, one feature per tab.\n\nCastWatch: gate a macro line on whether an action actually went off. Arm a watch above the /ac, then /ifwatch runs your line only if the action was accepted -- or cancels the macro if it was not. Works for instant casts, oGCDs and usable items, none of which produce a cast bar to observe. Optional target filters (--self, --notself, --party) and a {who} token that fills in whoever actually received it, which a vanilla macro cannot do.\n\nIt never composes or sends anything on your behalf; it only runs or suppresses a line you already wrote.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/deserokk/DeserokUtils",
-                "LastUpdate": 1787036818,
+                "LastUpdate": 1787066290,
                 "is_ai_attributed": true
             }
         ]
@@ -5297,11 +5315,11 @@
                 "Author": "deserokk",
                 "Name": "DeserokUtils",
                 "InternalName": "DeserokUtils",
-                "AssemblyVersion": "1.7.1.0",
+                "AssemblyVersion": "1.7.2.0",
                 "Description": "Small quality-of-life utilities, one feature per tab.\n\nCastWatch: gate a macro line on whether an action actually went off. Arm a watch above the /ac, then /ifwatch runs your line only if the action was accepted -- or cancels the macro if it was not. Works for instant casts, oGCDs and usable items, none of which produce a cast bar to observe. Optional target filters (--self, --notself, --party) and a {who} token that fills in whoever actually received it, which a vanilla macro cannot do.\n\nIt never composes or sends anything on your behalf; it only runs or suppresses a line you already wrote.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/deserokk/DeserokUtils",
-                "LastUpdate": 1787036818,
+                "LastUpdate": 1787066290,
                 "is_ai_attributed": true
             }
         ]
@@ -5746,6 +5764,16 @@
         "repo_name": "DalamudPlugins",
         "plugins": [
             {
+                "Author": "QiongHHHZZZ（岚玉棠改）",
+                "Name": "AllHud",
+                "InternalName": "AllHud",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "提供目标情报、咏唱栏、目标状态、自身状态、队伍减伤/团辅冷却、食物检查和 LB 条等 HUD 模块，支持调整显示内容、位置与缩放。",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Dragonw233/DalamudPlugins",
+                "LastUpdate": 1787061859
+            },
+            {
                 "Author": "XeldarAlz,Tabris",
                 "Name": "Auto Daily Tribes CN",
                 "InternalName": "AutoDailyTribes",
@@ -5754,7 +5782,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Dragonw233/FFXIV-AutoDailyTribes/master/AutoDailyTribes/Images/Icon.png",
                 "RepoUrl": "https://github.com/Dragonw233/FFXIV-AutoDailyTribes",
-                "LastUpdate": 1783172194,
+                "LastUpdate": 1786986550,
                 "is_ai_attributed": true
             },
             {
@@ -5788,7 +5816,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1786243317,
+                "LastUpdate": 1787061882,
                 "is_ai_attributed": true
             },
             {
@@ -5799,7 +5827,7 @@
                 "Description": "改版SkyEye",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Dragonw233/DalamudPlugins",
-                "LastUpdate": 1786282028
+                "LastUpdate": 1787061995
             },
             {
                 "Author": "Uiharu,NiGuangOwO,Tabris",
@@ -10035,12 +10063,12 @@
                 "Author": "jFray",
                 "Name": "EchoGlam",
                 "InternalName": "EchoGlam.Plugin",
-                "AssemblyVersion": "1.1.0.1",
+                "AssemblyVersion": "1.1.0.2",
                 "Description": "Dress your character in any item in the game from a searchable in-game wardrobe, dye every slot, edit full appearance and save named outfits. Then publish the look to a community catalogue you can browse, filter, vote on and favourite without leaving the game - and put anyone else's glamour on with one click, with a revert that is always one click away. No other plugins required.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/echoglam-icon.png",
                 "RepoUrl": "https://echoxiv.com",
-                "LastUpdate": 1787022902,
+                "LastUpdate": 1787066639,
                 "is_ai_attributed": true
             },
             {
@@ -11774,6 +11802,24 @@
     },
     {
         "repo_developer_name": "kittenhaswares-ui",
+        "repo_url": "https://raw.githubusercontent.com/kittenhaswares-ui/SeitonSense/main/repo.json",
+        "repo_source_url": "https://github.com/kittenhaswares-ui/SeitonSense",
+        "repo_name": "SeitonSense",
+        "plugins": [
+            {
+                "Author": "kittenhaswares-ui",
+                "Name": "Seiton Sense",
+                "InternalName": "SeitonSense.Plugin",
+                "AssemblyVersion": "0.19.0.0",
+                "Description": "A local PvP HUD integrating an optional held-key Smart Kardia helper, set-only low-MP Focus Target and exact DRK Shadowbringer macro helpers, a top-center 3+ enemy alarm with sound/Sprint options, isolation, pressure and CC-protection cues, resource auras, fail-closed assists, team communication and target highlights.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/kittenhaswares-ui/SeitonSense",
+                "LastUpdate": 1787069034
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "kittenhaswares-ui",
         "repo_url": "https://raw.githubusercontent.com/kittenhaswares-ui/SuperFocusGlow/main/repo.json",
         "repo_source_url": "https://github.com/kittenhaswares-ui/SuperFocusGlow",
         "repo_name": "SuperFocusGlow",
@@ -12083,12 +12129,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.2.0",
+                "AssemblyVersion": "15.306.2.1",
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1787001092,
+                "LastUpdate": 1787061882,
                 "is_ai_attributed": true
             },
             {
@@ -12111,7 +12157,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1786899109
+                "LastUpdate": 1787061822
             }
         ]
     },
@@ -12807,12 +12853,12 @@
                 "Author": "Galderia",
                 "Name": "BLUnion",
                 "InternalName": "BLUnion",
-                "AssemblyVersion": "0.2.0.0",
+                "AssemblyVersion": "0.3.0.0",
                 "Description": "Compares learned Blue Mage spells across a party, shows where to find missing ones, and helps plan what to learn next together - multilingual (DE/EN/FR/JA), syncs via export/import codes, no gameplay automation.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/letsI-MA/BLUnion/main/images/icon.png",
                 "RepoUrl": "https://github.com/letsI-MA/BLUnion",
-                "LastUpdate": 1787046859,
+                "LastUpdate": 1787062423,
                 "is_ai_attributed": true
             }
         ]
@@ -15037,11 +15083,11 @@
                 "Author": "monkdim",
                 "Name": "Maple's Echo",
                 "InternalName": "MaplesEcho",
-                "AssemblyVersion": "0.1.1.0",
+                "AssemblyVersion": "0.3.0.0",
                 "Description": "Displays a Discord channel's live voice-to-text callouts inside FFXIV, in a dedicated, fully customizable accessibility window. One-way relay (Discord to game). This repo is configured for one specific setup — fork it and run your own copy. See the README.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/monkdim/maples-echo",
-                "LastUpdate": 1786824264,
+                "LastUpdate": 1787068506,
                 "is_ai_attributed": true
             }
         ]
@@ -16233,7 +16279,7 @@
                 "Author": "Amadeus",
                 "Name": "Replica",
                 "InternalName": "Replica",
-                "AssemblyVersion": "1.0.6.41",
+                "AssemblyVersion": "1.0.6.43",
                 "Description": "Draws boss mechanics on the arena floor.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/nightraidwiki/dalamud-plugins/main/images/icon.png",
@@ -16325,7 +16371,7 @@
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1786966058,
+                "LastUpdate": 1787052867,
                 "is_closed_source": true
             },
             {
@@ -16337,19 +16383,19 @@
                 "DalamudApiLevel": 14,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1786966058,
+                "LastUpdate": 1787052867,
                 "is_closed_source": true
             },
             {
                 "Author": "The Combat Reborn Team / NiGuangOwO（本地化&适配）",
                 "Name": "Bossmod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.5.50",
+                "AssemblyVersion": "7.5.5.52",
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1786966058,
+                "LastUpdate": 1787052867,
                 "is_closed_source": true
             },
             {
@@ -17974,36 +18020,36 @@
         "plugins": [
             {
                 "Author": "OOFGames",
-                "Name": "Chocobo Racing",
+                "Name": "Chocobo Racing (Deprecated)",
                 "InternalName": "ChocoboRacingGamba",
-                "AssemblyVersion": "1.0.0.0",
+                "AssemblyVersion": "1.0.0.1",
                 "Description": "Players pick a chocobo(s) to bet on, the host rolls /random to advance chocobos, and the first to reach the finish line wins. Type /crg or /Chocoboracinggamba to open the main window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/OOFGamesss/OOFGamesPlugins/main/images/chocoboracinggamba.png",
                 "RepoUrl": "https://github.com/OOFGamesss/OOFGamesPlugins",
-                "LastUpdate": 1784397102
+                "LastUpdate": 1787055984
             },
             {
                 "Author": "OOFGames",
-                "Name": "Gamba Where",
+                "Name": "Gamba Where (Deprecated)",
                 "InternalName": "GambaWhere",
-                "AssemblyVersion": "1.0.0.0",
+                "AssemblyVersion": "1.0.0.1",
                 "Description": "Browse active gambling events across Eorzea or host your own session. Use /gambawhere to open the interface.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/OOFGamesss/OOFGamesPlugins/main/images/gambawhere.png",
                 "RepoUrl": "https://github.com/OOFGamesss/GambaWhere",
-                "LastUpdate": 1784127303
+                "LastUpdate": 1786547385
             },
             {
                 "Author": "OOFGames",
-                "Name": "Mini Games Emporium",
+                "Name": "Mini Games Emporium (Deprecated)",
                 "InternalName": "MiniGamesEmporium",
-                "AssemblyVersion": "0.0.10.0",
+                "AssemblyVersion": "0.0.10.1",
                 "Description": "A plugin to manage mini game sessions, player queues, and Gil transactions. Use /minigames to open the main window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/OOFGamesss/OOFGamesPlugins/main/images/minigamesemporium.png",
                 "RepoUrl": "https://github.com/OOFGamesss/MiniGamesEmporium",
-                "LastUpdate": 1784204563
+                "LastUpdate": 1786988597
             }
         ]
     },
@@ -18997,12 +19043,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "Passport Checker Reborn (Custom)",
                 "InternalName": "PassportCheckerReborn",
-                "AssemblyVersion": "7.5.1.4",
+                "AssemblyVersion": "7.5.5.0",
                 "Description": "파티 찾기 목록 옆에 멤버 정보 오버레이를 표시하는 플러그인입니다. 한국 서버에 맞게 수정한 버전으로, 한국 월드/FFLogs 매핑, 한국어 UI, PlayerTrack 기반 비공개 플레이어 이름 복원을 지원합니다.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/PCR_Icon.png",
                 "RepoUrl": "https://github.com/pnsdh/PassportCheckerReborn",
-                "LastUpdate": 1784834242
+                "LastUpdate": 1787054172
             }
         ]
     },
@@ -19556,12 +19602,12 @@
                 "Author": "the Puni.sh Quest Squad",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.2.0",
+                "AssemblyVersion": "15.306.2.1",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1787001092,
+                "LastUpdate": 1787061882,
                 "is_ai_attributed": true
             },
             {
@@ -19595,7 +19641,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1786899109
+                "LastUpdate": 1787061822
             },
             {
                 "Author": "daemitus, croizat",
@@ -23811,12 +23857,12 @@
                 "Author": "XSZYYS",
                 "Name": "XSZToolbox",
                 "InternalName": "XSZToolbox",
-                "AssemblyVersion": "1.7.4.5",
+                "AssemblyVersion": "1.7.4.6",
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ShoOtaku/DalamudPlugins/main/plugins/XSZToolbox/icon.png",
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins/tree/main/plugins/XSZToolbox",
-                "LastUpdate": 1786985481,
+                "LastUpdate": 1787069034,
                 "is_closed_source": true
             }
         ]
@@ -25978,12 +26024,12 @@
                 "Author": "The PlayerSync Team",
                 "Name": "PlayerSync",
                 "InternalName": "MareSempiterne",
-                "AssemblyVersion": "1.15.3.10",
+                "AssemblyVersion": "1.15.4.7",
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://maresempiterne.io/download/plugin/icon.png",
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1786152630
+                "LastUpdate": 1787065273
             }
         ]
     },
@@ -27167,7 +27213,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1787044281,
+                "LastUpdate": 1787052145,
                 "is_ai_attributed": true
             },
             {
@@ -27414,7 +27460,7 @@
                 "Description": "Calibrates the Ishgardian Restoration Fête (Skyrise Celebration) countdown from the in-game objective list while you are in the Firmament and fires configurable chat, notification, and sound alerts at your chosen lead times.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/xivhub/FeteTimer",
-                "LastUpdate": 1784535253,
+                "LastUpdate": 1787062314,
                 "is_ai_attributed": true
             },
             {
@@ -27433,10 +27479,11 @@
                 "Author": "XivHub",
                 "Name": "InventoryCleaner",
                 "InternalName": "InventoryCleaner",
-                "AssemblyVersion": "0.3.4.0",
+                "AssemblyVersion": "0.7.1.0",
                 "Description": "Cleans up your inventory.",
                 "DalamudApiLevel": 15,
-                "LastUpdate": 1782807877,
+                "RepoUrl": "https://github.com/XivHub/InventoryCleaner",
+                "LastUpdate": 1787062517,
                 "is_closed_source": true
             },
             {
@@ -27469,7 +27516,7 @@
                 "Description": "Works through your hunting logs for you — Grand Company (seals) or the current class/job log (XP), selectable in settings. Teleports/flies to each zone, walks to targets with vnavmesh, and clears the required marks using BossMod Reborn autorotation. Requires vnavmesh, Lifestream, and BossMod Reborn. Optional AutoDuty for the GC log's dungeon marks.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XivHub/SealHunter",
-                "LastUpdate": 1786955201,
+                "LastUpdate": 1787062307,
                 "is_ai_attributed": true
             }
         ]
