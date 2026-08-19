@@ -5476,6 +5476,25 @@
     },
     {
         "repo_developer_name": "devoreofox",
+        "repo_url": "https://raw.githubusercontent.com/devoreofox/GamesNook/main/repo.json",
+        "repo_source_url": "https://github.com/devoreofox/GamesNook",
+        "repo_name": "GamesNook",
+        "plugins": [
+            {
+                "Author": "Oreo",
+                "Name": "GamesNook",
+                "InternalName": "GamesNook",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "GamesNook is a growing toolbox for FFXIV party hosts. It currently features a full blackjack table, with bingo, truth or dare, and more on the way. Use /gnook to open the window.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/devoreofox/GamesNook/main/GamesNook/images/icon.png",
+                "RepoUrl": "https://github.com/devoreofox/GamesNook",
+                "LastUpdate": 1787157681
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "devoreofox",
         "repo_url": "https://raw.githubusercontent.com/devoreofox/LittleLuxuries/main/repo.json",
         "repo_source_url": "https://github.com/devoreofox/LittleLuxuries",
         "repo_name": "LittleLuxuries",
@@ -5676,6 +5695,25 @@
                 "Description": "Show server id for eureka instances",
                 "RepoUrl": "https://github.com/Diyagi/IcebearEureka",
                 "LastUpdate": 1681259977
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "dnz3d4c",
+        "repo_url": "https://raw.githubusercontent.com/dnz3d4c/ff14-accessibility-mirror/main/repo.json",
+        "repo_source_url": "https://github.com/dnz3d4c/ff14-accessibility-mirror",
+        "repo_name": "ff14-accessibility-mirror",
+        "plugins": [
+            {
+                "Author": "FF14 Accessibility Project",
+                "Name": "FF14 Accessibility",
+                "InternalName": "FF14Accessibility",
+                "AssemblyVersion": "5.88.0.0",
+                "Description": "Macht FF14 für blinde Spieler zugänglich via NVDA/TOLK Integration, Audio-Navigation und vollständiger Tastatursteuerung.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/derbruedi/ff14-accessibility",
+                "LastUpdate": 1787060360,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -8430,12 +8468,12 @@
                 "Author": "goodmasta",
                 "Name": "TomeScroll Chat",
                 "InternalName": "TomeScrollChat",
-                "AssemblyVersion": "0.1.1.0",
+                "AssemblyVersion": "0.1.2.0",
                 "Description": "Replaces the default FFXIV chat log with a custom ImGui interface: unlimited freely-configurable tabs (any mix of channels), any tab can be popped out into its own floating window, whispers get their own per-partner tab or window, clickable links, BTTV/7TV emote rendering, AI-assisted replies/rephrasing (optional Gemini key), auto-reply, and disk-backed history capped at 1 GiB. Not affiliated with Square Enix, Twitch, BetterTTV, 7TV or Google.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/goodmasta/TomeScroll-Chat/main/TomeScrollChat/images/icon.png",
                 "RepoUrl": "https://github.com/goodmasta/TomeScroll-Chat",
-                "LastUpdate": 1787103457,
+                "LastUpdate": 1787143241,
                 "is_ai_attributed": true
             }
         ]
@@ -9801,7 +9839,7 @@
                 "Author": "J1ntttao",
                 "Name": "Triad Buddy Auto",
                 "InternalName": "TriadBuddyAuto",
-                "AssemblyVersion": "1.0.0.5",
+                "AssemblyVersion": "1.0.0.7",
                 "Description": "读取 Triad Buddy 的求解结果并自动落牌，在连续再战流程中自动点击再战、挑战并选择最优卡组。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/J1ntttao/FFXIVDalamudPlugins/master/plugins/TriadBuddyAuto/icon.png",
@@ -10968,19 +11006,19 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/icon.png",
                 "RepoUrl": "https://github.com/KanoNoUta/BOCCHI",
-                "LastUpdate": 1786956622,
+                "LastUpdate": 1787155232,
                 "is_ai_attributed": true
             },
             {
                 "Author": "KanoNoUta（国服 7.55 适配）",
                 "Name": "BossMod Reborn CN",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.5.41",
+                "AssemblyVersion": "7.5.5.44",
                 "Description": "BossMod Reborn 国服适配版，提供副本与大型探索任务的机制提示。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/KanoNoUta/BossmodRebornCN",
-                "LastUpdate": 1786870250,
+                "LastUpdate": 1787144707,
                 "is_ai_attributed": true
             },
             {
@@ -11358,11 +11396,11 @@
                 "Author": "Kei Joi",
                 "Name": "Mair's Trivia",
                 "InternalName": "MairsTrivia",
-                "AssemblyVersion": "1.1.0.0",
+                "AssemblyVersion": "1.1.1.0",
                 "Description": "Host controls for Mair's Trivia. Open with /mairstrivia.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/KeiJoi/mairstrivia",
-                "LastUpdate": 1787109641
+                "LastUpdate": 1787150011
             }
         ]
     },
@@ -12427,11 +12465,11 @@
                 "Author": "Arty",
                 "Name": "RollTracker",
                 "InternalName": "RollTracker",
-                "AssemblyVersion": "0.1.0.10",
+                "AssemblyVersion": "0.1.0.19",
                 "Description": "Reads chat messages, detects /random rolls, shows all rolls plus highest and lowest roll in a small ImGui window. Commands: /rolltracker, /rt.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/la1998/RollTracker",
-                "LastUpdate": 1786965008
+                "LastUpdate": 1787155052
             }
         ]
     },
@@ -12873,12 +12911,12 @@
                 "Author": "Galderia",
                 "Name": "BLUnion",
                 "InternalName": "BLUnion",
-                "AssemblyVersion": "0.4.0.0",
+                "AssemblyVersion": "0.5.0.0",
                 "Description": "Compares learned Blue Mage spells across a party, shows where to find missing ones, and helps plan what to learn next together - multilingual (DE/EN/FR/JA), syncs via export/import codes, no gameplay automation.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/letsI-MA/BLUnion/main/images/icon.png",
                 "RepoUrl": "https://github.com/letsI-MA/BLUnion",
-                "LastUpdate": 1787137794,
+                "LastUpdate": 1787146185,
                 "is_ai_attributed": true
             }
         ]
@@ -15304,7 +15342,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MTVirux/DamageTerror/master/images/icon.png",
                 "RepoUrl": "https://github.com/MTVirux/DamageTerror",
-                "LastUpdate": 1786824947,
+                "LastUpdate": 1787159654,
                 "is_ai_attributed": true
             }
         ]
@@ -15563,12 +15601,12 @@
                 "Author": "naco-ff14",
                 "Name": "AltMate",
                 "InternalName": "AltMate",
-                "AssemblyVersion": "1.23.0.0",
+                "AssemblyVersion": "1.27.1.0",
                 "Description": "AltMate supports multiple FFXIV clients running on the same PC. It provides linked controls, housing tracking, Penumbra emote playback, and shared gil summaries. Data stays on the local PC. Japanese and English UI are supported.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/naco-ff14/AltMate/main/images/icon.png",
                 "RepoUrl": "https://github.com/naco-ff14/AltMate",
-                "LastUpdate": 1787138441
+                "LastUpdate": 1787153078
             }
         ]
     },
@@ -16038,7 +16076,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/NeXzRo/Stuff/main/BetterTargetingSystemPvP/icon.png",
                 "RepoUrl": "https://github.com/NeXzRo/BetterTargetingSystem",
-                "LastUpdate": 1786926663
+                "LastUpdate": 1787013052
             },
             {
                 "Author": "goat, Maple",
@@ -16317,7 +16355,7 @@
                 "Author": "Amadeus",
                 "Name": "Replica",
                 "InternalName": "Replica",
-                "AssemblyVersion": "1.0.6.47",
+                "AssemblyVersion": "1.0.6.49",
                 "Description": "Draws boss mechanics on the arena floor.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/nightraidwiki/dalamud-plugins/main/images/icon.png",
@@ -19640,12 +19678,12 @@
                 "Author": "the Puni.sh Quest Squad",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.2.3",
+                "AssemblyVersion": "15.306.2.4",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1787109568,
+                "LastUpdate": 1787150211,
                 "is_ai_attributed": true
             },
             {
@@ -19679,7 +19717,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1787126900
+                "LastUpdate": 1787144875
             },
             {
                 "Author": "daemitus, croizat",
@@ -19975,7 +20013,7 @@
                 "Author": "Knightmore",
                 "Name": "Henchman",
                 "InternalName": "Henchman",
-                "AssemblyVersion": "3.0.1.15",
+                "AssemblyVersion": "3.0.1.17",
                 "Description": "Your personal Henchman doing all the heavy lifting for you!\n\n- Hunt Logs\n- Hunt Bills\n- Retainer Creation\nand more to come.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/85",
@@ -20017,23 +20055,23 @@
                 "Author": "nainaiowo",
                 "Name": "DMU Mits",
                 "InternalName": "DMUMits",
-                "AssemblyVersion": "0.1.0.17",
+                "AssemblyVersion": "0.1.0.18",
                 "Description": "Shows upcoming dmu mitigation based on fight timeline",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nainaiowo/dmu-mits",
-                "LastUpdate": 1786275768,
+                "LastUpdate": 1787140815,
                 "is_ai_attributed": true
             },
             {
                 "Author": "nainaiowo",
                 "Name": "DMU Helper",
                 "InternalName": "DMUP4DebuffHelper",
-                "AssemblyVersion": "0.1.0.16",
+                "AssemblyVersion": "0.1.0.17",
                 "Description": "Shows compact DMU P4 debuff timers with real/fake callouts.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/162",
                 "RepoUrl": "https://github.com/Nainaiowo/dmu-p4-debuff-helper",
-                "LastUpdate": 1784619367,
+                "LastUpdate": 1787144050,
                 "is_ai_attributed": true
             },
             {
@@ -22294,12 +22332,12 @@
                 "Author": "Rowsai",
                 "Name": "Phase DPS Checker",
                 "InternalName": "PhaseDpsChecker",
-                "AssemblyVersion": "0.10.0.0",
+                "AssemblyVersion": "0.11.1.0",
                 "Description": "敵がターゲット可能な区間をフェーズとして、パーティメンバーのDPS、Crit/DH率、最大ダメージ、GCD稼働率、アクション別のダメージと回復量を表示します。全滅・コンテンツクリア時の戦闘履歴にも対応します。\nコマンド: /phasedps\nアイコン画像の調整に生成AIを使用しています。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Rowsai/PhaseDpsChecker/main/images/icon.png",
                 "RepoUrl": "https://github.com/Rowsai/PhaseDpsChecker",
-                "LastUpdate": 1784511409
+                "LastUpdate": 1787158413
             }
         ]
     },
@@ -22803,6 +22841,25 @@
                 "RepoUrl": "https://github.com/SaekoFFXIV/RetroFFXIV",
                 "LastUpdate": 1786392121,
                 "is_ai_attributed": true
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "saewoo-zip",
+        "repo_url": "https://raw.githubusercontent.com/saewoo-zip/MyDalamudPlugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/saewoo-zip/MyDalamudPlugins",
+        "repo_name": "MyDalamudPlugins",
+        "plugins": [
+            {
+                "Author": "saewoo",
+                "Name": "saewoo's HuntTrainAssistant",
+                "InternalName": "HuntTrainAssistantSW",
+                "AssemblyVersion": "1.0.2.16",
+                "Description": "Provides useful tools for hunt trains such as: highlighting conductor messages and muting all other chat, auto-opening flags from conductors and auto-teleporting to announced destination.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/saewoo-zip/HuntTrainAssistant/main/HuntTrainAssistant/images/icon.png",
+                "RepoUrl": "https://github.com/saewoo-zip/HuntTrainAssistant",
+                "LastUpdate": 1787159867
             }
         ]
     },
@@ -24693,15 +24750,15 @@
         "repo_name": "dalamud-plugin-repo",
         "plugins": [
             {
-                "Author": "veyn",
+                "Author": "veyn & Sumomo",
                 "Name": "Boss Mod",
                 "InternalName": "BossMod",
-                "AssemblyVersion": "7.5.5.4402",
+                "AssemblyVersion": "7.5.5.4403",
                 "Description": "Integrated Boss encounter toolkit with radar, mechanic hints, and combat assistance.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/SumomoAkihime/ffxiv_bossmod/master/Data/icon.png",
                 "RepoUrl": "https://github.com/SumomoAkihime/ffxiv_bossmod",
-                "LastUpdate": 1786812987
+                "LastUpdate": 1787155214
             },
             {
                 "Author": "Kouzukii",
@@ -24835,11 +24892,11 @@
                 "Author": "Surlako",
                 "Name": "DelvUI Input Guard",
                 "InternalName": "DelvUIInputGuard",
-                "AssemblyVersion": "0.2.1.0",
+                "AssemblyVersion": "0.2.2.0",
                 "Description": "Publishes interactive plugin-window rectangles to DelvUI's native third-party clipping system so DelvUI unit frames ignore hover, targeting, clicks, context menus, and drag input underneath Penumbra, QoLBar, and other ImGui windows. Use /dig for settings.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Surlako/Delvui-Input-Guard",
-                "LastUpdate": 1786759186,
+                "LastUpdate": 1787148336,
                 "is_ai_attributed": true
             }
         ]
@@ -24854,11 +24911,11 @@
                 "Author": "Surlako",
                 "Name": "Lightless Auto Pair",
                 "InternalName": "LightlessAutoPair",
-                "AssemblyVersion": "0.1.3.0",
+                "AssemblyVersion": "0.1.4.0",
                 "Description": "A companion for Lightless Sync that can automatically contact nearby Lightfinder broadcasters. Includes a master toggle, a 3–30 second delay, persistent decline blacklist, pending/paired protection, status log, and automatic pause while Lightless is disconnected. Use /lightautopair for settings.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Surlako/Lightless-Auto-Pair",
-                "LastUpdate": 1785795260,
+                "LastUpdate": 1787148351,
                 "is_ai_attributed": true
             }
         ]
@@ -24873,11 +24930,11 @@
                 "Author": "Steve",
                 "Name": "QoLBar Glamour Preview",
                 "InternalName": "QoLBarGlamourPreview",
-                "AssemblyVersion": "0.1.1.0",
+                "AssemblyVersion": "0.1.2.0",
                 "Description": "Detects text shortcuts drawn inside QoLBar and displays the matching Glamourer Preview Manager screenshot as a hover preview. Use /qolglampreview for settings.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Surlako/QoLBarGlamourerPreview",
-                "LastUpdate": 1785797603,
+                "LastUpdate": 1787148347,
                 "is_ai_attributed": true
             }
         ]
@@ -24892,11 +24949,11 @@
                 "Author": "Steve",
                 "Name": "SyncBridge",
                 "InternalName": "SyncBridge",
-                "AssemblyVersion": "0.2.5.0",
+                "AssemblyVersion": "0.2.8.0",
                 "Description": "Coordinates PlayerSync and Lightless to avoid duplicate handling of the same on-screen character. /syncbridge",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Surlako/SyncBridge",
-                "LastUpdate": 1787136241,
+                "LastUpdate": 1787146473,
                 "is_ai_attributed": true
             }
         ]
@@ -25654,11 +25711,11 @@
                 "Author": "Tihlyn",
                 "Name": "RedMoonCappuccino",
                 "InternalName": "RedMoonCappuccino",
-                "AssemblyVersion": "4.7.0.11",
+                "AssemblyVersion": "6.2.0.15",
                 "Description": "Connects to your FC's WebSocket server to display the lowest market tax rate and location, as well as upcoming and past FC events with event images.",
                 "IconUrl": "https://raw.githubusercontent.com/Tihlyn/RedMoon-Cappuccino/main/Data/icon.png",
                 "RepoUrl": "https://github.com/Tihlyn/RedMoon-Cappuccino",
-                "LastUpdate": 1787118893,
+                "LastUpdate": 1787159928,
                 "is_ai_attributed": true
             }
         ]
@@ -27247,12 +27304,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "1.0.0.6",
+                "AssemblyVersion": "1.0.0.7",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1787091852,
+                "LastUpdate": 1787150316,
                 "is_ai_attributed": true
             },
             {
@@ -27327,12 +27384,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "1.0.0.6",
+                "AssemblyVersion": "1.0.0.7",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1787091852,
+                "LastUpdate": 1787150316,
                 "is_ai_attributed": true
             }
         ]
@@ -28068,12 +28125,12 @@
                 "Author": "youdianfengbao (基于 PunishXIV/AutoRetainer)",
                 "Name": "AutoRetainer (国服汉化)",
                 "InternalName": "AutoRetainer",
-                "AssemblyVersion": "4.6.1.10",
+                "AssemblyVersion": "4.6.1.11",
                 "Description": "自动收取雇员探险成果并重新派遣，支持多角色轮换、潜水艇/飞空艇管理、物品清理等。国服中文汉化版。\n汉化来源：Ookura-Risona/AutoRetainer",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png",
                 "RepoUrl": "https://github.com/youdianfengbao/AutoRetainer",
-                "LastUpdate": 1783947575
+                "LastUpdate": 1787149430
             },
             {
                 "Author": "youdianfengbao (基于 NeNeppie/AvantGarde)",
