@@ -529,12 +529,12 @@
                 "Author": "DhogGPT",
                 "Name": "AI Duty Solver",
                 "InternalName": "ADS",
-                "AssemblyVersion": "0.6.1.7",
+                "AssemblyVersion": "0.6.1.8",
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/ADS/main/ADS/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1787061989,
+                "LastUpdate": 1787237272,
                 "is_ai_attributed": true
             },
             {
@@ -637,12 +637,12 @@
                 "Author": "DhogGPT",
                 "Name": "Dhog Potato System",
                 "InternalName": "DPS",
-                "AssemblyVersion": "0.1.0.8",
+                "AssemblyVersion": "0.1.1.0",
                 "Description": "A potato-mode Dalamud plugin for weak machines: suppress non-party players, pets, chocobos, and minions so the client spends less effort rendering garbage you do not need.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/DPS/master/DPS/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/DPS",
-                "LastUpdate": 1787062012,
+                "LastUpdate": 1787248183,
                 "is_ai_attributed": true
             },
             {
@@ -738,7 +738,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1787090314,
+                "LastUpdate": 1787248679,
                 "is_ai_attributed": true
             },
             {
@@ -1513,11 +1513,11 @@
                 "Author": "AmberPlume",
                 "Name": "跳跳乐助手",
                 "InternalName": "JumpHelper",
-                "AssemblyVersion": "0.1.0.0",
+                "AssemblyVersion": "0.2.0.0",
                 "Description": "可以记录玩家的跳跃路线，并进行回放，从而达到类似读档的效果。也可以直接加载其他玩家分享的路线。允许段落编辑，重录某段特定的段落。当前为初步测试版本，欢迎在discord内反馈。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AmberPlume/JumpHelper",
-                "LastUpdate": 1787067286
+                "LastUpdate": 1787230512
             }
         ]
     },
@@ -2649,6 +2649,26 @@
         "repo_developer_name": "Atomoxide"
     },
     {
+        "repo_developer_name": "ATroschke",
+        "repo_url": "https://raw.githubusercontent.com/ATroschke/xiv-linkshell-dist/main/repo.json",
+        "repo_source_url": "https://github.com/ATroschke/xiv-linkshell-dist",
+        "repo_name": "xiv-linkshell-dist",
+        "plugins": [
+            {
+                "Author": "Saik",
+                "Name": "Linkshell Sync",
+                "InternalName": "LinkshellSync",
+                "AssemblyVersion": "0.2.0.0",
+                "Description": "Linkshell Sync reads your own character in game (jobs and levels, gear and gearsets, collections, achievements, titles, currencies and playtime) and keeps your profile on Linkshell up to date while you play. Nothing is read and nothing is sent until you switch upload on, and only the character you are logged in as is ever read. To connect a character, mint a claim code on https://linkshell.fanfuse.app, then run /lsync in game, paste the code and claim the character.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/ATroschke/xiv-linkshell-dist/main/plugins/LinkshellSync/icon.png",
+                "RepoUrl": "https://github.com/ATroschke/xiv-linkshell-dist",
+                "LastUpdate": 1787244568,
+                "is_ai_attributed": true
+            }
+        ]
+    },
+    {
         "repo_developer_name": "auxee",
         "repo_url": "https://raw.githubusercontent.com/auxee/AuxDalamudRepo/main/repo.json",
         "repo_source_url": "https://github.com/auxee/AuxDalamudRepo",
@@ -2865,10 +2885,10 @@
                 "Author": "Bastaklis",
                 "Name": "Presettingway",
                 "InternalName": "Presettingway",
-                "AssemblyVersion": "0.1.0.1",
+                "AssemblyVersion": "0.1.1.1",
                 "Description": "Reads the current zone, weather, and time of day and publishes them over a Sharingway IPC channel so a companion ReShade addon can switch presets automatically. Use /presettingway to open the window, /presettingway status for a text summary, /presettingway config for settings.",
                 "RepoUrl": "https://github.com/Bastaklis1/Presettingway",
-                "LastUpdate": 1787228158
+                "LastUpdate": 1787233684
             }
         ]
     },
@@ -2882,10 +2902,10 @@
                 "Author": "Bastaklis",
                 "Name": "Presettingway",
                 "InternalName": "Presettingway",
-                "AssemblyVersion": "0.1.0.1",
+                "AssemblyVersion": "0.1.1.1",
                 "Description": "Reads the current zone, weather, and time of day and publishes them over a Sharingway IPC channel so a companion ReShade addon can switch presets automatically. Use /presettingway to open the window, /presettingway status for a text summary, /presettingway config for settings.",
                 "RepoUrl": "https://github.com/Bastaklis1/Presettingway",
-                "LastUpdate": 1787228158
+                "LastUpdate": 1787233684
             }
         ]
     },
@@ -4771,12 +4791,12 @@
                 "Author": "Dalagab Group",
                 "Name": "Omega",
                 "InternalName": "DalagabOmega",
-                "AssemblyVersion": "0.9.21.0",
+                "AssemblyVersion": "0.9.51.0",
                 "Description": "In-game third-party plugin installer. Heavy AI usage, not affiliated with Aetherfeed.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/dalagab/omega/main/images/icon.png",
                 "RepoUrl": "https://github.com/dalagab/omega/tree/main/Omega",
-                "LastUpdate": 1787137524,
+                "LastUpdate": 1787237186,
                 "is_ai_attributed": true
             }
         ]
@@ -5863,12 +5883,12 @@
                 "Author": "XeldarAlz,Tabris",
                 "Name": "Auto Daily Tribes CN",
                 "InternalName": "AutoDailyTribes",
-                "AssemblyVersion": "1.1.0.0",
+                "AssemblyVersion": "1.3.0.0",
                 "Description": "自动帮你完成每日盟族任务：勾选蛮族，插件搞定剩下的事。国服汉化版。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Dragonw233/FFXIV-AutoDailyTribes/master/AutoDailyTribes/Images/Icon.png",
                 "RepoUrl": "https://github.com/Dragonw233/FFXIV-AutoDailyTribes",
-                "LastUpdate": 1786986550,
+                "LastUpdate": 1787242016,
                 "is_ai_attributed": true
             },
             {
@@ -5902,7 +5922,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1787061882,
+                "LastUpdate": 1787250048,
                 "is_ai_attributed": true
             },
             {
@@ -5913,7 +5933,7 @@
                 "Description": "改版SkyEye",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Dragonw233/DalamudPlugins",
-                "LastUpdate": 1787061995
+                "LastUpdate": 1787245318
             },
             {
                 "Author": "Uiharu,NiGuangOwO,Tabris",
@@ -7429,12 +7449,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "BossMod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.5.52",
+                "AssemblyVersion": "7.5.5.53",
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1787046058
+                "LastUpdate": 1787249130
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -10013,12 +10033,12 @@
                 "Author": "raynording",
                 "Name": "Dalamud ACT Compat",
                 "InternalName": "DalamudActCompat",
-                "AssemblyVersion": "0.3.9.18",
+                "AssemblyVersion": "0.3.9.20",
                 "Description": "Dalamud-side UI, storage, parser abstraction, and compatibility-host bridge for an ACT-compatible FFXIV parsing platform. This early build does not yet load FFXIV_ACT_Plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/JackyWilliam/DalamudActCompat/main/src/DalamudActCompat/Assets/act-logo.jpg",
                 "RepoUrl": "https://github.com/JackyWilliam/DalamudActCompat",
-                "LastUpdate": 1786863575,
+                "LastUpdate": 1787237663,
                 "is_ai_attributed": true
             }
         ]
@@ -10033,12 +10053,12 @@
                 "Author": "raynording",
                 "Name": "Dalamud ACT Compat",
                 "InternalName": "DalamudActCompat",
-                "AssemblyVersion": "0.3.9.18",
+                "AssemblyVersion": "0.3.9.20",
                 "Description": "Dalamud-side UI, storage, parser abstraction, and compatibility-host bridge for an ACT-compatible FFXIV parsing platform. This early build does not yet load FFXIV_ACT_Plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/JackyWilliam/DalamudActCompat/main/src/DalamudActCompat/Assets/act-logo.jpg",
                 "RepoUrl": "https://github.com/JackyWilliam/DalamudActCompat",
-                "LastUpdate": 1786893382,
+                "LastUpdate": 1787238383,
                 "is_ai_attributed": true
             }
         ]
@@ -11914,11 +11934,11 @@
                 "Author": "kittenhaswares-ui",
                 "Name": "Seiton Sense",
                 "InternalName": "SeitonSense.Plugin",
-                "AssemblyVersion": "0.20.0.0",
+                "AssemblyVersion": "0.21.0.0",
                 "Description": "A local PvP HUD integrating an optional held-key Smart Kardia helper, set-only low-MP Focus Target and exact DRK Shadowbringer macro helpers, a top-center 3+ enemy alarm with sound/Sprint options, isolation, pressure and CC-protection cues, resource auras, fail-closed assists, team communication and target highlights.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kittenhaswares-ui/SeitonSense",
-                "LastUpdate": 1787211463
+                "LastUpdate": 1787245713
             }
         ]
     },
@@ -12233,12 +12253,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.2.4",
+                "AssemblyVersion": "15.306.3.0",
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1787150211,
+                "LastUpdate": 1787250048,
                 "is_ai_attributed": true
             },
             {
@@ -12496,7 +12516,7 @@
                 "Description": "Reads chat messages, detects /random rolls, shows all rolls plus highest and lowest roll in a small ImGui window. Commands: /rolltracker, /rt.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/la1998/RollTracker",
-                "LastUpdate": 1787155052
+                "LastUpdate": 1787240293
             }
         ]
     },
@@ -12633,7 +12653,7 @@
                 "Description": "Logs every retainer venture return and computes your own observed drop rate for tracked items (Peregrine Helm, Onion gear, etc.). No invented percentages — just your data, with a confidence interval so small samples don't lie.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/LastOnionKnight/OnionHunter",
-                "LastUpdate": 1781734530
+                "LastUpdate": 1787249512
             }
         ]
     },
@@ -12938,12 +12958,12 @@
                 "Author": "Galderia",
                 "Name": "BLUnion",
                 "InternalName": "BLUnion",
-                "AssemblyVersion": "0.5.0.0",
+                "AssemblyVersion": "0.6.1.0",
                 "Description": "Compares learned Blue Mage spells across a party, shows where to find missing ones, and helps plan what to learn next together - multilingual (DE/EN/FR/JA), syncs via export/import codes, no gameplay automation.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/letsI-MA/BLUnion/main/images/icon.png",
                 "RepoUrl": "https://github.com/letsI-MA/BLUnion",
-                "LastUpdate": 1787146185,
+                "LastUpdate": 1787237218,
                 "is_ai_attributed": true
             }
         ]
@@ -14041,12 +14061,12 @@
                 "Author": "DhogGPT",
                 "Name": "AI Duty Solver",
                 "InternalName": "ADS",
-                "AssemblyVersion": "0.6.1.7",
+                "AssemblyVersion": "0.6.1.8",
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/ADS/main/ADS/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1787045578,
+                "LastUpdate": 1787237272,
                 "is_ai_attributed": true
             }
         ]
@@ -14181,12 +14201,12 @@
                 "Author": "DhogGPT",
                 "Name": "Dhog Potato System",
                 "InternalName": "DPS",
-                "AssemblyVersion": "0.1.0.8",
+                "AssemblyVersion": "0.1.1.0",
                 "Description": "A potato-mode Dalamud plugin for weak machines: suppress non-party players, pets, chocobos, and minions so the client spends less effort rendering garbage you do not need.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/DPS/master/DPS/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/DPS",
-                "LastUpdate": 1784771349,
+                "LastUpdate": 1787248183,
                 "is_ai_attributed": true
             }
         ]
@@ -14389,19 +14409,19 @@
                 "Author": "DhogGPT",
                 "Name": "Dhog Potato System",
                 "InternalName": "DPS",
-                "AssemblyVersion": "0.1.0.8",
+                "AssemblyVersion": "0.1.0.9",
                 "Description": "A potato-mode Dalamud plugin for weak machines: suppress non-party players, pets, chocobos, and minions so the client spends less effort rendering garbage you do not need.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/DPS/master/DPS/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/DPS",
-                "LastUpdate": 1787062012,
+                "LastUpdate": 1787248183,
                 "is_ai_attributed": true
             },
             {
                 "Author": "DhogGPT",
                 "Name": "Fren Rider",
                 "InternalName": "FrenRider",
-                "AssemblyVersion": "1.2.0.5",
+                "AssemblyVersion": "1.2.0.7",
                 "Description": "Native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider or /fr to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png",
@@ -14473,12 +14493,12 @@
                 "Author": "DhogGPT",
                 "Name": "Vermaxion",
                 "InternalName": "VERMAXION",
-                "AssemblyVersion": "0.3.1.17",
+                "AssemblyVersion": "0.3.1.18",
                 "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1787090314,
+                "LastUpdate": 1787248679,
                 "is_ai_attributed": true
             }
         ],
@@ -15369,7 +15389,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MTVirux/DamageTerror/master/images/icon.png",
                 "RepoUrl": "https://github.com/MTVirux/DamageTerror",
-                "LastUpdate": 1787174920,
+                "LastUpdate": 1787250269,
                 "is_ai_attributed": true
             }
         ]
@@ -15935,12 +15955,12 @@
                 "Author": "Valenth Siveria",
                 "Name": "BlackJack Buttler",
                 "InternalName": "BlackJackButtler",
-                "AssemblyVersion": "1.9.0.2",
+                "AssemblyVersion": "1.9.0.3",
                 "Description": "/bjb - opens the blackjack buttler tool",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/NeoGriever/BlackJackButtler/main/plugins/BlackJackButtler/icon.png",
                 "RepoUrl": "https://github.com/NeoGriever/BlackJackButtler",
-                "LastUpdate": 1787137568,
+                "LastUpdate": 1787244823,
                 "is_ai_attributed": true
             }
         ]
@@ -16400,7 +16420,7 @@
                 "Author": "Amadeus",
                 "Name": "Replica",
                 "InternalName": "Replica",
-                "AssemblyVersion": "1.0.6.52",
+                "AssemblyVersion": "1.0.6.53",
                 "Description": "Draws boss mechanics on the arena floor.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/nightraidwiki/dalamud-plugins/main/images/icon.png",
@@ -17757,12 +17777,12 @@
                 "Author": "Faye, Kage",
                 "Name": "Better Occult Crescent & Chest Helper Interface",
                 "InternalName": "BOCCHI",
-                "AssemblyVersion": "4.1.0.3",
+                "AssemblyVersion": "4.1.0.4",
                 "Description": "BOCCHI is here to smooth out your Occult Crescent experience.\n- No more of that pesky 'walking' or 'finding chests'. That's for losers.\n- A cute little Fate and CE panel that'll tell you what rewards it gives AND help you automatically path to it, wowee.\n- An extre illegal 'illegal mode' for those of you that would rather be touching grass or playing a game with worthwhile content.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/OhKannaDuh/BOCCHI/master/assets/icon.png",
                 "RepoUrl": "https://github.com/OhKannaDuh/OccultCrescentHelper",
-                "LastUpdate": 1787132783
+                "LastUpdate": 1787245241
             }
         ]
     },
@@ -19636,12 +19656,12 @@
                 "Author": "Det, croizat",
                 "Name": "AutoHook",
                 "InternalName": "AutoHook",
-                "AssemblyVersion": "6.0.0.91",
+                "AssemblyVersion": "6.0.0.92",
                 "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/47",
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1786843156
+                "LastUpdate": 1787241664
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -19723,12 +19743,12 @@
                 "Author": "the Puni.sh Quest Squad",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.2.4",
+                "AssemblyVersion": "15.306.3.1",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1787150211,
+                "LastUpdate": 1787250048,
                 "is_ai_attributed": true
             },
             {
@@ -20203,7 +20223,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/157",
                 "RepoUrl": "https://github.com/OOFGamesss/ChocoboRacing",
-                "LastUpdate": 1786901773
+                "LastUpdate": 1787247056
             },
             {
                 "Author": "OOF Games, Asuna",
@@ -20359,12 +20379,12 @@
                 "Author": "Valenth Siveria",
                 "Name": "BlackJack Buttler",
                 "InternalName": "BlackJackButtler",
-                "AssemblyVersion": "1.9.0.1",
+                "AssemblyVersion": "1.9.0.3",
                 "Description": "/bjb - opens the blackjack buttler tool",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/118",
                 "RepoUrl": "https://github.com/NeoGriever/BlackJackButtler",
-                "LastUpdate": 1787137574,
+                "LastUpdate": 1787244838,
                 "is_ai_attributed": true
             },
             {
@@ -22956,14 +22976,25 @@
         "plugins": [
             {
                 "Author": "saewoo",
+                "Name": "saewoo's Glamour Log",
+                "InternalName": "GlamourLog",
+                "AssemblyVersion": "15.10000",
+                "Description": "A log for all your glamours and other glam-related tweaks",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/saewoo-dalamud/ffxiv_glamourlog/main/GlamourLog/images/icon.png",
+                "RepoUrl": "https://github.com/saewoo-dalamud/ffxiv_glamourlog",
+                "LastUpdate": 1787249585
+            },
+            {
+                "Author": "saewoo",
                 "Name": "saewoo's HuntTrainAssistant",
-                "InternalName": "HuntTrainAssistantSW",
-                "AssemblyVersion": "1.0.2.16",
+                "InternalName": "HuntTrainAssistant",
+                "AssemblyVersion": "1.0.2.10000",
                 "Description": "Provides useful tools for hunt trains such as: highlighting conductor messages and muting all other chat, auto-opening flags from conductors and auto-teleporting to announced destination.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/saewoo-dalamud/HuntTrainAssistant/main/HuntTrainAssistant/images/icon.png",
                 "RepoUrl": "https://github.com/saewoo-dalamud/HuntTrainAssistant",
-                "LastUpdate": 1787170415
+                "LastUpdate": 1787249293
             }
         ]
     },
@@ -24056,12 +24087,12 @@
                 "Author": "XSZYYS",
                 "Name": "XSZToolbox",
                 "InternalName": "XSZToolbox",
-                "AssemblyVersion": "1.7.4.6",
+                "AssemblyVersion": "1.7.4.8",
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ShoOtaku/DalamudPlugins/main/plugins/XSZToolbox/icon.png",
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins/tree/main/plugins/XSZToolbox",
-                "LastUpdate": 1787069034,
+                "LastUpdate": 1787240077,
                 "is_closed_source": true
             }
         ]
@@ -24857,12 +24888,12 @@
                 "Author": "veyn",
                 "Name": "Boss Mod",
                 "InternalName": "BossMod",
-                "AssemblyVersion": "7.5.5.4403",
+                "AssemblyVersion": "7.5.5.5201",
                 "Description": "Integrated Boss encounter toolkit with radar, mechanic hints, and combat assistance.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/SumomoAkihime/ffxiv_bossmod/master/Data/icon.png",
                 "RepoUrl": "https://github.com/SumomoAkihime/ffxiv_bossmod",
-                "LastUpdate": 1787155214
+                "LastUpdate": 1787242274
             },
             {
                 "Author": "Kouzukii",
@@ -26224,12 +26255,12 @@
                 "Author": "The PlayerSync Team",
                 "Name": "PlayerSync",
                 "InternalName": "MareSempiterne",
-                "AssemblyVersion": "1.15.4.7",
+                "AssemblyVersion": "1.15.4.8",
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://maresempiterne.io/download/plugin/icon.png",
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1787065273
+                "LastUpdate": 1787240891
             }
         ]
     },
@@ -27991,12 +28022,12 @@
                 "Author": "Yesanith",
                 "Name": "Regions of XIV",
                 "InternalName": "RegionsOfXIV",
-                "AssemblyVersion": "0.2.3.0",
+                "AssemblyVersion": "0.3.0.0",
                 "Description": "Announces the region, zone, area and sub-area you walk into with a styled, animated on-screen notification.\n\nInspired by Nekres' \"Regions of Tyria\" for Guild Wars 2.\n\nOpen settings with /regions.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Yesanith/RegionsOfXIV/master/assets/images/icon.png",
                 "RepoUrl": "https://github.com/Yesanith/RegionsOfXIV",
-                "LastUpdate": 1787218897,
+                "LastUpdate": 1787246401,
                 "is_ai_attributed": true
             }
         ]
@@ -28284,12 +28315,12 @@
                 "Author": "youdianfengbao (基于 PunishXIV/Questionable)",
                 "Name": "Questionable (国服汉化)",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.2.4",
+                "AssemblyVersion": "15.306.3.0",
                 "Description": "国服汉化版自动任务插件，基于 PunishXIV/Questionable。可在尽可能的情况下自动完成游戏任务。\n所需插件：vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://qstxiv.github.io/icons/Questionable.png",
                 "RepoUrl": "https://github.com/youdianfengbao/Questionable",
-                "LastUpdate": 1787180560,
+                "LastUpdate": 1787235581,
                 "is_ai_attributed": true
             },
             {
