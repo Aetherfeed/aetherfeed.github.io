@@ -2857,18 +2857,35 @@
     },
     {
         "repo_developer_name": "Bastaklis1",
+        "repo_url": "https://raw.githubusercontent.com/Bastaklis1/Presettingway/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/Bastaklis1/Presettingway",
+        "repo_name": "Presettingway",
+        "plugins": [
+            {
+                "Author": "Bastaklis",
+                "Name": "Presettingway",
+                "InternalName": "Presettingway",
+                "AssemblyVersion": "0.1.0.1",
+                "Description": "Reads the current zone, weather, and time of day and publishes them over a Sharingway IPC channel so a companion ReShade addon can switch presets automatically. Use /presettingway to open the window, /presettingway status for a text summary, /presettingway config for settings.",
+                "RepoUrl": "https://github.com/Bastaklis1/Presettingway",
+                "LastUpdate": 1787228158
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Bastaklis1",
         "repo_url": "https://raw.githubusercontent.com/Bastaklis1/Presetway/main/pluginmaster.json",
         "repo_source_url": "https://github.com/Bastaklis1/Presetway",
         "repo_name": "Presetway",
         "plugins": [
             {
                 "Author": "Bastaklis",
-                "Name": "Presetway",
-                "InternalName": "Presetway",
+                "Name": "Presettingway",
+                "InternalName": "Presettingway",
                 "AssemblyVersion": "0.1.0.1",
-                "Description": "Reads the current zone, weather, and time of day and publishes them over a Sharingway IPC channel so a companion ReShade addon can switch presets automatically. Use /presetway to open the window, /presetway status for a text summary, /presetway config for settings.",
-                "RepoUrl": "https://github.com/Bastaklis1/Presetway",
-                "LastUpdate": 1787181327
+                "Description": "Reads the current zone, weather, and time of day and publishes them over a Sharingway IPC channel so a companion ReShade addon can switch presets automatically. Use /presettingway to open the window, /presettingway status for a text summary, /presettingway config for settings.",
+                "RepoUrl": "https://github.com/Bastaklis1/Presettingway",
+                "LastUpdate": 1787228158
             }
         ]
     },
@@ -5602,11 +5619,11 @@
                 "Author": "Akari",
                 "Name": "Market Helper",
                 "InternalName": "MarketHelper",
-                "AssemblyVersion": "1.16.2.0",
+                "AssemblyVersion": "1.16.6.5",
                 "Description": "Market Helper is an all-in-one market board tool with three tabs:\n\nUNDERCUT — Stand near a summoning bell and press Run. It walks every retainer on the bell and undercuts each listed item to the lowest price. HQ/NQ handling, own-retainer protection, per-item overrides, and price memory within a run. Skips mannequin/display items (detected by the game's mannequin icon) so they're never touched or delisted.\n\nLISTER — Build a list of items (hold CTRL and hover to quick-add, or search). Press Go and it walks the bell and lists them all, pricing each at the most common market price (ignoring lone troll/outlier listings) minus your undercut. Prices against your world, data center, or whole region. Handles the 20-item-per-retainer cap by rolling extra items to the next retainer. Includes a no-touch dry-run preview.\n\nFLIPPER — Search any marketable item and compare prices across Japan, America, Europe and Materia via Universalis. Top 10 listings per region, best cross-region flip, and seller/buyer tax modeling.\n\nOpen with /markethelp, /market, /mh, or /undercut.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dexcss/MarketHelper",
-                "LastUpdate": 1787205089
+                "LastUpdate": 1787224500
             },
             {
                 "Author": "Akari",
@@ -5667,11 +5684,11 @@
                 "Author": "Akari",
                 "Name": "Market Helper",
                 "InternalName": "MarketHelper",
-                "AssemblyVersion": "1.16.2.0",
+                "AssemblyVersion": "1.16.6.5",
                 "Description": "Market Helper is an all-in-one market board tool with three tabs:\n\nUNDERCUT — Stand near a summoning bell and press Run. It walks every retainer on the bell and undercuts each listed item to the lowest price. HQ/NQ handling, own-retainer protection, per-item overrides, and price memory within a run. Skips mannequin/display items (detected by the game's mannequin icon) so they're never touched or delisted.\n\nLISTER — Build a list of items (hold CTRL and hover to quick-add, or search). Press Go and it walks the bell and lists them all, pricing each at the most common market price (ignoring lone troll/outlier listings) minus your undercut. Prices against your world, data center, or whole region. Handles the 20-item-per-retainer cap by rolling extra items to the next retainer. Includes a no-touch dry-run preview.\n\nFLIPPER — Search any marketable item and compare prices across Japan, America, Europe and Materia via Universalis. Top 10 listings per region, best cross-region flip, and seller/buyer tax modeling.\n\nOpen with /markethelp, /market, /mh, or /undercut.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dexcss/MarketHelper",
-                "LastUpdate": 1787205089
+                "LastUpdate": 1787224500
             }
         ]
     },
@@ -7009,7 +7026,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1787121067
+                "LastUpdate": 1787207584
             }
         ]
     },
@@ -7028,7 +7045,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1787121067
+                "LastUpdate": 1787207584
             }
         ]
     },
@@ -11049,12 +11066,12 @@
                 "Author": "KanoNoUta、岚玉棠（国服 7.55 适配维护）",
                 "Name": "BOCCHI 新月岛综合辅助（国服）",
                 "InternalName": "BOCCHI",
-                "AssemblyVersion": "3.3.38.0",
+                "AssemblyVersion": "3.3.40.0",
                 "Description": "BOCCHI 旨在让您的新月岛体验更加流畅。\n- 不再有那些烦人的“跑腿”或“寻找宝箱”了。那是给失败者玩的。\n- 一个可爱的小 Fate 和 CE 面板会告诉您它提供了什么奖励，并帮助您自动找到它，哇哦。\n- 一个极端非法的“非法模式”，适合那些宁愿摸摸草地或玩有价值内容的游戏的人。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/BOCCHI/icon.png",
                 "RepoUrl": "https://github.com/KanoNoUta/BOCCHI",
-                "LastUpdate": 1787155232,
+                "LastUpdate": 1787214594,
                 "is_ai_attributed": true
             },
             {
@@ -11897,11 +11914,11 @@
                 "Author": "kittenhaswares-ui",
                 "Name": "Seiton Sense",
                 "InternalName": "SeitonSense.Plugin",
-                "AssemblyVersion": "0.19.0.0",
+                "AssemblyVersion": "0.20.0.0",
                 "Description": "A local PvP HUD integrating an optional held-key Smart Kardia helper, set-only low-MP Focus Target and exact DRK Shadowbringer macro helpers, a top-center 3+ enemy alarm with sound/Sprint options, isolation, pressure and CC-protection cues, resource auras, fail-closed assists, team communication and target highlights.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kittenhaswares-ui/SeitonSense",
-                "LastUpdate": 1787069034
+                "LastUpdate": 1787211463
             }
         ]
     },
@@ -16383,7 +16400,7 @@
                 "Author": "Amadeus",
                 "Name": "Replica",
                 "InternalName": "Replica",
-                "AssemblyVersion": "1.0.6.51",
+                "AssemblyVersion": "1.0.6.52",
                 "Description": "Draws boss mechanics on the arena floor.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/nightraidwiki/dalamud-plugins/main/images/icon.png",
@@ -18285,7 +18302,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1787121067
+                "LastUpdate": 1787207584
             },
             {
                 "Author": "Risa and Contributors",
@@ -22360,12 +22377,12 @@
                 "Author": "Rowsai",
                 "Name": "Phase DPS Checker",
                 "InternalName": "PhaseDpsChecker",
-                "AssemblyVersion": "0.11.1.0",
+                "AssemblyVersion": "0.11.3.0",
                 "Description": "敵がターゲット可能な区間をフェーズとして、パーティメンバーのDPS、Crit/DH率、最大ダメージ、GCD稼働率、アクション別のダメージと回復量を表示します。全滅・コンテンツクリア時の戦闘履歴にも対応します。\nコマンド: /phasedps\nアイコン画像の調整に生成AIを使用しています。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Rowsai/PhaseDpsChecker/main/images/icon.png",
                 "RepoUrl": "https://github.com/Rowsai/PhaseDpsChecker",
-                "LastUpdate": 1787158413
+                "LastUpdate": 1787213502
             }
         ]
     },
@@ -22379,33 +22396,34 @@
                 "Author": "Roxyz0501",
                 "Name": "Aether Current Navigator",
                 "InternalName": "AetherCurrentUnlocker",
-                "AssemblyVersion": "0.3.0.0",
+                "AssemblyVersion": "0.3.1.0",
                 "Description": "Shows field Aether Current and quest progress by expansion and area. It can process the current area or a selected expansion, using vnavmesh for field travel and Questionable for quests. Includes a map view, individual actions, route recalculation, and English/Japanese UI.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/AetherCurrentUnlocker/main/AetherCurrentUnlocker/images/icon.png",
                 "RepoUrl": "https://github.com/Roxyz0501/AetherCurrentUnlocker",
-                "LastUpdate": 1787161592
+                "LastUpdate": 1787212027
             },
             {
                 "Author": "Roxyz0501",
                 "Name": "Character Archive",
                 "InternalName": "CharacterArchive",
-                "AssemblyVersion": "0.5.0.0",
+                "AssemblyVersion": "0.5.1.0",
                 "Description": "Stores logged-in character details, jobs, playtime, Lodestone IDs, and configuration-folder mappings locally, then presents them in a searchable UI and CSV export. Optional external lookup and login-time playtime acquisition require explicit settings.",
                 "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/CharacterArchive/main/CharacterArchive/images/icon.png",
                 "RepoUrl": "https://github.com/Roxyz0501/CharacterArchive",
-                "LastUpdate": 1787161592
+                "LastUpdate": 1787212021
             },
             {
                 "Author": "Roxyz0501",
                 "Name": "Glamour Saver",
                 "InternalName": "GlamourSaver",
-                "AssemblyVersion": "0.5.0.0",
+                "AssemblyVersion": "0.5.1.0",
                 "Description": "Adds a SendDiscord button beside the Examine window. Only when pressed, it posts a cropped image, target character name, appearance item names, and Eorzea Database search links to the configured Discord Webhook. The UI supports English and Japanese.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/GlamourSaver/main/GlamourSaver/images/icon.png",
                 "RepoUrl": "https://github.com/Roxyz0501/GlamourSaver",
-                "LastUpdate": 1787161592
+                "LastUpdate": 1787212016
             }
         ]
     },
@@ -27618,11 +27636,11 @@
                 "Author": "XivHub",
                 "Name": "AutoPincher",
                 "InternalName": "AutoPincher",
-                "AssemblyVersion": "0.1.2.0",
+                "AssemblyVersion": "0.1.3.0",
                 "Description": "Repinches your retainer market listings by undercutting the cheapest live competitor by 1 gil. Reads each listing straight from game memory, clicks the in-game market board's Compare Prices to find the current cheapest offering, and lowers your asking price to one below it (holding when your own listing is already cheapest). No server, no telemetry, nothing leaves your client. Adds an Auto Pinch button next to AutoRetainer's retainer-list controls and a /autopinch command for the open retainer. AutoRetainer is optional (used only to pause its automation during a pinch run).",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XivHub/AutoPincher",
-                "LastUpdate": 1784541954,
+                "LastUpdate": 1787220107,
                 "is_ai_attributed": true
             },
             {
@@ -27973,12 +27991,12 @@
                 "Author": "Yesanith",
                 "Name": "Regions of XIV",
                 "InternalName": "RegionsOfXIV",
-                "AssemblyVersion": "0.2.2.0",
+                "AssemblyVersion": "0.2.3.0",
                 "Description": "Announces the region, zone, area and sub-area you walk into with a styled, animated on-screen notification.\n\nInspired by Nekres' \"Regions of Tyria\" for Guild Wars 2.\n\nOpen settings with /regions.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Yesanith/RegionsOfXIV/master/assets/images/icon.png",
                 "RepoUrl": "https://github.com/Yesanith/RegionsOfXIV",
-                "LastUpdate": 1787181815,
+                "LastUpdate": 1787218897,
                 "is_ai_attributed": true
             }
         ]
@@ -28283,6 +28301,17 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/youdianfengbao/ffxiv_satisfy",
                 "LastUpdate": 1785878165
+            },
+            {
+                "Author": "youdianfengbao",
+                "Name": "Yes Already (国服汉化)",
+                "InternalName": "YesAlready",
+                "AssemblyVersion": "1.15.3.1",
+                "Description": "存储并自动点击您指定的 Yes/No 对话框（及其他对话框）。支持为每个 YesNo 条目设置点击延迟（毫秒）。输入 /pyes 打开设置界面。",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/youdianfengbao/YesAlready/master/Assets/yesalready_icon.png",
+                "RepoUrl": "https://github.com/youdianfengbao/YesAlready",
+                "LastUpdate": 1787228056
             }
         ]
     },
@@ -28617,12 +28646,12 @@
                 "Author": "zhui-zi",
                 "Name": "Keita 工具箱",
                 "InternalName": "KeitaToolbox",
-                "AssemblyVersion": "1.6.1.0",
+                "AssemblyVersion": "1.7.0.0",
                 "Description": "Combines duty automation, recruitment tools, plugin and map gearset switching, trade protection, IME cleanup, portrait synchronization, Ayano tools, and I-Ching utilities.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/zhui-zi/DalamudPlugins/main/plugins/KeitaToolbox/icon.png",
                 "RepoUrl": "https://github.com/zhui-zi/DalamudPlugins/tree/main/plugins/KeitaToolbox",
-                "LastUpdate": 1787017088
+                "LastUpdate": 1787226932
             }
         ]
     },
