@@ -529,12 +529,12 @@
                 "Author": "DhogGPT",
                 "Name": "AI Duty Solver",
                 "InternalName": "ADS",
-                "AssemblyVersion": "0.6.1.8",
+                "AssemblyVersion": "0.6.2.1",
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/ADS/main/ADS/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1787237272,
+                "LastUpdate": 1787268164,
                 "is_ai_attributed": true
             },
             {
@@ -606,7 +606,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dad/main/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/dad",
-                "LastUpdate": 1787179934,
+                "LastUpdate": 1787264759,
                 "is_ai_attributed": true
             },
             {
@@ -697,12 +697,12 @@
                 "Author": "DhogGPT",
                 "Name": "Loot Goblin",
                 "InternalName": "LootGoblin",
-                "AssemblyVersion": "0.4.2.12",
+                "AssemblyVersion": "0.4.2.15",
                 "Description": "LootGoblin automates treasure map hunting by opening maps, reading local map flags, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/LootGoblin/master/LootGoblin/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1787061970,
+                "LastUpdate": 1787268273,
                 "is_ai_attributed": true
             },
             {
@@ -733,12 +733,12 @@
                 "Author": "DhogGPT",
                 "Name": "Vermaxion",
                 "InternalName": "VERMAXION",
-                "AssemblyVersion": "0.3.1.18",
+                "AssemblyVersion": "0.3.2.0",
                 "Description": "Automates weekly and daily tasks triggered by AutoRetainer post-processing. Configurable per character: Verminion queue, Cactpot, Chocobo Racing, FC buff refill, and Henchman management.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1787248679,
+                "LastUpdate": 1787265175,
                 "is_ai_attributed": true
             },
             {
@@ -1513,11 +1513,11 @@
                 "Author": "AmberPlume",
                 "Name": "跳跳乐助手",
                 "InternalName": "JumpHelper",
-                "AssemblyVersion": "0.2.0.0",
+                "AssemblyVersion": "0.3.0.2",
                 "Description": "可以记录玩家的跳跃路线，并进行回放，从而达到类似读档的效果。也可以直接加载其他玩家分享的路线。允许段落编辑，重录某段特定的段落。当前为初步测试版本，欢迎在discord内反馈。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AmberPlume/JumpHelper",
-                "LastUpdate": 1787230512
+                "LastUpdate": 1787256536
             }
         ]
     },
@@ -4551,12 +4551,12 @@
                 "Author": "d12frosted",
                 "Name": "AutoKill",
                 "InternalName": "AutoKill",
-                "AssemblyVersion": "0.0.3.0",
+                "AssemblyVersion": "0.0.4.0",
                 "Description": "Pick a mob, or pick an item you want it to drop, and AutoKill goes and farms it. It works out where the mob lives, teleports to the zone, mounts, flies over and kills its way around the field until you have what you asked for.\n\nSearch by mob name, or by item and see which mobs drop it. Set any mix of a kill count, a time limit and an amount of any item, and choose whether the first target ends the run or all of them must be met. Dying or filling your bags always ends it, and you get a chat line and a toast when it does.\n\nIt farms a whole field rather than one point, flying a circuit around it and moving on when a spot is cleared instead of standing over a respawn timer. How quickly a place comes back is not in any dataset, so it measures that as it goes and uses it to decide when a spot is worth returning to. Finished runs are kept so repeating one is a single click.\n\nMovement needs vnavmesh. Fighting is handed to Wrath Combo, and left completely alone if your auto-rotation is already running.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/d12frosted/autokill/main/AutoKill/images/icon.png",
                 "RepoUrl": "https://github.com/d12frosted/autokill",
-                "LastUpdate": 1786736348
+                "LastUpdate": 1787262347
             }
         ]
     },
@@ -6285,11 +6285,11 @@
                 "Author": "Luis",
                 "Name": "PentaPenta",
                 "InternalName": "PentaPenta",
-                "AssemblyVersion": "0.1.22.0",
+                "AssemblyVersion": "0.1.39.0",
                 "Description": "Inventory picker and guarded pentameld queue. Defaults to Critical Hit > Direct Hit > Determination with strict no-overcap behavior.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Elagon-A/Penta-Penta",
-                "LastUpdate": 1787187947
+                "LastUpdate": 1787271820
             }
         ]
     },
@@ -11934,11 +11934,11 @@
                 "Author": "kittenhaswares-ui",
                 "Name": "Seiton Sense",
                 "InternalName": "SeitonSense.Plugin",
-                "AssemblyVersion": "0.21.0.0",
+                "AssemblyVersion": "0.24.0.0",
                 "Description": "A local PvP HUD integrating an optional held-key Smart Kardia helper, set-only low-MP Focus Target and exact DRK Shadowbringer macro helpers, a top-center 3+ enemy alarm with sound/Sprint options, isolation, pressure and CC-protection cues, resource auras, fail-closed assists, team communication and target highlights.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kittenhaswares-ui/SeitonSense",
-                "LastUpdate": 1787245713
+                "LastUpdate": 1787267460
             }
         ]
     },
@@ -12253,7 +12253,7 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.3.0",
+                "AssemblyVersion": "15.306.3.1",
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
@@ -12512,11 +12512,11 @@
                 "Author": "Arty",
                 "Name": "RollTracker",
                 "InternalName": "RollTracker",
-                "AssemblyVersion": "0.1.0.19",
+                "AssemblyVersion": "0.1.0.34",
                 "Description": "Reads chat messages, detects /random rolls, shows all rolls plus highest and lowest roll in a small ImGui window. Commands: /rolltracker, /rt.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/la1998/RollTracker",
-                "LastUpdate": 1787240293
+                "LastUpdate": 1787258924
             }
         ]
     },
@@ -12629,12 +12629,12 @@
                 "Author": "LastOnionKnight",
                 "Name": "Tonberry Tactics",
                 "InternalName": "GearGoblin",
-                "AssemblyVersion": "1.6.1.0",
+                "AssemblyVersion": "1.6.2.0",
                 "Description": "BiS planner with acquisition tracking and materia advisor for FFXIV. Reads your gear, compares against an Etro/XIVGear BiS or a casual stat-priority preset, and tells you what to farm next, what to meld, and what not to bother melding.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/LastOnionKnight/GearGoblin/main/images/icon.png",
                 "RepoUrl": "https://github.com/LastOnionKnight/GearGoblin",
-                "LastUpdate": 1786734243,
+                "LastUpdate": 1787259103,
                 "is_ai_attributed": true
             }
         ]
@@ -13770,10 +13770,10 @@
                 "Author": "Twinki Toes",
                 "Name": "Plugin List",
                 "InternalName": "PluginList",
-                "AssemblyVersion": "1.0.4.1",
+                "AssemblyVersion": "1.0.5.0",
                 "Description": "",
                 "RepoUrl": "https://github.com/MaJoRX0/MyDalamudPlugins/tree/main/plugins/PluginList",
-                "LastUpdate": 1772363250
+                "LastUpdate": 1787253761
             }
         ]
     },
@@ -14061,12 +14061,12 @@
                 "Author": "DhogGPT",
                 "Name": "AI Duty Solver",
                 "InternalName": "ADS",
-                "AssemblyVersion": "0.6.1.8",
+                "AssemblyVersion": "0.6.2.1",
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/ADS/main/ADS/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1787237272,
+                "LastUpdate": 1787268164,
                 "is_ai_attributed": true
             }
         ]
@@ -14321,12 +14321,12 @@
                 "Author": "DhogGPT",
                 "Name": "Loot Goblin",
                 "InternalName": "LootGoblin",
-                "AssemblyVersion": "0.4.2.12",
+                "AssemblyVersion": "0.4.2.15",
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/LootGoblin/master/LootGoblin/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1787045618,
+                "LastUpdate": 1787268273,
                 "is_ai_attributed": true
             }
         ]
@@ -14534,12 +14534,12 @@
                 "Author": "DhogGPT",
                 "Name": "VerMAXion",
                 "InternalName": "VERMAXION",
-                "AssemblyVersion": "0.3.1.18",
+                "AssemblyVersion": "0.3.2.0",
                 "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1787090314,
+                "LastUpdate": 1787265175,
                 "is_ai_attributed": true
             }
         ]
@@ -15648,11 +15648,11 @@
                 "Author": "n0way02",
                 "Name": "FateFrenzy",
                 "InternalName": "FateFrenzy",
-                "AssemblyVersion": "1.7.9.0",
+                "AssemblyVersion": "1.8.0.0",
                 "Description": "Farms FATEs for you: tick the zones, and the plugin teleports in, finds active FATEs, and runs them in a loop, with Lifestream support for instance, world, and local crystal navigation.",
                 "IconUrl": "https://raw.githubusercontent.com/n0way02/FateFrenzy/main/FateFrenzy/Images/Icon.png",
                 "RepoUrl": "https://github.com/n0way02/FateFrenzy",
-                "LastUpdate": 1787192585
+                "LastUpdate": 1787252009
             }
         ]
     },
@@ -15666,12 +15666,12 @@
                 "Author": "naco-ff14",
                 "Name": "AltMate",
                 "InternalName": "AltMate",
-                "AssemblyVersion": "1.27.1.0",
+                "AssemblyVersion": "1.31.0.0",
                 "Description": "AltMate supports multiple FFXIV clients running on the same PC. It provides linked controls, housing tracking, Penumbra emote playback, and shared gil summaries. Data stays on the local PC. Japanese and English UI are supported.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/naco-ff14/AltMate/main/images/icon.png",
                 "RepoUrl": "https://github.com/naco-ff14/AltMate",
-                "LastUpdate": 1787153078
+                "LastUpdate": 1787271955
             }
         ]
     },
@@ -17777,12 +17777,12 @@
                 "Author": "Faye, Kage",
                 "Name": "Better Occult Crescent & Chest Helper Interface",
                 "InternalName": "BOCCHI",
-                "AssemblyVersion": "4.1.0.4",
+                "AssemblyVersion": "4.1.0.5",
                 "Description": "BOCCHI is here to smooth out your Occult Crescent experience.\n- No more of that pesky 'walking' or 'finding chests'. That's for losers.\n- A cute little Fate and CE panel that'll tell you what rewards it gives AND help you automatically path to it, wowee.\n- An extre illegal 'illegal mode' for those of you that would rather be touching grass or playing a game with worthwhile content.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/OhKannaDuh/BOCCHI/master/assets/icon.png",
                 "RepoUrl": "https://github.com/OhKannaDuh/OccultCrescentHelper",
-                "LastUpdate": 1787245241
+                "LastUpdate": 1787267666
             }
         ]
     },
@@ -19251,6 +19251,25 @@
         ]
     },
     {
+        "repo_developer_name": "Primov1x",
+        "repo_url": "https://raw.githubusercontent.com/Primov1x/GlamSource/main/repo.json",
+        "repo_source_url": "https://github.com/Primov1x/GlamSource",
+        "repo_name": "GlamSource",
+        "plugins": [
+            {
+                "Author": "Primov1x",
+                "Name": "GlamSource",
+                "InternalName": "GlamSource",
+                "AssemblyVersion": "0.0.0.32",
+                "Description": "Zeigt Herkunft von Glams und Mounts in FFXIV an.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Primov1x/GlamSource",
+                "LastUpdate": 1787265310,
+                "is_ai_attributed": true
+            }
+        ]
+    },
+    {
         "repo_url": "https://raw.githubusercontent.com/priprii/FFXIVPlugins/main/repo.json",
         "repo_source_url": "https://github.com/priprii/FFXIVPlugins",
         "repo_developer_name": "priprii",
@@ -19974,7 +19993,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/53",
                 "RepoUrl": "https://github.com/Jukkales/NecroLens",
-                "LastUpdate": 1777738495
+                "LastUpdate": 1787269454
             }
         ]
     },
@@ -20078,12 +20097,12 @@
                 "Author": "Knightmore",
                 "Name": "Henchman",
                 "InternalName": "Henchman",
-                "AssemblyVersion": "3.0.1.17",
+                "AssemblyVersion": "3.0.1.19",
                 "Description": "Your personal Henchman doing all the heavy lifting for you!\n\n- Hunt Logs\n- Hunt Bills\n- Retainer Creation\nand more to come.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/85",
                 "RepoUrl": "https://github.com/Knightmore/Henchman",
-                "LastUpdate": 1786890655
+                "LastUpdate": 1787264890
             }
         ]
     },
@@ -25145,6 +25164,23 @@
         ]
     },
     {
+        "repo_developer_name": "Suuria",
+        "repo_url": "https://raw.githubusercontent.com/Suuria/suuria.github.io/master/pluginmaster.json",
+        "repo_source_url": "https://github.com/Suuria/suuria.github.io",
+        "repo_name": "suuria.github.io",
+        "plugins": [
+            {
+                "Author": "Suuria",
+                "Name": "Funny Duty Roulett Plugin",
+                "InternalName": "FunnyDutyRoulettPlugin",
+                "AssemblyVersion": "0.0.0.2",
+                "Description": "Verbindet sich über deine PlayerID mit Funny Duty Roulette, zeigt alle Job-Zuweisungen der aktuellen Session und prüft live, ob die Party bereits auf diese Jobs gewechselt ist.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Suuria/FunnyDutyRoulett"
+            }
+        ]
+    },
+    {
         "repo_developer_name": "switchy-nia",
         "repo_url": "https://raw.githubusercontent.com/switchy-nia/inflection/main/repo.json",
         "repo_source_url": "https://github.com/switchy-nia/inflection",
@@ -25494,12 +25530,12 @@
                 "Author": "ThatKwistine",
                 "Name": "Wardrobe",
                 "InternalName": "WardrobePlugin",
-                "AssemblyVersion": "1.5.3.1",
+                "AssemblyVersion": "1.5.3.2",
                 "Description": "A visual wardrobe for Penumbra mods. Each entry targets a single equipment slot, so you can wear or unwear exactly what you want without disturbing the rest of your look. Handles items spanning several mods, mod option groups, hair and other customisation mods, image previews, tags, favourites, search and sort, and automated screenshot sessions.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ThatKwistine/WardrobePlugin/main/images/icon.png",
                 "RepoUrl": "https://github.com/ThatKwistine/WardrobePlugin",
-                "LastUpdate": 1787177747,
+                "LastUpdate": 1787251228,
                 "is_ai_attributed": true
             }
         ]
@@ -25846,11 +25882,11 @@
                 "Author": "Tihlyn",
                 "Name": "RedMoonCappuccino",
                 "InternalName": "RedMoonCappuccino",
-                "AssemblyVersion": "6.2.0.50",
+                "AssemblyVersion": "6.3.0.0",
                 "Description": "Connects to your FC's WebSocket server to display the lowest market tax rate and location, as well as upcoming and past FC events with event images.",
                 "IconUrl": "https://raw.githubusercontent.com/Tihlyn/RedMoon-Cappuccino/main/Data/icon.png",
                 "RepoUrl": "https://github.com/Tihlyn/RedMoon-Cappuccino",
-                "LastUpdate": 1787167080,
+                "LastUpdate": 1787266013,
                 "is_ai_attributed": true
             }
         ]
@@ -26579,11 +26615,11 @@
                 "Author": "VariableVixen",
                 "Name": "BetterFateList",
                 "InternalName": "BetterFateList",
-                "AssemblyVersion": "1.1.5",
+                "AssemblyVersion": "1.2.0",
                 "Description": "Provides a list of all FATEs in the current zone, with their type, sorted by maximum level and distance from you.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/VariableVixen/BetterFateList",
-                "LastUpdate": 1787188885
+                "LastUpdate": 1787267269
             },
             {
                 "Author": "VariableVixen",
@@ -26956,15 +26992,14 @@
         "repo_name": "AlphaChannel",
         "plugins": [
             {
-                "Author": "Voudi",
+                "Author": "K.I.R.O",
                 "Name": "AlphaChannel",
-                "InternalName": "AlphaChannel",
-                "AssemblyVersion": "1.1.20260725.1088",
-                "Description": "Ingame watch parties.",
+                "InternalName": "AlphaChannel.Plugin",
+                "AssemblyVersion": "1.0.9.0",
+                "Description": "Renders an in-world video screen and syncs playback with other players running AlphaChannel over a self-hosted relay.",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://gist.githubusercontent.com/Voudi/77c661ec1597925c2856d649a0cfc2d8/raw/icon.png",
-                "RepoUrl": "https://github.com/Voudi/AlphaChannel",
-                "LastUpdate": 1784937447,
+                "RepoUrl": "https://github.com/Kodie0/AlphaChannelKodie",
+                "LastUpdate": 1787251991,
                 "is_ai_attributed": true
             }
         ]
@@ -27159,12 +27194,12 @@
                 "Author": "MacaronDream, DhogGPT, XA",
                 "Name": "Questionable Companion",
                 "InternalName": "QSTCompanion",
-                "AssemblyVersion": "1.1.14.0",
+                "AssemblyVersion": "1.1.15.0",
                 "Description": "Automated character rotation and quest sequence execution for Questionable.\n\nAutomates multi-character MSQ progression by intelligently switching between characters based on quest completion and level requirements. Features include:\n- Automatic character switching and quest tracking\n- MSQ progression monitoring across all characters\n- Allied Society quest rotation and prioritization\n- Event quest automation with prerequisite checking\n- Chauffeur Mode for following main character through quests\n- Data Center travel automation\n- Stop point configuration for controlled progression\n\nRequired Plugins: Questionable, AutoRetainer",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MacaronDream/QSTCompanion/main/icon.png",
                 "RepoUrl": "https://github.com/MacaronDream/QSTCompanion",
-                "LastUpdate": 1786960036
+                "LastUpdate": 1787253921
             },
             {
                 "Author": "WigglyMuffin, CryoTechnic",
@@ -27195,6 +27230,25 @@
                 "IconUrl": "https://raw.githubusercontent.com/WigglyMuffin/DalamudPlugins/main/icons/Questionable.png",
                 "RepoUrl": "https://github.com/WigglyMuffin/Questionable",
                 "LastUpdate": 1787089923
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "will-corrigan",
+        "repo_url": "https://raw.githubusercontent.com/will-corrigan/Wayfarer/main/repo.json",
+        "repo_source_url": "https://github.com/will-corrigan/Wayfarer",
+        "repo_name": "Wayfarer",
+        "plugins": [
+            {
+                "Author": "Will Corrigan",
+                "Name": "Wayfarer",
+                "InternalName": "Wayfarer",
+                "AssemblyVersion": "0.1.1.0",
+                "Description": "Guides you to your quest objective with an on-screen arrow that understands teleports, building entrances and city aethernet routing. Tracks every quest-unlockable feature, mount and dungeon you can pick up right now, and routes you to the quest givers.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/will-corrigan/Wayfarer/main/images/icon.png",
+                "RepoUrl": "https://github.com/will-corrigan/Wayfarer",
+                "LastUpdate": 1787272818
             }
         ]
     },
@@ -28811,18 +28865,18 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/zysilm/FFXIV-CombatSimulator/main/images/logo.png",
                 "RepoUrl": "https://github.com/zysilm/FFXIV-CombatSimulator",
-                "LastUpdate": 1786901936,
+                "LastUpdate": 1787255740,
                 "is_ai_attributed": true
             },
             {
                 "Author": "zysilm",
                 "Name": "Ragdoll System",
                 "InternalName": "RagdollSystem",
-                "AssemblyVersion": "2.8.0.0",
+                "AssemblyVersion": "2.8.0.1",
                 "Description": "Applies ragdoll physics to characters when they die in-game. Features per-bone physics configuration, hair physics simulation, terrain collision, and optional NPC death ragdoll support. Non-humanoid NPCs are handled gracefully with automatic bone-set detection.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zysilm/RagdollSystem",
-                "LastUpdate": 1786901652,
+                "LastUpdate": 1787083432,
                 "is_ai_attributed": true
             }
         ]
