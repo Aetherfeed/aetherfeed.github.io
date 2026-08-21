@@ -2660,12 +2660,12 @@
                 "Author": "Saik",
                 "Name": "Linkshell Sync",
                 "InternalName": "LinkshellSync",
-                "AssemblyVersion": "0.2.0.0",
+                "AssemblyVersion": "0.2.2.0",
                 "Description": "Linkshell Sync reads your own character in game (jobs and levels, gear and gearsets, collections, achievements, titles, currencies and playtime) and keeps your profile on Linkshell up to date while you play. Nothing is read and nothing is sent until you switch upload on, and only the character you are logged in as is ever read. To connect a character, mint a claim code on https://linkshell.fanfuse.app, then run /lsync in game, paste the code and claim the character.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ATroschke/xiv-linkshell-dist/main/plugins/LinkshellSync/icon.png",
                 "RepoUrl": "https://github.com/ATroschke/xiv-linkshell-dist",
-                "LastUpdate": 1787244568,
+                "LastUpdate": 1787322929,
                 "is_ai_attributed": true
             }
         ]
@@ -2838,11 +2838,11 @@
                 "Author": "baanderson40",
                 "Name": "Retainer Repricer",
                 "InternalName": "RetainerRepricer",
-                "AssemblyVersion": "1.3.0.1",
+                "AssemblyVersion": "1.3.0.2",
                 "Description": "Automates retainer item listing and repricing by cycling through retainers, reading market prices from Universalis, and updating listings safely. Use /repricer or /rr to open.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/baanderson40/Retainer-Repricer",
-                "LastUpdate": 1786238239,
+                "LastUpdate": 1787330264,
                 "is_ai_attributed": true
             }
         ]
@@ -4232,12 +4232,12 @@
                 "Author": "CometTheFrog",
                 "Name": "Aethernet Explorer",
                 "InternalName": "AethernetExplorer.Plugin",
-                "AssemblyVersion": "0.9.0.41",
+                "AssemblyVersion": "0.9.0.42",
                 "Description": "An in-game web browser for FFXIV with isolated Chromium rendering, independent Shards, workspaces, Favored Destinations, and site-aware Focus modes.",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://github.com/CometTheFrog/AethernetExplorer-Repo/releases/download/v0.9.0.41/icon.png",
+                "IconUrl": "https://github.com/CometTheFrog/AethernetExplorer-Repo/releases/download/v0.9.0.42/icon.png",
                 "RepoUrl": "https://github.com/CometTheFrog/AethernetExplorer",
-                "LastUpdate": 1786742662,
+                "LastUpdate": 1787336423,
                 "is_ai_attributed": true
             }
         ]
@@ -6627,12 +6627,12 @@
                 "Author": "The Enceladeum",
                 "Name": "HMapSync (HMS)",
                 "InternalName": "HMSync",
-                "AssemblyVersion": "1.0.0.9",
+                "AssemblyVersion": "1.0.1.0",
                 "Description": "Load any in-game map client-side and explore it solo or with up to 20 friends, behind a packet filter that keeps the server seeing you as idle in your room. Shared weather, BGM and time; client-side mounts, emotes and minions; carpet floors for spots without collision; head-tilt and gaze sync for roleplay; and proximity say/yell passthrough. Co-op needs a relay key (closed beta); solo mode never connects to the relay.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Enceladeum/HMapSync/main/images/icon.png",
                 "RepoUrl": "https://github.com/Enceladeum/HMapSync",
-                "LastUpdate": 1786217201,
+                "LastUpdate": 1787317588,
                 "is_ai_attributed": true
             },
             {
@@ -7517,12 +7517,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.5.33",
+                "AssemblyVersion": "7.5.5.34",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1786941317
+                "LastUpdate": 1787332787
             },
             {
                 "Author": "Churin",
@@ -10189,12 +10189,12 @@
                 "Author": "jFray",
                 "Name": "EchoGlam",
                 "InternalName": "EchoGlam.Plugin",
-                "AssemblyVersion": "1.1.0.2",
+                "AssemblyVersion": "1.1.0.3",
                 "Description": "Dress your character in any item in the game from a searchable in-game wardrobe, dye every slot, edit full appearance and save named outfits. Then publish the look to a community catalogue you can browse, filter, vote on and favourite without leaving the game - and put anyone else's glamour on with one click, with a revert that is always one click away. No other plugins required.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/echoglam-icon.png",
                 "RepoUrl": "https://echoxiv.com",
-                "LastUpdate": 1787066639,
+                "LastUpdate": 1787333283,
                 "is_ai_attributed": true
             },
             {
@@ -11118,6 +11118,17 @@
                 "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/Lifestream/main/Lifestream/images/icon.png",
                 "RepoUrl": "https://github.com/KanoNoUta/Lifestream",
                 "LastUpdate": 1785411061
+            },
+            {
+                "Author": "kano",
+                "Name": "琉璃的宝石",
+                "InternalName": "ruri",
+                "AssemblyVersion": "0.1.1.0",
+                "Description": "微风如歌 随雨低吟 终将抵达 光之所栖",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/ruri/icon.png",
+                "RepoUrl": "https://github.com/KanoNoUta/DalamudPlugins",
+                "LastUpdate": 1787335264
             }
         ]
     },
@@ -11936,11 +11947,11 @@
                 "Author": "kittenhaswares-ui",
                 "Name": "Seiton Sense",
                 "InternalName": "SeitonSense.Plugin",
-                "AssemblyVersion": "0.25.0.0",
+                "AssemblyVersion": "0.27.0.0",
                 "Description": "A local PvP HUD integrating an optional held-key Smart Kardia helper, set-only low-MP Focus Target and exact DRK Shadowbringer macro helpers, a top-center 3+ enemy alarm with sound/Sprint options, isolation, pressure and CC-protection cues, resource auras, fail-closed assists, team communication and target highlights.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kittenhaswares-ui/SeitonSense",
-                "LastUpdate": 1787298302
+                "LastUpdate": 1787329288
             }
         ]
     },
@@ -12960,12 +12971,12 @@
                 "Author": "Galderia",
                 "Name": "BLUnion",
                 "InternalName": "BLUnion",
-                "AssemblyVersion": "0.6.1.0",
+                "AssemblyVersion": "0.6.2.0",
                 "Description": "Compares learned Blue Mage spells across a party, shows where to find missing ones, and helps plan what to learn next together - multilingual (DE/EN/FR/JA), syncs via export/import codes, no gameplay automation.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/letsI-MA/BLUnion/main/images/icon.png",
                 "RepoUrl": "https://github.com/letsI-MA/BLUnion",
-                "LastUpdate": 1787237218,
+                "LastUpdate": 1787335894,
                 "is_ai_attributed": true
             }
         ]
@@ -14857,31 +14868,31 @@
                 "DalamudApiLevel": 12,
                 "IconUrl": "https://raw.githubusercontent.com/MilkVio/DalamudPlugins/main/PromeRotation/Icons/prome.png",
                 "RepoUrl": "https://github.com/MilkVio/DalamudPlugins/tree/main/PromeRotation/API15",
-                "LastUpdate": 1786709840,
+                "LastUpdate": 1787319152,
                 "is_closed_source": true
             },
             {
                 "Author": "Miruku",
                 "Name": "PromeRotation API13",
                 "InternalName": "PromeRotation",
-                "AssemblyVersion": "1.3.1.6",
+                "AssemblyVersion": "1.3.1.7",
                 "Description": "An advanced combat rotation platform for FFXIV high-end content.",
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/MilkVio/DalamudPlugins/main/PromeRotation/Icons/prome.png",
                 "RepoUrl": "https://github.com/MilkVio/DalamudPlugins/tree/main/PromeRotation/API15",
-                "LastUpdate": 1786709840,
+                "LastUpdate": 1787319152,
                 "is_closed_source": true
             },
             {
                 "Author": "Miruku",
                 "Name": "PromeRotation",
                 "InternalName": "PromeRotation",
-                "AssemblyVersion": "1.5.9.6",
+                "AssemblyVersion": "1.5.9.7",
                 "Description": "An advanced combat rotation platform for FFXIV high-end content.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MilkVio/DalamudPlugins/main/PromeRotation/Icons/prome.png",
                 "RepoUrl": "https://github.com/MilkVio/DalamudPlugins/tree/main/PromeRotation/API15",
-                "LastUpdate": 1786709840,
+                "LastUpdate": 1787319152,
                 "is_closed_source": true
             }
         ]
@@ -14991,12 +15002,12 @@
                 "Author": "Miragium",
                 "Name": "Body Flux",
                 "InternalName": "BodyFlux",
-                "AssemblyVersion": "0.5.9.1",
+                "AssemblyVersion": "0.8.0.0",
                 "Description": "Animates Customize+ bone scales from your current profile values toward a configurable target. Use /bodyflux to open the control window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/miragiumxiv/BodyFlux/master/BodyFlux/images/icon.png",
                 "RepoUrl": "https://github.com/miragiumxiv/BodyFlux",
-                "LastUpdate": 1785689709
+                "LastUpdate": 1787325659
             }
         ]
     },
@@ -15391,7 +15402,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MTVirux/DamageTerror/master/images/icon.png",
                 "RepoUrl": "https://github.com/MTVirux/DamageTerror",
-                "LastUpdate": 1787273932,
+                "LastUpdate": 1787318640,
                 "is_ai_attributed": true
             }
         ]
@@ -15650,11 +15661,11 @@
                 "Author": "n0way02",
                 "Name": "FateFrenzy",
                 "InternalName": "FateFrenzy",
-                "AssemblyVersion": "1.8.0.0",
+                "AssemblyVersion": "1.8.1.0",
                 "Description": "Farms FATEs for you: tick the zones, and the plugin teleports in, finds active FATEs, and runs them in a loop, with Lifestream support for instance, world, and local crystal navigation.",
                 "IconUrl": "https://raw.githubusercontent.com/n0way02/FateFrenzy/main/FateFrenzy/Images/Icon.png",
                 "RepoUrl": "https://github.com/n0way02/FateFrenzy",
-                "LastUpdate": 1787252009
+                "LastUpdate": 1787319451
             }
         ]
     },
@@ -15668,12 +15679,12 @@
                 "Author": "naco-ff14",
                 "Name": "AltMate",
                 "InternalName": "AltMate",
-                "AssemblyVersion": "1.32.0.9",
+                "AssemblyVersion": "1.32.0.10",
                 "Description": "AltMate supports multiple FFXIV clients running on the same PC. It provides linked controls, housing tracking, Penumbra emote playback, and shared gil summaries. Data stays on the local PC. Japanese and English UI are supported.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/naco-ff14/AltMate/main/images/icon.png",
                 "RepoUrl": "https://github.com/naco-ff14/AltMate",
-                "LastUpdate": 1787306569
+                "LastUpdate": 1787328230
             }
         ]
     },
@@ -16659,7 +16670,7 @@
                 "Description": "- 一键传送到任何服务器或以太网目的地\n- 单击区域地图内的以太水晶以传送到它们",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/Lifestream",
-                "LastUpdate": 1785510212
+                "LastUpdate": 1787334525
             },
             {
                 "Author": "NightmareXIV / NiGuangOwO（汉化&适配）",
@@ -16669,17 +16680,17 @@
                 "Description": "- 一键传送到任何服务器或以太网目的地\n- 单击区域地图内的以太水晶以传送到它们",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NiGuangOwO/Lifestream",
-                "LastUpdate": 1785510212
+                "LastUpdate": 1787334525
             },
             {
                 "Author": "NightmareXIV / NiGuangOwO（汉化&适配）",
                 "Name": "Lifestream",
                 "InternalName": "Lifestream",
-                "AssemblyVersion": "2.5.4.14",
+                "AssemblyVersion": "2.5.4.17",
                 "Description": "- 一键传送到任何服务器或以太网目的地\n- 单击区域地图内的以太水晶以传送到它们",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NiGuangOwO/Lifestream",
-                "LastUpdate": 1785510212
+                "LastUpdate": 1787334525
             },
             {
                 "Author": "NiGuangOwO",
@@ -17779,12 +17790,12 @@
                 "Author": "Faye, Kage",
                 "Name": "Better Occult Crescent & Chest Helper Interface",
                 "InternalName": "BOCCHI",
-                "AssemblyVersion": "4.1.0.6",
+                "AssemblyVersion": "4.1.0.7",
                 "Description": "BOCCHI is here to smooth out your Occult Crescent experience.\n- No more of that pesky 'walking' or 'finding chests'. That's for losers.\n- A cute little Fate and CE panel that'll tell you what rewards it gives AND help you automatically path to it, wowee.\n- An extre illegal 'illegal mode' for those of you that would rather be touching grass or playing a game with worthwhile content.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/OhKannaDuh/BOCCHI/master/assets/icon.png",
                 "RepoUrl": "https://github.com/OhKannaDuh/OccultCrescentHelper",
-                "LastUpdate": 1787306888
+                "LastUpdate": 1787331894
             }
         ]
     },
@@ -18152,47 +18163,6 @@
                 "RepoUrl": "https://github.com/OmegaJackie/Relicable",
                 "LastUpdate": 1785623867,
                 "is_ai_attributed": true
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "OOFGamesss",
-        "repo_url": "https://raw.githubusercontent.com/OOFGamesss/OOFGamesPlugins/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/OOFGamesss/OOFGamesPlugins",
-        "repo_name": "OOFGamesPlugins",
-        "plugins": [
-            {
-                "Author": "OOFGames",
-                "Name": "Chocobo Racing (Deprecated)",
-                "InternalName": "ChocoboRacingGamba",
-                "AssemblyVersion": "1.0.0.1",
-                "Description": "Players pick a chocobo(s) to bet on, the host rolls /random to advance chocobos, and the first to reach the finish line wins. Type /crg or /Chocoboracinggamba to open the main window.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/OOFGamesss/OOFGamesPlugins/main/images/chocoboracinggamba.png",
-                "RepoUrl": "https://github.com/OOFGamesss/OOFGamesPlugins",
-                "LastUpdate": 1787055984
-            },
-            {
-                "Author": "OOFGames",
-                "Name": "Gamba Where (Deprecated)",
-                "InternalName": "GambaWhere",
-                "AssemblyVersion": "1.0.0.1",
-                "Description": "Browse active gambling events across Eorzea or host your own session. Use /gambawhere to open the interface.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/OOFGamesss/OOFGamesPlugins/main/images/gambawhere.png",
-                "RepoUrl": "https://github.com/OOFGamesss/GambaWhere",
-                "LastUpdate": 1786547385
-            },
-            {
-                "Author": "OOFGames",
-                "Name": "Mini Games Emporium (Deprecated)",
-                "InternalName": "MiniGamesEmporium",
-                "AssemblyVersion": "0.0.10.1",
-                "Description": "A plugin to manage mini game sessions, player queues, and Gil transactions. Use /minigames to open the main window.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/OOFGamesss/OOFGamesPlugins/main/images/minigamesemporium.png",
-                "RepoUrl": "https://github.com/OOFGamesss/MiniGamesEmporium",
-                "LastUpdate": 1786988597
             }
         ]
     },
@@ -19677,12 +19647,12 @@
                 "Author": "Det, croizat",
                 "Name": "AutoHook",
                 "InternalName": "AutoHook",
-                "AssemblyVersion": "6.0.0.92",
+                "AssemblyVersion": "6.0.0.93",
                 "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/47",
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1787241664
+                "LastUpdate": 1787332633
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -20545,7 +20515,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1787005318
+                "LastUpdate": 1787332270
             },
             {
                 "Author": "veyn, croizat",
@@ -25204,7 +25174,7 @@
                 "Author": "Suuria",
                 "Name": "Relic Tracker",
                 "InternalName": "RelicTracker",
-                "AssemblyVersion": "0.0.1.1",
+                "AssemblyVersion": "0.0.1.3",
                 "Description": "A compact checklist for every combat relic weapon stage, grouped by expansion and job.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Suuria/RelicTracker"
@@ -25342,6 +25312,17 @@
                 "RepoUrl": "https://github.com/t3knical/DalamudPlugins/tree/main/plugins/HunterV2",
                 "LastUpdate": 1785488427,
                 "is_ai_attributed": true
+            },
+            {
+                "Author": "OhKannaDuh (fork maintained by T3chnicalD3ath)",
+                "Name": "Occult Helper",
+                "InternalName": "OccultHelper",
+                "AssemblyVersion": "1.10.0.7",
+                "Description": "OccultHelper is here to smooth out your Occult Crescent experience.\n- No more of that pesky 'walking' or 'finding chests'. That's for losers.\n- A cute little Fate and CE panel that'll tell you what rewards it gives AND help you automatically path to it, wowee.\n- An extra illegal 'illegal mode' for those of you that would rather be touching grass or playing a game with worthwhile content.\n\nCommand prefix: occulthelper (alias: och)\n  /occulthelper → Opens the main window\n  /occulthelper config → Opens config (aliases: cfg, c)\n  /occulthelper config list → Lists config keys\n  /occulthelper config get <key> → Prints a config value\n  /occulthelper config set <key> <value> → Sets a config value\n  /occulthelper buff → Start/stop a buff run\n  /occulthelper tp [fate|ce|pot] → Teleport toward nearest matching activity\n  /occulthelper illegal [on|off|toggle] → Control Illegal Mode (no arg opens the window)\n  /occulthelper cmd flag-active-ce → Flag registering CE on the map\n  /occulthelper cmd flag-active-fate → Flag a FATE on the map\n  /occulthelper cmd flag-active-non-pot-fate → Flag a non-pot FATE\n  /occulthelper reload-translations → Reload translation files (alias: rt)\n  /och … → Same as /occulthelper (legacy alias; also /occultcrescenthelper)",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/t3knical/DalamudPlugins/main/plugins/OccultHelper/icon.png",
+                "RepoUrl": "https://github.com/t3knical/DalamudPlugins",
+                "LastUpdate": 1787339842
             },
             {
                 "Author": "T3chnicalD3ath Inc.",
@@ -27293,12 +27274,12 @@
                 "Author": "Will Corrigan",
                 "Name": "Wayfarer",
                 "InternalName": "Wayfarer",
-                "AssemblyVersion": "0.1.1.0",
+                "AssemblyVersion": "0.2.1.0",
                 "Description": "Guides you to your quest objective with an on-screen arrow that understands teleports, building entrances and city aethernet routing. Tracks every quest-unlockable feature, mount and dungeon you can pick up right now, and routes you to the quest givers.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/will-corrigan/Wayfarer/main/images/icon.png",
                 "RepoUrl": "https://github.com/will-corrigan/Wayfarer",
-                "LastUpdate": 1787272818
+                "LastUpdate": 1787321888
             }
         ]
     },
