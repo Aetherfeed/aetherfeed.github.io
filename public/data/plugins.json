@@ -548,7 +548,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/BFE/main/BFE/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/BFE",
-                "LastUpdate": 1778573551,
+                "LastUpdate": 1787419072,
                 "is_ai_attributed": true
             },
             {
@@ -735,12 +735,12 @@
                 "Author": "DhogGPT",
                 "Name": "Vermaxion",
                 "InternalName": "VERMAXION",
-                "AssemblyVersion": "0.3.2.0",
+                "AssemblyVersion": "0.3.3.1",
                 "Description": "Automates weekly and daily tasks triggered by AutoRetainer post-processing. Configurable per character: Verminion queue, Cactpot, Chocobo Racing, FC buff refill, and Henchman management.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1787265175,
+                "LastUpdate": 1787414020,
                 "is_ai_attributed": true
             },
             {
@@ -1248,11 +1248,11 @@
                 "Author": "AliaXIV",
                 "Name": "Kefka Helper",
                 "InternalName": "KefkaHelper",
-                "AssemblyVersion": "0.0.5",
+                "AssemblyVersion": "0.0.6.0",
                 "Description": "TBA",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AliaXIV/KefkaHelper",
-                "LastUpdate": 1786562890
+                "LastUpdate": 1787427479
             },
             {
                 "Author": "AliaXIV",
@@ -2660,12 +2660,12 @@
                 "Author": "Saik",
                 "Name": "Linkshell Sync",
                 "InternalName": "LinkshellSync",
-                "AssemblyVersion": "0.3.1.0",
+                "AssemblyVersion": "0.4.0.0",
                 "Description": "Linkshell Sync reads your own character in game (jobs and levels, gear and gearsets, collections, achievements, titles, currencies and playtime) and keeps your profile on Linkshell up to date while you play. Nothing is read and nothing is sent until you switch upload on, and only the character you are logged in as is ever read. To connect a character, mint a claim code on https://linkshell.fanfuse.app, then run /lsync in game, paste the code and claim the character.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ATroschke/xiv-linkshell-dist/main/plugins/LinkshellSync/icon.png",
                 "RepoUrl": "https://github.com/ATroschke/xiv-linkshell-dist",
-                "LastUpdate": 1787359158,
+                "LastUpdate": 1787428563,
                 "is_ai_attributed": true
             }
         ]
@@ -5385,11 +5385,11 @@
                 "Author": "deserokk",
                 "Name": "DeserokUtils",
                 "InternalName": "DeserokUtils",
-                "AssemblyVersion": "1.9.0.0",
+                "AssemblyVersion": "1.9.1.0",
                 "Description": "Small quality-of-life utilities, one feature per tab.\n\nCastWatch: gate a macro line on whether an action actually went off. Arm a watch above the /ac, then /ifwatch runs your line only if the action was accepted -- or cancels the macro if it was not. Works for instant casts, oGCDs and usable items, none of which produce a cast bar to observe. Optional target filters (--self, --notself, --party) and a {who} token that fills in whoever actually received it, which a vanilla macro cannot do.\n\nIt never composes or sends anything on your behalf; it only runs or suppresses a line you already wrote.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/deserokk/DeserokUtils",
-                "LastUpdate": 1787379902,
+                "LastUpdate": 1787428460,
                 "is_ai_attributed": true
             }
         ]
@@ -5404,11 +5404,11 @@
                 "Author": "deserokk",
                 "Name": "DeserokUtils",
                 "InternalName": "DeserokUtils",
-                "AssemblyVersion": "1.9.0.0",
+                "AssemblyVersion": "1.9.1.0",
                 "Description": "Small quality-of-life utilities, one feature per tab.\n\nCastWatch: gate a macro line on whether an action actually went off. Arm a watch above the /ac, then /ifwatch runs your line only if the action was accepted -- or cancels the macro if it was not. Works for instant casts, oGCDs and usable items, none of which produce a cast bar to observe. Optional target filters (--self, --notself, --party) and a {who} token that fills in whoever actually received it, which a vanilla macro cannot do.\n\nIt never composes or sends anything on your behalf; it only runs or suppresses a line you already wrote.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/deserokk/DeserokUtils",
-                "LastUpdate": 1787379902,
+                "LastUpdate": 1787428460,
                 "is_ai_attributed": true
             }
         ]
@@ -6107,12 +6107,12 @@
                 "Author": "Eauldane",
                 "Name": "Snowcloak Sync",
                 "InternalName": "Snowcloak",
-                "AssemblyVersion": "4.1.0.0",
+                "AssemblyVersion": "4.1.1.0",
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Eauldane/SnowcloakClient/refs/heads/main/Snowcloak/images/logo.png",
                 "RepoUrl": "https://github.com/Eauldane/SnowcloakClient",
-                "LastUpdate": 1787308038
+                "LastUpdate": 1787424330
             },
             {
                 "Author": "Eauldane",
@@ -6306,11 +6306,11 @@
                 "Author": "Luis",
                 "Name": "PentaPenta",
                 "InternalName": "PentaPenta",
-                "AssemblyVersion": "0.1.63.0",
+                "AssemblyVersion": "0.1.67.0",
                 "Description": "Inventory picker and guarded pentameld queue. Defaults to Critical Hit > Direct Hit > Determination with strict no-overcap behavior.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Elagon-A/Penta-Penta",
-                "LastUpdate": 1787374453
+                "LastUpdate": 1787426290
             }
         ]
     },
@@ -6768,12 +6768,12 @@
                 "Author": "Minmoose, Asgard 与贡献者；汉化：Endfish",
                 "Name": "Brio-CN",
                 "InternalName": "Brio-CN",
-                "AssemblyVersion": "1.0.7.0",
+                "AssemblyVersion": "1.0.8.0",
                 "Description": "Brio 的简体中文本地化版本，为 GPose 提供角色生成、骨骼姿势编辑、动作播放、灯光、镜头、时间、天气与场景控制等高级功能。\n\n本分支还包含常用姿势快捷入口、Penumbra 动作 Mod 识别，以及可导航的世界模型实时预览。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/endfish/Brio-CN/zh-CN/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/endfish/Brio-CN",
-                "LastUpdate": 1786277696
+                "LastUpdate": 1787409080
             },
             {
                 "Author": "kawaii, 汉化: Endfish",
@@ -10100,7 +10100,7 @@
                 "Author": "raynording",
                 "Name": "Dalamud ACT Compat",
                 "InternalName": "DalamudActCompat",
-                "AssemblyVersion": "0.3.9.25",
+                "AssemblyVersion": "0.3.9.27",
                 "Description": "Dalamud-side UI, storage, parser abstraction, and compatibility-host bridge for an ACT-compatible FFXIV parsing platform. This early build does not yet load FFXIV_ACT_Plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/JackyWilliam/DalamudActCompat/main/src/DalamudActCompat/Assets/act-logo.jpg",
@@ -10120,12 +10120,12 @@
                 "Author": "raynording",
                 "Name": "Dalamud ACT Compat",
                 "InternalName": "DalamudActCompat",
-                "AssemblyVersion": "0.3.9.25",
+                "AssemblyVersion": "0.3.9.27",
                 "Description": "Dalamud-side UI, storage, parser abstraction, and compatibility-host bridge for an ACT-compatible FFXIV parsing platform. This early build does not yet load FFXIV_ACT_Plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/JackyWilliam/DalamudActCompatRepo/main/act-logo-512.png",
                 "RepoUrl": "https://github.com/JackyWilliam/DalamudActCompat",
-                "LastUpdate": 1787396972,
+                "LastUpdate": 1787413454,
                 "is_ai_attributed": true
             }
         ]
@@ -10240,74 +10240,6 @@
                 "IconUrl": "https://raw.githubusercontent.com/jfraygit/Echo-Linux/main/icon.png",
                 "RepoUrl": "https://echoxiv.com",
                 "LastUpdate": 1786941620,
-                "is_ai_attributed": true
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "jfraygit",
-        "repo_url": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/jfraygit/EchoMix-Repo",
-        "repo_name": "EchoMix-Repo",
-        "plugins": [
-            {
-                "Author": "jFray",
-                "Name": "EchoGlam",
-                "InternalName": "EchoGlam.Plugin",
-                "AssemblyVersion": "1.1.0.3",
-                "Description": "Dress your character in any item in the game from a searchable in-game wardrobe, dye every slot, edit full appearance and save named outfits. Then publish the look to a community catalogue you can browse, filter, vote on and favourite without leaving the game - and put anyone else's glamour on with one click, with a revert that is always one click away. No other plugins required.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/echoglam-icon.png",
-                "RepoUrl": "https://echoxiv.com",
-                "LastUpdate": 1787333283,
-                "is_ai_attributed": true
-            },
-            {
-                "Author": "jFray",
-                "Name": "EchoMix",
-                "InternalName": "EchoMix.Plugin",
-                "AssemblyVersion": "1.3.1.2",
-                "Description": "An interactive DJ deck with live mixing tools, custom playlists, and a synced listener mode with an audio visualizer.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/icon.png",
-                "RepoUrl": "https://echomix.app",
-                "LastUpdate": 1787025230,
-                "is_ai_attributed": true
-            },
-            {
-                "Author": "jFray",
-                "Name": "EchoNav",
-                "InternalName": "EchoNav.Plugin",
-                "AssemblyVersion": "1.0.0.5",
-                "Description": "Lists the Critical Encounters and FATEs running in Occult Crescent: North Horn and walks you to any of them with a single click, choosing between walking, an aetheryte hop and Occult Return. Also tracks the pot cycle, keeps your knowledge-crystal buffs topped up, and can step around monsters and pick up coffers on the way. Does nothing outside North Horn.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/echonav-icon.png",
-                "RepoUrl": "https://echoxiv.com",
-                "LastUpdate": 1786806827,
-                "is_ai_attributed": true
-            },
-            {
-                "Author": "jFray",
-                "Name": "EchoRoleplay",
-                "InternalName": "EchoRoleplay.Plugin",
-                "AssemblyVersion": "1.0.0.5",
-                "Description": "Write a full roleplay profile for your character - name, appearance, backstory, hooks and rumours - and read anyone else's by hovering them. Set statuses that hang under your character for others to read at a glance, and keep private notes on everyone you have met.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/echorp-icon.png",
-                "RepoUrl": "https://echoxiv.com",
-                "LastUpdate": 1787080420,
-                "is_ai_attributed": true
-            },
-            {
-                "Author": "jFray",
-                "Name": "EchoSim",
-                "InternalName": "EchoSim.Plugin",
-                "AssemblyVersion": "1.0.2.6",
-                "Description": "Simulates a full-length fight for your job using your own gear or a best-in-slot preset, then reports the DPS and shows exactly where it came from. Compares gear, melds and consumables, checks your openers and burst windows, and analyses an FFLogs report against the simulated ceiling. Kills on supported encounters can be scored and submitted to per-job leaderboards.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/echosim-icon.png",
-                "RepoUrl": "https://echoxiv.com",
-                "LastUpdate": 1787083416,
                 "is_ai_attributed": true
             }
         ]
@@ -10943,6 +10875,25 @@
         ]
     },
     {
+        "repo_developer_name": "JustPixelll",
+        "repo_url": "https://raw.githubusercontent.com/JustPixelll/RetainerSorter/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/JustPixelll/RetainerSorter",
+        "repo_name": "RetainerSorter",
+        "plugins": [
+            {
+                "Author": "JustPixelll",
+                "Name": "Retainer Sorter",
+                "InternalName": "RetainerSorter",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "Assign item categories to retainers, choose a priority order, protect items with Never Deposit, preview assignments, and automatically sort matching inventory stacks from a nearby Summoning Bell.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/JustPixelll/RetainerSorter/main/images/icon.png",
+                "RepoUrl": "https://github.com/JustPixelll/RetainerSorter",
+                "LastUpdate": 1787407739
+            }
+        ]
+    },
+    {
         "repo_developer_name": "Juusohel",
         "repo_url": "https://raw.githubusercontent.com/Juusohel/BunnySubSync/main/repo.json",
         "repo_source_url": "https://github.com/Juusohel/BunnySubSync",
@@ -11287,12 +11238,12 @@
                 "Author": "kano",
                 "Name": "琉璃的宝石",
                 "InternalName": "ruri",
-                "AssemblyVersion": "0.1.1.0",
+                "AssemblyVersion": "0.1.2.0",
                 "Description": "微风如歌 随雨低吟 终将抵达 光之所栖",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/KanoNoUta/DalamudPlugins/main/plugins/ruri/icon.png",
                 "RepoUrl": "https://github.com/KanoNoUta/DalamudPlugins",
-                "LastUpdate": 1787335264
+                "LastUpdate": 1787417214
             }
         ]
     },
@@ -14100,12 +14051,12 @@
                 "Author": "Mayo Botic, Ultranova Violet",
                 "Name": "PF Analysis",
                 "InternalName": "PfPresets",
-                "AssemblyVersion": "3.5.0.0",
+                "AssemblyVersion": "3.5.1.0",
                 "Description": "AI slop that lets you rate other people you played with in pf. Parts of the sourcecode are not on Github, which breaks AGPL terms as well.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Marobotic/PfPresets/main/images/icon.png",
                 "RepoUrl": "https://github.com/Marobotic/PfPresets",
-                "LastUpdate": 1787188986,
+                "LastUpdate": 1787411140,
                 "is_closed_source": true,
                 "is_ai_attributed": true
             }
@@ -14181,11 +14132,29 @@
                 "Author": "Matthew",
                 "Name": "Item Browser",
                 "InternalName": "ItemBrowser",
-                "AssemblyVersion": "1.2.2.0",
+                "AssemblyVersion": "1.5.0.0",
                 "Description": "Every equippable item in the game, in a categorized grid with icons. Hover to preview, apply to your character to see how it looks, and manage or remove what you are wearing.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Matthew-Brown-18/FFXIV-Plugin-Test",
-                "LastUpdate": 1787406482
+                "LastUpdate": 1787408273
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Matthew-Brown-18",
+        "repo_url": "https://raw.githubusercontent.com/Matthew-Brown-18/FFXIV_Title_Manager/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/Matthew-Brown-18/FFXIV_Title_Manager",
+        "repo_name": "FFXIV_Title_Manager",
+        "plugins": [
+            {
+                "Author": "Matthew Brown",
+                "Name": "Title Manager",
+                "InternalName": "TitleManager",
+                "AssemblyVersion": "1.0.0.4",
+                "Description": "Create your own nameplate titles, save them into a personal list, and dress them up with full RGB colours, glow, and animated effects such as rainbow waves, fades, pulses, typewriter, glitch and more. Inspired by Honorific.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Matthew-Brown-18/FFXIV_Title_Manager",
+                "LastUpdate": 1787413752
             }
         ]
     },
@@ -14729,12 +14698,12 @@
                 "Author": "DhogGPT",
                 "Name": "VerMAXion",
                 "InternalName": "VERMAXION",
-                "AssemblyVersion": "0.3.2.0",
+                "AssemblyVersion": "0.3.3.1",
                 "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1787265175,
+                "LastUpdate": 1787414020,
                 "is_ai_attributed": true
             }
         ]
@@ -16336,7 +16305,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/NeXzRo/Stuff/main/BetterTargetingSystemPvP/icon.png",
                 "RepoUrl": "https://github.com/NeXzRo/BetterTargetingSystem",
-                "LastUpdate": 1787185870
+                "LastUpdate": 1787358654
             },
             {
                 "Author": "goat, Maple",
@@ -16615,7 +16584,7 @@
                 "Author": "Amadeus",
                 "Name": "Replica",
                 "InternalName": "Replica",
-                "AssemblyVersion": "1.0.6.53",
+                "AssemblyVersion": "1.0.6.54",
                 "Description": "Draws boss mechanics on the arena floor.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/nightraidwiki/dalamud-plugins/main/images/icon.png",
@@ -17824,6 +17793,58 @@
                 "IconUrl": "https://raw.githubusercontent.com/lichie567/LMeter/main/LMeter/Media/Images/icon.png",
                 "RepoUrl": "https://github.com/lichie567/LMeter",
                 "LastUpdate": 1777549144
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "NyanXIV",
+        "repo_url": "https://raw.githubusercontent.com/NyanXIV/EchoMix-Repo/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/NyanXIV/EchoMix-Repo",
+        "repo_name": "EchoMix-Repo",
+        "plugins": [
+            {
+                "Author": "jFray",
+                "Name": "EchoGlam",
+                "InternalName": "EchoGlam.Plugin",
+                "AssemblyVersion": "1.0.0.2",
+                "Description": "Dress your character in any item in the game from a searchable in-game wardrobe, dye every slot, edit full appearance and save named outfits. Then publish the look to a community catalogue you can browse, filter, vote on and favourite without leaving the game - and put anyone else's glamour on with one click, with a revert that is always one click away. No other plugins required.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/echoglam-icon.png",
+                "RepoUrl": "https://echoxiv.com",
+                "LastUpdate": 1786646465
+            },
+            {
+                "Author": "jFray",
+                "Name": "EchoMix",
+                "InternalName": "EchoMix.Plugin",
+                "AssemblyVersion": "1.3.0.0",
+                "Description": "An interactive DJ deck with live mixing tools, custom playlists, and a synced listener mode with an audio visualizer.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/icon.png",
+                "RepoUrl": "https://echoxiv.com",
+                "LastUpdate": 1786591406
+            },
+            {
+                "Author": "jFray",
+                "Name": "EchoNav",
+                "InternalName": "EchoNav.Plugin",
+                "AssemblyVersion": "1.0.0.1",
+                "Description": "Lists the Critical Encounters and FATEs running in Occult Crescent: North Horn and walks you to any of them with a single click, choosing between walking, an aetheryte hop and Occult Return. Also tracks the pot cycle, keeps your knowledge-crystal buffs topped up, and can step around monsters and pick up coffers on the way. Does nothing outside North Horn.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/echonav-icon.png",
+                "RepoUrl": "https://echoxiv.com",
+                "LastUpdate": 1786464283
+            },
+            {
+                "Author": "jFray",
+                "Name": "EchoSim",
+                "InternalName": "EchoSim.Plugin",
+                "AssemblyVersion": "1.0.1.8",
+                "Description": "Simulates a full-length fight for your job using your own gear or a best-in-slot preset, then reports the DPS and shows exactly where it came from. Compares gear, melds and consumables, checks your openers and burst windows, and analyses an FFLogs report against the simulated ceiling. Kills on supported encounters can be scored and submitted to per-job leaderboards.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/echosim-icon.png",
+                "RepoUrl": "https://echoxiv.com",
+                "LastUpdate": 1786559173
             }
         ]
     },
@@ -19864,7 +19885,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/24",
                 "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-                "LastUpdate": 1786193784
+                "LastUpdate": 1787427384
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -19935,12 +19956,12 @@
                 "Author": "the Puni.sh Quest Squad",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.3.2",
+                "AssemblyVersion": "15.306.3.5",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1787360113,
+                "LastUpdate": 1787426742,
                 "is_ai_attributed": true
             },
             {
@@ -22954,6 +22975,16 @@
                 "RepoUrl": "https://github.com/rude-jerk/rude-ui",
                 "LastUpdate": 1786164494,
                 "is_ai_attributed": true
+            },
+            {
+                "Author": "rude",
+                "Name": "Viper HUD",
+                "InternalName": "ViperHUD",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "Shows Viper's current combo action, mandatory follow-ups, positionals, buffs, and job gauges in a compact movable HUD.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/rude-jerk/viper-hud",
+                "LastUpdate": 1787421630
             }
         ]
     },
@@ -24894,12 +24925,12 @@
                 "Author": "lcc",
                 "Name": "LCC Tools",
                 "InternalName": "lccTools",
-                "AssemblyVersion": "0.1.0.1",
+                "AssemblyVersion": "0.1.0.5",
                 "Description": "LCC 的综合工具箱：提供游戏状态与悬停 ID 调试、自动复活和食物、PvP 好友雷达、分场景移动速度、按角色隔离的物品收录，以及带缓存、成交历史和众包上传的 Universalis 市场查询。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/spqrwk/LccTools-DalamudRepo/main/icons/icon.png",
                 "RepoUrl": "https://github.com/spqrwk/LccTools-DalamudRepo",
-                "LastUpdate": 1787037209
+                "LastUpdate": 1787424702
             }
         ]
     },
@@ -25518,12 +25549,12 @@
                 "Author": "OhKannaDuh (fork maintained by T3chnicalD3ath)",
                 "Name": "Occult Helper",
                 "InternalName": "OccultHelper",
-                "AssemblyVersion": "1.10.0.8",
+                "AssemblyVersion": "1.10.0.13",
                 "Description": "OccultHelper is here to smooth out your Occult Crescent experience.\n- No more of that pesky 'walking' or 'finding chests'. That's for losers.\n- A cute little Fate and CE panel that'll tell you what rewards it gives AND help you automatically path to it, wowee.\n- An extra illegal 'illegal mode' for those of you that would rather be touching grass or playing a game with worthwhile content.\n\nCommand prefix: occulthelper (alias: och)\n  /occulthelper → Opens the main window\n  /occulthelper config → Opens config (aliases: cfg, c)\n  /occulthelper config list → Lists config keys\n  /occulthelper config get <key> → Prints a config value\n  /occulthelper config set <key> <value> → Sets a config value\n  /occulthelper buff → Start/stop a buff run\n  /occulthelper tp [fate|ce|pot] → Teleport toward nearest matching activity\n  /occulthelper illegal [on|off|toggle] → Control Illegal Mode (no arg opens the window)\n  /occulthelper cmd flag-active-ce → Flag registering CE on the map\n  /occulthelper cmd flag-active-fate → Flag a FATE on the map\n  /occulthelper cmd flag-active-non-pot-fate → Flag a non-pot FATE\n  /occulthelper reload-translations → Reload translation files (alias: rt)\n  /och … → Same as /occulthelper (legacy alias; also /occultcrescenthelper)",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/t3knical/DalamudPlugins/main/plugins/OccultHelper/icon.png",
                 "RepoUrl": "https://github.com/t3knical/DalamudPlugins",
-                "LastUpdate": 1787361914
+                "LastUpdate": 1787428288
             },
             {
                 "Author": "T3chnicalD3ath Inc.",
@@ -27475,12 +27506,12 @@
                 "Author": "Will Corrigan",
                 "Name": "Wayfarer",
                 "InternalName": "Wayfarer",
-                "AssemblyVersion": "0.2.1.0",
+                "AssemblyVersion": "0.3.0.0",
                 "Description": "Guides you to your quest objective with an on-screen arrow that understands teleports, building entrances and city aethernet routing. Tracks every quest-unlockable feature, mount and dungeon you can pick up right now, and routes you to the quest givers.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/will-corrigan/Wayfarer/main/images/icon.png",
                 "RepoUrl": "https://github.com/will-corrigan/Wayfarer",
-                "LastUpdate": 1787321888
+                "LastUpdate": 1787420174
             }
         ]
     },
@@ -27989,18 +28020,18 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/70",
                 "RepoUrl": "https://github.com/XivHub/Ices-Cosmic-Exploration",
-                "LastUpdate": 1784536121,
+                "LastUpdate": 1787417792,
                 "is_ai_attributed": true
             },
             {
                 "Author": "XivHub",
                 "Name": "InventoryCleaner",
                 "InternalName": "InventoryCleaner",
-                "AssemblyVersion": "0.7.1.0",
+                "AssemblyVersion": "0.8.0.0",
                 "Description": "Cleans up your inventory.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XivHub/InventoryCleaner",
-                "LastUpdate": 1787062517,
+                "LastUpdate": 1787414735,
                 "is_closed_source": true
             },
             {
@@ -28401,12 +28432,12 @@
                 "Author": "Mint",
                 "Name": "Minty Tweaks",
                 "InternalName": "YhumiTweaks",
-                "AssemblyVersion": "0.3.1.0",
+                "AssemblyVersion": "0.3.2.0",
                 "Description": "A collection of Tweaks and QoL I really wanted..",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://safe.miyei.me/HJvz6hjP.png",
                 "RepoUrl": "https://github.com/Yhumi/YhumiTweaks",
-                "LastUpdate": 1785837031
+                "LastUpdate": 1787410700
             }
         ],
         "repo_source_url": "https://github.com/Yhumi/Plogons",
@@ -28687,19 +28718,19 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Macro%20Redirection/cursor_hr1.png",
                 "RepoUrl": "https://github.com/YouShux/DalamudPlugins/blob/main/Plugins/Macro%20Redirection/Macro%20Redirection.zip",
-                "LastUpdate": 1786760552,
+                "LastUpdate": 1787422683,
                 "is_closed_source": true
             },
             {
                 "Author": "YouShu",
                 "Name": "Omni Toolbox",
                 "InternalName": "OmniToolbox",
-                "AssemblyVersion": "1.1.1.1",
+                "AssemblyVersion": "1.1.1.2",
                 "Description": "支持物品价格查询、商店购买与兑换位置查找、库存追踪、食物/药品期望计算、物品监控预警自动补货、传送以及坐骑/宠物/发型/绘画作品的悬浮窗预览等等。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Resources/%E5%9B%BE%E6%A0%87.png",
                 "RepoUrl": "https://github.com/YouShux/DalamudPlugins/blob/main/Plugins/Omni%20Toolbox/Omni%20Toolbox.zip",
-                "LastUpdate": 1786760552,
+                "LastUpdate": 1787422683,
                 "is_closed_source": true
             }
         ]
