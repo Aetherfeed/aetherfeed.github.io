@@ -927,12 +927,12 @@
                 "Author": "Airi Tsukino",
                 "Name": "AirTablet",
                 "InternalName": "AirTablet",
-                "AssemblyVersion": "1.0.38.1",
+                "AssemblyVersion": "1.0.44.1",
                 "Description": "A modern tablet OS for Airi's venue apps.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/AiriTsukino/AirTablet/main/AirTablet/Resources/ATLogo.png",
                 "RepoUrl": "https://github.com/AiriTsukino/AirTablet",
-                "LastUpdate": 1787308471,
+                "LastUpdate": 1787361497,
                 "is_ai_attributed": true
             },
             {
@@ -1019,12 +1019,12 @@
                 "Author": "Airi Tsukino",
                 "Name": "AirTablet",
                 "InternalName": "AirTablet",
-                "AssemblyVersion": "1.0.38.1",
+                "AssemblyVersion": "1.0.44.1",
                 "Description": "A modern tablet OS for Airi's venue apps.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/AiriTsukino/AirTablet/main/AirTablet/Resources/ATLogo.png",
                 "RepoUrl": "https://github.com/AiriTsukino/AirTablet",
-                "LastUpdate": 1787308471,
+                "LastUpdate": 1787361497,
                 "is_ai_attributed": true
             }
         ]
@@ -2660,12 +2660,12 @@
                 "Author": "Saik",
                 "Name": "Linkshell Sync",
                 "InternalName": "LinkshellSync",
-                "AssemblyVersion": "0.2.2.0",
+                "AssemblyVersion": "0.3.1.0",
                 "Description": "Linkshell Sync reads your own character in game (jobs and levels, gear and gearsets, collections, achievements, titles, currencies and playtime) and keeps your profile on Linkshell up to date while you play. Nothing is read and nothing is sent until you switch upload on, and only the character you are logged in as is ever read. To connect a character, mint a claim code on https://linkshell.fanfuse.app, then run /lsync in game, paste the code and claim the character.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ATroschke/xiv-linkshell-dist/main/plugins/LinkshellSync/icon.png",
                 "RepoUrl": "https://github.com/ATroschke/xiv-linkshell-dist",
-                "LastUpdate": 1787322929,
+                "LastUpdate": 1787359158,
                 "is_ai_attributed": true
             }
         ]
@@ -3803,12 +3803,12 @@
                 "Author": "CateDesu",
                 "Name": "NyaaTriggers",
                 "InternalName": "NyaaTriggers",
-                "AssemblyVersion": "0.2.0.8",
+                "AssemblyVersion": "0.2.0.9",
                 "Description": "Companion plugin for the NyaaTriggers program.\n\n/nyaa -> Open plugin settings. /nyaa lock -> Toggles the overlay lock.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/CateDesu/NyaaTriggers-Overlay/main/images/icon.png",
                 "RepoUrl": "https://github.com/CateDesu/NyaaTriggers-Overlay",
-                "LastUpdate": 1787119935,
+                "LastUpdate": 1787347744,
                 "is_ai_attributed": true
             }
         ]
@@ -3963,12 +3963,12 @@
                 "Author": "CelineXIV",
                 "Name": "CelinesChat",
                 "InternalName": "CelinesChat",
-                "AssemblyVersion": "1.0.18.0",
+                "AssemblyVersion": "1.0.19.0",
                 "Description": "Just a Beta Version of a Chatbox",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://cdn.jsdelivr.net/gh/CelineXIV/CelinesTools@main/CelinesChat/images/icon-v2.png",
                 "RepoUrl": "https://github.com/CelineXIV/CelinesTools/tree/main/CelinesChat",
-                "LastUpdate": 1787057964,
+                "LastUpdate": 1787347844,
                 "is_ai_attributed": true
             },
             {
@@ -4598,6 +4598,24 @@
                 "IconUrl": "https://raw.githubusercontent.com/daemitus/XIVComboPlugin/master/res/icon.png",
                 "RepoUrl": "https://github.com/MKhayle/XIVComboExpanded",
                 "LastUpdate": 1786275830
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "dagpeijer",
+        "repo_url": "https://raw.githubusercontent.com/dagpeijer/FFXIV-Content-Tracker/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/dagpeijer/FFXIV-Content-Tracker",
+        "repo_name": "FFXIV-Content-Tracker",
+        "plugins": [
+            {
+                "Author": "dagpeijer",
+                "Name": "Content Tracker",
+                "InternalName": "ContentTracker",
+                "AssemblyVersion": "0.4.0.0",
+                "Description": "Tracks FFXIV duties, time spent, clears, wipes, Gil changes, multiple characters and encountered party/alliance members. Includes persistent local storage and Excel export.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/dagpeijer/FFXIV-Content-Tracker",
+                "LastUpdate": 1787353436
             }
         ]
     },
@@ -6287,11 +6305,11 @@
                 "Author": "Luis",
                 "Name": "PentaPenta",
                 "InternalName": "PentaPenta",
-                "AssemblyVersion": "0.1.44.0",
+                "AssemblyVersion": "0.1.52.0",
                 "Description": "Inventory picker and guarded pentameld queue. Defaults to Critical Hit > Direct Hit > Determination with strict no-overcap behavior.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Elagon-A/Penta-Penta",
-                "LastUpdate": 1787301417
+                "LastUpdate": 1787361296
             }
         ]
     },
@@ -6462,6 +6480,24 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Elmuti/FFXIVQuotesClient",
                 "LastUpdate": 1759671003
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "elpapityo",
+        "repo_url": "https://raw.githubusercontent.com/elpapityo/PTBattleLog/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/elpapityo/PTBattleLog",
+        "repo_name": "PTBattleLog",
+        "plugins": [
+            {
+                "Author": "Elpa",
+                "Name": "PT Battle Log",
+                "InternalName": "PTBattleLog",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "8人PTまでを対象に、DPS・回復・被ダメージ・蘇生・状態異常解除・スキル別集計などをリアルタイム表示し、過去ログの保存やCSV/Excel出力にも対応します。",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/elpapityo/PTBattleLog",
+                "LastUpdate": 1787360666
             }
         ]
     },
@@ -9372,6 +9408,34 @@
         ]
     },
     {
+        "repo_developer_name": "Hylieno",
+        "repo_url": "https://raw.githubusercontent.com/Hylieno/DalaLeno/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/Hylieno/DalaLeno",
+        "repo_name": "DalaLeno",
+        "plugins": [
+            {
+                "Author": "apetih + FR+ by Hylieno",
+                "Name": "Logogram Helper FR+",
+                "InternalName": "LogogramHelperFR",
+                "AssemblyVersion": "0.1.7.0",
+                "Description": "Conserve les fonctions originales de Logogram Helper, ajoute /logo, mémorise le dernier stock de logogrammes et indique de quel éclat vient chaque logogramme.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Hylieno/LogogramHelperFR",
+                "LastUpdate": 1787344163
+            },
+            {
+                "Author": "Hylieno",
+                "Name": "Occult Weakness",
+                "InternalName": "OccultWeakness",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "Associe des monstres à une faiblesse élémentaire et affiche l'icône correspondante à gauche du nom de la cible. Commande : /ocweak",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Hylieno/OccultWeakness",
+                "LastUpdate": 1787341616
+            }
+        ]
+    },
+    {
         "repo_developer_name": "i-wrote-this-myself",
         "repo_url": "https://raw.githubusercontent.com/i-wrote-this-myself/PotionSwapper/main/pluginmaster.json",
         "repo_source_url": "https://github.com/i-wrote-this-myself/PotionSwapper",
@@ -10370,6 +10434,24 @@
         ]
     },
     {
+        "repo_developer_name": "Jlynn209",
+        "repo_url": "https://raw.githubusercontent.com/Jlynn209/Undercutter/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/Jlynn209/Undercutter",
+        "repo_name": "Undercutter",
+        "plugins": [
+            {
+                "Author": "Jeremy Lynn",
+                "Name": "Undercutter",
+                "InternalName": "Undercutter",
+                "AssemblyVersion": "0.2.0.1",
+                "Description": "Right-click a marketable item in your inventory and pick \"Undercut price (copy)\" to query Universalis across your world, data center, or entire region, and copy the lowest-minus-1 gil price straight to your clipboard. \"Load in Undercutter\" opens a window with the full listing breakdown. A /undercut window is also available for manual lookups.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Jlynn209/Undercutter",
+                "LastUpdate": 1787358762
+            }
+        ]
+    },
+    {
         "repo_developer_name": "Jo44",
         "repo_url": "https://raw.githubusercontent.com/Jo44/LangSwap/main/repo.json",
         "repo_source_url": "https://github.com/Jo44/LangSwap",
@@ -10650,12 +10732,12 @@
                 "Author": "Meowmeowmeow Cat",
                 "Name": "Skyrim Compass",
                 "InternalName": "SkyrimCompass",
-                "AssemblyVersion": "2.0.1.0",
+                "AssemblyVersion": "2.0.1.1",
                 "Description": "Adds a Skyrim-style compass bar at the top of your screen. Shows cardinal directions, tick marks, and nearby entity markers (players, enemies, gathering nodes, and more). Use /compass to toggle and /compass config to open settings.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/JTayGang/MeowyUtils/main/SkyrimCompass/images/icon.png",
                 "RepoUrl": "https://github.com/JTayGang/MeowyUtils/tree/main/SkyrimCompass",
-                "LastUpdate": 1787113407
+                "LastUpdate": 1787361064
             },
             {
                 "Author": "Meowmeowmeow Cat",
@@ -10679,7 +10761,7 @@
                 "Author": "Meowmeowmeow Cat",
                 "Name": "Skyrim Compass",
                 "InternalName": "SkyrimCompass",
-                "AssemblyVersion": "2.0.1.0",
+                "AssemblyVersion": "2.0.1.1",
                 "Description": "Adds a Skyrim-style compass bar at the top of your screen. Shows cardinal directions, tick marks, and nearby entity markers (players, enemies, gathering nodes, and more). Use /compass to toggle and /compass config to open settings.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/JTayGang/MeowyUtils/main/SkyrimCompass/images/icon.png",
@@ -10694,7 +10776,7 @@
                 "Description": "Mirrors your live Moodles and Loci statuses onto each other, so whichever sync plugin you use (Snowcloak, Sundouleia, or anything else) picks up a unified status regardless of which backend it natively reads.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/JTayGang/MeowyUtils",
-                "LastUpdate": 1787122512
+                "LastUpdate": 1787361300
             }
         ]
     },
@@ -11947,11 +12029,11 @@
                 "Author": "kittenhaswares-ui",
                 "Name": "Seiton Sense",
                 "InternalName": "SeitonSense.Plugin",
-                "AssemblyVersion": "0.27.0.0",
+                "AssemblyVersion": "0.28.0.1",
                 "Description": "A local PvP HUD integrating an optional held-key Smart Kardia helper, set-only low-MP Focus Target and exact DRK Shadowbringer macro helpers, a top-center 3+ enemy alarm with sound/Sprint options, isolation, pressure and CC-protection cues, resource auras, fail-closed assists, team communication and target highlights.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kittenhaswares-ui/SeitonSense",
-                "LastUpdate": 1787329288
+                "LastUpdate": 1787352793
             }
         ]
     },
@@ -12249,7 +12331,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1787005318
+                "LastUpdate": 1787358011
             },
             {
                 "Author": "sourpuh",
@@ -12271,19 +12353,19 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1787307924,
+                "LastUpdate": 1787360113,
                 "is_ai_attributed": true
             },
             {
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.5.33",
+                "AssemblyVersion": "7.5.5.34",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1786941317
+                "LastUpdate": 1787332787
             },
             {
                 "Author": "Team Wrath",
@@ -15402,7 +15484,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MTVirux/DamageTerror/master/images/icon.png",
                 "RepoUrl": "https://github.com/MTVirux/DamageTerror",
-                "LastUpdate": 1787318640,
+                "LastUpdate": 1787348474,
                 "is_ai_attributed": true
             }
         ]
@@ -15679,12 +15761,12 @@
                 "Author": "naco-ff14",
                 "Name": "AltMate",
                 "InternalName": "AltMate",
-                "AssemblyVersion": "1.32.0.10",
+                "AssemblyVersion": "1.32.0.13",
                 "Description": "AltMate supports multiple FFXIV clients running on the same PC. It provides linked controls, housing tracking, Penumbra emote playback, and shared gil summaries. Data stays on the local PC. Japanese and English UI are supported.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/naco-ff14/AltMate/main/images/icon.png",
                 "RepoUrl": "https://github.com/naco-ff14/AltMate",
-                "LastUpdate": 1787328230
+                "LastUpdate": 1787354442
             }
         ]
     },
@@ -18537,12 +18619,12 @@
                 "Author": "Ramen",
                 "Name": "Meddle",
                 "InternalName": "Meddle.Plugin",
-                "AssemblyVersion": "0.1.55.0",
+                "AssemblyVersion": "0.1.56.0",
                 "Description": "Did I mention I'm a model? Export models to glTF format.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/PassiveModding/Meddle/main/icon.png",
                 "RepoUrl": "https://github.com/PassiveModding/Meddle",
-                "LastUpdate": 1783677507
+                "LastUpdate": 1787361061
             }
         ]
     },
@@ -19739,7 +19821,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1787307924,
+                "LastUpdate": 1787360113,
                 "is_ai_attributed": true
             },
             {
@@ -20515,7 +20597,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1787332270
+                "LastUpdate": 1787358011
             },
             {
                 "Author": "veyn, croizat",
@@ -25317,12 +25399,12 @@
                 "Author": "OhKannaDuh (fork maintained by T3chnicalD3ath)",
                 "Name": "Occult Helper",
                 "InternalName": "OccultHelper",
-                "AssemblyVersion": "1.10.0.7",
+                "AssemblyVersion": "1.10.0.8",
                 "Description": "OccultHelper is here to smooth out your Occult Crescent experience.\n- No more of that pesky 'walking' or 'finding chests'. That's for losers.\n- A cute little Fate and CE panel that'll tell you what rewards it gives AND help you automatically path to it, wowee.\n- An extra illegal 'illegal mode' for those of you that would rather be touching grass or playing a game with worthwhile content.\n\nCommand prefix: occulthelper (alias: och)\n  /occulthelper → Opens the main window\n  /occulthelper config → Opens config (aliases: cfg, c)\n  /occulthelper config list → Lists config keys\n  /occulthelper config get <key> → Prints a config value\n  /occulthelper config set <key> <value> → Sets a config value\n  /occulthelper buff → Start/stop a buff run\n  /occulthelper tp [fate|ce|pot] → Teleport toward nearest matching activity\n  /occulthelper illegal [on|off|toggle] → Control Illegal Mode (no arg opens the window)\n  /occulthelper cmd flag-active-ce → Flag registering CE on the map\n  /occulthelper cmd flag-active-fate → Flag a FATE on the map\n  /occulthelper cmd flag-active-non-pot-fate → Flag a non-pot FATE\n  /occulthelper reload-translations → Reload translation files (alias: rt)\n  /och … → Same as /occulthelper (legacy alias; also /occultcrescenthelper)",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/t3knical/DalamudPlugins/main/plugins/OccultHelper/icon.png",
                 "RepoUrl": "https://github.com/t3knical/DalamudPlugins",
-                "LastUpdate": 1787339842
+                "LastUpdate": 1787361914
             },
             {
                 "Author": "T3chnicalD3ath Inc.",
@@ -27023,7 +27105,7 @@
         "repo_name": "AlphaChannel",
         "plugins": [
             {
-                "Author": "K.I.R.O",
+                "Author": "Voudi",
                 "Name": "AlphaChannel",
                 "InternalName": "AlphaChannel.Plugin",
                 "AssemblyVersion": "1.0.9.0",
@@ -27236,12 +27318,12 @@
                 "Author": "WigglyMuffin, CryoTechnic",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "7.5.12",
+                "AssemblyVersion": "7.5.13",
                 "Description": "Created by Liza, maintained by WigglyMuffin, CryoTechnic. A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/WigglyMuffin/DalamudPlugins/main/icons/Questionable.png",
                 "RepoUrl": "https://github.com/WigglyMuffin/Questionable",
-                "LastUpdate": 1787089923
+                "LastUpdate": 1787356486
             }
         ]
     },
@@ -27255,12 +27337,12 @@
                 "Author": "WigglyMuffin, CryoTechnic",
                 "Name": "Questionable Plus",
                 "InternalName": "QuestionablePlus",
-                "AssemblyVersion": "7.5.12",
+                "AssemblyVersion": "7.5.13",
                 "Description": "Originally created by Liza Carvelli, now maintained and improved by WigglyMuffin and CryoTechnic.\n\nA tiny little quest helper plugin that automates quests where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way.\n\nNot all quests are supported, check Discord for support.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/WigglyMuffin/DalamudPlugins/main/icons/Questionable.png",
                 "RepoUrl": "https://github.com/WigglyMuffin/Questionable",
-                "LastUpdate": 1787089923
+                "LastUpdate": 1787356486
             }
         ]
     },
@@ -28400,12 +28482,12 @@
                 "Author": "youdianfengbao (基于 PunishXIV/Questionable)",
                 "Name": "Questionable (国服汉化)",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.3.0",
+                "AssemblyVersion": "15.306.3.2",
                 "Description": "国服汉化版自动任务插件，基于 PunishXIV/Questionable。可在尽可能的情况下自动完成游戏任务。\n所需插件：vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://qstxiv.github.io/icons/Questionable.png",
                 "RepoUrl": "https://github.com/youdianfengbao/Questionable",
-                "LastUpdate": 1787235581,
+                "LastUpdate": 1787357792,
                 "is_ai_attributed": true
             },
             {
