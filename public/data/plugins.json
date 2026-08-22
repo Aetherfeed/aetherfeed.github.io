@@ -2332,12 +2332,12 @@
                 "Author": "Aspher0",
                 "Name": "Bypass Emote",
                 "InternalName": "BypassEmote",
-                "AssemblyVersion": "2.0.0.0",
+                "AssemblyVersion": "2.0.1.1",
                 "Description": "A simple plugin that lets you play any game emote, whether you unlocked it or not.\nClient side only.\nJust type the emote command as you would normally.\nWorks with custom animations and syncable over Mare.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Aspher0/BypassEmote/main/Data/BypassEmote_LOGO.png",
                 "RepoUrl": "https://github.com/Aspher0/BypassEmote",
-                "LastUpdate": 1787381211
+                "LastUpdate": 1787405105
             }
         ]
     },
@@ -4608,14 +4608,14 @@
         "repo_name": "FFXIV-Content-Tracker",
         "plugins": [
             {
-                "Author": "dagpeijer",
+                "Author": "peijer",
                 "Name": "Content Tracker",
                 "InternalName": "ContentTracker",
-                "AssemblyVersion": "0.4.0.0",
+                "AssemblyVersion": "0.4.3.0",
                 "Description": "Tracks FFXIV duties, time spent, clears, wipes, Gil changes, multiple characters and encountered party/alliance members. Includes persistent local storage and Excel export.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dagpeijer/FFXIV-Content-Tracker",
-                "LastUpdate": 1787353436
+                "LastUpdate": 1787400685
             }
         ]
     },
@@ -4805,18 +4805,19 @@
         "repo_url": "https://raw.githubusercontent.com/dalagab/omega/main/repository/pluginmaster.json",
         "repo_source_url": "https://github.com/dalagab/omega",
         "repo_developer_name": "dalagab",
+        "repo_discord_url": "https://discord.gg/c79EeSDAU",
         "repo_name": "omega",
         "plugins": [
             {
                 "Author": "Dalagab Group",
                 "Name": "Omega",
                 "InternalName": "DalagabOmega",
-                "AssemblyVersion": "0.9.51.0",
+                "AssemblyVersion": "0.9.69.0",
                 "Description": "In-game third-party plugin installer. Heavy AI usage, not affiliated with Aetherfeed.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/dalagab/omega/main/images/icon.png",
                 "RepoUrl": "https://github.com/dalagab/omega/tree/main/Omega",
-                "LastUpdate": 1787237186,
+                "LastUpdate": 1787404786,
                 "is_ai_attributed": true
             }
         ]
@@ -5354,11 +5355,11 @@
                 "Author": "FF14 Accessibility Project",
                 "Name": "FF14 Accessibility",
                 "InternalName": "FF14Accessibility",
-                "AssemblyVersion": "5.88.0.0",
+                "AssemblyVersion": "5.89.0.0",
                 "Description": "Macht FF14 für blinde Spieler zugänglich via NVDA/TOLK Integration, Audio-Navigation und vollständiger Tastatursteuerung.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/derbruedi/ff14-accessibility",
-                "LastUpdate": 1787060360,
+                "LastUpdate": 1787406610,
                 "is_ai_attributed": true
             }
         ]
@@ -6493,11 +6494,11 @@
                 "Author": "Elpa",
                 "Name": "PT Battle Log",
                 "InternalName": "PTBattleLog",
-                "AssemblyVersion": "0.1.0.0",
+                "AssemblyVersion": "0.2.0.0",
                 "Description": "8人PTまでを対象に、DPS・回復・被ダメージ・蘇生・状態異常解除・スキル別集計などをリアルタイム表示し、過去ログの保存やCSV/Excel出力にも対応します。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/elpapityo/PTBattleLog",
-                "LastUpdate": 1787360666
+                "LastUpdate": 1787398124
             }
         ]
     },
@@ -10099,12 +10100,12 @@
                 "Author": "raynording",
                 "Name": "Dalamud ACT Compat",
                 "InternalName": "DalamudActCompat",
-                "AssemblyVersion": "0.3.9.24",
+                "AssemblyVersion": "0.3.9.25",
                 "Description": "Dalamud-side UI, storage, parser abstraction, and compatibility-host bridge for an ACT-compatible FFXIV parsing platform. This early build does not yet load FFXIV_ACT_Plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/JackyWilliam/DalamudActCompat/main/src/DalamudActCompat/Assets/act-logo.jpg",
                 "RepoUrl": "https://github.com/JackyWilliam/DalamudActCompat",
-                "LastUpdate": 1787309281,
+                "LastUpdate": 1787385600,
                 "is_ai_attributed": true
             }
         ]
@@ -10119,12 +10120,12 @@
                 "Author": "raynording",
                 "Name": "Dalamud ACT Compat",
                 "InternalName": "DalamudActCompat",
-                "AssemblyVersion": "0.3.9.24",
+                "AssemblyVersion": "0.3.9.25",
                 "Description": "Dalamud-side UI, storage, parser abstraction, and compatibility-host bridge for an ACT-compatible FFXIV parsing platform. This early build does not yet load FFXIV_ACT_Plugin.",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/JackyWilliam/DalamudActCompat/main/src/DalamudActCompat/Assets/act-logo.jpg",
+                "IconUrl": "https://raw.githubusercontent.com/JackyWilliam/DalamudActCompatRepo/main/act-logo-512.png",
                 "RepoUrl": "https://github.com/JackyWilliam/DalamudActCompat",
-                "LastUpdate": 1787310498,
+                "LastUpdate": 1787396972,
                 "is_ai_attributed": true
             }
         ]
@@ -14171,6 +14172,24 @@
         ]
     },
     {
+        "repo_developer_name": "Matthew-Brown-18",
+        "repo_url": "https://raw.githubusercontent.com/Matthew-Brown-18/FFXIV-Plugin-Test/main/repo.json",
+        "repo_source_url": "https://github.com/Matthew-Brown-18/FFXIV-Plugin-Test",
+        "repo_name": "FFXIV-Plugin-Test",
+        "plugins": [
+            {
+                "Author": "Matthew",
+                "Name": "Item Browser",
+                "InternalName": "ItemBrowser",
+                "AssemblyVersion": "1.2.2.0",
+                "Description": "Every equippable item in the game, in a categorized grid with icons. Hover to preview, apply to your character to see how it looks, and manage or remove what you are wearing.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Matthew-Brown-18/FFXIV-Plugin-Test",
+                "LastUpdate": 1787406482
+            }
+        ]
+    },
+    {
         "repo_developer_name": "Mbobchin",
         "repo_url": "https://raw.githubusercontent.com/Mbobchin/CountdownHide/master/repo.json",
         "repo_source_url": "https://github.com/Mbobchin/CountdownHide",
@@ -17722,6 +17741,25 @@
         ]
     },
     {
+        "repo_developer_name": "nucode1498",
+        "repo_url": "https://raw.githubusercontent.com/nucode1498/MyDalamudPlugins/master/pluginmaster.json",
+        "repo_source_url": "https://github.com/nucode1498/MyDalamudPlugins",
+        "repo_name": "MyDalamudPlugins",
+        "plugins": [
+            {
+                "Author": "nucode1498",
+                "Name": "XIV Combo Expanded",
+                "InternalName": "XIVComboExpanded",
+                "AssemblyVersion": "2.0.6.3",
+                "Description": "This plugin condenses combos and mutually exclusive abilities onto a single button.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/nucode1498/MyDalamudPlugins/master/plugins/XIVComboExpanded/images/icon.png",
+                "RepoUrl": "https://github.com/nucode1498/XIVComboExpanded",
+                "LastUpdate": 1787394099
+            }
+        ]
+    },
+    {
         "repo_url": "https://raw.githubusercontent.com/Nukoooo/DalamudPlugins/dev/pluginmaster.json",
         "repo_source_url": "https://github.com/Nukoooo/DalamudPlugins",
         "plugins": [
@@ -20353,12 +20391,12 @@
                 "Author": "Nexai",
                 "Name": "Mogmail",
                 "InternalName": "Mogmail",
-                "AssemblyVersion": "1.2.5.0",
+                "AssemblyVersion": "1.2.6.0",
                 "Description": "A better mail service. Bulk attachment claiming, bulk delete, and inventory pop.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/148",
                 "RepoUrl": "https://github.com/Nexaii/Mogmail",
-                "LastUpdate": 1785791163
+                "LastUpdate": 1787391691
             }
         ]
     },
@@ -25710,7 +25748,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ThatKwistine/WardrobePlugin/main/images/icon.png",
                 "RepoUrl": "https://github.com/ThatKwistine/WardrobePlugin",
-                "LastUpdate": 1787251228,
+                "LastUpdate": 1787406529,
                 "is_ai_attributed": true
             }
         ]
@@ -29024,11 +29062,11 @@
                 "Author": "akira0245, Ori, Kalle, Zune",
                 "Name": "MidiBard 2 (BETA)",
                 "InternalName": "ZuneBard",
-                "AssemblyVersion": "1.15.0.151",
+                "AssemblyVersion": "1.15.0.152",
                 "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zunetrix/MidiBard2",
-                "LastUpdate": 1786071480,
+                "LastUpdate": 1787405668,
                 "is_closed_source": true,
                 "is_ai_attributed": true
             },
@@ -29036,7 +29074,7 @@
                 "Author": "akira0245, Ori, Kalle, Zune",
                 "Name": "MidiBard 2 (ALPHA)",
                 "InternalName": "ZuneBardAlpha",
-                "AssemblyVersion": "1.15.0.151",
+                "AssemblyVersion": "1.15.0.152",
                 "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://midibard.org",
@@ -29059,18 +29097,18 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/zysilm/FFXIV-CombatSimulator/main/images/logo.png",
                 "RepoUrl": "https://github.com/zysilm/FFXIV-CombatSimulator",
-                "LastUpdate": 1787255740,
+                "LastUpdate": 1787392158,
                 "is_ai_attributed": true
             },
             {
                 "Author": "zysilm",
                 "Name": "Ragdoll System",
                 "InternalName": "RagdollSystem",
-                "AssemblyVersion": "2.8.0.1",
+                "AssemblyVersion": "2.8.0.3",
                 "Description": "Applies ragdoll physics to characters when they die in-game. Features per-bone physics configuration, hair physics simulation, terrain collision, and optional NPC death ragdoll support. Non-humanoid NPCs are handled gracefully with automatic bone-set detection.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zysilm/RagdollSystem",
-                "LastUpdate": 1787083432,
+                "LastUpdate": 1787391716,
                 "is_ai_attributed": true
             }
         ]
