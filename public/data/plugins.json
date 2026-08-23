@@ -663,12 +663,12 @@
                 "Author": "DhogGPT",
                 "Name": "Fren Rider",
                 "InternalName": "FrenRider",
-                "AssemblyVersion": "1.2.0.7",
+                "AssemblyVersion": "1.3.0.0",
                 "Description": "Native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider or /fr to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1787090318,
+                "LastUpdate": 1787512425,
                 "is_ai_attributed": true
             },
             {
@@ -2887,10 +2887,10 @@
                 "Author": "Bastaklis",
                 "Name": "Presettingway",
                 "InternalName": "Presettingway",
-                "AssemblyVersion": "0.1.1.1",
+                "AssemblyVersion": "0.2.0.0",
                 "Description": "Reads the current zone, weather, and time of day and publishes them over a Sharingway IPC channel so a companion ReShade addon can switch presets automatically. Use /presettingway to open the window, /presettingway status for a text summary, /presettingway config for settings.",
                 "RepoUrl": "https://github.com/Bastaklis1/Presettingway",
-                "LastUpdate": 1787233684
+                "LastUpdate": 1787508289
             }
         ]
     },
@@ -2904,10 +2904,10 @@
                 "Author": "Bastaklis",
                 "Name": "Presettingway",
                 "InternalName": "Presettingway",
-                "AssemblyVersion": "0.1.1.1",
+                "AssemblyVersion": "0.2.0.0",
                 "Description": "Reads the current zone, weather, and time of day and publishes them over a Sharingway IPC channel so a companion ReShade addon can switch presets automatically. Use /presettingway to open the window, /presettingway status for a text summary, /presettingway config for settings.",
                 "RepoUrl": "https://github.com/Bastaklis1/Presettingway",
-                "LastUpdate": 1787233684
+                "LastUpdate": 1787508289
             }
         ]
     },
@@ -5355,11 +5355,11 @@
                 "Author": "FF14 Accessibility Project",
                 "Name": "FF14 Accessibility",
                 "InternalName": "FF14Accessibility",
-                "AssemblyVersion": "5.89.0.0",
+                "AssemblyVersion": "5.91.0.0",
                 "Description": "Macht FF14 für blinde Spieler zugänglich via NVDA/TOLK Integration, Audio-Navigation und vollständiger Tastatursteuerung.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/derbruedi/ff14-accessibility",
-                "LastUpdate": 1787406610,
+                "LastUpdate": 1787512465,
                 "is_ai_attributed": true
             }
         ]
@@ -5385,11 +5385,11 @@
                 "Author": "deserokk",
                 "Name": "DeserokUtils",
                 "InternalName": "DeserokUtils",
-                "AssemblyVersion": "1.9.1.0",
+                "AssemblyVersion": "1.9.3.0",
                 "Description": "Small quality-of-life utilities, one feature per tab.\n\nCastWatch: gate a macro line on whether an action actually went off. Arm a watch above the /ac, then /ifwatch runs your line only if the action was accepted -- or cancels the macro if it was not. Works for instant casts, oGCDs and usable items, none of which produce a cast bar to observe. Optional target filters (--self, --notself, --party) and a {who} token that fills in whoever actually received it, which a vanilla macro cannot do.\n\nIt never composes or sends anything on your behalf; it only runs or suppresses a line you already wrote.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/deserokk/DeserokUtils",
-                "LastUpdate": 1787428460,
+                "LastUpdate": 1787512117,
                 "is_ai_attributed": true
             }
         ]
@@ -5404,11 +5404,11 @@
                 "Author": "deserokk",
                 "Name": "DeserokUtils",
                 "InternalName": "DeserokUtils",
-                "AssemblyVersion": "1.9.1.0",
+                "AssemblyVersion": "1.9.3.0",
                 "Description": "Small quality-of-life utilities, one feature per tab.\n\nCastWatch: gate a macro line on whether an action actually went off. Arm a watch above the /ac, then /ifwatch runs your line only if the action was accepted -- or cancels the macro if it was not. Works for instant casts, oGCDs and usable items, none of which produce a cast bar to observe. Optional target filters (--self, --notself, --party) and a {who} token that fills in whoever actually received it, which a vanilla macro cannot do.\n\nIt never composes or sends anything on your behalf; it only runs or suppresses a line you already wrote.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/deserokk/DeserokUtils",
-                "LastUpdate": 1787428460,
+                "LastUpdate": 1787512117,
                 "is_ai_attributed": true
             }
         ]
@@ -6306,11 +6306,11 @@
                 "Author": "Luis",
                 "Name": "PentaPenta",
                 "InternalName": "PentaPenta",
-                "AssemblyVersion": "0.1.77.0",
+                "AssemblyVersion": "0.1.82.0",
                 "Description": "Inventory picker and guarded pentameld queue. Defaults to Critical Hit > Direct Hit > Determination with strict no-overcap behavior.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Elagon-A/Penta-Penta",
-                "LastUpdate": 1787459005
+                "LastUpdate": 1787511985
             }
         ]
     },
@@ -6670,12 +6670,12 @@
                 "Author": "The Enceladeum",
                 "Name": "HMoniker",
                 "InternalName": "HMoniker",
-                "AssemblyVersion": "1.4.0.0",
+                "AssemblyVersion": "1.5.1.0",
                 "Description": "Changes your display name. Local only: visible only to yourself outside of HMS (HMapSync) sessions.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Enceladeum/HMoniker/main/images/icon.png",
                 "RepoUrl": "https://github.com/Enceladeum/HMoniker",
-                "LastUpdate": 1785795315,
+                "LastUpdate": 1787505967,
                 "is_ai_attributed": true
             },
             {
@@ -7572,12 +7572,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.5.35",
+                "AssemblyVersion": "7.5.5.36",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1787460526
+                "LastUpdate": 1787515244
             },
             {
                 "Author": "Churin",
@@ -10919,14 +10919,14 @@
         "plugins": [
             {
                 "Author": "JustPixelll",
-                "Name": "Should I Sell?",
+                "Name": "Should I?",
                 "InternalName": "ShouldISell",
-                "AssemblyVersion": "0.8.0.0",
+                "AssemblyVersion": "1.1.4.0",
                 "Description": "Analyze every known marketable item you own using live FFXIV Market Board data, Universalis history, supply and demand, stack behavior, vendor economics and after-tax value. Get sell ratings, suggested prices and stack sizes, full live audits, current-listing guidance, and recommended-listing payout estimates.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/JustPixelll/ShouldISell/main/images/icon.png",
                 "RepoUrl": "https://github.com/JustPixelll/ShouldISell",
-                "LastUpdate": 1787495674
+                "LastUpdate": 1787516820
             }
         ]
     },
@@ -11646,11 +11646,11 @@
                 "Author": "Kei Joi",
                 "Name": "Mair's Trivia",
                 "InternalName": "MairsTrivia",
-                "AssemblyVersion": "1.1.1.0",
+                "AssemblyVersion": "1.1.2.0",
                 "Description": "Host controls for Mair's Trivia. Open with /mairstrivia.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/KeiJoi/mairstrivia",
-                "LastUpdate": 1787150011
+                "LastUpdate": 1787504449
             }
         ]
     },
@@ -12360,7 +12360,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1787176799,
+                "LastUpdate": 1787517217,
                 "is_ai_attributed": true
             },
             {
@@ -12383,7 +12383,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1787438937
+                "LastUpdate": 1787509791
             },
             {
                 "Author": "sourpuh",
@@ -12417,7 +12417,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1787460526
+                "LastUpdate": 1787515244
             },
             {
                 "Author": "Team Wrath",
@@ -12428,7 +12428,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1787312789
+                "LastUpdate": 1787514606
             }
         ]
     },
@@ -12927,7 +12927,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/marzent/IINACT/master/images/icon.png",
                 "RepoUrl": "https://github.com/marzent/IINACT",
-                "LastUpdate": 1786125750
+                "LastUpdate": 1786732702
             },
             {
                 "Author": "Latihas",
@@ -12963,11 +12963,11 @@
                 "Author": "Latihas",
                 "Name": "SkyEye",
                 "InternalName": "SkyEye",
-                "AssemblyVersion": "7.51.1.1",
+                "AssemblyVersion": "7.55.1.0",
                 "Description": "改版SkyEye，原作者0x",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Latihas/SkyEye",
-                "LastUpdate": 1781599485
+                "LastUpdate": 1787502577
             },
             {
                 "Author": "Siren, Latihas",
@@ -12991,12 +12991,12 @@
                 "Author": "Legends of the Game",
                 "Name": "Time Memoria",
                 "InternalName": "TimeMemoriaV3",
-                "AssemblyVersion": "3.2.0.15",
+                "AssemblyVersion": "3.2.1.15",
                 "Description": "Quest progression and pacing — a reflective notebook for your story journey, not a scoreboard.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/LegendsOfTheGame/TimeMemoriaV3/main/assets/icon.png",
                 "RepoUrl": "https://github.com/LegendsOfTheGame/TimeMemoriaV3",
-                "LastUpdate": 1787086296,
+                "LastUpdate": 1787517755,
                 "is_ai_attributed": true
             }
         ]
@@ -13887,12 +13887,12 @@
                 "Author": "Maggie",
                 "Name": "Vestiary",
                 "InternalName": "Vestiary",
-                "AssemblyVersion": "1.1.6.0",
+                "AssemblyVersion": "1.1.7.2",
                 "Description": "A visual companion for Glamourer with outfit thumbnails, collections, and one-click application.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Magg-droid/Vestiary/main/Data/Vestiary.png",
                 "RepoUrl": "https://github.com/Magg-droid/Vestiary",
-                "LastUpdate": 1786770065,
+                "LastUpdate": 1787502176,
                 "is_ai_attributed": true
             }
         ]
@@ -14424,12 +14424,12 @@
                 "Author": "DhogGPT",
                 "Name": "Fren Rider",
                 "InternalName": "FrenRider",
-                "AssemblyVersion": "1.2.0.7",
+                "AssemblyVersion": "1.3.0.0",
                 "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1787090318,
+                "LastUpdate": 1787512425,
                 "is_ai_attributed": true
             }
         ]
@@ -15572,7 +15572,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MTVirux/DamageTerror/master/images/icon.png",
                 "RepoUrl": "https://github.com/MTVirux/DamageTerror",
-                "LastUpdate": 1787464492,
+                "LastUpdate": 1787500585,
                 "is_ai_attributed": true
             }
         ]
@@ -16603,10 +16603,10 @@
                 "Author": "Amadeus",
                 "Name": "Replica",
                 "InternalName": "Replica",
-                "AssemblyVersion": "1.0.6.70",
+                "AssemblyVersion": "1.0.6.85",
                 "Description": "Draws boss mechanics on the arena floor.",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/nightraidwiki/dalamud-plugins/main/images/icon.png",
+                "IconUrl": "https://raw.githubusercontent.com/nightraidwiki/Replica-Stable/main/images/icon.png",
                 "RepoUrl": "https://github.com/nightraidwiki/Replica"
             }
         ]
@@ -17971,12 +17971,12 @@
                 "Author": "ofnature",
                 "Name": "Odysseus",
                 "InternalName": "Odysseus",
-                "AssemblyVersion": "0.2.0.0",
+                "AssemblyVersion": "0.2.3.0",
                 "Description": "Automated Main Scenario questing. Walks each quest from accept to complete, travels between zones, resolves dialogue, and hands solo instances to BossMod Reborn and dungeons to Theseus. Progress is read back from the game's own quest state, so a crash, logout or reload resumes exactly where it stopped. Every character quests independently; a fleet dashboard shows where each one is. Companion to Daedalus and Theseus.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ofnature/Odysseus/main/images/icon.png",
                 "RepoUrl": "https://github.com/ofnature/Odysseus",
-                "LastUpdate": 1787453098,
+                "LastUpdate": 1787517095,
                 "is_ai_attributed": true
             }
         ]
@@ -18031,12 +18031,12 @@
                 "Author": "Faye, Kage",
                 "Name": "Better Occult Crescent & Chest Helper Interface",
                 "InternalName": "BOCCHI",
-                "AssemblyVersion": "4.1.0.8",
+                "AssemblyVersion": "4.1.0.9",
                 "Description": "BOCCHI is here to smooth out your Occult Crescent experience.\n- No more of that pesky 'walking' or 'finding chests'. That's for losers.\n- A cute little Fate and CE panel that'll tell you what rewards it gives AND help you automatically path to it, wowee.\n- An extre illegal 'illegal mode' for those of you that would rather be touching grass or playing a game with worthwhile content.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/OhKannaDuh/BOCCHI/master/assets/icon.png",
                 "RepoUrl": "https://github.com/OhKannaDuh/OccultCrescentHelper",
-                "LastUpdate": 1787442117
+                "LastUpdate": 1787506221
             }
         ]
     },
@@ -18260,11 +18260,12 @@
                 "Author": "Olympia-Guardian",
                 "Name": "Codex Olympia",
                 "InternalName": "CodexOlympia",
-                "AssemblyVersion": "0.4.0.0",
+                "AssemblyVersion": "0.12.1.0",
                 "Description": "Lit ce que ton personnage a debloque dans le jeu et l'envoie a Codex Olympia, a la demande. Rien n'est envoye sans que tu le demandes, et rien n'est jamais decoche a ta place : les ecarts te sont rapportes dans l'application, et c'est toi qui tranches.",
                 "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Olympia-Guardian/codex-olympia-dalamud/main/icon.png",
                 "RepoUrl": "https://github.com/Olympia-Guardian/codex-olympia-dalamud",
-                "LastUpdate": 1787494250
+                "LastUpdate": 1787515914
             }
         ]
     },
@@ -19439,7 +19440,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ponpoko-panda/DomanMahjongCoachJP/main/Mahjong.Plugin.Dalamud/Images/Icon.png",
                 "RepoUrl": "https://github.com/ponpoko-panda/DomanMahjongCoachJP",
-                "LastUpdate": 1787472000
+                "LastUpdate": 1787472000,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -20040,7 +20042,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/10",
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1787491471
+                "LastUpdate": 1787513157
             },
             {
                 "Author": "Team Wrath",
@@ -20051,7 +20053,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1787474101
+                "LastUpdate": 1787514606
             },
             {
                 "Author": "daemitus, croizat",
@@ -20123,7 +20125,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1787176799,
+                "LastUpdate": 1787517217,
                 "is_ai_attributed": true
             },
             {
@@ -20328,7 +20330,7 @@
                 "Author": "kawaii, NightmareXIV",
                 "Name": "Hyperborea",
                 "InternalName": "Hyperborea",
-                "AssemblyVersion": "1.0.0.37",
+                "AssemblyVersion": "1.0.1.2",
                 "Description": "Load and explore any zone in relative safety, mainly for taking GPoses in now inaccessible locations.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/45",
@@ -20793,7 +20795,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1787438937
+                "LastUpdate": 1787509791
             },
             {
                 "Author": "veyn, croizat",
@@ -21096,14 +21098,14 @@
                 "LastUpdate": 1781909100
             },
             {
-                "Author": "liza, qstxiv, & various contributors & QianChang",
+                "Author": "liza, qstxiv, & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.1.5601",
+                "AssemblyVersion": "15.306.3.0601",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/QianChangUwU/Questionable",
-                "LastUpdate": 1786704310,
+                "LastUpdate": 1787503182,
                 "is_ai_attributed": true
             }
         ]
@@ -22442,6 +22444,25 @@
                 "RepoUrl": "https://github.com/RikaKagurasaka/DamageInfoExtended",
                 "LastUpdate": 1787113871,
                 "is_ai_attributed": true
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Rin-0617",
+        "repo_url": "https://raw.githubusercontent.com/Rin-0617/Raidflow/master/pluginmaster.json",
+        "repo_source_url": "https://github.com/Rin-0617/Raidflow",
+        "repo_name": "Raidflow",
+        "plugins": [
+            {
+                "Author": "Rin",
+                "Name": "RaidFlow",
+                "InternalName": "RaidFlow",
+                "AssemblyVersion": "0.1.11.0",
+                "Description": "タイムライン作成、PTスロット別の軽減割り当て、ギミックメモのオーバーレイ表示、FFLogs URLからの下書き生成、.radflowのエクスポート/合成ができます。",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Rin-0617/Raidflow/master/images/icon.png",
+                "RepoUrl": "https://github.com/Rin-0617/Raidflow",
+                "LastUpdate": 1787510779
             }
         ]
     },
@@ -24403,12 +24424,12 @@
                 "Author": "XSZYYS",
                 "Name": "XSZToolbox",
                 "InternalName": "XSZToolbox",
-                "AssemblyVersion": "1.7.4.9",
+                "AssemblyVersion": "1.7.5.0",
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ShoOtaku/DalamudPlugins/main/plugins/XSZToolbox/icon.png",
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins/tree/main/plugins/XSZToolbox",
-                "LastUpdate": 1787374692,
+                "LastUpdate": 1787496074,
                 "is_closed_source": true
             }
         ]
@@ -25490,7 +25511,7 @@
                 "Author": "Suuria",
                 "Name": "Funny Duty Roulett Plugin",
                 "InternalName": "FunnyDutyRoulettPlugin",
-                "AssemblyVersion": "0.0.0.2",
+                "AssemblyVersion": "0.0.0.3",
                 "Description": "Verbindet sich über deine PlayerID mit Funny Duty Roulette, zeigt alle Job-Zuweisungen der aktuellen Session und prüft live, ob die Party bereits auf diese Jobs gewechselt ist.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Suuria/FunnyDutyRoulett"
@@ -25642,12 +25663,12 @@
                 "Author": "OhKannaDuh (fork maintained by T3chnicalD3ath)",
                 "Name": "Occult Helper",
                 "InternalName": "OccultHelper",
-                "AssemblyVersion": "1.10.0.18",
+                "AssemblyVersion": "1.10.0.19",
                 "Description": "OccultHelper is here to smooth out your Occult Crescent experience.\n- No more of that pesky 'walking' or 'finding chests'. That's for losers.\n- A cute little Fate and CE panel that'll tell you what rewards it gives AND help you automatically path to it, wowee.\n- An extra illegal 'illegal mode' for those of you that would rather be touching grass or playing a game with worthwhile content.\n\nCommand prefix: occulthelper (alias: och)\n  /occulthelper → Opens the main window\n  /occulthelper config → Opens config (aliases: cfg, c)\n  /occulthelper config list → Lists config keys\n  /occulthelper config get <key> → Prints a config value\n  /occulthelper config set <key> <value> → Sets a config value\n  /occulthelper buff → Start/stop a buff run\n  /occulthelper tp [fate|ce|pot] → Teleport toward nearest matching activity\n  /occulthelper illegal [on|off|toggle] → Control Illegal Mode (no arg opens the window)\n  /occulthelper cmd flag-active-ce → Flag registering CE on the map\n  /occulthelper cmd flag-active-fate → Flag a FATE on the map\n  /occulthelper cmd flag-active-non-pot-fate → Flag a non-pot FATE\n  /occulthelper reload-translations → Reload translation files (alias: rt)\n  /och … → Same as /occulthelper (legacy alias; also /occultcrescenthelper)",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/t3knical/DalamudPlugins/main/plugins/OccultHelper/icon.png",
                 "RepoUrl": "https://github.com/t3knical/DalamudPlugins",
-                "LastUpdate": 1787459344
+                "LastUpdate": 1787501769
             },
             {
                 "Author": "T3chnicalD3ath Inc.",
@@ -25943,11 +25964,11 @@
                 "Author": "Kamen; based on XivMediaPlayer by Sebastina (Sebane1)",
                 "Name": "DreamTV",
                 "InternalName": "DreamTV",
-                "AssemblyVersion": "0.3.0.0",
+                "AssemblyVersion": "0.4.0.0",
                 "Description": "Safety-focused in-game media playback with an independent companion for prebuffered YouTube video.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/TheKamenKi/DreamTVFFXIV",
-                "LastUpdate": 1787491342
+                "LastUpdate": 1787499122
             }
         ]
     },
@@ -27158,6 +27179,25 @@
         ]
     },
     {
+        "repo_developer_name": "vhub59",
+        "repo_url": "https://raw.githubusercontent.com/vhub59/ModArchiveBrowser/master/repo.json",
+        "repo_source_url": "https://github.com/vhub59/ModArchiveBrowser",
+        "repo_name": "ModArchiveBrowser",
+        "plugins": [
+            {
+                "Author": "Noevain, vhub59",
+                "Name": "XIV Mod Archive Browser",
+                "InternalName": "ModArchiveBrowser",
+                "AssemblyVersion": "0.8.3.0",
+                "Description": "Browse xivmodarchive.com from inside the game and install mods into Penumbra in one click. Fork of Noevain/ModArchiveBrowser, updated for Dalamud API 15.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/vhub59/ModArchiveBrowser/master/images/icon.png",
+                "RepoUrl": "https://github.com/vhub59/ModArchiveBrowser",
+                "LastUpdate": 1787514410
+            }
+        ]
+    },
+    {
         "repo_developer_name": "vibicer",
         "repo_url": "https://raw.githubusercontent.com/vibicer/Chat-Translator-AI/main/repo.json",
         "repo_source_url": "https://github.com/vibicer/Chat-Translator-AI",
@@ -27617,12 +27657,12 @@
                 "Author": "Will Corrigan",
                 "Name": "Wayfarer",
                 "InternalName": "Wayfarer",
-                "AssemblyVersion": "0.5.0.0",
+                "AssemblyVersion": "0.7.0.0",
                 "Description": "Guides you to your quest objective with an on-screen arrow that understands teleports, building entrances and city aethernet routing. Tracks every quest-unlockable feature, mount and dungeon you can pick up right now, and routes you to the quest givers.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/will-corrigan/Wayfarer/main/images/icon.png",
                 "RepoUrl": "https://github.com/will-corrigan/Wayfarer",
-                "LastUpdate": 1787495361
+                "LastUpdate": 1787516109
             }
         ]
     },
@@ -27867,12 +27907,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "1.0.0.8",
+                "AssemblyVersion": "1.0.0.9",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1787456620,
+                "LastUpdate": 1787515622,
                 "is_ai_attributed": true
             },
             {
@@ -27947,12 +27987,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "1.0.0.8",
+                "AssemblyVersion": "1.0.0.9",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1787456620,
+                "LastUpdate": 1787515622,
                 "is_ai_attributed": true
             }
         ]
@@ -28450,12 +28490,12 @@
                 "Author": "Yesanith",
                 "Name": "Regions of XIV",
                 "InternalName": "RegionsOfXIV",
-                "AssemblyVersion": "0.4.0.0",
+                "AssemblyVersion": "0.4.1.0",
                 "Description": "Announces the region, zone, area and sub-area you walk into with a styled, animated on-screen notification.\n\nInspired by Nekres' \"Regions of Tyria\" for Guild Wars 2.\n\nOpen settings with /regions.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Yesanith/RegionsOfXIV/master/assets/images/icon.png",
                 "RepoUrl": "https://github.com/Yesanith/RegionsOfXIV",
-                "LastUpdate": 1787294035,
+                "LastUpdate": 1787511595,
                 "is_ai_attributed": true
             }
         ]
