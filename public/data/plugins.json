@@ -2270,12 +2270,12 @@
                 "Author": "ashdam",
                 "Name": "Gubal Library",
                 "InternalName": "GubalLibrary",
-                "AssemblyVersion": "0.2.6.0",
+                "AssemblyVersion": "0.3.0.0",
                 "Description": "THE PLUGIN SHIPS EMPTY. It contains no translations. Installing it changes nothing: until you load a corpus, the game reads exactly as it always did.\n\nWhat it is, is a lookup engine. It loads a corpus file, matches what is on screen against it, and injects the result. It makes no network calls of any kind -- nothing is sent anywhere, and nothing is translated at runtime.\n\nYOU BRING THE CORPUS, and this project does not distribute one. The translations are somebody's separate work. Either use a corpus the community has published for your language, or build your own: the file format is documented in full so that starting from nothing is a real option, for any locale.\n\nThere is a self-test bundled -- two lines from one NPC, so you can tell a correct install from a broken one. Talk to Ahldskyf on the pier in Limsa Lominsa Lower Decks and they come out as Hello World. That is a smoke test, not content, and the settings window stays red for as long as it is all that is loaded.\n\nCoverage once you have a corpus: dialogue, quest text and cutscene speech (Talk), cutscene narration (TalkSubtitle), and speaker names. Battle callouts, speech balloons and the variant-dungeon banner are wired up but not yet characterised. This is a testing build -- please report problems on GitHub.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ashdam/gubal-library/main/images/icon.png",
                 "RepoUrl": "https://github.com/ashdam/gubal-library",
-                "LastUpdate": 1786895570,
+                "LastUpdate": 1787486863,
                 "is_ai_attributed": true
             }
         ]
@@ -2332,12 +2332,12 @@
                 "Author": "Aspher0",
                 "Name": "Bypass Emote",
                 "InternalName": "BypassEmote",
-                "AssemblyVersion": "2.0.1.1",
+                "AssemblyVersion": "2.1.0.0",
                 "Description": "A simple plugin that lets you play any game emote, whether you unlocked it or not.\nClient side only.\nJust type the emote command as you would normally.\nWorks with custom animations and syncable over Mare.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Aspher0/BypassEmote/main/Data/BypassEmote_LOGO.png",
                 "RepoUrl": "https://github.com/Aspher0/BypassEmote",
-                "LastUpdate": 1787405105
+                "LastUpdate": 1787492954
             }
         ]
     },
@@ -6486,6 +6486,24 @@
     },
     {
         "repo_developer_name": "elpapityo",
+        "repo_url": "https://raw.githubusercontent.com/elpapityo/CombatJobSettings/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/elpapityo/CombatJobSettings",
+        "repo_name": "CombatJobSettings",
+        "plugins": [
+            {
+                "Author": "Elpa",
+                "Name": "Combat Job Settings",
+                "InternalName": "CombatJobSettings",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "BossMod / BossMod Reborn / Rotation Solver Reborn / Wrath Combo の主要戦闘設定をまとめて確認・変更し、JOB・ロール・名前付きプリセットとして保存できます。",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/elpapityo/CombatJobSettings",
+                "LastUpdate": 1787492841
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "elpapityo",
         "repo_url": "https://raw.githubusercontent.com/elpapityo/PTBattleLog/main/pluginmaster.json",
         "repo_source_url": "https://github.com/elpapityo/PTBattleLog",
         "repo_name": "PTBattleLog",
@@ -6664,12 +6682,12 @@
                 "Author": "The Enceladeum",
                 "Name": "HMapSync (HMS)",
                 "InternalName": "HMSync",
-                "AssemblyVersion": "1.0.1.0",
+                "AssemblyVersion": "1.0.1.1",
                 "Description": "Load any in-game map client-side and explore it solo or with up to 20 friends, behind a packet filter that keeps the server seeing you as idle in your room. Shared weather, BGM and time; client-side mounts, emotes and minions; carpet floors for spots without collision; head-tilt and gaze sync for roleplay; and proximity say/yell passthrough. Co-op needs a relay key (closed beta); solo mode never connects to the relay.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Enceladeum/HMapSync/main/images/icon.png",
                 "RepoUrl": "https://github.com/Enceladeum/HMapSync",
-                "LastUpdate": 1787317588,
+                "LastUpdate": 1787492025,
                 "is_ai_attributed": true
             },
             {
@@ -7118,22 +7136,22 @@
                 "Author": "Etupa",
                 "Name": "EmoteGrid",
                 "InternalName": "EmoteGrid",
-                "AssemblyVersion": "1.1.0.0",
+                "AssemblyVersion": "1.2.0.0",
                 "Description": "A standalone plugin providing a scalable ImGui grid for emotes.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Etupa/EmoteGrid",
-                "LastUpdate": 1778597626,
+                "LastUpdate": 1787479922,
                 "is_ai_attributed": true
             },
             {
                 "Author": "Etupa",
                 "Name": "Nameplate Toggle",
                 "InternalName": "NameplateToggle",
-                "AssemblyVersion": "0.0.0.1",
+                "AssemblyVersion": "1.0.0.0",
                 "Description": "Quickly toggle nameplate presets via chat commands.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Etupa/NameplateToggle",
-                "LastUpdate": 1778597628,
+                "LastUpdate": 1787479931,
                 "is_ai_attributed": true
             }
         ]
@@ -7148,12 +7166,12 @@
                 "Author": "Etupa",
                 "Name": "EmoteGrid",
                 "InternalName": "EmoteGrid",
-                "AssemblyVersion": "1.1.0.0",
+                "AssemblyVersion": "1.2.0.0",
                 "Description": "A standalone plugin providing a scalable ImGui grid for emotes.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etupa/EmoteGrid/master/icon.png",
                 "RepoUrl": "https://github.com/Etupa/EmoteGrid",
-                "LastUpdate": 1778597626,
+                "LastUpdate": 1787479922,
                 "is_ai_attributed": true
             }
         ]
@@ -7168,12 +7186,12 @@
                 "Author": "Etupa",
                 "Name": "Nameplate Toggle",
                 "InternalName": "NameplateToggle",
-                "AssemblyVersion": "0.0.0.1",
+                "AssemblyVersion": "1.0.0.0",
                 "Description": "Quickly toggle nameplate presets via chat commands.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etupa/NameplateToggle/master/icon.png",
                 "RepoUrl": "https://github.com/Etupa/NameplateToggle",
-                "LastUpdate": 1778597628,
+                "LastUpdate": 1787479931,
                 "is_ai_attributed": true
             }
         ]
@@ -9835,11 +9853,11 @@
                 "Author": "heiyeshi",
                 "Name": "Lorekeeper",
                 "InternalName": "Lorekeeper",
-                "AssemblyVersion": "1.2.0.0",
+                "AssemblyVersion": "1.3.1.1",
                 "Description": "Tłumaczy dialogi NPC z Final Fantasy XIV na język polski przez konto OpenAI użytkownika i wyświetla je w nakładce ImGui oraz OBS. Tekst dialogu i nazwa mówcy są wysyłane do OpenAI. Otwórz ustawienia komendą /lore.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/its-hei/Lorekeeper",
-                "LastUpdate": 1786896126
+                "LastUpdate": 1787489773
             }
         ]
     },
@@ -10890,6 +10908,25 @@
                 "IconUrl": "https://raw.githubusercontent.com/JustPixelll/RetainerSorter/main/images/icon.png",
                 "RepoUrl": "https://github.com/JustPixelll/RetainerSorter",
                 "LastUpdate": 1787407739
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "JustPixelll",
+        "repo_url": "https://raw.githubusercontent.com/JustPixelll/ShouldISell/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/JustPixelll/ShouldISell",
+        "repo_name": "ShouldISell",
+        "plugins": [
+            {
+                "Author": "JustPixelll",
+                "Name": "Should I Sell?",
+                "InternalName": "ShouldISell",
+                "AssemblyVersion": "0.8.0.0",
+                "Description": "Analyze every known marketable item you own using live FFXIV Market Board data, Universalis history, supply and demand, stack behavior, vendor economics and after-tax value. Get sell ratings, suggested prices and stack sizes, full live audits, current-listing guidance, and recommended-listing payout estimates.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/JustPixelll/ShouldISell/main/images/icon.png",
+                "RepoUrl": "https://github.com/JustPixelll/ShouldISell",
+                "LastUpdate": 1787495674
             }
         ]
     },
@@ -12054,24 +12091,6 @@
     },
     {
         "repo_developer_name": "kittenhaswares-ui",
-        "repo_url": "https://raw.githubusercontent.com/kittenhaswares-ui/SeitonSense/main/repo.json",
-        "repo_source_url": "https://github.com/kittenhaswares-ui/SeitonSense",
-        "repo_name": "SeitonSense",
-        "plugins": [
-            {
-                "Author": "kittenhaswares-ui",
-                "Name": "Seiton Sense",
-                "InternalName": "SeitonSense.Plugin",
-                "AssemblyVersion": "0.29.0.1",
-                "Description": "A local PvP HUD integrating an optional held-key Smart Kardia helper, set-only low-MP Focus Target and exact DRK Shadowbringer macro helpers, a top-center 3+ enemy alarm with sound/Sprint options, isolation, pressure and CC-protection cues, resource auras, fail-closed assists, team communication and target highlights.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/kittenhaswares-ui/SeitonSense",
-                "LastUpdate": 1787373604
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "kittenhaswares-ui",
         "repo_url": "https://raw.githubusercontent.com/kittenhaswares-ui/SuperFocusGlow/main/repo.json",
         "repo_source_url": "https://github.com/kittenhaswares-ui/SuperFocusGlow",
         "repo_name": "SuperFocusGlow",
@@ -12640,11 +12659,11 @@
                 "Author": "Arty",
                 "Name": "RollTracker",
                 "InternalName": "RollTracker",
-                "AssemblyVersion": "0.1.0.38",
+                "AssemblyVersion": "0.1.0.44",
                 "Description": "Reads chat messages, detects /random rolls, shows all rolls plus highest and lowest roll in a small ImGui window. Commands: /rolltracker, /rt.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/la1998/RollTracker",
-                "LastUpdate": 1787366057
+                "LastUpdate": 1787492916
             }
         ]
     },
@@ -15679,11 +15698,11 @@
                 "Author": "MTVirux",
                 "Name": "PolyglotTerror",
                 "InternalName": "PolyglotTerror",
-                "AssemblyVersion": "1.0.0.0",
+                "AssemblyVersion": "1.0.0.1",
                 "Description": "Adds the item and action name in the languages you pick to the game's own tooltips and cast bars, read from the client's own data.\n\nDM @mtvirux on discord for assistance or bug reports.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/MTVirux/PolyglotTerror",
-                "LastUpdate": 1787183524
+                "LastUpdate": 1787494256
             }
         ]
     },
@@ -18232,6 +18251,24 @@
         ]
     },
     {
+        "repo_developer_name": "Olympia-Guardian",
+        "repo_url": "https://raw.githubusercontent.com/Olympia-Guardian/codex-olympia-dalamud/main/repo.json",
+        "repo_source_url": "https://github.com/Olympia-Guardian/codex-olympia-dalamud",
+        "repo_name": "codex-olympia-dalamud",
+        "plugins": [
+            {
+                "Author": "Olympia-Guardian",
+                "Name": "Codex Olympia",
+                "InternalName": "CodexOlympia",
+                "AssemblyVersion": "0.4.0.0",
+                "Description": "Lit ce que ton personnage a debloque dans le jeu et l'envoie a Codex Olympia, a la demande. Rien n'est envoye sans que tu le demandes, et rien n'est jamais decoche a ta place : les ecarts te sont rapportes dans l'application, et c'est toi qui tranches.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Olympia-Guardian/codex-olympia-dalamud",
+                "LastUpdate": 1787494250
+            }
+        ]
+    },
+    {
         "repo_developer_name": "Ombra-Studios",
         "repo_url": "https://raw.githubusercontent.com/Ombra-Studios/BardMidi/main/pluginmaster.json",
         "repo_source_url": "https://github.com/Ombra-Studios/BardMidi",
@@ -19388,6 +19425,25 @@
         ]
     },
     {
+        "repo_developer_name": "ponpoko-panda",
+        "repo_url": "https://raw.githubusercontent.com/ponpoko-panda/DomanMahjongCoachJP/main/repo.json",
+        "repo_source_url": "https://github.com/ponpoko-panda/DomanMahjongCoachJP",
+        "repo_name": "DomanMahjongCoachJP",
+        "plugins": [
+            {
+                "Author": "YOSHIKI / upstream contributors",
+                "Name": "Doman Mahjong Coach JP Alpha",
+                "InternalName": "Mahjong.Plugin.Dalamud",
+                "AssemblyVersion": "0.2.0.0",
+                "Description": "Local-first hints, replay logging, and JP diagnostics. No automatic play or packet handling.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/ponpoko-panda/DomanMahjongCoachJP/main/Mahjong.Plugin.Dalamud/Images/Icon.png",
+                "RepoUrl": "https://github.com/ponpoko-panda/DomanMahjongCoachJP",
+                "LastUpdate": 1787472000
+            }
+        ]
+    },
+    {
         "repo_developer_name": "porys",
         "repo_url": "https://raw.githubusercontent.com/porys/TomestoneTranslate/main/deploy/pluginmaster.json",
         "repo_source_url": "https://github.com/porys/TomestoneTranslate",
@@ -19984,7 +20040,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/10",
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1787015104
+                "LastUpdate": 1787491471
             },
             {
                 "Author": "Team Wrath",
@@ -19995,7 +20051,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1787312789
+                "LastUpdate": 1787474101
             },
             {
                 "Author": "daemitus, croizat",
@@ -25891,7 +25947,7 @@
                 "Description": "Safety-focused in-game media playback with an independent companion for prebuffered YouTube video.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/TheKamenKi/DreamTVFFXIV",
-                "LastUpdate": 1787472201
+                "LastUpdate": 1787491342
             }
         ]
     },
@@ -26110,12 +26166,12 @@
                 "Author": "UMADcorp",
                 "Name": "UMADAnoMech",
                 "InternalName": "UMADAnoMech",
-                "AssemblyVersion": "0.1.0.1",
+                "AssemblyVersion": "0.1.0.2",
                 "Description": "Spawns fake party members and bosses client-side so you can practice raid mechanics without a full party.",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/TibbyTech/UMADAnoMech/master/UMADcorp.png",
+                "IconUrl": "https://raw.githubusercontent.com/TibbyTech/UMADAnoMech/master/TibbyIcon.png",
                 "RepoUrl": "https://github.com/TibbyTech/UMADAnoMech",
-                "LastUpdate": 1787313374
+                "LastUpdate": 1787478523
             }
         ]
     },
@@ -26709,7 +26765,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/UnlostWorld/PeerSync/refs/heads/main/Resources/icon.png",
                 "RepoUrl": "https://github.com/UnlostWorld/PeerSync",
-                "LastUpdate": 1787469515
+                "LastUpdate": 1787483281
             }
         ]
     },
@@ -27512,12 +27568,12 @@
                 "Author": "MacaronDream, DhogGPT, XA",
                 "Name": "Questionable Companion",
                 "InternalName": "QSTCompanion",
-                "AssemblyVersion": "1.1.16.0",
+                "AssemblyVersion": "1.1.17.0",
                 "Description": "Automated character rotation and quest sequence execution for Questionable.\n\nAutomates multi-character MSQ progression by intelligently switching between characters based on quest completion and level requirements. Features include:\n- Automatic character switching and quest tracking\n- MSQ progression monitoring across all characters\n- Allied Society quest rotation and prioritization\n- Event quest automation with prerequisite checking\n- Chauffeur Mode for following main character through quests\n- Data Center travel automation\n- Stop point configuration for controlled progression\n\nRequired Plugins: Questionable, AutoRetainer",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MacaronDream/QSTCompanion/main/icon.png",
                 "RepoUrl": "https://github.com/MacaronDream/QSTCompanion",
-                "LastUpdate": 1787437150
+                "LastUpdate": 1787473917
             },
             {
                 "Author": "WigglyMuffin, CryoTechnic",
@@ -27561,12 +27617,12 @@
                 "Author": "Will Corrigan",
                 "Name": "Wayfarer",
                 "InternalName": "Wayfarer",
-                "AssemblyVersion": "0.4.0.0",
+                "AssemblyVersion": "0.5.0.0",
                 "Description": "Guides you to your quest objective with an on-screen arrow that understands teleports, building entrances and city aethernet routing. Tracks every quest-unlockable feature, mount and dungeon you can pick up right now, and routes you to the quest givers.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/will-corrigan/Wayfarer/main/images/icon.png",
                 "RepoUrl": "https://github.com/will-corrigan/Wayfarer",
-                "LastUpdate": 1787449957
+                "LastUpdate": 1787495361
             }
         ]
     },
@@ -28632,12 +28688,12 @@
                 "Author": "youdianfengbao (基于 PunishXIV/AutoRetainer)",
                 "Name": "AutoRetainer (国服汉化)",
                 "InternalName": "AutoRetainer",
-                "AssemblyVersion": "4.6.1.11",
+                "AssemblyVersion": "4.6.1.12",
                 "Description": "自动收取雇员探险成果并重新派遣，支持多角色轮换、潜水艇/飞空艇管理、物品清理等。国服中文汉化版。\n汉化来源：Ookura-Risona/AutoRetainer",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png",
                 "RepoUrl": "https://github.com/youdianfengbao/AutoRetainer",
-                "LastUpdate": 1787149430
+                "LastUpdate": 1787492835
             },
             {
                 "Author": "youdianfengbao (基于 NeNeppie/AvantGarde)",
