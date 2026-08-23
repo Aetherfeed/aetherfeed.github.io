@@ -9,7 +9,7 @@
                 "Author": "ocealot",
                 "Name": "[BETA] VFXEditor",
                 "InternalName": "VFXEditor-Beta",
-                "AssemblyVersion": "1.9.4.3",
+                "AssemblyVersion": "1.9.4.4",
                 "Description": "VFX, animation, and sound editing plugin. Icon by PAPACHIN",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/0ceal0t/Dalamud-VFXEditor/main/assets/icon.png",
@@ -608,7 +608,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dad/main/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/dad",
-                "LastUpdate": 1787274151,
+                "LastUpdate": 1787446914,
                 "is_ai_attributed": true
             },
             {
@@ -2660,12 +2660,12 @@
                 "Author": "Saik",
                 "Name": "Linkshell Sync",
                 "InternalName": "LinkshellSync",
-                "AssemblyVersion": "0.4.0.0",
+                "AssemblyVersion": "0.4.2.0",
                 "Description": "Linkshell Sync reads your own character in game (jobs and levels, gear and gearsets, collections, achievements, titles, currencies and playtime) and keeps your profile on Linkshell up to date while you play. Nothing is read and nothing is sent until you switch upload on, and only the character you are logged in as is ever read. To connect a character, mint a claim code on https://linkshell.fanfuse.app, then run /lsync in game, paste the code and claim the character.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ATroschke/xiv-linkshell-dist/main/plugins/LinkshellSync/icon.png",
                 "RepoUrl": "https://github.com/ATroschke/xiv-linkshell-dist",
-                "LastUpdate": 1787428563,
+                "LastUpdate": 1787442249,
                 "is_ai_attributed": true
             }
         ]
@@ -6107,12 +6107,12 @@
                 "Author": "Eauldane",
                 "Name": "Snowcloak Sync",
                 "InternalName": "Snowcloak",
-                "AssemblyVersion": "4.1.1.0",
+                "AssemblyVersion": "4.1.1.1",
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Eauldane/SnowcloakClient/refs/heads/main/Snowcloak/images/logo.png",
                 "RepoUrl": "https://github.com/Eauldane/SnowcloakClient",
-                "LastUpdate": 1787424330
+                "LastUpdate": 1787434373
             },
             {
                 "Author": "Eauldane",
@@ -6306,11 +6306,11 @@
                 "Author": "Luis",
                 "Name": "PentaPenta",
                 "InternalName": "PentaPenta",
-                "AssemblyVersion": "0.1.67.0",
+                "AssemblyVersion": "0.1.69.0",
                 "Description": "Inventory picker and guarded pentameld queue. Defaults to Critical Hit > Direct Hit > Determination with strict no-overcap behavior.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Elagon-A/Penta-Penta",
-                "LastUpdate": 1787426290
+                "LastUpdate": 1787448765
             }
         ]
     },
@@ -9418,11 +9418,11 @@
                 "Author": "apetih + FR+ by Hylieno",
                 "Name": "Logogram Helper FR+",
                 "InternalName": "LogogramHelperFR",
-                "AssemblyVersion": "0.1.7.0",
+                "AssemblyVersion": "0.1.8.7",
                 "Description": "Conserve les fonctions originales de Logogram Helper, ajoute /logo, mémorise le dernier stock de logogrammes et indique de quel éclat vient chaque logogramme.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Hylieno/LogogramHelperFR",
-                "LastUpdate": 1787344163
+                "LastUpdate": 1787441420
             },
             {
                 "Author": "Hylieno",
@@ -12364,7 +12364,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1787364092
+                "LastUpdate": 1787438937
             },
             {
                 "Author": "sourpuh",
@@ -12381,12 +12381,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.3.2",
+                "AssemblyVersion": "15.306.3.6",
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1787360113,
+                "LastUpdate": 1787442353,
                 "is_ai_attributed": true
             },
             {
@@ -13375,6 +13375,24 @@
                 "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/DynamicBridge/main/DynamicBridge/images/icon.png",
                 "RepoUrl": "https://github.com/Limiana/DynamicBridgeStandalone",
                 "LastUpdate": 1781308393
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "link-0402",
+        "repo_url": "https://raw.githubusercontent.com/link-0402/Instant-Edit/main/repo.json",
+        "repo_source_url": "https://github.com/link-0402/Instant-Edit",
+        "repo_name": "Instant-Edit",
+        "plugins": [
+            {
+                "Author": "Luci",
+                "Name": "Instant Edit",
+                "InternalName": "InstantEdit",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "Lists models currently on screen and sends them to Blender through the XIV Instant Edit add-on. Quick Export writes edited models back to their original Penumbra mod path.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/link-0402/Instant-Edit",
+                "LastUpdate": 1787445870
             }
         ]
     },
@@ -15153,12 +15171,12 @@
                 "Author": "Miragium",
                 "Name": "Body Flux",
                 "InternalName": "BodyFlux",
-                "AssemblyVersion": "0.8.0.0",
+                "AssemblyVersion": "0.8.1.0",
                 "Description": "Animates Customize+ bone scales from your current profile values toward a configurable target. Use /bodyflux to open the control window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/miragiumxiv/BodyFlux/master/BodyFlux/images/icon.png",
                 "RepoUrl": "https://github.com/miragiumxiv/BodyFlux",
-                "LastUpdate": 1787325659
+                "LastUpdate": 1787431611
             }
         ]
     },
@@ -15830,12 +15848,12 @@
                 "Author": "naco-ff14",
                 "Name": "AltMate",
                 "InternalName": "AltMate",
-                "AssemblyVersion": "1.32.0.15",
+                "AssemblyVersion": "1.32.0.16",
                 "Description": "AltMate supports multiple FFXIV clients running on the same PC. It provides linked controls, housing tracking, Penumbra emote playback, and shared gil summaries. Data stays on the local PC. Japanese and English UI are supported.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/naco-ff14/AltMate/main/images/icon.png",
                 "RepoUrl": "https://github.com/naco-ff14/AltMate",
-                "LastUpdate": 1787377639
+                "LastUpdate": 1787442773
             }
         ]
     },
@@ -16305,7 +16323,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/NeXzRo/Stuff/main/BetterTargetingSystemPvP/icon.png",
                 "RepoUrl": "https://github.com/NeXzRo/BetterTargetingSystem",
-                "LastUpdate": 1787358654
+                "LastUpdate": 1787445230
             },
             {
                 "Author": "goat, Maple",
@@ -16315,7 +16333,7 @@
                 "Description": "This plugin shows the destination zone's concept art while loading.\nNOTE: ONLY LOOKS RIGHT ON 16:9 SCREENS! The concept art is not any bigger, and we can't expand/fix it. Sorry!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NeXzRo/Dalamud.LoadingImage",
-                "LastUpdate": 1784518065
+                "LastUpdate": 1787448891
             }
         ]
     },
@@ -16584,7 +16602,7 @@
                 "Author": "Amadeus",
                 "Name": "Replica",
                 "InternalName": "Replica",
-                "AssemblyVersion": "1.0.6.54",
+                "AssemblyVersion": "1.0.6.70",
                 "Description": "Draws boss mechanics on the arena floor.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/nightraidwiki/dalamud-plugins/main/images/icon.png",
@@ -17932,12 +17950,12 @@
                 "Author": "ofnature",
                 "Name": "Charon",
                 "InternalName": "Charon",
-                "AssemblyVersion": "0.1.30",
+                "AssemblyVersion": "0.1.31",
                 "Description": "Auto pillion with smart seat scanning and whitelisted auto group invite. Companion to Daedalus.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ofnature/Charon/main/images/icon.png",
                 "RepoUrl": "https://github.com/ofnature/Charon",
-                "LastUpdate": 1786902074,
+                "LastUpdate": 1787445959,
                 "is_ai_attributed": true
             }
         ]
@@ -18012,12 +18030,12 @@
                 "Author": "Faye, Kage",
                 "Name": "Better Occult Crescent & Chest Helper Interface",
                 "InternalName": "BOCCHI",
-                "AssemblyVersion": "4.1.0.7",
+                "AssemblyVersion": "4.1.0.8",
                 "Description": "BOCCHI is here to smooth out your Occult Crescent experience.\n- No more of that pesky 'walking' or 'finding chests'. That's for losers.\n- A cute little Fate and CE panel that'll tell you what rewards it gives AND help you automatically path to it, wowee.\n- An extre illegal 'illegal mode' for those of you that would rather be touching grass or playing a game with worthwhile content.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/OhKannaDuh/BOCCHI/master/assets/icon.png",
                 "RepoUrl": "https://github.com/OhKannaDuh/OccultCrescentHelper",
-                "LastUpdate": 1787331894
+                "LastUpdate": 1787442117
             }
         ]
     },
@@ -19874,7 +19892,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/47",
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1787332633
+                "LastUpdate": 1787448052
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -19956,12 +19974,12 @@
                 "Author": "the Puni.sh Quest Squad",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.3.5",
+                "AssemblyVersion": "15.306.3.6",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1787426742,
+                "LastUpdate": 1787442353,
                 "is_ai_attributed": true
             },
             {
@@ -20737,7 +20755,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1787364092
+                "LastUpdate": 1787438937
             },
             {
                 "Author": "veyn, croizat",
@@ -23201,12 +23219,12 @@
                 "Author": "saewoo",
                 "Name": "saewoo's Glamour Log",
                 "InternalName": "GlamourLog",
-                "AssemblyVersion": "15.10000",
+                "AssemblyVersion": "15.10002",
                 "Description": "A log for all your glamours and other glam-related tweaks",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/saewoo-dalamud/ffxiv_glamourlog/main/GlamourLog/images/icon.png",
                 "RepoUrl": "https://github.com/saewoo-dalamud/ffxiv_glamourlog",
-                "LastUpdate": 1787249585
+                "LastUpdate": 1787435778
             },
             {
                 "Author": "saewoo",
@@ -23217,7 +23235,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/saewoo-dalamud/HuntTrainAssistant/main/HuntTrainAssistant/images/icon.png",
                 "RepoUrl": "https://github.com/saewoo-dalamud/HuntTrainAssistant",
-                "LastUpdate": 1787249293
+                "LastUpdate": 1787435511
             }
         ]
     },
@@ -24925,12 +24943,12 @@
                 "Author": "lcc",
                 "Name": "LCC Tools",
                 "InternalName": "lccTools",
-                "AssemblyVersion": "0.1.0.5",
+                "AssemblyVersion": "0.1.0.7",
                 "Description": "LCC 的综合工具箱：提供游戏状态与悬停 ID 调试、自动复活和食物、PvP 好友雷达、分场景移动速度、按角色隔离的物品收录，以及带缓存、成交历史和众包上传的 Universalis 市场查询。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/spqrwk/LccTools-DalamudRepo/main/icons/icon.png",
                 "RepoUrl": "https://github.com/spqrwk/LccTools-DalamudRepo",
-                "LastUpdate": 1787424702
+                "LastUpdate": 1787431623
             }
         ]
     },
@@ -25549,12 +25567,12 @@
                 "Author": "OhKannaDuh (fork maintained by T3chnicalD3ath)",
                 "Name": "Occult Helper",
                 "InternalName": "OccultHelper",
-                "AssemblyVersion": "1.10.0.13",
+                "AssemblyVersion": "1.10.0.14",
                 "Description": "OccultHelper is here to smooth out your Occult Crescent experience.\n- No more of that pesky 'walking' or 'finding chests'. That's for losers.\n- A cute little Fate and CE panel that'll tell you what rewards it gives AND help you automatically path to it, wowee.\n- An extra illegal 'illegal mode' for those of you that would rather be touching grass or playing a game with worthwhile content.\n\nCommand prefix: occulthelper (alias: och)\n  /occulthelper → Opens the main window\n  /occulthelper config → Opens config (aliases: cfg, c)\n  /occulthelper config list → Lists config keys\n  /occulthelper config get <key> → Prints a config value\n  /occulthelper config set <key> <value> → Sets a config value\n  /occulthelper buff → Start/stop a buff run\n  /occulthelper tp [fate|ce|pot] → Teleport toward nearest matching activity\n  /occulthelper illegal [on|off|toggle] → Control Illegal Mode (no arg opens the window)\n  /occulthelper cmd flag-active-ce → Flag registering CE on the map\n  /occulthelper cmd flag-active-fate → Flag a FATE on the map\n  /occulthelper cmd flag-active-non-pot-fate → Flag a non-pot FATE\n  /occulthelper reload-translations → Reload translation files (alias: rt)\n  /och … → Same as /occulthelper (legacy alias; also /occultcrescenthelper)",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/t3knical/DalamudPlugins/main/plugins/OccultHelper/icon.png",
                 "RepoUrl": "https://github.com/t3knical/DalamudPlugins",
-                "LastUpdate": 1787428288
+                "LastUpdate": 1787433028
             },
             {
                 "Author": "T3chnicalD3ath Inc.",
@@ -27258,7 +27276,7 @@
                 "Author": "Voudi",
                 "Name": "AlphaChannel",
                 "InternalName": "AlphaChannel.Plugin",
-                "AssemblyVersion": "2.0.0.1",
+                "AssemblyVersion": "2.1.1.0",
                 "Description": "Renders an in-world video screen and syncs playback with other players running AlphaChannel over a self-hosted relay.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Kodie0/AlphaChannelKodie",
@@ -27457,12 +27475,12 @@
                 "Author": "MacaronDream, DhogGPT, XA",
                 "Name": "Questionable Companion",
                 "InternalName": "QSTCompanion",
-                "AssemblyVersion": "1.1.15.0",
+                "AssemblyVersion": "1.1.16.0",
                 "Description": "Automated character rotation and quest sequence execution for Questionable.\n\nAutomates multi-character MSQ progression by intelligently switching between characters based on quest completion and level requirements. Features include:\n- Automatic character switching and quest tracking\n- MSQ progression monitoring across all characters\n- Allied Society quest rotation and prioritization\n- Event quest automation with prerequisite checking\n- Chauffeur Mode for following main character through quests\n- Data Center travel automation\n- Stop point configuration for controlled progression\n\nRequired Plugins: Questionable, AutoRetainer",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MacaronDream/QSTCompanion/main/icon.png",
                 "RepoUrl": "https://github.com/MacaronDream/QSTCompanion",
-                "LastUpdate": 1787253921
+                "LastUpdate": 1787437150
             },
             {
                 "Author": "WigglyMuffin, CryoTechnic",
@@ -27506,12 +27524,12 @@
                 "Author": "Will Corrigan",
                 "Name": "Wayfarer",
                 "InternalName": "Wayfarer",
-                "AssemblyVersion": "0.3.0.0",
+                "AssemblyVersion": "0.4.0.0",
                 "Description": "Guides you to your quest objective with an on-screen arrow that understands teleports, building entrances and city aethernet routing. Tracks every quest-unlockable feature, mount and dungeon you can pick up right now, and routes you to the quest givers.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/will-corrigan/Wayfarer/main/images/icon.png",
                 "RepoUrl": "https://github.com/will-corrigan/Wayfarer",
-                "LastUpdate": 1787420174
+                "LastUpdate": 1787449957
             }
         ]
     },
@@ -28520,12 +28538,12 @@
                 "Author": "yocopk",
                 "Name": "MogHouse Companion",
                 "InternalName": "MogHouseCompanion",
-                "AssemblyVersion": "0.3.0.0",
+                "AssemblyVersion": "0.4.0.0",
                 "Description": "Companion plugin for MogHouse (mog-house.com).\n\nAn all-in-one home for quality-of-life tools that link FINAL FANTASY XIV to your MogHouse account. Tools are added over time; each one can be switched on or off individually, and nothing leaves the game unless you enable it.\n\nTimers: reads the timers you already see in the game's own Timers window (CTRL+U), including submarine and airship voyages, retainer ventures, map and leve allowances, custom deliveries and allied society dailies, and syncs them to your profile. MogHouse then pushes you a notification the moment one comes up, on web and mobile, even while the game and your PC are off. Voyages are timed to the last vessel back, so one notification means the whole fleet is home.\n\nDuty Finder: when the confirm window appears, MogHouse pushes the duty or roulette name to your phone, so you know whether it is worth the sprint back to the desk. By default it stays quiet while the game is the window you are looking at.\n\nThe plugin is read-only: it collects your own data and reports status. It never performs an in-game action — it will not commence a duty for you, and it does not skip, confirm or automate anything.\n\nOpen it with /moghouse. Requires a MogHouse account, and a free one is enough: it syncs one character and sends one timer alert of your choosing, plus duty pops. Mog+ lifts both limits and warns you before a timer lands rather than as it does.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/yocopk/moghouse-dalamud/main/images/icon.png",
                 "RepoUrl": "https://github.com/yocopk/moghouse-dalamud",
-                "LastUpdate": 1786889502
+                "LastUpdate": 1787437932
             }
         ]
     },
@@ -28598,12 +28616,12 @@
                 "Author": "youdianfengbao (基于 KanoNoUta/BossmodRebornCN)",
                 "Name": "BossMod Reborn CN (国服汉化)",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.5.44",
+                "AssemblyVersion": "7.5.5.45",
                 "Description": "BossMod Reborn 国服 7.55 适配版，提供副本与大型探索任务的机制提示。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/youdianfengbao/BossmodRebornCN",
-                "LastUpdate": 1787117469,
+                "LastUpdate": 1787449441,
                 "is_ai_attributed": true
             },
             {
@@ -28632,12 +28650,12 @@
                 "Author": "youdianfengbao (基于 PunishXIV/Questionable)",
                 "Name": "Questionable (国服汉化)",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.3.2",
+                "AssemblyVersion": "15.306.3.6",
                 "Description": "国服汉化版自动任务插件，基于 PunishXIV/Questionable。可在尽可能的情况下自动完成游戏任务。\n所需插件：vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://qstxiv.github.io/icons/Questionable.png",
                 "RepoUrl": "https://github.com/youdianfengbao/Questionable",
-                "LastUpdate": 1787357792,
+                "LastUpdate": 1787450568,
                 "is_ai_attributed": true
             },
             {
