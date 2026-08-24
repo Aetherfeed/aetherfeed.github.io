@@ -491,12 +491,12 @@
                 "Author": "Astraea, nihal_shadescale",
                 "Name": "AetherLove - AetherOS",
                 "InternalName": "AetherLovePlugin",
-                "AssemblyVersion": "2.5.0.0",
+                "AssemblyVersion": "2.5.1.0",
                 "Description": "FFXIV in-game dating and matchmaking — swipe, match, and chat with other adventurers. /al opens the phone.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/154",
                 "RepoUrl": "https://github.com/FFXIV-Aetherlove/Aetherlove",
-                "LastUpdate": 1787565649,
+                "LastUpdate": 1787581376,
                 "is_ai_attributed": true
             }
         ]
@@ -2332,12 +2332,12 @@
                 "Author": "Aspher0",
                 "Name": "Bypass Emote",
                 "InternalName": "BypassEmote",
-                "AssemblyVersion": "2.1.1.0",
+                "AssemblyVersion": "2.1.2.0",
                 "Description": "A simple plugin that lets you play any game emote, whether you unlocked it or not.\nClient side only.\nJust type the emote command as you would normally.\nWorks with custom animations and syncable over Mare.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Aspher0/BypassEmote/main/Data/BypassEmote_LOGO.png",
                 "RepoUrl": "https://github.com/Aspher0/BypassEmote",
-                "LastUpdate": 1787554455
+                "LastUpdate": 1787581334
             }
         ]
     },
@@ -4298,6 +4298,25 @@
         ]
     },
     {
+        "repo_developer_name": "Coptone",
+        "repo_url": "https://raw.githubusercontent.com/Coptone/VedaMarker/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/Coptone/VedaMarker",
+        "repo_name": "VedaMarker",
+        "plugins": [
+            {
+                "Author": "Coptone",
+                "Name": "VedaMarker",
+                "InternalName": "VedaMarker",
+                "AssemblyVersion": "0.2.0.0",
+                "Description": "VedaMarker 0.2 测试版：自动识别遗弃末世八轮点名并计算完整团队标点。真实标点默认关闭，需人工核对职责并手动启动；AOE/VFX 尚未启用。",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Coptone/VedaMarker",
+                "LastUpdate": 1787585521,
+                "is_ai_attributed": true
+            }
+        ]
+    },
+    {
         "repo_url": "https://raw.githubusercontent.com/Sundouleia/repo/main/sundouleia.json",
         "repo_source_url": "https://github.com/orgs/Sundouleia/repositories",
         "repo_discord_url": "https://discord.gg/QJy4zTqpMD",
@@ -5943,8 +5962,19 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1787250048,
+                "LastUpdate": 1787591462,
                 "is_ai_attributed": true
+            },
+            {
+                "Author": "The Combat Reborn Team, Dragonw233",
+                "Name": "Rotation Solver Reborn 汉化版",
+                "InternalName": "RotationSolver",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "逐帧分析战斗信息并选择合适的技能，可辅助高亮或执行技能。本版适配国服 Dalamud API 15，并采用 i18n 方式完成简体中文本地化。主要面向日常战斗，不会自动处理高难副本机制。",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
+                "RepoUrl": "https://github.com/Dragonw233/RotationSolverReborn",
+                "LastUpdate": 1787515244
             },
             {
                 "Author": "Latihas，Dragonw233",
@@ -5954,7 +5984,7 @@
                 "Description": "改版SkyEye",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/Dragonw233/DalamudPlugins",
-                "LastUpdate": 1787245318
+                "LastUpdate": 1787572054
             },
             {
                 "Author": "Uiharu,NiGuangOwO,Tabris",
@@ -6856,6 +6886,25 @@
                 "IconUrl": "https://raw.githubusercontent.com/endfish/ffxiv_visland_cn/master/icon.png",
                 "RepoUrl": "https://github.com/endfish/ffxiv_visland_cn",
                 "LastUpdate": 1784298694
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Enjuchan",
+        "repo_url": "https://raw.githubusercontent.com/Enjuchan/EnjuPlugins/main/repo.json",
+        "repo_source_url": "https://github.com/Enjuchan/EnjuPlugins",
+        "repo_name": "EnjuPlugins",
+        "plugins": [
+            {
+                "Author": "Enjuchan",
+                "Name": "EnDetailer",
+                "InternalName": "EnDetailer",
+                "AssemblyVersion": "0.1.2.0",
+                "Description": "Shows the damage you are actually dealing, averaged over a rolling time window instead of the whole fight, and keeps encounters together across cutscenes and downtime. Requires IINACT.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Enjuchan/EnDetailer/main/EnDetailer/images/icon.png",
+                "RepoUrl": "https://github.com/Enjuchan/EnDetailer",
+                "LastUpdate": 1787584587
             }
         ]
     },
@@ -8388,12 +8437,13 @@
                 "Author": "GitHixy",
                 "Name": "LootView",
                 "InternalName": "LootView",
-                "AssemblyVersion": "1.3.2.0",
+                "AssemblyVersion": "1.3.3.0",
                 "Description": "A customizable loot tracking window with item icons, rarity colors, and highlight animations. Shows who loots what and can be filtered to show only your loot.",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/GitHixy/LootView/main/icon.png",
                 "RepoUrl": "https://github.com/GitHixy/LootView",
-                "LastUpdate": 1767107091
+                "LastUpdate": 1787581193,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -12099,11 +12149,11 @@
                 "Author": "kittenhaswares-ui",
                 "Name": "Seiton Sense",
                 "InternalName": "SeitonSense.Plugin",
-                "AssemblyVersion": "0.30.0.0",
+                "AssemblyVersion": "0.30.0.1",
                 "Description": "A local PvP HUD with exact native-nameplate cues, LB activation and damage notifications, pressure and CC awareness, a bounded Purify-first held-action scheduler, Smart Target and assist macros, local MP sounds, survival/job helpers, team communication, and target highlights.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kittenhaswares-ui/SeitonSense",
-                "LastUpdate": 1787565467
+                "LastUpdate": 1787571208
             }
         ]
     },
@@ -13425,11 +13475,11 @@
                 "Author": "Luci",
                 "Name": "Instant Edit",
                 "InternalName": "InstantEdit",
-                "AssemblyVersion": "1.0.0.0",
+                "AssemblyVersion": "1.0.1.0",
                 "Description": "Lists models currently on screen and sends them to Blender through the XIV Instant Edit add-on. Quick Export writes edited models back to their original Penumbra mod path.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/link-0402/Instant-Edit",
-                "LastUpdate": 1787563796
+                "LastUpdate": 1787579968
             }
         ]
     },
@@ -16696,7 +16746,7 @@
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/OhKannaDuh/OccultCrescentHelper/refs/heads/master/assets/icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/OccultCrescentHelper",
-                "LastUpdate": 1785923169,
+                "LastUpdate": 1787375553,
                 "is_ai_attributed": true
             },
             {
@@ -16708,7 +16758,7 @@
                 "DalamudApiLevel": 14,
                 "IconUrl": "https://raw.githubusercontent.com/OhKannaDuh/OccultCrescentHelper/refs/heads/master/assets/icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/OccultCrescentHelper",
-                "LastUpdate": 1785923169,
+                "LastUpdate": 1787375553,
                 "is_ai_attributed": true
             },
             {
@@ -16720,7 +16770,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/OhKannaDuh/OccultCrescentHelper/refs/heads/master/assets/icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/OccultCrescentHelper",
-                "LastUpdate": 1785923169,
+                "LastUpdate": 1787375553,
                 "is_ai_attributed": true
             },
             {
@@ -16732,7 +16782,7 @@
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1787313899,
+                "LastUpdate": 1787571166,
                 "is_closed_source": true
             },
             {
@@ -16744,19 +16794,19 @@
                 "DalamudApiLevel": 14,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1787313899,
+                "LastUpdate": 1787571166,
                 "is_closed_source": true
             },
             {
                 "Author": "The Combat Reborn Team / NiGuangOwO（本地化&适配）",
-                "Name": "Bossmod Reborn",
+                "Name": "BossMod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.5.53",
+                "AssemblyVersion": "7.5.5.57",
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1787313899,
+                "LastUpdate": 1787571166,
                 "is_closed_source": true
             },
             {
@@ -18295,14 +18345,55 @@
         "plugins": [
             {
                 "Author": "Olympia-Guardian",
-                "Name": "Codex Olympia",
+                "Name": "AutoArmory",
+                "InternalName": "AutoArmory",
+                "AssemblyVersion": "0.2.0.0",
+                "Description": "Compare tes sacs, ton arsenal et tes servants a ta coiffeuse, liste ce qui reste a deposer, et le range pour toi en suivant exactement les fenetres du jeu. EXPERIMENTAL, en cours de developpement : rien ne se lance sans un geste de ta part, et tout s'arrete au premier imprevu.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Olympia-Guardian/AutoArmory/main/icon.png",
+                "RepoUrl": "https://github.com/Olympia-Guardian/AutoArmory",
+                "LastUpdate": 1787584995
+            },
+            {
+                "Author": "Olympia-Guardian",
+                "Name": "Codex Olympia Synchronisation",
                 "InternalName": "CodexOlympia",
-                "AssemblyVersion": "0.14.1.0",
+                "AssemblyVersion": "1.0.0.0",
                 "Description": "Lit ce que ton personnage a debloque dans le jeu et l'envoie a Codex Olympia, a la demande. Rien n'est envoye sans que tu le demandes, et rien n'est jamais decoche a ta place : les ecarts te sont rapportes dans l'application, et c'est toi qui tranches.",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/Olympia-Guardian/codex-olympia-dalamud/main/icon.png",
+                "IconUrl": "https://raw.githubusercontent.com/Olympia-Guardian/CodexOlympia/main/icon.png",
                 "RepoUrl": "https://github.com/Olympia-Guardian/codex-olympia-dalamud",
-                "LastUpdate": 1787567725
+                "LastUpdate": 1787586193
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Olympia-Guardian",
+        "repo_url": "https://raw.githubusercontent.com/Olympia-Guardian/CodexOlympia/main/repo.json",
+        "repo_source_url": "https://github.com/Olympia-Guardian/CodexOlympia",
+        "repo_name": "CodexOlympia",
+        "plugins": [
+            {
+                "Author": "Olympia-Guardian",
+                "Name": "AutoArmory",
+                "InternalName": "AutoArmory",
+                "AssemblyVersion": "0.2.0.0",
+                "Description": "Compare tes sacs, ton arsenal et tes servants a ta coiffeuse, liste ce qui reste a deposer, et le range pour toi en suivant exactement les fenetres du jeu. EXPERIMENTAL, en cours de developpement : rien ne se lance sans un geste de ta part, et tout s'arrete au premier imprevu.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Olympia-Guardian/AutoArmory/main/icon.png",
+                "RepoUrl": "https://github.com/Olympia-Guardian/AutoArmory",
+                "LastUpdate": 1787584995
+            },
+            {
+                "Author": "Olympia-Guardian",
+                "Name": "Codex Olympia Synchronisation",
+                "InternalName": "CodexOlympia",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "Reads what your character has unlocked in-game, collections, outfits and armoire included, shows it to you, and sends it to Codex Olympia when you ask. Nothing is sent without your action, and nothing is ever unchecked on your behalf: gaps are reported in the app, where you decide. Also prints a chat notice when an outfit piece lands in your bags. Exclusive to the Codex Olympia website (https://olympia-guardian.github.io/): without an account on the app, this plugin is useless.\n\nLit ce que ton personnage a debloque dans le jeu, tenues et armoire comprises, te le montre, et l'envoie a Codex Olympia quand tu le demandes. Rien n'est envoye sans ton geste, et rien n'est jamais decoche a ta place : les ecarts sont rapportes dans l'application, et c'est toi qui tranches. Previent aussi dans le journal quand une piece de tenue arrive dans tes sacs. Exclusif au site Codex Olympia : sans compte sur l'application, il ne sert a rien.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Olympia-Guardian/CodexOlympia/main/icon.png",
+                "RepoUrl": "https://github.com/Olympia-Guardian/CodexOlympia",
+                "LastUpdate": 1787586193
             }
         ]
     },
@@ -19960,7 +20051,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/24",
                 "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-                "LastUpdate": 1787427384
+                "LastUpdate": 1787591272
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -20031,12 +20122,12 @@
                 "Author": "the Puni.sh Quest Squad",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.3.7",
+                "AssemblyVersion": "15.306.3.8",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1787526922,
+                "LastUpdate": 1787591462,
                 "is_ai_attributed": true
             },
             {
@@ -23643,11 +23734,11 @@
                 "Author": "Sansflaire",
                 "Name": "FFXIV Miscellaneous Challenges",
                 "InternalName": "TieriChallengesFFXIV",
-                "AssemblyVersion": "0.81.20.0",
+                "AssemblyVersion": "0.81.28.0",
                 "Description": "A tracker for miscellaneous self-imposed FFXIV challenges across combat, exploration, gathering, crafting and social play. Challenges complete themselves when their conditions are met - walk a route, emote at a spot, ride a particular mount somewhere, or wear a full outfit in a given zone - and a popup celebrates each one. Progress is kept per install with the date you finished each challenge, and a separate permanent record means a reset is always recoverable. Includes a suggestion button for sending ideas straight to the developer. Commands: /tchallenges, /tchal",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sansflaire/TieriChallengesFFXIV-Public",
-                "LastUpdate": 1787562050
+                "LastUpdate": 1787586439
             }
         ]
     },
@@ -28114,6 +28205,26 @@
         ]
     },
     {
+        "repo_developer_name": "XIV-Shinies",
+        "repo_url": "https://raw.githubusercontent.com/XIV-Shinies/xiv-shinies-plugin/main/repo.json",
+        "repo_source_url": "https://github.com/XIV-Shinies/xiv-shinies-plugin",
+        "repo_name": "xiv-shinies-plugin",
+        "plugins": [
+            {
+                "Author": "Noranda",
+                "Name": "XIV Shinies Sync",
+                "InternalName": "XIVShinies.SyncPlugin",
+                "AssemblyVersion": "0.6.0.0",
+                "Description": "Automatically records your collection progress on XIV Shinies (https://xiv-shinies.com). New quest, achievement, mount, and minion unlocks appear on the site within seconds; Triple Triad cards, Occult Crescent progress, and the items the site tracks sync automatically in the background. Fully opt-in: nothing uploads until you finish the short setup, and you choose exactly which collections to send. Use /shinies to get started.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/noranda/xiv-shinies-plugin/main/src/XIVShinies.SyncPlugin/images/icon.png",
+                "RepoUrl": "https://github.com/noranda/xiv-shinies-plugin",
+                "LastUpdate": 1787591332,
+                "is_ai_attributed": true
+            }
+        ]
+    },
+    {
         "repo_developer_name": "xivdev",
         "repo_url": "https://raw.githubusercontent.com/xivdev/Penumbra/master/repo.json",
         "repo_source_url": "https://github.com/xivdev/Penumbra",
@@ -29279,6 +29390,25 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://midibard.org",
                 "LastUpdate": 1743473513
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "zxe-ll",
+        "repo_url": "https://raw.githubusercontent.com/zxe-ll/InzoneBudsBattery/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/zxe-ll/InzoneBudsBattery",
+        "repo_name": "InzoneBudsBattery",
+        "plugins": [
+            {
+                "Author": "zxe-ll",
+                "Name": "INZONE Buds Battery",
+                "InternalName": "InzoneBudsBattery",
+                "AssemblyVersion": "0.2.6.0",
+                "Description": "Sony INZONE Buds（WF-G700N）のUSBトランシッターからバッテリー残量を取得し、オーバーレイとDTRバーへ表示します。",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/zxe-ll/InzoneBudsBattery/main/images/icon.png",
+                "RepoUrl": "https://github.com/zxe-ll/InzoneBudsBattery",
+                "LastUpdate": 1787583606
             }
         ]
     },
