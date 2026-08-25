@@ -1570,11 +1570,12 @@
                 "Author": "Angelways",
                 "Name": "OCNFarmer",
                 "InternalName": "NorthIslandChestPlugin",
-                "AssemblyVersion": "1.1.0.0",
+                "AssemblyVersion": "1.2.0.0",
                 "Description": "蜃景幻界新月岛 北征之章全自动战斗与寻宝流程",
                 "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Angelways/OCNFarmer/main/icon.png",
                 "RepoUrl": "https://github.com/Angelways/OCNFarmer",
-                "LastUpdate": 1787624390
+                "LastUpdate": 1787658258
             }
         ]
     },
@@ -2288,12 +2289,12 @@
                 "Author": "ashdam",
                 "Name": "Gubal Library",
                 "InternalName": "GubalLibrary",
-                "AssemblyVersion": "0.3.0.0",
+                "AssemblyVersion": "0.4.0.0",
                 "Description": "THE PLUGIN SHIPS EMPTY. It contains no translations. Installing it changes nothing: until you load a corpus, the game reads exactly as it always did.\n\nWhat it is, is a lookup engine. It loads a corpus file, matches what is on screen against it, and injects the result. It makes no network calls of any kind -- nothing is sent anywhere, and nothing is translated at runtime.\n\nYOU BRING THE CORPUS, and this project does not distribute one. The translations are somebody's separate work. Either use a corpus the community has published for your language, or build your own: the file format is documented in full so that starting from nothing is a real option, for any locale.\n\nThere is a self-test bundled -- two lines from one NPC, so you can tell a correct install from a broken one. Talk to Ahldskyf on the pier in Limsa Lominsa Lower Decks and they come out as Hello World. That is a smoke test, not content, and the settings window stays red for as long as it is all that is loaded.\n\nCoverage once you have a corpus: dialogue, quest text and cutscene speech (Talk), cutscene narration (TalkSubtitle), and speaker names. Battle callouts, speech balloons and the variant-dungeon banner are wired up but not yet characterised. This is a testing build -- please report problems on GitHub.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ashdam/gubal-library/main/images/icon.png",
                 "RepoUrl": "https://github.com/ashdam/gubal-library",
-                "LastUpdate": 1787486863,
+                "LastUpdate": 1787652437,
                 "is_ai_attributed": true
             }
         ]
@@ -7188,7 +7189,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1787553679
+                "LastUpdate": 1787639602
             }
         ]
     },
@@ -7207,7 +7208,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1787553679
+                "LastUpdate": 1787639602
             }
         ]
     },
@@ -7591,12 +7592,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "BossMod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.5.57",
+                "AssemblyVersion": "7.5.5.58",
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1787553663
+                "LastUpdate": 1787643341
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -10970,11 +10971,11 @@
                 "Author": "JustPixelll",
                 "Name": "All My Glams",
                 "InternalName": "AllMyGlams",
-                "AssemblyVersion": "0.2.0.0",
+                "AssemblyVersion": "0.2.0.1",
                 "Description": "Use your character as the viewer for a live complete-look dresser, reuse Glamourer designs, keep a local wardrobe, manage equipment-affecting Penumbra mods, and cache openly attributed public glamour recipes from supported sources.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/JustPixelll/AllMyGlams",
-                "LastUpdate": 1787611195
+                "LastUpdate": 1787655743
             }
         ]
     },
@@ -11702,12 +11703,12 @@
                 "Author": "keifufu",
                 "Name": "XivVoices",
                 "InternalName": "XivVoices",
-                "AssemblyVersion": "1.5.3.6",
+                "AssemblyVersion": "1.5.3.7",
                 "Description": "A plugin that enhances your gaming experience by adding voice to every NPC dialogue, battle interaction, and more. /xivv",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/keifufu/XivVoices/main/XivVoices/assets/logo.png",
                 "RepoUrl": "https://github.com/keifufu/XivVoices",
-                "LastUpdate": 1787594987
+                "LastUpdate": 1787654283
             }
         ]
     },
@@ -11826,7 +11827,7 @@
                 "Author": "Yu",
                 "Name": "Viet Translator",
                 "InternalName": "VietTranslator",
-                "AssemblyVersion": "1.5.0.0",
+                "AssemblyVersion": "1.5.1.0",
                 "Description": "Phu de tieng Viet cho thoai FFXIV: overlay ImGui render chu co dau chuan (font BeVietnam Pro), giu nguyen ten rieng tieng Anh. Ban v1 phu tron A Realm Reborn - cot truyen chinh (2.0) + hau-ARR (2.1-2.55), nhiem vu Nghe & Job, mo khoa tinh nang (nha o, chocobo, retainer...) va Duty (dungeon/trial/raid). Hoat dong cho thoai thuong, cutscene, caption va menu lua chon.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/kennabi83/VietTranslator/main/Resources/icon.png?v=2",
@@ -12204,11 +12205,11 @@
                 "Author": "kittenhaswares-ui",
                 "Name": "Seiton Sense",
                 "InternalName": "SeitonSense.Plugin",
-                "AssemblyVersion": "0.32.0.0",
+                "AssemblyVersion": "0.33.0.0",
                 "Description": "A local PvP HUD with exact native-nameplate cues, LB activation and damage notifications, pressure and CC awareness, a bounded Purify-first held-action scheduler, Smart Target and assist macros, local MP sounds, survival/job helpers, team communication, and target highlights.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kittenhaswares-ui/SeitonSense",
-                "LastUpdate": 1787603106
+                "LastUpdate": 1787651918
             }
         ]
     },
@@ -15510,12 +15511,13 @@
         "plugins": [
             {
                 "Author": "monkdim",
-                "Name": "Two Button",
-                "InternalName": "TwoButton",
+                "Name": "One Two Punch",
+                "InternalName": "OneTwoPunch",
                 "AssemblyVersion": "1.0.0.0",
                 "Description": "Collapses each supported DPS job into a single-target button and an AoE button. The button shows the action that is correct right now given your cooldowns, gauge, buffs, target count and whether you are moving. It never presses anything for you: one keypress is always exactly one action.",
+                "IconUrl": "https://raw.githubusercontent.com/monkdim/beepboop/main/assets/icon.png",
                 "RepoUrl": "https://github.com/monkdim/beepboop",
-                "LastUpdate": 1787636245,
+                "LastUpdate": 1787638890,
                 "is_ai_attributed": true
             }
         ]
@@ -17774,6 +17776,25 @@
         ]
     },
     {
+        "repo_developer_name": "Noffletoff",
+        "repo_url": "https://raw.githubusercontent.com/Noffletoff/emote-commander/main/repo.json",
+        "repo_source_url": "https://github.com/Noffletoff/emote-commander",
+        "repo_name": "emote-commander",
+        "plugins": [
+            {
+                "Author": "Noffletoff",
+                "Name": "Emote Commander",
+                "InternalName": "EmoteCommander",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "Bind your own slash command to a Penumbra preset and a vanilla emote. Typing the command applies the mod options, redraws, and performs the emote - so your custom animation plays without opening Penumbra mid-scene. Other players see it through the sync service they already use.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Noffletoff/emote-commander",
+                "LastUpdate": 1787650323,
+                "is_ai_attributed": true
+            }
+        ]
+    },
+    {
         "repo_developer_name": "NoHideout",
         "repo_url": "https://raw.githubusercontent.com/NoHideout/EorzeaCamcorder/master/repo.json",
         "repo_source_url": "https://github.com/NoHideout/EorzeaCamcorder",
@@ -18754,7 +18775,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1787553679
+                "LastUpdate": 1787639602
             },
             {
                 "Author": "Risa and Contributors",
@@ -18809,7 +18830,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ktisis-tools/Ktisis/main/icon.png",
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1787603895
+                "LastUpdate": 1787614122
             },
             {
                 "Author": "kawaii, Glyceri, Minmoose",
@@ -20548,12 +20569,12 @@
                 "Author": "nainaiowo",
                 "Name": "Better Deaths",
                 "InternalName": "BetterDeaths",
-                "AssemblyVersion": "1.0.0.2",
+                "AssemblyVersion": "1.0.0.3",
                 "Description": "Records party deaths with pull grouping, fatal events, active statuses, and recent action timelines.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/160",
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1787616651,
+                "LastUpdate": 1787646413,
                 "is_ai_attributed": true
             },
             {
@@ -22843,6 +22864,17 @@
         "plugins": [
             {
                 "Author": "Rowsai",
+                "Name": "Auto Strategy Board Pagination",
+                "InternalName": "AutoStrategyBoardPagination",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "/asbp 図面名で指定の図面を閲覧モードで表示可能。\n- 自動化モードで、任意のバトルログに反応して対象の図面を閲覧モードで表示可能。",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Rowsai/AutoStrategyBoardPagination/main/images/icon.png",
+                "RepoUrl": "https://github.com/Rowsai/AutoStrategyBoardPagination",
+                "LastUpdate": 1787639304
+            },
+            {
+                "Author": "Rowsai",
                 "Name": "Crescent Isle Useful Tool",
                 "InternalName": "CrescentIsleUsefulTool",
                 "AssemblyVersion": "4.8.7.0",
@@ -23806,11 +23838,11 @@
                 "Author": "Sansflaire",
                 "Name": "FFXIV Miscellaneous Challenges",
                 "InternalName": "TieriChallengesFFXIV",
-                "AssemblyVersion": "0.81.28.0",
+                "AssemblyVersion": "0.81.31.0",
                 "Description": "A tracker for miscellaneous self-imposed FFXIV challenges across combat, exploration, gathering, crafting and social play. Challenges complete themselves when their conditions are met - walk a route, emote at a spot, ride a particular mount somewhere, or wear a full outfit in a given zone - and a popup celebrates each one. Progress is kept per install with the date you finished each challenge, and a separate permanent record means a reset is always recoverable. Includes a suggestion button for sending ideas straight to the developer. Commands: /tchallenges, /tchal",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sansflaire/TieriChallengesFFXIV-Public",
-                "LastUpdate": 1787586439
+                "LastUpdate": 1787649045
             }
         ]
     },
@@ -24518,12 +24550,12 @@
                 "Author": "白泉澈",
                 "Name": "AutoHunt",
                 "InternalName": "AutoHunt",
-                "AssemblyVersion": "2.0.5.1",
+                "AssemblyVersion": "2.0.7.0",
                 "Description": "自动狩猎（狩猎车）助手：右键聊天玩家名设为车头；自动解析车头在任何频道发送的坐标，自动打开地图插旗；跨图或远距离自动传送到最近水晶；上坐骑后执行 /vnav flyflag 飞向旗标（可选 IPC 直接寻路）；到达后自动选中狩猎怪（基于 NotoriousMonster 数据表识别 A/S 级），血量低于阈值自动下坐骑并 /rotation Manual 输出，目标死亡自动关闭；每击杀 N 只怪自动切换副本区。依赖：vnavmesh、RotationSolver、Lifestream、Teleporter。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ShiraisumiKiyoshi/AutoHunt/main/dist/images/icon.png",
                 "RepoUrl": "https://github.com/ShiraisumiKiyoshi/AutoHunt",
-                "LastUpdate": 1787594209
+                "LastUpdate": 1787657602
             }
         ]
     },
@@ -25258,12 +25290,12 @@
                 "Author": "ssalazar217 (SteSE)",
                 "Name": "EchoXIV",
                 "InternalName": "EchoXIV",
-                "AssemblyVersion": "1.0.2.0",
+                "AssemblyVersion": "1.0.2.1",
                 "Description": "Automatically translates your outgoing messages (to the party language) and incoming messages (to your local language) using Google Translate. Overlay window included. No API Key required.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ssalazar217/EchoXIV/master/EchoXIV/images/icon.png",
                 "RepoUrl": "https://github.com/ssalazar217/EchoXIV",
-                "LastUpdate": 1787533288,
+                "LastUpdate": 1787644210,
                 "is_ai_attributed": true
             }
         ]
@@ -27329,12 +27361,12 @@
                 "Author": "kawaii, Veever(汉化+额外功能)",
                 "Name": "Hyperborea",
                 "InternalName": "HyperboreaCN",
-                "AssemblyVersion": "1.0.0.34",
+                "AssemblyVersion": "1.0.1.1",
                 "Description": "可在相对安全的环境下加载并探索任意区域，主要用于在无法进入/难以进入的场景中拍照",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/VeeverSW/DalamudPlugins/main/Plugins/Hyperborea/icon.png",
                 "RepoUrl": "https://github.com/VeeverSW/Hyperborea",
-                "LastUpdate": 1786242349
+                "LastUpdate": 1787655202
             },
             {
                 "Author": "Uiharu,NiGuangOwO,Veever(维护)",
@@ -27857,12 +27889,12 @@
                 "Author": "Will Corrigan",
                 "Name": "Wayfarer",
                 "InternalName": "Wayfarer",
-                "AssemblyVersion": "0.7.0.0",
+                "AssemblyVersion": "0.8.0.0",
                 "Description": "Guides you to your quest objective with an on-screen arrow that understands teleports, building entrances and city aethernet routing. Tracks every quest-unlockable feature, mount and dungeon you can pick up right now, and routes you to the quest givers.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/will-corrigan/Wayfarer/main/images/icon.png",
                 "RepoUrl": "https://github.com/will-corrigan/Wayfarer",
-                "LastUpdate": 1787516109
+                "LastUpdate": 1787644019
             }
         ]
     },
@@ -28292,25 +28324,6 @@
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind/master/AutoPvpSeriesGrind/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind/tree/master/AutoPvpSeriesGrind",
                 "LastUpdate": 1787082939
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "xiaoxiaogugu",
-        "repo_url": "https://raw.githubusercontent.com/xiaoxiaogugu/galamud/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/xiaoxiaogugu/galamud",
-        "repo_name": "galamud",
-        "plugins": [
-            {
-                "Author": "GUGU",
-                "Name": "Identity Spoof",
-                "InternalName": "IdentitySpoof",
-                "AssemblyVersion": "1.8.9.0",
-                "Description": "修改、随机生成与历史记录管理。",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/xiaoxiaogugu/galamud",
-                "LastUpdate": 1787624975,
-                "is_ai_attributed": true
             }
         ]
     },
@@ -29384,12 +29397,12 @@
                 "Author": "zhui-zi",
                 "Name": "Keita 工具箱",
                 "InternalName": "KeitaToolbox",
-                "AssemblyVersion": "1.7.0.1",
+                "AssemblyVersion": "1.7.1.0",
                 "Description": "Combines duty automation, recruitment tools, plugin and map gearset switching, trade protection, IME cleanup, portrait synchronization, Ayano tools, and I-Ching utilities.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/zhui-zi/DalamudPlugins/main/plugins/KeitaToolbox/icon.png",
                 "RepoUrl": "https://github.com/zhui-zi/DalamudPlugins/tree/main/plugins/KeitaToolbox",
-                "LastUpdate": 1787306495
+                "LastUpdate": 1787651963
             }
         ]
     },
