@@ -1738,12 +1738,12 @@
                 "Author": "Anmi",
                 "Name": "新月岛史官",
                 "InternalName": "Chronicler",
-                "AssemblyVersion": "0.2.0.34",
+                "AssemblyVersion": "0.2.0.35",
                 "Description": "进入新月岛后自动记录南征/北征 CE/FATE 出现时间，支持导入/导出 xyd.zzmelon.com 分享码，生成喊话，并监听游戏内喊话自动同步状态。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/anmili2022/Chronicler/main/images/icon.png",
                 "RepoUrl": "https://github.com/anmili2022/Chronicler",
-                "LastUpdate": 1786779953,
+                "LastUpdate": 1787680169,
                 "is_ai_attributed": true
             }
         ]
@@ -2289,12 +2289,12 @@
                 "Author": "ashdam",
                 "Name": "Gubal Library",
                 "InternalName": "GubalLibrary",
-                "AssemblyVersion": "0.4.0.0",
+                "AssemblyVersion": "0.4.1.1",
                 "Description": "THE PLUGIN SHIPS EMPTY. It contains no translations. Installing it changes nothing: until you load a corpus, the game reads exactly as it always did.\n\nWhat it is, is a lookup engine. It loads a corpus file, matches what is on screen against it, and injects the result. It makes no network calls of any kind -- nothing is sent anywhere, and nothing is translated at runtime.\n\nYOU BRING THE CORPUS, and this project does not distribute one. The translations are somebody's separate work. Either use a corpus the community has published for your language, or build your own: the file format is documented in full so that starting from nothing is a real option, for any locale.\n\nThere is a self-test bundled -- two lines from one NPC, so you can tell a correct install from a broken one. Talk to Ahldskyf on the pier in Limsa Lominsa Lower Decks and they come out as Hello World. That is a smoke test, not content, and the settings window stays red for as long as it is all that is loaded.\n\nCoverage once you have a corpus: dialogue, quest text and cutscene speech (Talk), cutscene narration (TalkSubtitle), and speaker names. Battle callouts, speech balloons and the variant-dungeon banner are wired up but not yet characterised. This is a testing build -- please report problems on GitHub.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ashdam/gubal-library/main/images/icon.png",
                 "RepoUrl": "https://github.com/ashdam/gubal-library",
-                "LastUpdate": 1787652437,
+                "LastUpdate": 1787679049,
                 "is_ai_attributed": true
             }
         ]
@@ -4703,12 +4703,12 @@
                 "Author": "dajoey",
                 "Name": "Gluttony Combo",
                 "InternalName": "GluttonyCombo",
-                "AssemblyVersion": "1.0.4.140",
+                "AssemblyVersion": "1.0.4.157",
                 "Description": "Gluttony Combo is a lalalazy-branded fork of Wrath Combo. Condenses combos and mutually exclusive abilities onto a single button — and then some. All upstream credit to Team Wrath / PunishXIV.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/dajoey/lalalazy/main/LalaImages/gluttonycombo-icon.png",
                 "RepoUrl": "https://github.com/dajoey/lalalazy/tree/main/plugins/GluttonyCombo/latest",
-                "LastUpdate": 1786933359,
+                "LastUpdate": 1787670637,
                 "is_ai_attributed": true
             },
             {
@@ -4804,7 +4804,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/dajoey/lalalazy/main/LalaImages/pvpsolver-icon.png",
                 "RepoUrl": "https://github.com/dajoey/lalalazy/tree/main/plugins/PvPSolver",
-                "LastUpdate": 1786290559,
+                "LastUpdate": 1787672283,
                 "is_ai_attributed": true
             }
         ]
@@ -6735,6 +6735,17 @@
             },
             {
                 "Author": "The Enceladeum",
+                "Name": "HDM",
+                "InternalName": "HDM",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "A catalog of every mob in the game (16k+ models, 15.5k named) plus the full set of humanoid NPCs (Glamourer's NPC tab). Apply any mob's or NPC's look to yourself client-side (Brio-style ModelCharaId swap + redraw, or a Glamourer paint for humans), spawn disguised puppets, trigger action timelines for theatrics, and revert cleanly. Self-apply only, like Glamourer — never enforced on other players. Built for DM/event use — no mechanics, just the face.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Enceladeum/HDM/main/images/icon.png",
+                "RepoUrl": "https://github.com/Enceladeum/HDM",
+                "LastUpdate": 1787675359
+            },
+            {
+                "Author": "The Enceladeum",
                 "Name": "HMoniker",
                 "InternalName": "HMoniker",
                 "AssemblyVersion": "1.5.1.0",
@@ -6742,19 +6753,19 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Enceladeum/HMoniker/main/images/icon.png",
                 "RepoUrl": "https://github.com/Enceladeum/HMoniker",
-                "LastUpdate": 1787505967,
+                "LastUpdate": 1787609699,
                 "is_ai_attributed": true
             },
             {
                 "Author": "The Enceladeum",
                 "Name": "HMapSync (HMS)",
                 "InternalName": "HMSync",
-                "AssemblyVersion": "1.0.1.2",
+                "AssemblyVersion": "1.0.1.3",
                 "Description": "Load any in-game map client-side and explore it solo or with up to 20 friends, behind a packet filter that keeps the server seeing you as idle in your room. Shared weather, BGM and time; client-side mounts, emotes and minions; carpet floors for spots without collision; head-tilt and gaze sync for roleplay; and proximity say/yell passthrough. Co-op needs a relay key (closed beta); solo mode never connects to the relay.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Enceladeum/HMapSync/main/images/icon.png",
                 "RepoUrl": "https://github.com/Enceladeum/HMapSync",
-                "LastUpdate": 1787527942,
+                "LastUpdate": 1787660890,
                 "is_ai_attributed": true
             },
             {
@@ -10971,11 +10982,11 @@
                 "Author": "JustPixelll",
                 "Name": "All My Glams",
                 "InternalName": "AllMyGlams",
-                "AssemblyVersion": "0.2.0.1",
+                "AssemblyVersion": "0.2.1.2",
                 "Description": "Use your character as the viewer for a live complete-look dresser, reuse Glamourer designs, keep a local wardrobe, manage equipment-affecting Penumbra mods, and cache openly attributed public glamour recipes from supported sources.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/JustPixelll/AllMyGlams",
-                "LastUpdate": 1787655743
+                "LastUpdate": 1787660269
             }
         ]
     },
@@ -11599,12 +11610,12 @@
                 "Author": "SaMo, Karriis",
                 "Name": "PvP 战绩统计（中文增强版）",
                 "InternalName": "PvpStatsCN",
-                "AssemblyVersion": "2.7.0.4",
+                "AssemblyVersion": "2.7.0.5",
                 "Description": "基于 PvP Tracker 的简体中文增强版本。记录、浏览和筛选水晶冲突、纷争前线及烈羽争锋的历史对局；查看对局计分板，以及胜率、场均伤害等汇总统计。重要：请在进入 PvP 对局前启用插件，进入对局后不要启用、禁用或重载插件。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Karriis/PvpStatsCN/main/images/icon.png",
                 "RepoUrl": "https://github.com/Karriis/PvpStatsCN",
-                "LastUpdate": 1787597785
+                "LastUpdate": 1787669165
             }
         ]
     },
@@ -12205,11 +12216,11 @@
                 "Author": "kittenhaswares-ui",
                 "Name": "Seiton Sense",
                 "InternalName": "SeitonSense.Plugin",
-                "AssemblyVersion": "0.33.0.0",
+                "AssemblyVersion": "0.34.0.2",
                 "Description": "A local PvP HUD with exact native-nameplate cues, LB activation and damage notifications, pressure and CC awareness, a bounded Purify-first held-action scheduler, Smart Target and assist macros, local MP sounds, survival/job helpers, team communication, and target highlights.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kittenhaswares-ui/SeitonSense",
-                "LastUpdate": 1787651918
+                "LastUpdate": 1787674491
             }
         ]
     },
@@ -12398,12 +12409,12 @@
                 "Author": "konvarec",
                 "Name": "HuntVoidWatcher",
                 "InternalName": "HuntVoidWatcher",
-                "AssemblyVersion": "0.5.0.61",
+                "AssemblyVersion": "0.5.0.62",
                 "Description": "Synchronizes active character world/area status to a shared spreadsheet for S-rank hunt observation.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/konvarec/HuntVoidWatcherCustomRepo/main/HuntVoidWatcher/images/icon_64.png",
                 "RepoUrl": "https://github.com/konvarec/HuntVoidWatcherCustomRepo",
-                "LastUpdate": 1783958107
+                "LastUpdate": 1787663945
             }
         ]
     },
@@ -12524,12 +12535,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.3.10",
+                "AssemblyVersion": "15.306.3.12",
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1787631921,
+                "LastUpdate": 1787677600,
                 "is_ai_attributed": true
             },
             {
@@ -12552,7 +12563,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1787548817
+                "LastUpdate": 1787668547
             }
         ]
     },
@@ -13531,11 +13542,11 @@
                 "Author": "Luci",
                 "Name": "Instant Edit",
                 "InternalName": "InstantEdit",
-                "AssemblyVersion": "1.0.4.0",
+                "AssemblyVersion": "1.0.5.0",
                 "Description": "Lists models currently on screen and sends them to Blender through the XIV Instant Edit add-on. Quick Export writes edited models back to their original Penumbra mod path.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/link-0402/Instant-Edit",
-                "LastUpdate": 1787601685
+                "LastUpdate": 1787672242
             }
         ]
     },
@@ -14095,12 +14106,12 @@
                 "Author": "mapleterra",
                 "Name": "Gachapon Machine",
                 "InternalName": "GachaPlugin",
-                "AssemblyVersion": "1.0.1.3",
+                "AssemblyVersion": "1.0.1.4",
                 "Description": "A gachapon gambling minigame. Type /gachapon to open the machine, then roll /random 20 three times — the sum of your rolls (3-60) decides your prize tier, from Common all the way up to the JACKPOT.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/mapleterra/Gumpon-Machine/main/Data/icon.png",
                 "RepoUrl": "https://github.com/mapleterra/Gumpon-Machine",
-                "LastUpdate": 1781819317
+                "LastUpdate": 1787662636
             }
         ]
     },
@@ -15513,11 +15524,12 @@
                 "Author": "monkdim",
                 "Name": "One Two Punch",
                 "InternalName": "OneTwoPunch",
-                "AssemblyVersion": "1.0.0.0",
+                "AssemblyVersion": "1.0.10.0",
                 "Description": "Collapses each supported DPS job into a single-target button and an AoE button. The button shows the action that is correct right now given your cooldowns, gauge, buffs, target count and whether you are moving. It never presses anything for you: one keypress is always exactly one action.",
+                "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/monkdim/beepboop/main/assets/icon.png",
                 "RepoUrl": "https://github.com/monkdim/beepboop",
-                "LastUpdate": 1787638890,
+                "LastUpdate": 1787679350,
                 "is_ai_attributed": true
             }
         ]
@@ -16857,7 +16869,7 @@
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1787571166,
+                "LastUpdate": 1787672389,
                 "is_closed_source": true
             },
             {
@@ -16869,19 +16881,19 @@
                 "DalamudApiLevel": 14,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1787571166,
+                "LastUpdate": 1787672389,
                 "is_closed_source": true
             },
             {
                 "Author": "The Combat Reborn Team / NiGuangOwO（本地化&适配）",
                 "Name": "BossMod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.5.57",
+                "AssemblyVersion": "7.5.5.58",
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1787571166,
+                "LastUpdate": 1787672389,
                 "is_closed_source": true
             },
             {
@@ -16892,7 +16904,7 @@
                 "Description": "Chinese NoClippy equivalent, allows you to customize AnimationLock delay",
                 "DalamudApiLevel": 12,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/FuckAnimationLock",
-                "LastUpdate": 1783234860,
+                "LastUpdate": 1787672389,
                 "is_closed_source": true
             },
             {
@@ -16903,7 +16915,7 @@
                 "Description": "Chinese NoClippy equivalent, allows you to customize AnimationLock delay",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/FuckAnimationLock",
-                "LastUpdate": 1783234860,
+                "LastUpdate": 1787672389,
                 "is_closed_source": true
             },
             {
@@ -16914,7 +16926,7 @@
                 "Description": "Chinese NoClippy equivalent, allows you to customize AnimationLock delay",
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/FuckAnimationLock",
-                "LastUpdate": 1783234860,
+                "LastUpdate": 1787672389,
                 "is_closed_source": true
             },
             {
@@ -16925,7 +16937,7 @@
                 "Description": "Chinese NoClippy equivalent, allows you to customize AnimationLock delay",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/FuckAnimationLock",
-                "LastUpdate": 1783234860,
+                "LastUpdate": 1787672389,
                 "is_closed_source": true
             },
             {
@@ -17062,7 +17074,7 @@
                 "Description": "Nope.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/MechanicSim",
-                "LastUpdate": 1782029684,
+                "LastUpdate": 1787672389,
                 "is_closed_source": true
             },
             {
@@ -17073,7 +17085,7 @@
                 "Description": "use /ndp to watch config",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDamagePrediction",
-                "LastUpdate": 1781363874,
+                "LastUpdate": 1787672389,
                 "is_closed_source": true
             },
             {
@@ -17085,7 +17097,7 @@
                 "DalamudApiLevel": 12,
                 "IconUrl": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/plugins/NyaDraw/NyaDraw.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1784293570,
+                "LastUpdate": 1787672389,
                 "is_closed_source": true
             },
             {
@@ -17097,7 +17109,7 @@
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/plugins/NyaDraw/NyaDraw.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1784293570,
+                "LastUpdate": 1787672389,
                 "is_closed_source": true
             },
             {
@@ -17109,19 +17121,19 @@
                 "DalamudApiLevel": 14,
                 "IconUrl": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/plugins/NyaDraw/NyaDraw.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1784293570,
+                "LastUpdate": 1787672389,
                 "is_closed_source": true
             },
             {
                 "Author": "NiGuangOwO / Small_Miao",
                 "Name": "NyaDraw",
                 "InternalName": "NyaDraw",
-                "AssemblyVersion": "1.15.0.12",
+                "AssemblyVersion": "1.15.1.1",
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/plugins/NyaDraw/NyaDraw.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1784293570,
+                "LastUpdate": 1787672389,
                 "is_closed_source": true
             },
             {
@@ -17785,11 +17797,11 @@
                 "Author": "Noffletoff",
                 "Name": "Emote Commander",
                 "InternalName": "EmoteCommander",
-                "AssemblyVersion": "0.1.0.0",
+                "AssemblyVersion": "0.3.0.0",
                 "Description": "Bind your own slash command to a Penumbra preset and a vanilla emote. Typing the command applies the mod options, redraws, and performs the emote - so your custom animation plays without opening Penumbra mid-scene. Other players see it through the sync service they already use.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Noffletoff/emote-commander",
-                "LastUpdate": 1787650323,
+                "LastUpdate": 1787670204,
                 "is_ai_attributed": true
             }
         ]
@@ -18031,7 +18043,6 @@
                 "AssemblyVersion": "1.0.0.1",
                 "Description": "Lists the Critical Encounters and FATEs running in Occult Crescent: North Horn and walks you to any of them with a single click, choosing between walking, an aetheryte hop and Occult Return. Also tracks the pot cycle, keeps your knowledge-crystal buffs topped up, and can step around monsters and pick up coffers on the way. Does nothing outside North Horn.",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/echonav-icon.png",
                 "RepoUrl": "https://echoxiv.com",
                 "LastUpdate": 1786464283
             },
@@ -20215,12 +20226,12 @@
                 "Author": "the Puni.sh Quest Squad",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.3.10",
+                "AssemblyVersion": "15.306.3.12",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1787631921,
+                "LastUpdate": 1787677600,
                 "is_ai_attributed": true
             },
             {
@@ -20254,7 +20265,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1787548817
+                "LastUpdate": 1787668547
             },
             {
                 "Author": "daemitus, croizat",
@@ -20265,7 +20276,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/26",
                 "RepoUrl": "https://github.com/PunishXIV/YesAlready",
-                "LastUpdate": 1783944679
+                "LastUpdate": 1787679133
             }
         ],
         "repo_developer_name": "Puni.sh"
@@ -23820,11 +23831,11 @@
                 "Author": "Sansflaire",
                 "Name": "PanacheUI",
                 "InternalName": "PanacheUI",
-                "AssemblyVersion": "0.1.3",
+                "AssemblyVersion": "0.1.6",
                 "Description": "PanacheUI is a vector graphics UI framework for Dalamud plugins, backed by SkiaSharp (the same engine as Chrome and Flutter). Provides a node tree, CSS-like styling, layout engine, and smooth rendering — far beyond what vanilla ImGui can offer.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sansflaire/PanacheUI",
-                "LastUpdate": 1783535979
+                "LastUpdate": 1787675924
             }
         ]
     },
@@ -23838,11 +23849,11 @@
                 "Author": "Sansflaire",
                 "Name": "FFXIV Miscellaneous Challenges",
                 "InternalName": "TieriChallengesFFXIV",
-                "AssemblyVersion": "0.81.31.0",
+                "AssemblyVersion": "0.81.32.2",
                 "Description": "A tracker for miscellaneous self-imposed FFXIV challenges across combat, exploration, gathering, crafting and social play. Challenges complete themselves when their conditions are met - walk a route, emote at a spot, ride a particular mount somewhere, or wear a full outfit in a given zone - and a popup celebrates each one. Progress is kept per install with the date you finished each challenge, and a separate permanent record means a reset is always recoverable. Includes a suggestion button for sending ideas straight to the developer. Commands: /tchallenges, /tchal",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sansflaire/TieriChallengesFFXIV-Public",
-                "LastUpdate": 1787649045
+                "LastUpdate": 1787676062
             }
         ]
     },
@@ -24550,12 +24561,12 @@
                 "Author": "白泉澈",
                 "Name": "AutoHunt",
                 "InternalName": "AutoHunt",
-                "AssemblyVersion": "2.0.7.0",
+                "AssemblyVersion": "2.0.8.0",
                 "Description": "自动狩猎（狩猎车）助手：右键聊天玩家名设为车头；自动解析车头在任何频道发送的坐标，自动打开地图插旗；跨图或远距离自动传送到最近水晶；上坐骑后执行 /vnav flyflag 飞向旗标（可选 IPC 直接寻路）；到达后自动选中狩猎怪（基于 NotoriousMonster 数据表识别 A/S 级），血量低于阈值自动下坐骑并 /rotation Manual 输出，目标死亡自动关闭；每击杀 N 只怪自动切换副本区。依赖：vnavmesh、RotationSolver、Lifestream、Teleporter。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ShiraisumiKiyoshi/AutoHunt/main/dist/images/icon.png",
                 "RepoUrl": "https://github.com/ShiraisumiKiyoshi/AutoHunt",
-                "LastUpdate": 1787657602
+                "LastUpdate": 1787658592
             }
         ]
     },
@@ -24867,12 +24878,12 @@
                 "Author": "Zericard",
                 "Name": "LookyLoo",
                 "InternalName": "LookyLoo",
-                "AssemblyVersion": "1.0.0.3",
+                "AssemblyVersion": "1.0.0.4",
                 "Description": "A lightweight plugin that monitors nearby players and indicates if they are targeting you.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/smolzy/LookyLoo/main/images/icon.png",
                 "RepoUrl": "https://github.com/smolzy/LookyLoo",
-                "LastUpdate": 1787171523
+                "LastUpdate": 1787675787
             }
         ]
     },
@@ -25752,7 +25763,7 @@
                 "Author": "Suuria",
                 "Name": "Relic Tracker",
                 "InternalName": "RelicTracker",
-                "AssemblyVersion": "0.0.1.3",
+                "AssemblyVersion": "0.0.1.5",
                 "Description": "A compact checklist for every combat relic weapon stage, grouped by expansion and job.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Suuria/RelicTracker"
@@ -26177,12 +26188,12 @@
                 "Author": "TheHeadPatCat",
                 "Name": "Warrior of Lightning",
                 "InternalName": "WoLightning",
-                "AssemblyVersion": "0.7.8.0",
+                "AssemblyVersion": "0.7.8.1",
                 "Description": "Integration for Pishock and OpenShock devices.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/TheHeadPatCat/WoLightning/master/etc/iconSmall.png",
                 "RepoUrl": "https://github.com/TheHeadPatCat/WoLightning",
-                "LastUpdate": 1785422629
+                "LastUpdate": 1787677317
             }
         ]
     },
@@ -29397,12 +29408,12 @@
                 "Author": "zhui-zi",
                 "Name": "Keita 工具箱",
                 "InternalName": "KeitaToolbox",
-                "AssemblyVersion": "1.7.1.0",
+                "AssemblyVersion": "1.7.2.0",
                 "Description": "Combines duty automation, recruitment tools, plugin and map gearset switching, trade protection, IME cleanup, portrait synchronization, Ayano tools, and I-Ching utilities.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/zhui-zi/DalamudPlugins/main/plugins/KeitaToolbox/icon.png",
                 "RepoUrl": "https://github.com/zhui-zi/DalamudPlugins/tree/main/plugins/KeitaToolbox",
-                "LastUpdate": 1787651963
+                "LastUpdate": 1787660896
             }
         ]
     },
@@ -29526,12 +29537,12 @@
                 "Author": "zxe-ll",
                 "Name": "INZONE Buds Battery",
                 "InternalName": "InzoneBudsBattery",
-                "AssemblyVersion": "0.2.6.0",
+                "AssemblyVersion": "0.2.7.0",
                 "Description": "Sony INZONE Buds（WF-G700N）のUSBトランシッターからバッテリー残量を取得し、オーバーレイとDTRバーへ表示します。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/zxe-ll/InzoneBudsBattery/main/images/icon.png",
                 "RepoUrl": "https://github.com/zxe-ll/InzoneBudsBattery",
-                "LastUpdate": 1787583606
+                "LastUpdate": 1787674390
             }
         ]
     },
