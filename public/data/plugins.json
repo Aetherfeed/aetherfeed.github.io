@@ -1394,9 +1394,9 @@
     },
     {
         "repo_developer_name": "AlmerisBE",
-        "repo_url": "https://raw.githubusercontent.com/AlmerisBE/Armoire/production/repo.json",
-        "repo_source_url": "https://github.com/AlmerisBE/Armoire",
-        "repo_name": "Armoire",
+        "repo_url": "https://raw.githubusercontent.com/AlmerisBE/DalamudPlugins/main/repo.json",
+        "repo_source_url": "https://github.com/AlmerisBE/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
         "plugins": [
             {
                 "Author": "Almeris",
@@ -1406,7 +1406,17 @@
                 "Description": "Gestionnaire de tenues et résolution de conflits pour Penumbra.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AlmerisBE/Armoire",
-                "LastUpdate": 1783107398
+                "LastUpdate": 1787757602
+            },
+            {
+                "Author": "Almeris",
+                "Name": "Befriender",
+                "InternalName": "Befriender",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "An improved, responsive, and feature-rich friend list for Final Fantasy XIV.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/AlmerisBE/Befriender",
+                "LastUpdate": 1787762685
             }
         ]
     },
@@ -9151,25 +9161,6 @@
         ]
     },
     {
-        "repo_developer_name": "heeralaljrahul",
-        "repo_url": "https://raw.githubusercontent.com/heeralaljrahul/bhop/main/repo.json",
-        "repo_source_url": "https://github.com/heeralaljrahul/bhop",
-        "repo_name": "bhop",
-        "plugins": [
-            {
-                "Author": "heeralaljrahul",
-                "Name": "autobhop",
-                "InternalName": "autobhop",
-                "AssemblyVersion": "2.0.0.0",
-                "Description": "Hold spacebar to enable auto bunnyhop. Repeatedly sends jump inputs while spacebar is held, replicating continuous bunnyhopping in FFXIV. Updated for Dawntrail (Patch 7.x, API 14).",
-                "DalamudApiLevel": 14,
-                "RepoUrl": "https://github.com/heeralaljrahul/bhop",
-                "LastUpdate": 1775419311,
-                "is_ai_attributed": true
-            }
-        ]
-    },
-    {
         "repo_developer_name": "HeiMiyano",
         "repo_url": "https://raw.githubusercontent.com/HeiMiyano/Aethernet/main/repo.json",
         "repo_source_url": "https://github.com/HeiMiyano/Aethernet",
@@ -10400,12 +10391,12 @@
                 "Author": "jFray",
                 "Name": "EchoGlam",
                 "InternalName": "EchoGlam.Plugin",
-                "AssemblyVersion": "1.1.0.3",
+                "AssemblyVersion": "1.1.0.4",
                 "Description": "Dress your character in any item in the game from a searchable in-game wardrobe, dye every slot, edit full appearance and save named outfits. Then publish the look to a community catalogue you can browse, filter, vote on and favourite without leaving the game - and put anyone else's glamour on with one click, with a revert that is always one click away. No other plugins required.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/jfraygit/EchoXIV/main/icons/echoglam-icon.png",
                 "RepoUrl": "https://github.com/jfraygit/EchoXIV/tree/main/EchoGlam",
-                "LastUpdate": 1787359355
+                "LastUpdate": 1787762276
             },
             {
                 "Author": "jFray",
@@ -11912,6 +11903,24 @@
                 "IconUrl": "https://raw.githubusercontent.com/kernelcurry/popotovox-plugin/main/images/icon.png",
                 "RepoUrl": "https://github.com/kernelcurry/popotovox-plugin",
                 "LastUpdate": 1786927057,
+                "is_ai_attributed": true
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "kihtli",
+        "repo_url": "https://raw.githubusercontent.com/kihtli/HuntTally/main/repo.json",
+        "repo_source_url": "https://github.com/kihtli/HuntTally",
+        "repo_name": "HuntTally",
+        "plugins": [
+            {
+                "Author": "Kiht",
+                "Name": "Hunt Tally",
+                "InternalName": "HuntTally",
+                "AssemblyVersion": "2.2.0.1",
+                "Description": "Keeps a permanent, per-mark count of every hunt mark you get credit for killing, broken down by rank and expansion. Seeds pre-existing totals from your achievements, and keeps counting after the achievement is complete.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/kihtli/HuntTally/repo.json",
                 "is_ai_attributed": true
             }
         ]
@@ -15492,12 +15501,12 @@
                 "Author": "Miragium",
                 "Name": "Body Flux",
                 "InternalName": "BodyFlux",
-                "AssemblyVersion": "0.8.1.0",
+                "AssemblyVersion": "0.8.2.0",
                 "Description": "Animates Customize+ bone scales from your current profile values toward a configurable target. Use /bodyflux to open the control window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/miragiumxiv/BodyFlux/master/BodyFlux/images/icon.png",
                 "RepoUrl": "https://github.com/miragiumxiv/BodyFlux",
-                "LastUpdate": 1787431611
+                "LastUpdate": 1787766637
             }
         ]
     },
@@ -17264,7 +17273,7 @@
                 "DalamudApiLevel": 12,
                 "IconUrl": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/plugins/NyaDraw/NyaDraw.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1787672389,
+                "LastUpdate": 1787760081,
                 "is_closed_source": true
             },
             {
@@ -17276,7 +17285,7 @@
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/plugins/NyaDraw/NyaDraw.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1787672389,
+                "LastUpdate": 1787760081,
                 "is_closed_source": true
             },
             {
@@ -17288,19 +17297,19 @@
                 "DalamudApiLevel": 14,
                 "IconUrl": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/plugins/NyaDraw/NyaDraw.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1787672389,
+                "LastUpdate": 1787760081,
                 "is_closed_source": true
             },
             {
                 "Author": "NiGuangOwO / Small_Miao",
                 "Name": "NyaDraw",
                 "InternalName": "NyaDraw",
-                "AssemblyVersion": "1.15.1.1",
+                "AssemblyVersion": "1.15.1.2",
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/plugins/NyaDraw/NyaDraw.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1787672389,
+                "LastUpdate": 1787760081,
                 "is_closed_source": true
             },
             {
@@ -18226,24 +18235,6 @@
         ]
     },
     {
-        "repo_developer_name": "NyxStormborn",
-        "repo_url": "https://raw.githubusercontent.com/NyxStormborn/fc-event-calendar/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/NyxStormborn/fc-event-calendar",
-        "repo_name": "fc-event-calendar",
-        "plugins": [
-            {
-                "Author": "NyxStormborn",
-                "Name": "FC Event Calendar",
-                "InternalName": "FcEventCalendar",
-                "AssemblyVersion": "0.2.1.0",
-                "Description": "A shared Free Company event calendar with sign-ups, reminders, and automatic cleanup.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/NyxStormborn/fc-event-calendar",
-                "LastUpdate": 1787162209
-            }
-        ]
-    },
-    {
         "repo_url": "https://raw.githubusercontent.com/obi-o-n-e/pt/main/repo.json",
         "repo_source_url": "https://github.com/obi-o-n-e/pt",
         "repo_name": "pt",
@@ -18389,12 +18380,12 @@
                 "Author": "Faye, Kage",
                 "Name": "Better Occult Crescent & Chest Helper Interface",
                 "InternalName": "BOCCHI",
-                "AssemblyVersion": "4.1.0.9",
+                "AssemblyVersion": "4.1.0.10",
                 "Description": "BOCCHI is here to smooth out your Occult Crescent experience.\n- No more of that pesky 'walking' or 'finding chests'. That's for losers.\n- A cute little Fate and CE panel that'll tell you what rewards it gives AND help you automatically path to it, wowee.\n- An extre illegal 'illegal mode' for those of you that would rather be touching grass or playing a game with worthwhile content.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/OhKannaDuh/BOCCHI/master/assets/icon.png",
                 "RepoUrl": "https://github.com/OhKannaDuh/OccultCrescentHelper",
-                "LastUpdate": 1787506221
+                "LastUpdate": 1787753008
             }
         ]
     },
@@ -20306,12 +20297,12 @@
                 "Author": "Det, croizat",
                 "Name": "AutoHook",
                 "InternalName": "AutoHook",
-                "AssemblyVersion": "6.0.0.93",
+                "AssemblyVersion": "6.0.0.94",
                 "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/47",
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1787526620
+                "LastUpdate": 1787769200
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -20405,12 +20396,12 @@
                 "Author": "Taurenkey, Kage, NightmareXIV",
                 "Name": "Saucy",
                 "InternalName": "Saucy",
-                "AssemblyVersion": "2.1.1.17",
+                "AssemblyVersion": "2.1.1.18",
                 "Description": "Automates certain Gold Saucer mini-games.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/7",
                 "RepoUrl": "https://github.com/PunishXIV/Saucy",
-                "LastUpdate": 1787746546
+                "LastUpdate": 1787752662
             },
             {
                 "Author": "NightmareXIV",
@@ -20820,11 +20811,11 @@
                 "Author": "Nala Praline, Asuna",
                 "Name": "VenueScope",
                 "InternalName": "VenueScope",
-                "AssemblyVersion": "1.0.10.0",
+                "AssemblyVersion": "1.0.11.0",
                 "Description": "Browse FFXIV community events from Partake.gg and FFXIV Venue directly in-game. Filter by data center, time, and tags.\n\n/venuescope or /vs — Open VenueScope",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/122",
-                "LastUpdate": 1781867298
+                "LastUpdate": 1787767869
             }
         ]
     },
@@ -23436,12 +23427,22 @@
                 "Author": "rude",
                 "Name": "JobBar",
                 "InternalName": "JobBar",
-                "AssemblyVersion": "1.1.1.0",
+                "AssemblyVersion": "1.2.0.0",
                 "Description": "Displays registered gearsets as configurable hotbar-style job switchers without consuming a game hotbar.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/rude-jerk/job-bar",
-                "LastUpdate": 1786058705,
+                "LastUpdate": 1787753864,
                 "is_ai_attributed": true
+            },
+            {
+                "Author": "rude",
+                "Name": "Player Compass",
+                "InternalName": "PlayerCompass",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "Draws a dot at the local player's exact world position with N, S, E, and W labels projected onto the ground around the player.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/rude-jerk/player-compass",
+                "LastUpdate": 1787753873
             },
             {
                 "Author": "rude",
@@ -24027,11 +24028,11 @@
                 "Author": "Sansflaire",
                 "Name": "FFXIV Miscellaneous Challenges",
                 "InternalName": "TieriChallengesFFXIV",
-                "AssemblyVersion": "0.81.36.2",
+                "AssemblyVersion": "0.84.38.2",
                 "Description": "A tracker for miscellaneous self-imposed FFXIV challenges across combat, exploration, gathering, crafting and social play. Challenges complete themselves when their conditions are met - walk a route, emote at a spot, ride a particular mount somewhere, or wear a full outfit in a given zone - and a popup celebrates each one. Progress is kept per install with the date you finished each challenge, and a separate permanent record means a reset is always recoverable. Includes a suggestion button for sending ideas straight to the developer. Commands: /tchallenges, /tchal",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sansflaire/TieriChallengesFFXIV-Public",
-                "LastUpdate": 1787745133
+                "LastUpdate": 1787768635
             }
         ]
     },
@@ -25132,11 +25133,11 @@
                 "Author": "Sneakiestbear",
                 "Name": "Dancing Madness",
                 "InternalName": "DancingMadness",
-                "AssemblyVersion": "1.0.5.0",
+                "AssemblyVersion": "1.0.6.0",
                 "Description": "Adds support for the Dancing Mad (Ultimate) encounter, including an automarker for the Forsaken tower/AoE sequence (configurable tower order, priority, and per-role markers). A fork of Lemegeton by Paissa Heavy Industries.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/SneakiestBear/Dancing-Madness",
-                "LastUpdate": 1784410253,
+                "LastUpdate": 1787763849,
                 "is_ai_attributed": true
             }
         ]
@@ -25941,7 +25942,7 @@
                 "Author": "Suuria",
                 "Name": "Relic Tracker",
                 "InternalName": "RelicTracker",
-                "AssemblyVersion": "0.0.1.5",
+                "AssemblyVersion": "0.0.1.6",
                 "Description": "A compact checklist for every combat relic weapon stage, grouped by expansion and job.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Suuria/RelicTracker"
