@@ -3587,24 +3587,6 @@
         ]
     },
     {
-        "repo_url": "https://raw.githubusercontent.com/Brappp/repo/main/wah.json",
-        "repo_source_url": "https://github.com/Brappp/repo",
-        "repo_name": "repo",
-        "repo_developer_name": "Brappp",
-        "plugins": [
-            {
-                "Author": "wah",
-                "Name": "Wahbuttons",
-                "InternalName": "wahbuttons",
-                "AssemblyVersion": "18.0.0.0",
-                "Description": "",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/Brappp/wahbuttons",
-                "LastUpdate": 1777839805
-            }
-        ]
-    },
-    {
         "repo_developer_name": "Brolijah",
         "repo_url": "https://raw.githubusercontent.com/Brolijah/DalamudPluginRepo/master/pluginmaster.json",
         "repo_source_url": "https://github.com/Brolijah/DalamudPluginRepo",
@@ -5384,6 +5366,24 @@
         ]
     },
     {
+        "repo_developer_name": "dennischen0",
+        "repo_url": "https://raw.githubusercontent.com/dennischen0/TurboGamepad/master/repo.json",
+        "repo_source_url": "https://github.com/dennischen0/TurboGamepad",
+        "repo_name": "TurboGamepad",
+        "plugins": [
+            {
+                "Author": "dennischen0",
+                "Name": "Turbo Gamepad",
+                "InternalName": "TurboGamepad",
+                "AssemblyVersion": "1.1.0.0",
+                "Description": "Lets you enable turbo (rapid-fire) behavior on the D-Pad and the four face buttons (North/South/West/East - Triangle/Cross/Square/Circle or Y/A/X/B) of your gamepad. While a turbo-enabled button is held, it pulses on/off at a per-button configurable press/release interval, so whatever action it's bound to in-game repeats automatically for as long as you hold it.",
+                "RepoUrl": "https://github.com/dennischen0/TurboGamepad",
+                "LastUpdate": 1787721432,
+                "is_ai_attributed": true
+            }
+        ]
+    },
+    {
         "repo_developer_name": "derbruedi",
         "repo_url": "https://raw.githubusercontent.com/derbruedi/ff14-accessibility/main/repo.json",
         "repo_source_url": "https://github.com/derbruedi/ff14-accessibility",
@@ -5589,6 +5589,17 @@
             },
             {
                 "Author": "Oreo",
+                "Name": "Persona",
+                "InternalName": "persona",
+                "AssemblyVersion": "0.0.0.3",
+                "Description": "Persona reads your Glamourer designs and the Penumbra mods behind them, works out which mod belongs to which item in each outfit, and flags when two outfits fight over the same item. It keeps every design self-contained so applying one never leaves a mod bleeding through from the last. Open it with /persona.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/devoreofox/persona/main/persona/images/icon.png",
+                "RepoUrl": "https://github.com/devoreofox/persona",
+                "LastUpdate": 1787712602
+            },
+            {
+                "Author": "Oreo",
                 "Name": "Silkstring",
                 "InternalName": "Silkstring",
                 "AssemblyVersion": "2.0.1.0",
@@ -5635,6 +5646,25 @@
                 "IconUrl": "https://raw.githubusercontent.com/devoreofox/LittleLuxuries/main/LittleLuxuries/images/icon.png",
                 "RepoUrl": "https://github.com/devoreofox/LittleLuxuries",
                 "LastUpdate": 1782449365
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "devoreofox",
+        "repo_url": "https://raw.githubusercontent.com/devoreofox/persona/main/repo.json",
+        "repo_source_url": "https://github.com/devoreofox/persona",
+        "repo_name": "persona",
+        "plugins": [
+            {
+                "Author": "Oreo",
+                "Name": "Persona",
+                "InternalName": "persona",
+                "AssemblyVersion": "0.0.0.3",
+                "Description": "Persona reads your Glamourer designs and the Penumbra mods behind them, works out which mod belongs to which item in each outfit, and flags when two outfits fight over the same item. It keeps every design self-contained so applying one never leaves a mod bleeding through from the last. Open it with /persona.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/devoreofox/persona/main/persona/images/icon.png",
+                "RepoUrl": "https://github.com/devoreofox/persona",
+                "LastUpdate": 1787712602
             }
         ]
     },
@@ -9047,7 +9077,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/main/HaselTweaks/Assets/Icon.png",
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1787179144
+                "LastUpdate": 1787713147
             },
             {
                 "Author": "Haselnussbomber",
@@ -11856,7 +11886,7 @@
                 "Author": "Yu",
                 "Name": "Viet Translator",
                 "InternalName": "VietTranslator",
-                "AssemblyVersion": "1.5.1.0",
+                "AssemblyVersion": "1.5.2.0",
                 "Description": "Phu de tieng Viet cho thoai FFXIV: overlay ImGui render chu co dau chuan (font BeVietnam Pro), giu nguyen ten rieng tieng Anh. Ban v1 phu tron A Realm Reborn - cot truyen chinh (2.0) + hau-ARR (2.1-2.55), nhiem vu Nghe & Job, mo khoa tinh nang (nha o, chocobo, retainer...) va Duty (dungeon/trial/raid). Hoat dong cho thoai thuong, cutscene, caption va menu lua chon.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/kennabi83/VietTranslator/main/Resources/icon.png?v=2",
@@ -12553,12 +12583,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.3.13",
+                "AssemblyVersion": "15.306.3.14",
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1787682845,
+                "LastUpdate": 1787709169,
                 "is_ai_attributed": true
             },
             {
@@ -13144,12 +13174,12 @@
                 "Author": "Legends of the Game",
                 "Name": "Time Memoria",
                 "InternalName": "TimeMemoriaV3",
-                "AssemblyVersion": "3.2.2.15",
+                "AssemblyVersion": "3.3.0.15",
                 "Description": "Quest progression and pacing — a reflective notebook for your story journey, not a scoreboard.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/LegendsOfTheGame/TimeMemoriaV3/main/assets/icon.png",
                 "RepoUrl": "https://github.com/LegendsOfTheGame/TimeMemoriaV3",
-                "LastUpdate": 1787604569,
+                "LastUpdate": 1787721279,
                 "is_ai_attributed": true
             }
         ]
@@ -15661,12 +15691,12 @@
                 "Author": "monkdim",
                 "Name": "One Two Punch",
                 "InternalName": "OneTwoPunch",
-                "AssemblyVersion": "1.0.20.0",
+                "AssemblyVersion": "1.0.25.0",
                 "Description": "Collapses each supported DPS job into a single-target button and an AoE button. The button shows the action that is correct right now given your cooldowns, gauge, buffs, target count and whether you are moving. It never presses anything for you: one keypress is always exactly one action.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/monkdim/beepboop/main/assets/icon.png",
                 "RepoUrl": "https://github.com/monkdim/beepboop",
-                "LastUpdate": 1787699600,
+                "LastUpdate": 1787712937,
                 "is_ai_attributed": true
             }
         ]
@@ -20363,12 +20393,12 @@
                 "Author": "the Puni.sh Quest Squad",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.3.13",
+                "AssemblyVersion": "15.306.3.14",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1787682845,
+                "LastUpdate": 1787709169,
                 "is_ai_attributed": true
             },
             {
@@ -20717,12 +20747,12 @@
                 "Author": "nainaiowo",
                 "Name": "Better Deaths",
                 "InternalName": "BetterDeaths",
-                "AssemblyVersion": "1.0.0.3",
+                "AssemblyVersion": "1.0.0.4",
                 "Description": "Records party deaths with pull grouping, fatal events, active statuses, and recent action timelines.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/160",
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1787646413,
+                "LastUpdate": 1787709316,
                 "is_ai_attributed": true
             },
             {
@@ -20813,7 +20843,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/149",
                 "RepoUrl": "https://github.com/Nexaii/FCCH",
-                "LastUpdate": 1785794300
+                "LastUpdate": 1787703459
             },
             {
                 "Author": "Nexai",
@@ -21731,6 +21761,17 @@
                 "IconUrl": "https://raw.githubusercontent.com/QY-SR/DalamudPlugins/main/assets/icons/QuickAutoTranslate.png?v=20260811-localmanifest",
                 "RepoUrl": "https://github.com/QY-SR/DalamudPlugins",
                 "LastUpdate": 1786526000
+            },
+            {
+                "Author": "QianyanSR",
+                "Name": "Quick Plugin Manager",
+                "InternalName": "QuickPluginManager",
+                "AssemblyVersion": "1.0.1.0",
+                "Description": "专为解决第三方插件仓库过多导致原生插件列表打开缓慢而设计的极速开关管理器。零网络请求，秒开秒关，支持搜索、状态过滤、一键重载与预设方案。",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/QY-SR/DalamudPlugins/main/assets/icons/QuickPluginManager.png?v=20260826-1",
+                "RepoUrl": "https://github.com/QY-SR/DalamudPlugins",
+                "LastUpdate": 1787712859
             },
             {
                 "Author": "QianyanSR",
@@ -27789,7 +27830,7 @@
                 "Author": "Voudi",
                 "Name": "AlphaChannel",
                 "InternalName": "AlphaChannel.Plugin",
-                "AssemblyVersion": "2.1.2.0",
+                "AssemblyVersion": "2.1.3.0",
                 "Description": "Renders an in-world video screen and syncs playback with other players running AlphaChannel over a self-hosted relay.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Kodie0/AlphaChannelKodie",
@@ -27988,12 +28029,12 @@
                 "Author": "MacaronDream, DhogGPT, XA",
                 "Name": "Questionable Companion",
                 "InternalName": "QSTCompanion",
-                "AssemblyVersion": "1.1.17.0",
+                "AssemblyVersion": "1.1.18.0",
                 "Description": "Automated character rotation and quest sequence execution for Questionable.\n\nAutomates multi-character MSQ progression by intelligently switching between characters based on quest completion and level requirements. Features include:\n- Automatic character switching and quest tracking\n- MSQ progression monitoring across all characters\n- Allied Society quest rotation and prioritization\n- Event quest automation with prerequisite checking\n- Chauffeur Mode for following main character through quests\n- Data Center travel automation\n- Stop point configuration for controlled progression\n\nRequired Plugins: Questionable, AutoRetainer",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MacaronDream/QSTCompanion/main/icon.png",
                 "RepoUrl": "https://github.com/MacaronDream/QSTCompanion",
-                "LastUpdate": 1787473917
+                "LastUpdate": 1787720125
             },
             {
                 "Author": "WigglyMuffin, CryoTechnic",
@@ -28042,7 +28083,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/will-corrigan/Wayfarer/main/images/icon.png",
                 "RepoUrl": "https://github.com/will-corrigan/Wayfarer",
-                "LastUpdate": 1787702837
+                "LastUpdate": 1787706196
             }
         ]
     },
@@ -29545,12 +29586,12 @@
                 "Author": "zhui-zi",
                 "Name": "Keita 工具箱",
                 "InternalName": "KeitaToolbox",
-                "AssemblyVersion": "1.7.2.0",
+                "AssemblyVersion": "1.7.2.1",
                 "Description": "Combines duty automation, recruitment tools, plugin and map gearset switching, trade protection, IME cleanup, portrait synchronization, Ayano tools, and I-Ching utilities.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/zhui-zi/DalamudPlugins/main/plugins/KeitaToolbox/icon.png",
                 "RepoUrl": "https://github.com/zhui-zi/DalamudPlugins/tree/main/plugins/KeitaToolbox",
-                "LastUpdate": 1787660896
+                "LastUpdate": 1787716778
             }
         ]
     },
