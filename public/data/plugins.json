@@ -491,12 +491,12 @@
                 "Author": "Astraea, nihal_shadescale",
                 "Name": "AetherLove - AetherOS",
                 "InternalName": "AetherLovePlugin",
-                "AssemblyVersion": "2.5.2.0",
+                "AssemblyVersion": "2.5.3.0",
                 "Description": "FFXIV in-game dating and matchmaking — swipe, match, and chat with other adventurers. /al opens the phone.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/154",
                 "RepoUrl": "https://github.com/FFXIV-Aetherlove/Aetherlove",
-                "LastUpdate": 1787602991,
+                "LastUpdate": 1787814973,
                 "is_ai_attributed": true
             }
         ]
@@ -608,7 +608,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dad/main/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/dad",
-                "LastUpdate": 1787798983,
+                "LastUpdate": 1787836983,
                 "is_ai_attributed": true
             },
             {
@@ -668,7 +668,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1787512425,
+                "LastUpdate": 1787837029,
                 "is_ai_attributed": true
             },
             {
@@ -692,7 +692,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/Krangler/master/Krangler/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/Krangler",
-                "LastUpdate": 1787062019,
+                "LastUpdate": 1787837053,
                 "is_ai_attributed": true
             },
             {
@@ -2907,6 +2907,25 @@
         ]
     },
     {
+        "repo_developer_name": "barnicskolaci",
+        "repo_url": "https://raw.githubusercontent.com/barnicskolaci/Conduit/main/repo.json",
+        "repo_source_url": "https://github.com/barnicskolaci/Conduit",
+        "repo_name": "Conduit",
+        "plugins": [
+            {
+                "Author": "barni",
+                "Name": "Conduit",
+                "InternalName": "Conduit",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "Resolves live plugin instances through Dalamud's plugin manager and invokes their internals by reflection, bypassing IPC surfaces and their gates. Includes a task engine for sequencing multi-step automation across plugins, SND-compatible event triggers, and a file bridge for driving a client from outside the game.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/barnicskolaci/Conduit/main/Conduit/images/icon.png",
+                "RepoUrl": "https://github.com/barnicskolaci/Conduit",
+                "LastUpdate": 1787816769
+            }
+        ]
+    },
+    {
         "repo_developer_name": "Bastaklis1",
         "repo_url": "https://raw.githubusercontent.com/Bastaklis1/Presettingway/main/pluginmaster.json",
         "repo_source_url": "https://github.com/Bastaklis1/Presettingway",
@@ -4318,11 +4337,11 @@
                 "Author": "Coptone",
                 "Name": "VedaMarker",
                 "InternalName": "VedaMarker",
-                "AssemblyVersion": "0.2.0.0",
+                "AssemblyVersion": "0.2.2.0",
                 "Description": "VedaMarker 0.2 测试版：自动识别遗弃末世八轮点名并计算完整团队标点。真实标点默认关闭，需人工核对职责并手动启动；AOE/VFX 尚未启用。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Coptone/VedaMarker",
-                "LastUpdate": 1787585521,
+                "LastUpdate": 1787825030,
                 "is_ai_attributed": true
             }
         ]
@@ -7661,12 +7680,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "BossMod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.5.59",
+                "AssemblyVersion": "7.5.5.60",
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1787691530
+                "LastUpdate": 1787827075
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -7727,7 +7746,7 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.5.36",
+                "AssemblyVersion": "7.5.5.37",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
@@ -8525,12 +8544,12 @@
                 "Author": "GitHixy",
                 "Name": "LootView",
                 "InternalName": "LootView",
-                "AssemblyVersion": "1.3.3.0",
+                "AssemblyVersion": "1.3.4.0",
                 "Description": "A customizable loot tracking window with item icons, rarity colors, and highlight animations. Shows who loots what and can be filtered to show only your loot.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/GitHixy/LootView/main/icon.png",
                 "RepoUrl": "https://github.com/GitHixy/LootView",
-                "LastUpdate": 1787581193,
+                "LastUpdate": 1787832754,
                 "is_ai_attributed": true
             }
         ]
@@ -9076,7 +9095,7 @@
                 "Description": "For developers.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
-                "LastUpdate": 1787368676
+                "LastUpdate": 1787783325
             },
             {
                 "Author": "Haselnussbomber",
@@ -9087,7 +9106,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/main/HaselTweaks/Assets/Icon.png",
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1787713147
+                "LastUpdate": 1787783080
             },
             {
                 "Author": "Haselnussbomber",
@@ -12559,12 +12578,12 @@
                 "Author": "croizat",
                 "Name": "CBT",
                 "InternalName": "Automaton",
-                "AssemblyVersion": "69.206",
+                "AssemblyVersion": "69.207",
                 "Description": "Yet another tweaks collection plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/34",
                 "RepoUrl": "https://github.com/Jaksuhn/Automaton",
-                "LastUpdate": 1787782790
+                "LastUpdate": 1787829186
             },
             {
                 "Author": "veyn, xan_0",
@@ -12592,12 +12611,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.3.15",
+                "AssemblyVersion": "15.306.3.16",
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1787801801,
+                "LastUpdate": 1787823858,
                 "is_ai_attributed": true
             },
             {
@@ -12620,7 +12639,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1787812171
+                "LastUpdate": 1787831808
             }
         ]
     },
@@ -14554,12 +14573,12 @@
                 "Author": "DhogGPT",
                 "Name": "dad",
                 "InternalName": "dad",
-                "AssemblyVersion": "0.5.0.9",
+                "AssemblyVersion": "0.5.0.10",
                 "Description": "Private Dad duty operations shell with multiplayer status, preset planning, queue routing, and Duty Support automation.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dad/main/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/dad",
-                "LastUpdate": 1786215545,
+                "LastUpdate": 1787836983,
                 "is_ai_attributed": true
             }
         ]
@@ -14654,12 +14673,12 @@
                 "Author": "DhogGPT",
                 "Name": "Fren Rider",
                 "InternalName": "FrenRider",
-                "AssemblyVersion": "1.3.0.0",
+                "AssemblyVersion": "1.3.0.1",
                 "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1787512425,
+                "LastUpdate": 1787837029,
                 "is_ai_attributed": true
             }
         ]
@@ -14714,12 +14733,12 @@
                 "Author": "DhogGPT, XA",
                 "Name": "Krangler",
                 "InternalName": "Krangler",
-                "AssemblyVersion": "1.1.0.0",
+                "AssemblyVersion": "1.1.0.1",
                 "Description": "Krangler makes your screenshots safe by randomizing visible player information. Toggle name krangling, gender swaps, race changes, and full appearance randomization independently. Features a fun Super Krangle Master 4000 mode for extra chaos.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/Krangler/master/Krangler/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/Krangler",
-                "LastUpdate": 1784755208,
+                "LastUpdate": 1787837053,
                 "is_ai_attributed": true
             }
         ]
@@ -16649,12 +16668,12 @@
                 "Author": "nxships",
                 "Name": "PlayerNexusTracker",
                 "InternalName": "PlayerNexusTracker",
-                "AssemblyVersion": "0.3.0.0",
+                "AssemblyVersion": "0.3.1.0",
                 "Description": "Track players you meet in FFXIV — who they are, when you ran into them, how their characters change over time. A focused social tracker built on the NexusKit framework.\n\nPer-player detail view with Summary, Equipment, Class/Jobs, Achievements, Free Company, Encounters, History and Notes tabs. Optional enrichment from Lodestone (gear, FC link, achievement progress) and FFXIVCollect (mounts, minions, full achievement catalog). Live throttled refresh queue keeps external data fresh without hammering either service.\n\nConfigurable chat and toast notifications when players you've seen before change — rename, server transfer, Free Company join/leave/switch, achievement growth, refresh failures. Per-event filtering and history grouping so the chat doesn't drown you.\n\nPowerful player-filter language with live preview to slice your list however you want; encounter history scoped per duty and content type; optional bridges to other Dalamud plugins (Lifestream world-travel, more to come).\n\nLocal-first: all data lives in a single SQLite file under your XIVLauncher config. Automated weekly maintenance keeps it tidy. English and German localization.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/NexusFFXIV/PlayerNexusTracker/main/PlayerNexusTracker.Plugin/images/icon.png",
                 "RepoUrl": "https://github.com/NexusFFXIV/PlayerNexusTracker",
-                "LastUpdate": 1785787337,
+                "LastUpdate": 1787815367,
                 "is_ai_attributed": true
             }
         ]
@@ -17046,7 +17065,7 @@
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1787745691,
+                "LastUpdate": 1787832107,
                 "is_closed_source": true
             },
             {
@@ -17058,19 +17077,19 @@
                 "DalamudApiLevel": 14,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1787745691,
+                "LastUpdate": 1787832107,
                 "is_closed_source": true
             },
             {
                 "Author": "The Combat Reborn Team / NiGuangOwO（本地化&适配）",
                 "Name": "BossMod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.5.59",
+                "AssemblyVersion": "7.5.5.60",
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1787745691,
+                "LastUpdate": 1787832107,
                 "is_closed_source": true
             },
             {
@@ -18634,18 +18653,29 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Olympia-Guardian/AutoArmory/main/icon.png",
                 "RepoUrl": "https://github.com/Olympia-Guardian/AutoArmory",
-                "LastUpdate": 1787584995
+                "LastUpdate": 1787837008
+            },
+            {
+                "Author": "Olympia-Guardian",
+                "Name": "AutoLoseVerminion",
+                "InternalName": "AutoLoseVerminion",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "Enchaine les combats contre un maitre du Choc des mascottes sans les jouer : inscription, confirmation, on regarde l'ordinateur gagner, on quitte, on recommence, jusqu'au nombre voulu. Une defaite compte pour le carnet de defis de la semaine, c'est tout l'interet. Rien ne se lance sans ton geste, et Arreter coupe tout. Par Codex Olympia.\n\nChains Lord of Verminion Master Battles without playing them: queue, confirm, watch the AI win, leave, repeat, up to the number you set. A loss still counts for the weekly challenge log, which is the whole point. Nothing starts without you, and Stop ends everything. By Codex Olympia.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Olympia-Guardian/AutoLoseVerminion/main/icon.png",
+                "RepoUrl": "https://github.com/Olympia-Guardian/AutoLoseVerminion",
+                "LastUpdate": 1787835714
             },
             {
                 "Author": "Olympia-Guardian",
                 "Name": "Codex Olympia Synchronisation",
                 "InternalName": "CodexOlympia",
-                "AssemblyVersion": "1.2.0.0",
+                "AssemblyVersion": "1.2.1.0",
                 "Description": "Lit ce que ton personnage a debloque dans le jeu et l'envoie a Codex Olympia, a la demande. Rien n'est envoye sans que tu le demandes, et rien n'est jamais decoche a ta place : les ecarts te sont rapportes dans l'application, et c'est toi qui tranches.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Olympia-Guardian/CodexOlympia/main/icon.png",
                 "RepoUrl": "https://github.com/Olympia-Guardian/codex-olympia-dalamud",
-                "LastUpdate": 1787686105
+                "LastUpdate": 1787837005
             }
         ]
     },
@@ -18664,18 +18694,29 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Olympia-Guardian/AutoArmory/main/icon.png",
                 "RepoUrl": "https://github.com/Olympia-Guardian/AutoArmory",
-                "LastUpdate": 1787584995
+                "LastUpdate": 1787837008
+            },
+            {
+                "Author": "Olympia-Guardian",
+                "Name": "AutoLoseVerminion",
+                "InternalName": "AutoLoseVerminion",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "Enchaine les combats contre un maitre du Choc des mascottes sans les jouer : inscription, confirmation, on regarde l'ordinateur gagner, on quitte, on recommence, jusqu'au nombre voulu. Une defaite compte pour le carnet de defis de la semaine, c'est tout l'interet. Rien ne se lance sans ton geste, et Arreter coupe tout. Par Codex Olympia.\n\nChains Lord of Verminion Master Battles without playing them: queue, confirm, watch the AI win, leave, repeat, up to the number you set. A loss still counts for the weekly challenge log, which is the whole point. Nothing starts without you, and Stop ends everything. By Codex Olympia.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Olympia-Guardian/AutoLoseVerminion/main/icon.png",
+                "RepoUrl": "https://github.com/Olympia-Guardian/AutoLoseVerminion",
+                "LastUpdate": 1787835714
             },
             {
                 "Author": "Olympia-Guardian",
                 "Name": "Codex Olympia Synchronisation",
                 "InternalName": "CodexOlympia",
-                "AssemblyVersion": "1.2.0.0",
+                "AssemblyVersion": "1.2.1.0",
                 "Description": "Reads what your character has unlocked in-game, collections, outfits and armoire included, shows it to you, and sends it to Codex Olympia when you ask. Nothing is sent without your action, and nothing is ever unchecked on your behalf: gaps are reported in the app, where you decide. Also prints a chat notice when an outfit piece lands in your bags. Exclusive to the Codex Olympia website (https://olympia-guardian.github.io/): without an account on the app, this plugin is useless.\n\nLit ce que ton personnage a debloque dans le jeu, tenues et armoire comprises, te le montre, et l'envoie a Codex Olympia quand tu le demandes. Rien n'est envoye sans ton geste, et rien n'est jamais decoche a ta place : les ecarts sont rapportes dans l'application, et c'est toi qui tranches. Previent aussi dans le journal quand une piece de tenue arrive dans tes sacs. Exclusif au site Codex Olympia : sans compte sur l'application, il ne sert a rien.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Olympia-Guardian/CodexOlympia/main/icon.png",
                 "RepoUrl": "https://github.com/Olympia-Guardian/CodexOlympia",
-                "LastUpdate": 1787686105
+                "LastUpdate": 1787837005
             }
         ]
     },
@@ -20404,12 +20445,12 @@
                 "Author": "the Puni.sh Quest Squad",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.3.15",
+                "AssemblyVersion": "15.306.3.16",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1787801801,
+                "LastUpdate": 1787823858,
                 "is_ai_attributed": true
             },
             {
@@ -20438,12 +20479,12 @@
                 "Author": "Team Wrath",
                 "Name": "Wrath Combo",
                 "InternalName": "WrathCombo",
-                "AssemblyVersion": "1.0.4.20",
+                "AssemblyVersion": "1.0.4.21",
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1787812171
+                "LastUpdate": 1787831808
             },
             {
                 "Author": "daemitus, croizat",
@@ -20469,12 +20510,12 @@
                 "Author": "croizat",
                 "Name": "CBT 🐎",
                 "InternalName": "Automaton",
-                "AssemblyVersion": "69.206",
+                "AssemblyVersion": "69.208",
                 "Description": "Yet another tweaks collection plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/34",
                 "RepoUrl": "https://github.com/Jaksuhn/ffxiv-bundleoftweaks",
-                "LastUpdate": 1787782790
+                "LastUpdate": 1787829186
             },
             {
                 "Author": "croizat",
@@ -20763,7 +20804,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/160",
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1787774395,
+                "LastUpdate": 1787834631,
                 "is_ai_attributed": true
             },
             {
@@ -25481,12 +25522,12 @@
                 "Author": "lcc",
                 "Name": "LCC Tools",
                 "InternalName": "lccTools",
-                "AssemblyVersion": "0.1.1.4",
+                "AssemblyVersion": "0.1.1.9",
                 "Description": "LCC 的综合工具箱：提供游戏状态与悬停 ID 调试、自动复活和食物、PvP 好友雷达、分场景移动速度、按角色隔离的物品收录，以及带缓存、成交历史和众包上传的 Universalis 市场查询。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/spqrwk/LccTools-DalamudRepo/main/icons/icon.png",
                 "RepoUrl": "https://github.com/spqrwk/LccTools-DalamudRepo",
-                "LastUpdate": 1787595929
+                "LastUpdate": 1787836765
             }
         ]
     },
@@ -26993,7 +27034,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/twelvehouse/Brio-Anchor",
-                "LastUpdate": 1784891833,
+                "LastUpdate": 1787553084,
                 "is_ai_attributed": true
             },
             {
@@ -27006,6 +27047,17 @@
                 "IconUrl": "https://raw.githubusercontent.com/twelvehouse/ChatAnywhere/main/images/icon.png",
                 "RepoUrl": "https://github.com/twelvehouse/ChatAnywhere",
                 "LastUpdate": 1780671155,
+                "is_ai_attributed": true
+            },
+            {
+                "Author": "twelvehouse",
+                "Name": "ChatInputSoftWrap",
+                "InternalName": "ChatInputSoftWrap",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "Soft-wraps the chat input box, growing it to fit.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/twelvehouse/DalamudPlugins",
+                "LastUpdate": 1787820212,
                 "is_ai_attributed": true
             },
             {
