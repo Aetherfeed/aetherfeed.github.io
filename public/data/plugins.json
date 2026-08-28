@@ -603,12 +603,12 @@
                 "Author": "DhogGPT",
                 "Name": "dad",
                 "InternalName": "dad",
-                "AssemblyVersion": "0.5.0.11",
+                "AssemblyVersion": "0.5.0.12",
                 "Description": "DAD is a duty planner and multibox coordinator for FFXIV. Create reusable character presets, wake or relog the right clients, prepare jobs, assemble and verify parties, queue supported duties and roulettes, and chain presets into manual or daily schedules. Live readiness checks, clear blockers, reconnect status, cancellation, and Stop All keep every run visible and recoverable.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dad/main/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/dad",
-                "LastUpdate": 1787868908,
+                "LastUpdate": 1787888618,
                 "is_ai_attributed": true
             },
             {
@@ -639,12 +639,12 @@
                 "Author": "DhogGPT",
                 "Name": "Dhog Potato System",
                 "InternalName": "DPS",
-                "AssemblyVersion": "0.1.1.0",
+                "AssemblyVersion": "0.1.1.1",
                 "Description": "A potato-mode Dalamud plugin for weak machines: suppress non-party players, pets, chocobos, and minions so the client spends less effort rendering garbage you do not need.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/DPS/master/DPS/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/DPS",
-                "LastUpdate": 1787248183,
+                "LastUpdate": 1787887229,
                 "is_ai_attributed": true
             },
             {
@@ -1580,12 +1580,12 @@
                 "Author": "Angelways",
                 "Name": "OCNFarmer",
                 "InternalName": "NorthIslandChestPlugin",
-                "AssemblyVersion": "1.4.0.0",
+                "AssemblyVersion": "1.5.0.0",
                 "Description": "蜃景幻界新月岛 北征之章全自动战斗与寻宝流程",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Angelways/OCNFarmer/main/icon.png",
                 "RepoUrl": "https://github.com/Angelways/OCNFarmer",
-                "LastUpdate": 1787846049
+                "LastUpdate": 1787900518
             }
         ]
     },
@@ -7401,6 +7401,24 @@
         ]
     },
     {
+        "repo_developer_name": "Evernow",
+        "repo_url": "https://raw.githubusercontent.com/Evernow/DalamudPlugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/Evernow/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "Evernow",
+                "Name": "Emptor",
+                "InternalName": "Emptor",
+                "AssemblyVersion": "0.2.1.0",
+                "Description": "Works a list of items, quantities and per-item price ceilings against the market board, buying the cheapest acceptable listings for you. Walks to a board, searches, and buys with human-variable timing. Exposes a Dalamud IPC API so other plugins can submit buy orders and read back what was purchased and at what price.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Evernow/Emptor",
+                "LastUpdate": 1787886538
+            }
+        ]
+    },
+    {
         "repo_url": "https://raw.githubusercontent.com/Ewilhan/LMeter/main/repo.json",
         "repo_source_url": "https://github.com/Ewilhan/LMeter",
         "repo_name": "LMeter",
@@ -9202,11 +9220,11 @@
                 "Author": "HaySidney",
                 "Name": "Twenty One",
                 "InternalName": "TwentyOne",
-                "AssemblyVersion": "0.9.2.0",
+                "AssemblyVersion": "0.10.1.0",
                 "Description": "Run a blackjack table in your FFXIV venue. Narrates each beat to chat, draws cards from /random rolls, tracks every player's bank, and reconciles the night's gil against your wallet. Type /twentyone to open the table.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/haysidney/twenty-one",
-                "LastUpdate": 1787288948,
+                "LastUpdate": 1787891854,
                 "is_ai_attributed": true
             }
         ]
@@ -10327,12 +10345,12 @@
                 "Author": "raynording",
                 "Name": "Dalamud ACT Compat",
                 "InternalName": "DalamudActCompat",
-                "AssemblyVersion": "0.3.10.0",
+                "AssemblyVersion": "0.3.10.1",
                 "Description": "Dalamud-side UI, storage, parser abstraction, and compatibility-host bridge for an ACT-compatible FFXIV parsing platform. This early build does not yet load FFXIV_ACT_Plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/JackyWilliam/DalamudActCompat/main/src/DalamudActCompat/Assets/act-logo.jpg",
                 "RepoUrl": "https://github.com/JackyWilliam/DalamudActCompat",
-                "LastUpdate": 1787385600,
+                "LastUpdate": 1787888007,
                 "is_ai_attributed": true
             }
         ]
@@ -10347,12 +10365,12 @@
                 "Author": "raynording",
                 "Name": "Dalamud ACT Compat",
                 "InternalName": "DalamudActCompat",
-                "AssemblyVersion": "0.3.10.0",
+                "AssemblyVersion": "0.3.10.1",
                 "Description": "Dalamud-side UI, storage, parser abstraction, and compatibility-host bridge for an ACT-compatible FFXIV parsing platform. This early build does not yet load FFXIV_ACT_Plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/JackyWilliam/DalamudActCompatRepo/main/act-logo-512.png",
                 "RepoUrl": "https://github.com/JackyWilliam/DalamudActCompat",
-                "LastUpdate": 1787839406,
+                "LastUpdate": 1787889394,
                 "is_ai_attributed": true
             }
         ]
@@ -12007,7 +12025,7 @@
                 "Author": "Kiht",
                 "Name": "Hunt Tally",
                 "InternalName": "HuntTally",
-                "AssemblyVersion": "2.2.0.1",
+                "AssemblyVersion": "2.3.0.0",
                 "Description": "Keeps a permanent, per-mark count of every hunt mark you get credit for killing, broken down by rank and expansion. Seeds pre-existing totals from your achievements, and keeps counting after the achievement is complete.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kihtli/HuntTally/repo.json",
@@ -12682,19 +12700,19 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.3.16",
+                "AssemblyVersion": "15.306.3.17",
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1787857642,
+                "LastUpdate": 1787900455,
                 "is_ai_attributed": true
             },
             {
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.5.38",
+                "AssemblyVersion": "7.5.5.39",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
@@ -12710,7 +12728,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1787873397
+                "LastUpdate": 1787889031
             }
         ]
     },
@@ -14662,12 +14680,12 @@
                 "Author": "DhogGPT",
                 "Name": "dad",
                 "InternalName": "dad",
-                "AssemblyVersion": "0.5.0.11",
+                "AssemblyVersion": "0.5.0.12",
                 "Description": "Private Dad duty operations shell with multiplayer status, preset planning, queue routing, and Duty Support automation.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dad/main/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/dad",
-                "LastUpdate": 1787868908,
+                "LastUpdate": 1787888618,
                 "is_ai_attributed": true
             }
         ]
@@ -14722,12 +14740,12 @@
                 "Author": "DhogGPT",
                 "Name": "Dhog Potato System",
                 "InternalName": "DPS",
-                "AssemblyVersion": "0.1.1.0",
+                "AssemblyVersion": "0.1.1.1",
                 "Description": "A potato-mode Dalamud plugin for weak machines: suppress non-party players, pets, chocobos, and minions so the client spends less effort rendering garbage you do not need.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/DPS/master/DPS/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/DPS",
-                "LastUpdate": 1787248183,
+                "LastUpdate": 1787887229,
                 "is_ai_attributed": true
             }
         ]
@@ -15491,12 +15509,12 @@
                 "Author": "miqote69",
                 "Name": "Minion Mirage",
                 "InternalName": "MinionMirage",
-                "AssemblyVersion": "0.1.0.5",
+                "AssemblyVersion": "0.1.0.7",
                 "Description": "Replaces selected minions with NPCs.\nCommand: /minionmirage",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/miqote69/MinionMirage-Distribution/main/.dalamud/2d478e48ca56c3c2453cc2e69d41d02e54c41e23c6c69cf805b332a916273011/icon.png",
                 "RepoUrl": "https://github.com/miqote69/MinionMirage",
-                "LastUpdate": 1787847425
+                "LastUpdate": 1787901226
             }
         ]
     },
@@ -15728,12 +15746,12 @@
                 "Author": "monkdim",
                 "Name": "One Two Punch",
                 "InternalName": "OneTwoPunch",
-                "AssemblyVersion": "1.0.36.0",
+                "AssemblyVersion": "1.0.39.0",
                 "Description": "Collapses each supported DPS job into a single-target button and an AoE button. The button shows the action that is correct right now given your cooldowns, gauge, buffs, target count and whether you are moving. It never presses anything for you: one keypress is always exactly one action.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/monkdim/beepboop/main/assets/icon.png",
                 "RepoUrl": "https://github.com/monkdim/beepboop",
-                "LastUpdate": 1787879446,
+                "LastUpdate": 1787886443,
                 "is_ai_attributed": true
             }
         ]
@@ -16226,12 +16244,12 @@
                 "Author": "naco-ff14",
                 "Name": "AltMate",
                 "InternalName": "AltMate",
-                "AssemblyVersion": "1.32.0.17",
+                "AssemblyVersion": "1.33.0.9",
                 "Description": "AltMate supports multiple FFXIV clients running on the same PC. It provides linked controls, housing tracking, Penumbra emote playback, and shared gil summaries. Data stays on the local PC. Japanese and English UI are supported.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/naco-ff14/AltMate/main/images/icon.png",
                 "RepoUrl": "https://github.com/naco-ff14/AltMate",
-                "LastUpdate": 1787459856
+                "LastUpdate": 1787902785
             }
         ]
     },
@@ -18254,7 +18272,6 @@
                 "AssemblyVersion": "1.3.0.0",
                 "Description": "An interactive DJ deck with live mixing tools, custom playlists, and a synced listener mode with an audio visualizer.",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/jfraygit/EchoMix-Repo/main/icon.png",
                 "RepoUrl": "https://echoxiv.com",
                 "LastUpdate": 1786591406
             },
@@ -20453,12 +20470,12 @@
                 "Author": "the Puni.sh Quest Squad",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.3.16",
+                "AssemblyVersion": "15.306.3.17",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1787857642,
+                "LastUpdate": 1787900455,
                 "is_ai_attributed": true
             },
             {
@@ -20492,7 +20509,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1787873397
+                "LastUpdate": 1787889031
             },
             {
                 "Author": "daemitus, croizat",
@@ -20812,7 +20829,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/160",
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1787877322,
+                "LastUpdate": 1787894738,
                 "is_ai_attributed": true
             },
             {
@@ -21540,31 +21557,11 @@
                 "Author": "liza, qstxiv, & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.3.0601",
+                "AssemblyVersion": "15.306.3.1601",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/QianChangUwU/Questionable",
-                "LastUpdate": 1787503182,
-                "is_ai_attributed": true
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "qinguard19514",
-        "repo_url": "https://raw.githubusercontent.com/qinguard19514/QingPlugins/master/pluginmaster.json",
-        "repo_source_url": "https://github.com/qinguard19514/QingPlugins",
-        "repo_name": "QingPlugins",
-        "plugins": [
-            {
-                "Author": "XeldarAlz",
-                "Name": "Aetherphone",
-                "InternalName": "Aetherphone",
-                "AssemblyVersion": "1.0.1.2",
-                "Description": "An in-game smartphone that puts everything you do into a single window: one device, endless things to do.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
-                "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone",
-                "LastUpdate": 1787858081,
+                "LastUpdate": 1787891419,
                 "is_ai_attributed": true
             }
         ]
@@ -24954,12 +24951,12 @@
                 "Author": "XSZYYS",
                 "Name": "XSZToolbox",
                 "InternalName": "XSZToolbox",
-                "AssemblyVersion": "1.7.5.5",
+                "AssemblyVersion": "1.7.5.6",
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ShoOtaku/DalamudPlugins/main/plugins/XSZToolbox/icon.png",
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins/tree/main/plugins/XSZToolbox",
-                "LastUpdate": 1787839086,
+                "LastUpdate": 1787893609,
                 "is_closed_source": true
             }
         ]
@@ -25400,7 +25397,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/solona-m/proteus/main/Proteus/images/icon.png",
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1787845813,
+                "LastUpdate": 1787888416,
                 "is_ai_attributed": true
             }
         ]
@@ -28187,12 +28184,12 @@
                 "Author": "MacaronDream, DhogGPT, XA",
                 "Name": "Questionable Companion",
                 "InternalName": "QSTCompanion",
-                "AssemblyVersion": "1.1.18.0",
+                "AssemblyVersion": "1.1.19.0",
                 "Description": "Automated character rotation and quest sequence execution for Questionable.\n\nAutomates multi-character MSQ progression by intelligently switching between characters based on quest completion and level requirements. Features include:\n- Automatic character switching and quest tracking\n- MSQ progression monitoring across all characters\n- Allied Society quest rotation and prioritization\n- Event quest automation with prerequisite checking\n- Chauffeur Mode for following main character through quests\n- Data Center travel automation\n- Stop point configuration for controlled progression\n\nRequired Plugins: Questionable, AutoRetainer",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MacaronDream/QSTCompanion/main/icon.png",
                 "RepoUrl": "https://github.com/MacaronDream/QSTCompanion",
-                "LastUpdate": 1787720125
+                "LastUpdate": 1787898418
             },
             {
                 "Author": "WigglyMuffin, CryoTechnic",
@@ -28754,11 +28751,11 @@
                 "Author": "XivHub",
                 "Name": "AutoPincher",
                 "InternalName": "AutoPincher",
-                "AssemblyVersion": "0.1.4.0",
+                "AssemblyVersion": "0.1.6.0",
                 "Description": "Repinches your retainer market listings by undercutting the cheapest live competitor by 1 gil. Reads each listing straight from game memory, clicks the in-game market board's Compare Prices to find the current cheapest offering, and lowers your asking price to one below it (holding when your own listing is already cheapest). No server, no telemetry, nothing leaves your client. Adds an Auto Pinch button next to AutoRetainer's retainer-list controls and a /autopinch command for the open retainer. AutoRetainer is optional (used only to pause its automation during a pinch run).",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XivHub/AutoPincher",
-                "LastUpdate": 1787601965,
+                "LastUpdate": 1787902832,
                 "is_ai_attributed": true
             },
             {
