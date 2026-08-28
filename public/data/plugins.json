@@ -663,12 +663,12 @@
                 "Author": "DhogGPT",
                 "Name": "Fren Rider",
                 "InternalName": "FrenRider",
-                "AssemblyVersion": "1.3.0.5",
+                "AssemblyVersion": "1.3.0.8",
                 "Description": "Native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider or /fr to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1787868683,
+                "LastUpdate": 1787916948,
                 "is_ai_attributed": true
             },
             {
@@ -699,24 +699,24 @@
                 "Author": "DhogGPT",
                 "Name": "Loot Goblin",
                 "InternalName": "LootGoblin",
-                "AssemblyVersion": "0.4.2.16",
+                "AssemblyVersion": "0.5.0.0",
                 "Description": "LootGoblin automates treasure map hunting by opening maps, reading local map flags, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/LootGoblin/master/LootGoblin/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1787865146,
+                "LastUpdate": 1787924309,
                 "is_ai_attributed": true
             },
             {
                 "Author": "DhogGPT",
                 "Name": "M.O.G.T.O.M.E.",
                 "InternalName": "MOGTOME",
-                "AssemblyVersion": "0.2.0.15",
+                "AssemblyVersion": "0.2.0.16",
                 "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open. M.O.G.T.O.M.E. = Management Of Grand Tome Operations & Management Engine",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/MOGTOME/master/MOGTOME/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/MOGTOME",
-                "LastUpdate": 1787866252,
+                "LastUpdate": 1787916485,
                 "is_ai_attributed": true
             },
             {
@@ -735,12 +735,12 @@
                 "Author": "DhogGPT",
                 "Name": "Vermaxion",
                 "InternalName": "VERMAXION",
-                "AssemblyVersion": "0.3.4.7",
+                "AssemblyVersion": "0.3.4.8",
                 "Description": "Automates weekly and daily tasks triggered by AutoRetainer post-processing. Configurable per character: Verminion queue, Cactpot, Chocobo Racing, FC buff refill, and Henchman management.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1787869372,
+                "LastUpdate": 1787915216,
                 "is_ai_attributed": true
             },
             {
@@ -1229,12 +1229,12 @@
                 "Author": "Alex Vallière",
                 "Name": "Submarine ETA Planner",
                 "InternalName": "SubmarineEtaPlanner",
-                "AssemblyVersion": "0.5.37.0",
+                "AssemblyVersion": "0.5.44.0",
                 "Description": "Read-only ETA planner for tracked FC submarines using SubmarineTracker-compatible voyage, build, EXP, and unlock calculations.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://alexvalliere.github.io/submarineEtaPlanner/images/icon.png",
                 "RepoUrl": "https://github.com/AlexValliere/submarineEtaPlanner",
-                "LastUpdate": 1786455525
+                "LastUpdate": 1787910042
             }
         ]
     },
@@ -2689,12 +2689,12 @@
                 "Author": "Saik",
                 "Name": "Linkshell Sync",
                 "InternalName": "LinkshellSync",
-                "AssemblyVersion": "0.5.0.0",
+                "AssemblyVersion": "0.6.0.0",
                 "Description": "Linkshell Sync reads your own character in game (jobs and levels, gear and gearsets, collections, achievements, titles, currencies and playtime) and keeps your profile on Linkshell up to date while you play. Nothing is read and nothing is sent until you switch upload on, and only the character you are logged in as is ever read. To connect a character, mint a claim code on https://linkshell.fanfuse.app, then run /lsync in game, paste the code and claim the character.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ATroschke/xiv-linkshell-dist/main/plugins/LinkshellSync/icon.png",
                 "RepoUrl": "https://github.com/ATroschke/xiv-linkshell-dist",
-                "LastUpdate": 1787857381,
+                "LastUpdate": 1787917247,
                 "is_ai_attributed": true
             }
         ]
@@ -4078,6 +4078,24 @@
                 "Description": "Helper for your day-to-day market operations.",
                 "RepoUrl": "https://github.com/chalkos/Marketbuddy",
                 "LastUpdate": 1777240891
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "ChanceRain0108",
+        "repo_url": "https://raw.githubusercontent.com/ChanceRain0108/DalamudPlugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/ChanceRain0108/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "ChanceRain0108",
+                "Name": "Mortal MJ",
+                "InternalName": "MortalMJPlugin",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "FFXIV 国服「多玛方城战」麻将 AI 辅助插件，基于 Mortal AI 提供实时打牌建议与自动化（自动出牌/吃碰杠荣和/看整桌）。需要额外配置 Mortal AI 环境，详见仓库 README。",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/ChanceRain0108/DalamudPlugins",
+                "LastUpdate": 1787919665
             }
         ]
     },
@@ -7493,12 +7511,12 @@
                 "Author": "mirage",
                 "Name": "Oracle",
                 "InternalName": "Oracle",
-                "AssemblyVersion": "1.0.3.0",
+                "AssemblyVersion": "1.0.4.0",
                 "Description": "Shows mitigation and skill timing cues as a timeline overlay. Matches zone, job, and scene; starts on countdown (-N) or combat.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/exatrines/Oracle/main/Oracle/Data/plugin-icon.png",
                 "RepoUrl": "https://github.com/exatrines/Oracle",
-                "LastUpdate": 1786603736
+                "LastUpdate": 1787886577
             }
         ]
     },
@@ -9170,12 +9188,12 @@
                 "Author": "Haselnussbomber",
                 "Name": "HaselTweaks",
                 "InternalName": "HaselTweaks",
-                "AssemblyVersion": "49.4.2.0",
+                "AssemblyVersion": "50.0.0.0",
                 "Description": "A collection of quality of life tweaks and more.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/main/HaselTweaks/Assets/Icon.png",
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1787783080
+                "LastUpdate": 1787916991
             },
             {
                 "Author": "Haselnussbomber",
@@ -11352,7 +11370,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Kagekazu/QuickTransfer/main/images/icon.png",
                 "RepoUrl": "https://github.com/Kagekazu/QuickTransfer",
-                "LastUpdate": 1783783941,
+                "LastUpdate": 1787913925,
                 "is_ai_attributed": true
             }
         ]
@@ -11757,12 +11775,12 @@
                 "Author": "SaMo, Karriis",
                 "Name": "PvP 战绩统计（中文增强版）",
                 "InternalName": "PvpStatsCN",
-                "AssemblyVersion": "2.7.0.9",
+                "AssemblyVersion": "2.7.0.11",
                 "Description": "基于 PvP Tracker 的简体中文增强版本。记录、浏览和筛选水晶冲突、纷争前线及烈羽争锋的历史对局；查看对局计分板，以及胜率、场均伤害等汇总统计。重要：请在进入 PvP 对局前启用插件，进入对局后不要启用、禁用或重载插件。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Karriis/PvpStatsCN/main/images/icon.png",
                 "RepoUrl": "https://github.com/Karriis/PvpStatsCN",
-                "LastUpdate": 1787847598
+                "LastUpdate": 1787925066
             }
         ]
     },
@@ -12381,11 +12399,11 @@
                 "Author": "kittenhaswares-ui",
                 "Name": "Seiton Sense",
                 "InternalName": "SeitonSense.Plugin",
-                "AssemblyVersion": "0.36.0.0",
+                "AssemblyVersion": "0.37.0.0",
                 "Description": "A local PvP HUD with exact native-nameplate cues, LB activation and damage notifications, pressure and CC awareness, a bounded Purify-first held-action scheduler, Smart Target and assist macros, local MP sounds, survival/job helpers, team communication, and target highlights.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kittenhaswares-ui/SeitonSense",
-                "LastUpdate": 1787864481
+                "LastUpdate": 1787917802
             }
         ]
     },
@@ -12667,12 +12685,12 @@
                 "Author": "croizat",
                 "Name": "CBT",
                 "InternalName": "Automaton",
-                "AssemblyVersion": "69.208",
+                "AssemblyVersion": "69.209",
                 "Description": "Yet another tweaks collection plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/34",
                 "RepoUrl": "https://github.com/Jaksuhn/Automaton",
-                "LastUpdate": 1787829186
+                "LastUpdate": 1787906360
             },
             {
                 "Author": "veyn, xan_0",
@@ -12705,7 +12723,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1787900455,
+                "LastUpdate": 1787920159,
                 "is_ai_attributed": true
             },
             {
@@ -13707,11 +13725,11 @@
                 "Author": "Luci",
                 "Name": "XIV Instant Edit",
                 "InternalName": "InstantEdit",
-                "AssemblyVersion": "1.0.8.0",
+                "AssemblyVersion": "1.1.0.0",
                 "Description": "Lists models currently on screen and sends them to Blender through the XIV Instant Edit add-on. Quick Export writes edited models back to their original Penumbra mod path.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/link-0402/Instant-Edit",
-                "LastUpdate": 1787859120
+                "LastUpdate": 1787921483
             }
         ]
     },
@@ -13725,11 +13743,11 @@
                 "Author": "Luci",
                 "Name": "XIV Instant Edit",
                 "InternalName": "InstantEdit",
-                "AssemblyVersion": "1.0.8.0",
+                "AssemblyVersion": "1.1.0.0",
                 "Description": "Enables easy importing of Penumbra model files in Blender and exporting them back to the game with just a single click. Provides various utilities and settings to make mod creation and editing easier and faster.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/link-0402/XIV-Instant-Edit",
-                "LastUpdate": 1787859120
+                "LastUpdate": 1787921483
             }
         ]
     },
@@ -14254,10 +14272,19 @@
                 "Author": "Twinki Toes",
                 "Name": "Plugin List",
                 "InternalName": "PluginList",
-                "AssemblyVersion": "1.0.5.0",
+                "AssemblyVersion": "1.0.8.0",
                 "Description": "",
                 "RepoUrl": "https://github.com/MaJoRX0/MyDalamudPlugins/tree/main/plugins/PluginList",
-                "LastUpdate": 1787253761
+                "LastUpdate": 1787905542
+            },
+            {
+                "Author": "TwinkiToes",
+                "Name": "VulcanToArtisan",
+                "InternalName": "VulcanToArtisan",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "Test clipboard bridge for converting GatherBuddy Reborn Vulcan crafting-list exports into Artisan-compatible crafting-list JSON.",
+                "RepoUrl": "https://github.com/MaJoRX0/MyDalamudPlugins",
+                "LastUpdate": 1787908232
             }
         ]
     },
@@ -14780,12 +14807,12 @@
                 "Author": "DhogGPT",
                 "Name": "Fren Rider",
                 "InternalName": "FrenRider",
-                "AssemblyVersion": "1.3.0.5",
+                "AssemblyVersion": "1.3.0.8",
                 "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1787868683,
+                "LastUpdate": 1787916948,
                 "is_ai_attributed": true
             }
         ]
@@ -14860,12 +14887,12 @@
                 "Author": "DhogGPT",
                 "Name": "Loot Goblin",
                 "InternalName": "LootGoblin",
-                "AssemblyVersion": "0.4.2.16",
+                "AssemblyVersion": "0.5.0.0",
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/LootGoblin/master/LootGoblin/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1787865146,
+                "LastUpdate": 1787924309,
                 "is_ai_attributed": true
             }
         ]
@@ -14880,12 +14907,12 @@
                 "Author": "DhogGPT",
                 "Name": "M.O.G.T.O.M.E.",
                 "InternalName": "MOGTOME",
-                "AssemblyVersion": "0.2.0.15",
+                "AssemblyVersion": "0.2.0.16",
                 "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/MOGTOME/master/MOGTOME/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/MOGTOME",
-                "LastUpdate": 1787866252,
+                "LastUpdate": 1787916485,
                 "is_ai_attributed": true
             }
         ]
@@ -14912,7 +14939,7 @@
                 "Author": "DhogGPT",
                 "Name": "Choke-abo",
                 "InternalName": "ChokeAbo",
-                "AssemblyVersion": "1.0.0.6",
+                "AssemblyVersion": "1.0.1.2",
                 "Description": "(Racing Chocobo) Feed your Racing chocobo Grade 1-2-3 Feed. Includes automatic buying and feeding.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/ChokeAbo/main/ChokeAbo/images/icon.png",
@@ -14924,7 +14951,7 @@
                 "Author": "DhogGPT",
                 "Name": "Dheacon",
                 "InternalName": "dheacon",
-                "AssemblyVersion": "1.0.0.3",
+                "AssemblyVersion": "2.1.0.2",
                 "Description": "Another hand touches the crystal.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dheacon/main/dheacon/images/icon.png",
@@ -14948,31 +14975,31 @@
                 "Author": "DhogGPT",
                 "Name": "Dhog Potato System",
                 "InternalName": "DPS",
-                "AssemblyVersion": "0.1.0.3",
+                "AssemblyVersion": "0.1.1.1",
                 "Description": "A potato-mode Dalamud plugin for weak machines: suppress non-party players, pets, chocobos, and minions so the client spends less effort rendering garbage you do not need.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/DPS/master/DPS/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/DPS",
-                "LastUpdate": 1787248183,
+                "LastUpdate": 1787887229,
                 "is_ai_attributed": true
             },
             {
                 "Author": "DhogGPT",
                 "Name": "Fren Rider",
                 "InternalName": "FrenRider",
-                "AssemblyVersion": "1.1.0.23",
+                "AssemblyVersion": "1.3.0.8",
                 "Description": "Native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider or /fr to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1787868683,
+                "LastUpdate": 1787916948,
                 "is_ai_attributed": true
             },
             {
                 "Author": "DhogGPT",
                 "Name": "Hello Fellow Human",
                 "InternalName": "HelloFellowHuman",
-                "AssemblyVersion": "1.0.0.3",
+                "AssemblyVersion": "1.0.0.5",
                 "Description": "Configure emote responses that trigger when specific players are nearby. Perfect for passive RP automation. Use /hfh to configure.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/HelloFellowHuman/main/HelloFellowHuman/images/icon.png",
@@ -14984,7 +15011,7 @@
                 "Author": "DhogGPT, XA",
                 "Name": "Krangler",
                 "InternalName": "Krangler",
-                "AssemblyVersion": "0.0.0.28",
+                "AssemblyVersion": "1.1.0.1",
                 "Description": "Krangler makes your screenshots safe by randomizing visible player information. Toggle name krangling, gender swaps, race changes, and full appearance randomization independently.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/Krangler/master/Krangler/images/icon.png",
@@ -14996,31 +15023,31 @@
                 "Author": "DhogGPT",
                 "Name": "Loot Goblin",
                 "InternalName": "LootGoblin",
-                "AssemblyVersion": "0.3.7.2",
+                "AssemblyVersion": "0.4.2.16",
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/LootGoblin/master/LootGoblin/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1787865146,
+                "LastUpdate": 1787924309,
                 "is_ai_attributed": true
             },
             {
                 "Author": "DhogGPT",
                 "Name": "M.O.G.T.O.M.E.",
                 "InternalName": "MOGTOME",
-                "AssemblyVersion": "0.2.0.10",
+                "AssemblyVersion": "0.2.0.16",
                 "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open. M.O.G.T.O.M.E. = Management Of Grand Tome Operations & Management Engine",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/MOGTOME/master/MOGTOME/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/MOGTOME",
-                "LastUpdate": 1787866252,
+                "LastUpdate": 1787916485,
                 "is_ai_attributed": true
             },
             {
                 "Author": "DhogGPT",
                 "Name": "Thick Thighs Save Lives",
                 "InternalName": "TTSL",
-                "AssemblyVersion": "0.0.1.11",
+                "AssemblyVersion": "0.0.1.15",
                 "Description": "An essential-state HUD for monitoring zone, position, combat state, durability, and party awareness when your main rendering setup is intentionally reduced.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/TTSL/master/TTSL/images/icon.png",
@@ -15030,14 +15057,14 @@
             },
             {
                 "Author": "DhogGPT",
-                "Name": "VerMAXion",
+                "Name": "Vermaxion",
                 "InternalName": "VERMAXION",
-                "AssemblyVersion": "0.2.1.9",
+                "AssemblyVersion": "0.3.4.8",
                 "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1787869372,
+                "LastUpdate": 1787915216,
                 "is_ai_attributed": true
             }
         ],
@@ -15073,12 +15100,12 @@
                 "Author": "DhogGPT",
                 "Name": "VerMAXion",
                 "InternalName": "VERMAXION",
-                "AssemblyVersion": "0.3.4.7",
+                "AssemblyVersion": "0.3.4.8",
                 "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1787869372,
+                "LastUpdate": 1787915216,
                 "is_ai_attributed": true
             }
         ]
@@ -16244,12 +16271,12 @@
                 "Author": "naco-ff14",
                 "Name": "AltMate",
                 "InternalName": "AltMate",
-                "AssemblyVersion": "1.33.0.9",
+                "AssemblyVersion": "1.33.0.10",
                 "Description": "AltMate supports multiple FFXIV clients running on the same PC. It provides linked controls, housing tracking, Penumbra emote playback, and shared gil summaries. Data stays on the local PC. Japanese and English UI are supported.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/naco-ff14/AltMate/main/images/icon.png",
                 "RepoUrl": "https://github.com/naco-ff14/AltMate",
-                "LastUpdate": 1787902785
+                "LastUpdate": 1787906414
             }
         ]
     },
@@ -17091,7 +17118,7 @@
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1787832107,
+                "LastUpdate": 1787918513,
                 "is_closed_source": true
             },
             {
@@ -17103,19 +17130,19 @@
                 "DalamudApiLevel": 14,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1787832107,
+                "LastUpdate": 1787918513,
                 "is_closed_source": true
             },
             {
                 "Author": "The Combat Reborn Team / NiGuangOwO（本地化&适配）",
                 "Name": "BossMod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.5.60",
+                "AssemblyVersion": "7.5.5.61",
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1787832107,
+                "LastUpdate": 1787918513,
                 "is_closed_source": true
             },
             {
@@ -18443,12 +18470,12 @@
                 "Author": "Faye, Kage",
                 "Name": "Better Occult Crescent & Chest Helper Interface",
                 "InternalName": "BOCCHI",
-                "AssemblyVersion": "4.2.0.1",
+                "AssemblyVersion": "4.2.0.2",
                 "Description": "BOCCHI is here to smooth out your Occult Crescent experience.\n- No more of that pesky 'walking' or 'finding chests'. That's for losers.\n- A cute little Fate and CE panel that'll tell you what rewards it gives AND help you automatically path to it, wowee.\n- An extre illegal 'illegal mode' for those of you that would rather be touching grass or playing a game with worthwhile content.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/OhKannaDuh/BOCCHI/master/assets/icon.png",
                 "RepoUrl": "https://github.com/OhKannaDuh/OccultCrescentHelper",
-                "LastUpdate": 1787870430
+                "LastUpdate": 1787914213
             }
         ]
     },
@@ -19910,12 +19937,12 @@
                 "Author": "Porys",
                 "Name": "Tomestone Translate",
                 "InternalName": "Tomestone.Translate",
-                "AssemblyVersion": "0.0.0.4",
+                "AssemblyVersion": "0.0.0.5",
                 "Description": "Translates in-game cutscene and NPC dialogue in real time using a user-defined AI translation endpoint (OpenAI-compatible, e.g. OpenAI, DeepSeek, Ollama, LM Studio, OpenRouter). The translation is drawn as an overlay on top of or above the original text.\n\nCommands:\n/tt - open the main window\n/ttconfig - open the settings window",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://porys.github.io/xivplugins/icon.png",
                 "RepoUrl": "https://github.com/porys/TomestoneTranslate",
-                "LastUpdate": 1787138716
+                "LastUpdate": 1787913519
             }
         ]
     },
@@ -19929,12 +19956,12 @@
                 "Author": "Porys",
                 "Name": "Tomestone Translate",
                 "InternalName": "Tomestone.Translate",
-                "AssemblyVersion": "0.0.0.4",
+                "AssemblyVersion": "0.0.0.5",
                 "Description": "Translates in-game cutscene and NPC dialogue in real time using a user-defined AI translation endpoint (OpenAI-compatible, e.g. OpenAI, DeepSeek, Ollama, LM Studio, OpenRouter). The translation is drawn as an overlay on top of or above the original text.\n\nCommands:\n/tt - open the main window\n/ttconfig - open the settings window",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://porys.github.io/xivplugins/icon.png",
                 "RepoUrl": "https://github.com/porys/TomestoneTranslate",
-                "LastUpdate": 1787138717
+                "LastUpdate": 1787913520
             }
         ]
     },
@@ -20470,24 +20497,24 @@
                 "Author": "the Puni.sh Quest Squad",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.3.17",
+                "AssemblyVersion": "15.306.3.18",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1787900455,
+                "LastUpdate": 1787920159,
                 "is_ai_attributed": true
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
                 "Name": "Saucy",
                 "InternalName": "Saucy",
-                "AssemblyVersion": "2.1.1.18",
+                "AssemblyVersion": "2.1.2.0",
                 "Description": "Automates certain Gold Saucer mini-games.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/7",
                 "RepoUrl": "https://github.com/PunishXIV/Saucy",
-                "LastUpdate": 1787752662
+                "LastUpdate": 1787913847
             },
             {
                 "Author": "NightmareXIV",
@@ -20535,12 +20562,12 @@
                 "Author": "croizat",
                 "Name": "CBT 🐎",
                 "InternalName": "Automaton",
-                "AssemblyVersion": "69.208",
+                "AssemblyVersion": "69.209",
                 "Description": "Yet another tweaks collection plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/34",
                 "RepoUrl": "https://github.com/Jaksuhn/ffxiv-bundleoftweaks",
-                "LastUpdate": 1787829186
+                "LastUpdate": 1787906360
             },
             {
                 "Author": "croizat",
@@ -20649,7 +20676,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/68",
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/ChilledLeves",
-                "LastUpdate": 1786671569
+                "LastUpdate": 1787921124
             },
             {
                 "Author": "Ice",
@@ -20732,26 +20759,26 @@
         "plugins": [
             {
                 "Author": "Kage",
-                "Name": "Quick Transfer",
+                "Name": "QuickTransfer",
                 "InternalName": "QuickTransfer",
-                "AssemblyVersion": "1.1.0.7",
+                "AssemblyVersion": "1.1.1.0",
                 "Description": "Automate inventory transfers with Shift/Ctrl/Alt + Right-Click. Trade window, vendor quick sell, FC chest.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/144",
                 "RepoUrl": "https://github.com/Kagekazu/QuickTransfer",
-                "LastUpdate": 1787746832,
+                "LastUpdate": 1787913925,
                 "is_ai_attributed": true
             },
             {
                 "Author": "Kage",
                 "Name": "Relic Tracker",
                 "InternalName": "RelicTracker",
-                "AssemblyVersion": "1.0.1.5",
+                "AssemblyVersion": "1.0.2.0",
                 "Description": "Track relic weapon, tool, and armor progress across every job, with live material counts and optional FFXIV Collect sync.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/159",
                 "RepoUrl": "https://github.com/Kagekazu/RelicTracker",
-                "LastUpdate": 1787746795
+                "LastUpdate": 1787914005
             }
         ]
     },
@@ -28751,11 +28778,11 @@
                 "Author": "XivHub",
                 "Name": "AutoPincher",
                 "InternalName": "AutoPincher",
-                "AssemblyVersion": "0.1.6.0",
+                "AssemblyVersion": "0.1.8.0",
                 "Description": "Repinches your retainer market listings by undercutting the cheapest live competitor by 1 gil. Reads each listing straight from game memory, clicks the in-game market board's Compare Prices to find the current cheapest offering, and lowers your asking price to one below it (holding when your own listing is already cheapest). No server, no telemetry, nothing leaves your client. Adds an Auto Pinch button next to AutoRetainer's retainer-list controls and a /autopinch command for the open retainer. AutoRetainer is optional (used only to pause its automation during a pinch run).",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XivHub/AutoPincher",
-                "LastUpdate": 1787902832,
+                "LastUpdate": 1787908149,
                 "is_ai_attributed": true
             },
             {
