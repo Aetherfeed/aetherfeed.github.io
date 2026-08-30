@@ -1617,12 +1617,12 @@
                 "Author": "Angelways",
                 "Name": "OCNFarmer",
                 "InternalName": "NorthIslandChestPlugin",
-                "AssemblyVersion": "1.6.0.0",
+                "AssemblyVersion": "1.7.2.0",
                 "Description": "蜃景幻界新月岛 北征之章全自动战斗与寻宝流程",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Angelways/OCNFarmer/main/icon.png",
                 "RepoUrl": "https://github.com/Angelways/OCNFarmer",
-                "LastUpdate": 1788007871
+                "LastUpdate": 1788097084
             }
         ]
     },
@@ -2171,11 +2171,11 @@
                 "Author": "Arceuid731",
                 "Name": "GearScout",
                 "InternalName": "GearScout",
-                "AssemblyVersion": "0.1.0.7",
+                "AssemblyVersion": "0.1.0.10",
                 "Description": "Find recommended gear across your inventory, Armoury Chest, chocobo saddlebag, retainers, glamour dresser and armoire, then build a persistent retrieve-to-equip checklist.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Arceuid731/GearScout",
-                "LastUpdate": 1788032579
+                "LastUpdate": 1788087870
             }
         ]
     },
@@ -4146,12 +4146,12 @@
                 "Author": "ChanceRain",
                 "Name": "Mortal MJ",
                 "InternalName": "MortalMJPlugin",
-                "AssemblyVersion": "1.0.0.9",
+                "AssemblyVersion": "1.0.0.10",
                 "Description": "FFXIV 国服「多玛方城战」麻将 AI 辅助插件，基于 Mortal AI 提供实时打牌建议与自动化（自动出牌/吃碰杠荣和/看整桌）。需要额外配置 Mortal AI 环境，详见仓库 README。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ChanceRain0108/DalamudPlugins/main/icon.png",
                 "RepoUrl": "https://github.com/ChanceRain0108/DalamudPlugins",
-                "LastUpdate": 1788025019
+                "LastUpdate": 1788084506
             }
         ]
     },
@@ -6277,6 +6277,24 @@
         ]
     },
     {
+        "repo_developer_name": "Dregan234",
+        "repo_url": "https://raw.githubusercontent.com/Dregan234/scribes-prism/main/repo.json",
+        "repo_source_url": "https://github.com/Dregan234/scribes-prism",
+        "repo_name": "scribes-prism",
+        "plugins": [
+            {
+                "Author": "dregan234",
+                "Name": "ScribesPrism",
+                "InternalName": "ScribesPrism",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "A private development plugin that recolors chat lines sent by your macros using <white>, <green>, <red>, <blue>, <yellow>, <purple>, <orange> and <#RRGGBB> tags. Coloring is local to your client. Use /prism to open the settings window.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/dregan234/scribes-prism",
+                "LastUpdate": 1788101857
+            }
+        ]
+    },
+    {
         "repo_developer_name": "Dulul818",
         "repo_url": "https://raw.githubusercontent.com/Dulul818/DululFFXIVTools/main/pluginmaster.json",
         "repo_source_url": "https://github.com/Dulul818/DululFFXIVTools",
@@ -6957,12 +6975,12 @@
                 "Author": "The Enceladeum",
                 "Name": "HDM",
                 "InternalName": "HDM",
-                "AssemblyVersion": "1.0.1.0",
+                "AssemblyVersion": "1.0.2.0",
                 "Description": "A catalog of every mob in the game (16k+ models, 15.5k named) plus the full set of humanoid NPCs (Glamourer's NPC tab). Apply any mob's or NPC's look to yourself client-side (Brio-style ModelCharaId swap + redraw, or a Glamourer paint for humans), spawn disguised puppets, trigger action timelines for theatrics, and revert cleanly. Self-apply only, like Glamourer — never enforced on other players. Built for DM/event use — no mechanics, just the face.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Enceladeum/HDM/main/images/icon.png",
                 "RepoUrl": "https://github.com/Enceladeum/HDM",
-                "LastUpdate": 1787684520
+                "LastUpdate": 1788095720
             },
             {
                 "Author": "The Enceladeum",
@@ -6980,12 +6998,12 @@
                 "Author": "The Enceladeum",
                 "Name": "HMapSync (HMS)",
                 "InternalName": "HMSync",
-                "AssemblyVersion": "1.0.1.4",
+                "AssemblyVersion": "1.0.1.5",
                 "Description": "Load any in-game map client-side and explore it solo or with up to 20 friends, behind a packet filter that keeps the server seeing you as idle in your room. Shared weather, BGM and time; client-side mounts, emotes and minions; carpet floors for spots without collision; head-tilt and gaze sync for roleplay; and proximity say/yell passthrough. Co-op needs a relay key (closed beta); solo mode never connects to the relay.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Enceladeum/HMapSync/main/images/icon.png",
                 "RepoUrl": "https://github.com/Enceladeum/HMapSync",
-                "LastUpdate": 1787776372,
+                "LastUpdate": 1788097164,
                 "is_ai_attributed": true
             },
             {
@@ -7149,12 +7167,12 @@
                 "Author": "Enjuchan",
                 "Name": "EnCounter",
                 "InternalName": "EnCounter",
-                "AssemblyVersion": "0.3.4.1",
+                "AssemblyVersion": "0.3.4.6",
                 "Description": "Counts emotes and chat messages directed at you and briefly displays the tally as your title. Rules define which emotes, which trigger words and which channels count, what the message says and in which colours. Requires Honorific. Counts are stored locally and never leave your machine.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Enjuchan/EnCounter/main/EnCounter/images/icon.png",
                 "RepoUrl": "https://github.com/Enjuchan/EnCounter",
-                "LastUpdate": 1788034460,
+                "LastUpdate": 1788098702,
                 "is_ai_attributed": true
             },
             {
@@ -7167,6 +7185,18 @@
                 "IconUrl": "https://raw.githubusercontent.com/Enjuchan/EnDetailer/main/EnDetailer/images/icon.png",
                 "RepoUrl": "https://github.com/Enjuchan/EnDetailer",
                 "LastUpdate": 1787584587
+            },
+            {
+                "Author": "Enjuchan",
+                "Name": "EnMotion",
+                "InternalName": "EnMotion",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "Lists emotes, dances and idle poses altered by Penumbra mods, plays them with one click and lets you pin favourites. Idle poses can be picked directly instead of cycling through them. Requires Penumbra.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Enjuchan/EnMotion/main/EnMotion/images/icon.png",
+                "RepoUrl": "https://github.com/Enjuchan/EnMotion",
+                "LastUpdate": 1788088670,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -7432,7 +7462,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1788005015
+                "LastUpdate": 1788087580
             }
         ]
     },
@@ -7451,7 +7481,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1788005015
+                "LastUpdate": 1788087580
             }
         ]
     },
@@ -7553,11 +7583,11 @@
                 "Author": "Evernow",
                 "Name": "Emptor",
                 "InternalName": "Emptor",
-                "AssemblyVersion": "0.2.9.0",
+                "AssemblyVersion": "0.2.10.0",
                 "Description": "Works a list of items, quantities and per-item price ceilings against the market board, buying the cheapest acceptable listings for you. Walks to a board, searches, and buys with human-variable timing. Exposes a Dalamud IPC API so other plugins can submit buy orders and read back what was purchased and at what price.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Evernow/Emptor",
-                "LastUpdate": 1787971540
+                "LastUpdate": 1788096012
             }
         ]
     },
@@ -7647,12 +7677,12 @@
                 "Author": "mirage",
                 "Name": "Veilay",
                 "InternalName": "Veilay",
-                "AssemblyVersion": "0.1.0.0",
+                "AssemblyVersion": "0.1.1.0",
                 "Description": "Hides player, pet, NPC, and enemy models without despawning them, so position-based overlays like Splatoon still track. Optionally replace models with dummies, hide selected HUD Layout elements, mute battle effects and target lines during duty replay, and lock the camera. Models, HUD, and camera each apply independently; character-config changes stay replay-only.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/exatrines/Veilay/main/Veilay/Data/plugin-icon.png",
                 "RepoUrl": "https://github.com/exatrines/Veilay",
-                "LastUpdate": 1788056608
+                "LastUpdate": 1788091943
             }
         ]
     },
@@ -7783,6 +7813,24 @@
                 "RepoUrl": "https://github.com/fenk19/DalamudPluginRepo",
                 "LastUpdate": 1785668405,
                 "is_ai_attributed": true
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "feral-src",
+        "repo_url": "https://raw.githubusercontent.com/feral-src/DalamudPlugins/main/repo.json",
+        "repo_source_url": "https://github.com/feral-src/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "Vibe Code",
+                "Name": "JEBlock",
+                "InternalName": "JEBlock",
+                "AssemblyVersion": "0.0.3.0",
+                "Description": "When using Triggers or Puppeteer for emotes, your partner can escape by tapping jump, or performing a new /emote. This plugin blocks those actions when /wringhands is detected. You can only escape by moving your character (which may be denied, or locked, by the restriction from Gagspeak)",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/feral-src/jeblock",
+                "LastUpdate": 1788103538
             }
         ]
     },
@@ -10542,12 +10590,12 @@
                 "Author": "raynording",
                 "Name": "Dalamud ACT Compat",
                 "InternalName": "DalamudActCompat",
-                "AssemblyVersion": "0.3.10.1",
+                "AssemblyVersion": "0.3.10.3",
                 "Description": "Dalamud-side UI, storage, parser abstraction, and compatibility-host bridge for an ACT-compatible FFXIV parsing platform. This early build does not yet load FFXIV_ACT_Plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/JackyWilliam/DalamudActCompat/main/src/DalamudActCompat/Assets/act-logo.jpg",
                 "RepoUrl": "https://github.com/JackyWilliam/DalamudActCompat",
-                "LastUpdate": 1787888007,
+                "LastUpdate": 1788099313,
                 "is_ai_attributed": true
             }
         ]
@@ -10562,12 +10610,12 @@
                 "Author": "raynording",
                 "Name": "Dalamud ACT Compat",
                 "InternalName": "DalamudActCompat",
-                "AssemblyVersion": "0.3.10.1",
+                "AssemblyVersion": "0.3.10.3",
                 "Description": "Dalamud-side UI, storage, parser abstraction, and compatibility-host bridge for an ACT-compatible FFXIV parsing platform. This early build does not yet load FFXIV_ACT_Plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/JackyWilliam/DalamudActCompatRepo/main/act-logo-512.png",
                 "RepoUrl": "https://github.com/JackyWilliam/DalamudActCompat",
-                "LastUpdate": 1787889394,
+                "LastUpdate": 1788100361,
                 "is_ai_attributed": true
             }
         ]
@@ -11954,12 +12002,12 @@
                 "Author": "SaMo, Karriis",
                 "Name": "PvPLogs (CN)",
                 "InternalName": "PvpStatsCN",
-                "AssemblyVersion": "2.7.0.12",
+                "AssemblyVersion": "2.7.0.13",
                 "Description": "基于 PvP Tracker 的简体中文增强版本。记录、浏览和筛选水晶冲突、纷争前线及烈羽争锋的历史对局；查看对局计分板，以及胜率、场均伤害等汇总统计。重要：请在进入 PvP 对局前启用插件，进入对局后不要启用、禁用或重载插件。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Karriis/PvpStatsCN/main/images/icon.png",
                 "RepoUrl": "https://github.com/Karriis/PvpStatsCN",
-                "LastUpdate": 1788012850
+                "LastUpdate": 1788095059
             }
         ]
     },
@@ -12578,11 +12626,11 @@
                 "Author": "kittenhaswares-ui",
                 "Name": "Seiton Sense",
                 "InternalName": "SeitonSense.Plugin",
-                "AssemblyVersion": "0.41.0.0",
+                "AssemblyVersion": "0.42.0.3",
                 "Description": "A local PvP HUD with exact native-nameplate cues, LB activation and damage notifications, pressure and CC awareness, a bounded Purify-first held-action scheduler, Smart Target and assist macros, local MP sounds, survival/job helpers, team communication, and target highlights.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kittenhaswares-ui/SeitonSense",
-                "LastUpdate": 1788075843
+                "LastUpdate": 1788101557
             }
         ]
     },
@@ -13460,11 +13508,11 @@
                 "Author": "Latihas",
                 "Name": "SkyEye",
                 "InternalName": "SkyEye",
-                "AssemblyVersion": "7.55.1.0",
+                "AssemblyVersion": "7.55.1.1",
                 "Description": "改版SkyEye，原作者0x",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Latihas/SkyEye",
-                "LastUpdate": 1787502577
+                "LastUpdate": 1788095714
             },
             {
                 "Author": "Siren, Latihas",
@@ -15183,7 +15231,7 @@
                 "Author": "DhogGPT",
                 "Name": "HealBot",
                 "InternalName": "Coppelia",
-                "AssemblyVersion": "1.3.1.1",
+                "AssemblyVersion": "1.3.1.2",
                 "Description": "Coppelia provides guided setup for three mutually exclusive automation modes. HealBot runs configurable WHM, SCH, AST, or SGE healing, raises, buffs, and pre-buffs for up to 20 watched friendly targets. Jacqueline of All Trades (JOT) gives that healing absolute priority, then uses the equipped healer's highest available single-target filler spell only when the healing decision is idle and an eligible damaged enemy is already targeting FrenRider's configured visible Fren or the local healer. PowerlevelBot retains its BRD/MCH instant-action policy. Includes dependency/readiness checks, optional saved targets, and optional Rotation Solver Reborn isolation for HealBot and JOT. Use /healbot to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/Coppelia/main/Coppelia/images/icon.png",
@@ -15331,6 +15379,39 @@
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
                 "LastUpdate": 1788046878,
                 "is_ai_attributed": true
+            },
+            {
+                "Author": "XA",
+                "Name": "XA Database",
+                "InternalName": "XADatabase",
+                "AssemblyVersion": "0.0.0.40",
+                "Description": "Parser of all databases.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Database/master/XADatabase/images/icon.png",
+                "RepoUrl": "https://github.com/xa-io/XA-Database",
+                "LastUpdate": 1786144172
+            },
+            {
+                "Author": "XA",
+                "Name": "XA HUD Navigator",
+                "InternalName": "XAHudNavigator",
+                "AssemblyVersion": "0.0.0.8",
+                "Description": "Finding stuff is hard.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-HUD-Navigator/main/XAHudNavigator/images/icon.png",
+                "RepoUrl": "https://github.com/xa-io/XA-HUD-Navigator",
+                "LastUpdate": 1786144175
+            },
+            {
+                "Author": "XA",
+                "Name": "XA Slave",
+                "InternalName": "XASlave",
+                "AssemblyVersion": "0.0.0.43",
+                "Description": "Don't manual.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Slave/master/XASlave/images/icon.png",
+                "RepoUrl": "https://github.com/xa-io/XA-Slave",
+                "LastUpdate": 1786144179
             }
         ],
         "repo_discord_url": "https://discord.gg/g2NmYxPQCa"
@@ -16038,12 +16119,12 @@
                 "Author": "monkdim",
                 "Name": "One Two Punch",
                 "InternalName": "OneTwoPunch",
-                "AssemblyVersion": "1.0.47.0",
+                "AssemblyVersion": "1.0.49.0",
                 "Description": "Collapses each supported DPS job into a single-target button and an AoE button. The button shows the action that is correct right now given your cooldowns, gauge, buffs, target count and whether you are moving. It never presses anything for you: one keypress is always exactly one action.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/monkdim/beepboop/main/assets/icon.png",
                 "RepoUrl": "https://github.com/monkdim/beepboop",
-                "LastUpdate": 1787962207,
+                "LastUpdate": 1788102057,
                 "is_ai_attributed": true
             }
         ]
@@ -16554,12 +16635,12 @@
                 "Author": "naco-ff14",
                 "Name": "AltMate",
                 "InternalName": "AltMate",
-                "AssemblyVersion": "1.53.17.0",
+                "AssemblyVersion": "1.54.8.0",
                 "Description": "AltMate supports multiple FFXIV clients running on the same PC. It provides linked controls, housing tracking, Penumbra emote playback, and shared gil summaries. Data stays on the local PC. Japanese and English UI are supported.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/naco-ff14/AltMate/main/images/icon.png",
                 "RepoUrl": "https://github.com/naco-ff14/AltMate",
-                "LastUpdate": 1788077519
+                "LastUpdate": 1788103500
             }
         ]
     },
@@ -17629,7 +17710,7 @@
                 "DalamudApiLevel": 12,
                 "IconUrl": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/plugins/NyaDraw/NyaDraw.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1788008008,
+                "LastUpdate": 1788096252,
                 "is_closed_source": true
             },
             {
@@ -17641,7 +17722,7 @@
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/plugins/NyaDraw/NyaDraw.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1788008008,
+                "LastUpdate": 1788096252,
                 "is_closed_source": true
             },
             {
@@ -17653,19 +17734,19 @@
                 "DalamudApiLevel": 14,
                 "IconUrl": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/plugins/NyaDraw/NyaDraw.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1788008008,
+                "LastUpdate": 1788096252,
                 "is_closed_source": true
             },
             {
                 "Author": "NiGuangOwO / Small_Miao",
                 "Name": "NyaDraw",
                 "InternalName": "NyaDraw",
-                "AssemblyVersion": "1.15.1.3",
+                "AssemblyVersion": "1.15.1.4",
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/plugins/NyaDraw/NyaDraw.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1788008008,
+                "LastUpdate": 1788096252,
                 "is_closed_source": true
             },
             {
@@ -19388,7 +19469,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1788005015
+                "LastUpdate": 1788087580
             },
             {
                 "Author": "Risa and Contributors",
@@ -20344,12 +20425,12 @@
                 "Author": "TF",
                 "Name": "GlamSource",
                 "InternalName": "GlamSource",
-                "AssemblyVersion": "0.0.0.118",
+                "AssemblyVersion": "0.0.0.129",
                 "Description": "Zeigt Herkunft von Glams und Mounts in FFXIV an.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Primov1x/GlamSource/main/images/icon.png",
                 "RepoUrl": "https://github.com/Primov1x/GlamSource",
-                "LastUpdate": 1788059061,
+                "LastUpdate": 1788102373,
                 "is_ai_attributed": true
             }
         ]
@@ -20917,7 +20998,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/34",
                 "RepoUrl": "https://github.com/Jaksuhn/ffxiv-bundleoftweaks",
-                "LastUpdate": 1788016699
+                "LastUpdate": 1788104091
             },
             {
                 "Author": "croizat",
@@ -21182,7 +21263,7 @@
                 "Author": "Knightmore",
                 "Name": "Henchman",
                 "InternalName": "Henchman",
-                "AssemblyVersion": "3.0.1.20",
+                "AssemblyVersion": "3.0.1.21",
                 "Description": "Your personal Henchman doing all the heavy lifting for you!\n\n- Hunt Logs\n- Hunt Bills\n- Retainer Creation\nand more to come.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/85",
@@ -21349,7 +21430,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/163",
                 "RepoUrl": "https://github.com/OOFGamesss/MiniGamesEmporium",
-                "LastUpdate": 1788039555
+                "LastUpdate": 1788092522
             },
             {
                 "Author": "OOF Games",
@@ -21934,11 +22015,11 @@
                 "Author": "liza, qstxiv, & various contributors & QianChang",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.3.1913",
+                "AssemblyVersion": "15.306.3.1914",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/QianChangUwU/Questionable",
-                "LastUpdate": 1788070709,
+                "LastUpdate": 1788096306,
                 "is_ai_attributed": true
             },
             {
@@ -25407,12 +25488,12 @@
                 "Author": "XSZYYS",
                 "Name": "XSZToolbox",
                 "InternalName": "XSZToolbox",
-                "AssemblyVersion": "1.7.5.7",
+                "AssemblyVersion": "1.7.5.8",
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ShoOtaku/DalamudPlugins/main/plugins/XSZToolbox/icon.png",
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins/tree/main/plugins/XSZToolbox",
-                "LastUpdate": 1787997554,
+                "LastUpdate": 1788099962,
                 "is_closed_source": true
             }
         ]
@@ -25848,12 +25929,12 @@
                 "Author": "Solona",
                 "Name": "Proteus",
                 "InternalName": "Proteus",
-                "AssemblyVersion": "2608.322.0.0",
+                "AssemblyVersion": "2608.324.0.0",
                 "Description": "Headless overlay compositor for Penumbra. Discovers mods with a Proteus/ sidecar, composites their overlay textures in Penumbra priority order, and maintains a single managed mod at priority 999. No authoring UI — all work happens in external tools. Type /proteus to open the status window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://dl.solona.info/icon.png",
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1788060766,
+                "LastUpdate": 1788100140,
                 "is_ai_attributed": true
             }
         ]
@@ -25887,12 +25968,12 @@
                 "Author": "SorenWolfe",
                 "Name": "RaidPlan",
                 "InternalName": "RaidPlan",
-                "AssemblyVersion": "0.1.7.0",
+                "AssemblyVersion": "0.2.1.0",
                 "Description": "Build, share and call raid strategies without leaving the game. Slide-based arena diagrams, per-player cooldown assignments, and shotcall reminders anchored to real boss casts or to timings the plugin learns from your own pulls.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/sorenwolfe/RaidPlan/main/images/icon.png",
                 "RepoUrl": "https://github.com/sorenwolfe/RaidPlan",
-                "LastUpdate": 1788080894
+                "LastUpdate": 1788084201
             }
         ]
     },
@@ -26665,12 +26746,13 @@
                 "Author": "OhKannaDuh (fork maintained by T3chnicalD3ath)",
                 "Name": "Occult Helper",
                 "InternalName": "OccultHelper",
-                "AssemblyVersion": "1.10.0.49",
+                "AssemblyVersion": "2.0.3.0",
                 "Description": "OccultHelper is here to smooth out your Occult Crescent experience.\n- No more of that pesky 'walking' or 'finding chests'. That's for losers.\n- A cute little Fate and CE panel that'll tell you what rewards it gives AND help you automatically path to it, wowee.\n- An extra illegal 'illegal mode' for those of you that would rather be touching grass or playing a game with worthwhile content.\n\nCommand prefix: occulthelper (alias: och)\n  /occulthelper → Opens the main window\n  /occulthelper config → Opens config (aliases: cfg, c)\n  /occulthelper config list → Lists config keys\n  /occulthelper config get <key> → Prints a config value\n  /occulthelper config set <key> <value> → Sets a config value\n  /occulthelper buff → Start/stop a buff run\n  /occulthelper tp [fate|ce|pot] → Teleport toward nearest matching activity\n  /occulthelper illegal [on|off|toggle] → Control Illegal Mode (no arg opens the window)\n  /occulthelper cmd flag-active-ce → Flag registering CE on the map\n  /occulthelper cmd flag-active-fate → Flag a FATE on the map\n  /occulthelper cmd flag-active-non-pot-fate → Flag a non-pot FATE\n  /occulthelper reload-translations → Reload translation files (alias: rt)\n  /och … → Same as /occulthelper (legacy alias; also /occultcrescenthelper)",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/t3knical/DalamudPlugins/main/plugins/OccultHelper/icon.png",
                 "RepoUrl": "https://github.com/t3knical/DalamudPlugins",
-                "LastUpdate": 1788070350
+                "LastUpdate": 1788100699,
+                "is_ai_attributed": true
             },
             {
                 "Author": "T3chnicalD3ath Inc.",
@@ -28994,12 +29076,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "1.0.1.3",
+                "AssemblyVersion": "1.0.1.5",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1788014616,
+                "LastUpdate": 1788098927,
                 "is_ai_attributed": true
             },
             {
@@ -29074,12 +29156,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "1.0.1.3",
+                "AssemblyVersion": "1.0.1.5",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1788014616,
+                "LastUpdate": 1788098927,
                 "is_ai_attributed": true
             }
         ]
@@ -29179,6 +29261,24 @@
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind/master/AutoPvpSeriesGrind/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind/tree/master/AutoPvpSeriesGrind",
                 "LastUpdate": 1787082939
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "xiaoxiaogugu",
+        "repo_url": "https://raw.githubusercontent.com/xiaoxiaogugu/occult-pot/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/xiaoxiaogugu/occult-pot",
+        "repo_name": "occult-pot",
+        "plugins": [
+            {
+                "Author": "GUGU",
+                "Name": "新月岛撒娇罐",
+                "InternalName": "OccultPot",
+                "AssemblyVersion": "1.5.0.0",
+                "Description": "按勾选大区循环，每区北岛再南岛。打完或没中就退岛换下一处，原生服务器目的地锁定。",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/xiaoxiaogugu/occult-pot",
+                "LastUpdate": 1788094579
             }
         ]
     },
@@ -29617,12 +29717,12 @@
                 "Author": "Yesanith",
                 "Name": "Regions of XIV",
                 "InternalName": "RegionsOfXIV",
-                "AssemblyVersion": "0.4.1.0",
+                "AssemblyVersion": "0.5.0.0",
                 "Description": "Announces the region, zone, area and sub-area you walk into with a styled, animated on-screen notification.\n\nInspired by Nekres' \"Regions of Tyria\" for Guild Wars 2.\n\nOpen settings with /regions.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Yesanith/RegionsOfXIV/master/assets/images/icon.png",
                 "RepoUrl": "https://github.com/Yesanith/RegionsOfXIV",
-                "LastUpdate": 1787511595,
+                "LastUpdate": 1788103119,
                 "is_ai_attributed": true
             }
         ]
@@ -30400,12 +30500,12 @@
                 "Author": "zysilm",
                 "Name": "Combat Simulator",
                 "InternalName": "CombatSimulator",
-                "AssemblyVersion": "2.8.0.2",
+                "AssemblyVersion": "2.8.1.1",
                 "Description": "A client-side combat simulator that lets you fight existing NPCs locally. Features NPC AI, combat animations, death effects (ragdoll physics), active camera (bone tracking), death cam, HP overlays, and glamourer integration. All combat is simulated locally - no data is sent to the server.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/zysilm/FFXIV-CombatSimulator/main/images/logo.png",
                 "RepoUrl": "https://github.com/zysilm/FFXIV-CombatSimulator",
-                "LastUpdate": 1787392158,
+                "LastUpdate": 1788102782,
                 "is_ai_attributed": true
             },
             {
