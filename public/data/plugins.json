@@ -4146,12 +4146,12 @@
                 "Author": "ChanceRain",
                 "Name": "Mortal MJ",
                 "InternalName": "MortalMJPlugin",
-                "AssemblyVersion": "1.0.0.11",
+                "AssemblyVersion": "1.0.0.12",
                 "Description": "FFXIV 国服「多玛方城战」麻将 AI 辅助插件，基于 Mortal AI 提供实时打牌建议与自动化（自动出牌/吃碰杠荣和/看整桌）。需要额外配置 Mortal AI 环境，详见仓库 README。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ChanceRain0108/DalamudPlugins/main/icon.png",
                 "RepoUrl": "https://github.com/ChanceRain0108/DalamudPlugins",
-                "LastUpdate": 1788105049
+                "LastUpdate": 1788178956
             }
         ]
     },
@@ -4411,11 +4411,11 @@
                 "Author": "Coptone",
                 "Name": "VedaMarker",
                 "InternalName": "VedaMarker",
-                "AssemblyVersion": "0.3.1.0",
+                "AssemblyVersion": "0.3.3.0",
                 "Description": "VedaMarker 0.2 测试版：自动识别遗弃末世八轮点名并计算完整团队标点。真实标点默认关闭，需人工核对职责并手动启动；AOE/VFX 尚未启用。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Coptone/VedaMarker",
-                "LastUpdate": 1788018258,
+                "LastUpdate": 1788188816,
                 "is_ai_attributed": true
             }
         ]
@@ -7481,7 +7481,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1788087580
+                "LastUpdate": 1788178807
             }
         ]
     },
@@ -7500,7 +7500,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1788087580
+                "LastUpdate": 1788178807
             }
         ]
     },
@@ -9412,11 +9412,11 @@
                 "Author": "Haselnussbomber",
                 "Name": "HaselDebug",
                 "InternalName": "HaselDebug",
-                "AssemblyVersion": "1.71.0.0",
+                "AssemblyVersion": "1.72.0.0",
                 "Description": "For developers.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
-                "LastUpdate": 1788142139
+                "LastUpdate": 1788179780
             },
             {
                 "Author": "Haselnussbomber",
@@ -12665,11 +12665,11 @@
                 "Author": "kittenhaswares-ui",
                 "Name": "Seiton Sense",
                 "InternalName": "SeitonSense.Plugin",
-                "AssemblyVersion": "0.42.0.10",
+                "AssemblyVersion": "0.43.0.0",
                 "Description": "A local PvP HUD with exact native-nameplate cues, LB activation and damage notifications, pressure and CC awareness, a bounded Purify-first held-action scheduler, Smart Target and assist macros, local MP sounds, survival/job helpers, team communication, and target highlights.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kittenhaswares-ui/SeitonSense",
-                "LastUpdate": 1788160086
+                "LastUpdate": 1788192838
             }
         ]
     },
@@ -12951,12 +12951,12 @@
                 "Author": "croizat",
                 "Name": "CBT",
                 "InternalName": "Automaton",
-                "AssemblyVersion": "69.210",
+                "AssemblyVersion": "69.211",
                 "Description": "Yet another tweaks collection plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/34",
                 "RepoUrl": "https://github.com/Jaksuhn/Automaton",
-                "LastUpdate": 1788124125
+                "LastUpdate": 1788176188
             },
             {
                 "Author": "veyn, xan_0",
@@ -12984,12 +12984,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.3.23",
+                "AssemblyVersion": "15.306.3.24",
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1788169154,
+                "LastUpdate": 1788181732,
                 "is_ai_attributed": true
             },
             {
@@ -13012,7 +13012,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1788163337
+                "LastUpdate": 1788175181
             }
         ]
     },
@@ -13506,7 +13506,7 @@
                 "Author": "Usagi, Latihas",
                 "Name": "IINACTEx",
                 "InternalName": "IINACTEx",
-                "AssemblyVersion": "7.55.1.2",
+                "AssemblyVersion": "7.55.1.3",
                 "Description": "该插件会在一个类ACT的环境下运行FFXIV_ACT_Plugin与大量修改的Overlay Plugin以适配现代.NET。与此同时，也添加了大量修改的Triggernometry与Postnamazu。包括类ACT、Triggernometry、Postnamazu在内，这些并非完整的代码移植，并且仍在开发完善中，可能缺少部分原版的函数，开发时请注意。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/marzent/IINACT/master/images/icon.png",
@@ -14982,12 +14982,12 @@
                 "Author": "DhogGPT",
                 "Name": "HealBot",
                 "InternalName": "Coppelia",
-                "AssemblyVersion": "2.0.1.2",
+                "AssemblyVersion": "2.0.1.3",
                 "Description": "Healbot Coppelia is here to serve!  Healing from outside of party for n targets.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/Coppelia/main/Coppelia/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/Coppelia",
-                "LastUpdate": 1788137892,
+                "LastUpdate": 1788171153,
                 "is_ai_attributed": true
             }
         ]
@@ -15284,7 +15284,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/Coppelia/main/Coppelia/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/Coppelia",
-                "LastUpdate": 1788137892
+                "LastUpdate": 1788171153
             },
             {
                 "Author": "DhogGPT",
@@ -15348,7 +15348,7 @@
                 "Author": "DhogGPT",
                 "Name": "Fren Rider",
                 "InternalName": "FrenRider",
-                "AssemblyVersion": "1.3.0.13",
+                "AssemblyVersion": "1.3.0.12",
                 "Description": "Native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider or /fr to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png",
@@ -15420,13 +15420,46 @@
                 "Author": "DhogGPT",
                 "Name": "Vermaxion",
                 "InternalName": "VERMAXION",
-                "AssemblyVersion": "0.3.5.7",
+                "AssemblyVersion": "0.3.5.6",
                 "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
                 "LastUpdate": 1788169984,
                 "is_ai_attributed": true
+            },
+            {
+                "Author": "XA",
+                "Name": "XA Database",
+                "InternalName": "XADatabase",
+                "AssemblyVersion": "0.0.0.40",
+                "Description": "Parser of all databases.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Database/master/XADatabase/images/icon.png",
+                "RepoUrl": "https://github.com/xa-io/XA-Database",
+                "LastUpdate": 1786144172
+            },
+            {
+                "Author": "XA",
+                "Name": "XA HUD Navigator",
+                "InternalName": "XAHudNavigator",
+                "AssemblyVersion": "0.0.0.8",
+                "Description": "Finding stuff is hard.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-HUD-Navigator/main/XAHudNavigator/images/icon.png",
+                "RepoUrl": "https://github.com/xa-io/XA-HUD-Navigator",
+                "LastUpdate": 1786144175
+            },
+            {
+                "Author": "XA",
+                "Name": "XA Slave",
+                "InternalName": "XASlave",
+                "AssemblyVersion": "0.0.0.43",
+                "Description": "Don't manual.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Slave/master/XASlave/images/icon.png",
+                "RepoUrl": "https://github.com/xa-io/XA-Slave",
+                "LastUpdate": 1786144179
             }
         ],
         "repo_discord_url": "https://discord.gg/g2NmYxPQCa"
@@ -18953,12 +18986,12 @@
                 "Author": "Faye, Kage",
                 "Name": "Better Occult Crescent & Chest Helper Interface",
                 "InternalName": "BOCCHI",
-                "AssemblyVersion": "4.2.0.7",
+                "AssemblyVersion": "4.2.0.8",
                 "Description": "BOCCHI is here to smooth out your Occult Crescent experience.\n- No more of that pesky 'walking' or 'finding chests'. That's for losers.\n- A cute little Fate and CE panel that'll tell you what rewards it gives AND help you automatically path to it, wowee.\n- An extre illegal 'illegal mode' for those of you that would rather be touching grass or playing a game with worthwhile content.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/OhKannaDuh/BOCCHI/master/assets/icon.png",
                 "RepoUrl": "https://github.com/OhKannaDuh/OccultCrescentHelper",
-                "LastUpdate": 1788166580
+                "LastUpdate": 1788176459
             }
         ]
     },
@@ -20506,12 +20539,12 @@
                 "Author": "TF",
                 "Name": "GlamSource",
                 "InternalName": "GlamSource",
-                "AssemblyVersion": "0.0.0.169",
+                "AssemblyVersion": "0.0.0.219",
                 "Description": "Zeigt Herkunft von Glams und Mounts in FFXIV an.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Primov1x/GlamSource/main/images/icon.png",
                 "RepoUrl": "https://github.com/Primov1x/GlamSource",
-                "LastUpdate": 1788170997,
+                "LastUpdate": 1788193314,
                 "is_ai_attributed": true
             }
         ]
@@ -21009,12 +21042,12 @@
                 "Author": "the Puni.sh Quest Squad",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.3.23",
+                "AssemblyVersion": "15.306.3.24",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1788169154,
+                "LastUpdate": 1788181732,
                 "is_ai_attributed": true
             },
             {
@@ -21048,7 +21081,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1788163337
+                "LastUpdate": 1788175181
             },
             {
                 "Author": "daemitus, croizat",
@@ -21074,12 +21107,12 @@
                 "Author": "croizat",
                 "Name": "CBT 🐎",
                 "InternalName": "Automaton",
-                "AssemblyVersion": "69.210",
+                "AssemblyVersion": "69.211",
                 "Description": "Yet another tweaks collection plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/34",
                 "RepoUrl": "https://github.com/Jaksuhn/ffxiv-bundleoftweaks",
-                "LastUpdate": 1788124125
+                "LastUpdate": 1788176188
             },
             {
                 "Author": "croizat",
@@ -21188,7 +21221,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/68",
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/ChilledLeves",
-                "LastUpdate": 1787928093
+                "LastUpdate": 1788175010
             },
             {
                 "Author": "Ice",
@@ -21833,7 +21866,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/48",
                 "RepoUrl": "https://github.com/awgil/ffxiv_navmesh",
-                "LastUpdate": 1787843208
+                "LastUpdate": 1788192870
             },
             {
                 "Author": "veyn, croizat",
@@ -26015,7 +26048,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://dl.solona.info/icon.png",
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1788150921,
+                "LastUpdate": 1788191773,
                 "is_ai_attributed": true
             }
         ]
@@ -26041,6 +26074,25 @@
     },
     {
         "repo_developer_name": "sorenwolfe",
+        "repo_url": "https://raw.githubusercontent.com/sorenwolfe/Foxtrot/main/repo.json",
+        "repo_source_url": "https://github.com/sorenwolfe/Foxtrot",
+        "repo_name": "Foxtrot",
+        "plugins": [
+            {
+                "Author": "SorenWolfe",
+                "Name": "Foxtrot",
+                "InternalName": "Foxtrot",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "Preview any orchestrion roll before you go and earn it. Right-click a roll in your bags for a small player, or open the browser and search every track in the game — including the ones you do not own yet. The zone music steps aside while you listen and comes back when you stop.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/sorenwolfe/Foxtrot/main/images/icon.png",
+                "RepoUrl": "https://github.com/sorenwolfe/Foxtrot",
+                "LastUpdate": 1788182885
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "sorenwolfe",
         "repo_url": "https://raw.githubusercontent.com/sorenwolfe/RaidPlan/main/repo.json",
         "repo_source_url": "https://github.com/sorenwolfe/RaidPlan",
         "repo_name": "RaidPlan",
@@ -26049,12 +26101,42 @@
                 "Author": "SorenWolfe",
                 "Name": "RaidPlan",
                 "InternalName": "RaidPlan",
-                "AssemblyVersion": "0.4.0.0",
+                "AssemblyVersion": "0.4.1.0",
                 "Description": "Build, share and call raid strategies without leaving the game. Slide-based arena diagrams, per-player cooldown assignments, and shotcall reminders anchored to real boss casts or to timings the plugin learns from your own pulls.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/sorenwolfe/RaidPlan/main/images/icon.png",
                 "RepoUrl": "https://github.com/sorenwolfe/RaidPlan",
-                "LastUpdate": 1788163285
+                "LastUpdate": 1788177927
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "sorenwolfe",
+        "repo_url": "https://raw.githubusercontent.com/sorenwolfe/XIVPlugins/main/repo.json",
+        "repo_source_url": "https://github.com/sorenwolfe/XIVPlugins",
+        "repo_name": "XIVPlugins",
+        "plugins": [
+            {
+                "Author": "SorenWolfe",
+                "Name": "Foxtrot",
+                "InternalName": "Foxtrot",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "Preview any orchestrion roll before you go and earn it. Right-click a roll in your bags for a small player, or open the browser and search every track in the game — including the ones you do not own yet. The zone music steps aside while you listen and comes back when you stop.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/sorenwolfe/Foxtrot/main/images/icon.png",
+                "RepoUrl": "https://github.com/sorenwolfe/Foxtrot",
+                "LastUpdate": 1788182885
+            },
+            {
+                "Author": "SorenWolfe",
+                "Name": "RaidPlan",
+                "InternalName": "RaidPlan",
+                "AssemblyVersion": "0.4.1.0",
+                "Description": "Build, share and call raid strategies without leaving the game. Slide-based arena diagrams, per-player cooldown assignments, and shotcall reminders anchored to real boss casts or to timings the plugin learns from your own pulls.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/sorenwolfe/RaidPlan/main/images/icon.png",
+                "RepoUrl": "https://github.com/sorenwolfe/RaidPlan",
+                "LastUpdate": 1788177927
             }
         ]
     },
@@ -26605,11 +26687,11 @@
                 "Author": "Steve",
                 "Name": "SyncBridge",
                 "InternalName": "SyncBridge",
-                "AssemblyVersion": "0.2.8.0",
+                "AssemblyVersion": "0.3.0.0",
                 "Description": "Coordinates PlayerSync and Lightless to avoid duplicate handling of the same on-screen character. /syncbridge",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Surlako/SyncBridge",
-                "LastUpdate": 1787146473,
+                "LastUpdate": 1788182227,
                 "is_ai_attributed": true
             }
         ]
@@ -27077,7 +27159,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ThatKwistine/WardrobePlugin/main/images/icon.png",
                 "RepoUrl": "https://github.com/ThatKwistine/WardrobePlugin",
-                "LastUpdate": 1788119127,
+                "LastUpdate": 1788180432,
                 "is_ai_attributed": true
             }
         ]
@@ -29375,11 +29457,11 @@
                 "Author": "GUGU",
                 "Name": "新月岛撒娇罐",
                 "InternalName": "OccultPot",
-                "AssemblyVersion": "1.6.3.0",
+                "AssemblyVersion": "2.0.0.0",
                 "Description": "按勾选大区循环，每区北岛再南岛。打完或没中就退岛换下一处，原生服务器目的地锁定。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/xiaoxiaogugu/occult-pot",
-                "LastUpdate": 1788141534
+                "LastUpdate": 1788178854
             }
         ]
     },
@@ -30111,12 +30193,12 @@
                 "Author": "youdianfengbao (基于 PunishXIV/Questionable)",
                 "Name": "Questionable (国服汉化)",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.3.19",
+                "AssemblyVersion": "15.306.3.24",
                 "Description": "国服汉化版自动任务插件，基于 PunishXIV/Questionable。可在尽可能的情况下自动完成游戏任务。\n所需插件：vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://qstxiv.github.io/icons/Questionable.png",
                 "RepoUrl": "https://github.com/youdianfengbao/Questionable",
-                "LastUpdate": 1788019037,
+                "LastUpdate": 1788184450,
                 "is_ai_attributed": true
             },
             {
@@ -30479,6 +30561,25 @@
                 "IconUrl": "https://raw.githubusercontent.com/zhui-zi/DalamudPlugins/main/plugins/KeitaToolbox/icon.png",
                 "RepoUrl": "https://github.com/zhui-zi/DalamudPlugins/tree/main/plugins/KeitaToolbox",
                 "LastUpdate": 1787999678
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "zlatan-mt",
+        "repo_url": "https://raw.githubusercontent.com/zlatan-mt/XIV-Mini-Util/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/zlatan-mt/XIV-Mini-Util",
+        "repo_name": "XIV-Mini-Util",
+        "plugins": [
+            {
+                "Author": "zlatan-mt",
+                "Name": "XIV Mini Util",
+                "InternalName": "XivMiniUtil",
+                "AssemblyVersion": "0.4.0.0",
+                "Description": "マテリア精製とアイテム分解、NPC販売場所検索を支援するミニユーティリティです。",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/zlatan-mt/XIV-Mini-Util/main/images/icon.png",
+                "RepoUrl": "https://github.com/zlatan-mt/XIV-Mini-Util",
+                "LastUpdate": 1788185917
             }
         ]
     },
