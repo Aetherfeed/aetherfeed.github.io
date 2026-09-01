@@ -21,6 +21,24 @@
     },
     {
         "repo_developer_name": "2488652el",
+        "repo_url": "https://raw.githubusercontent.com/2488652el/Browsingway-cn/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/2488652el/Browsingway-cn",
+        "repo_name": "Browsingway-cn",
+        "plugins": [
+            {
+                "Author": "Styr1x, 2488652el(汉化)",
+                "Name": "Browsingway",
+                "InternalName": "Browsingway",
+                "AssemblyVersion": "1.7.2.1",
+                "Description": "在游戏内渲染浏览器悬浮窗，让你在全屏（及 G-SYNC）模式下游戏的同时使用 ACT 悬浮窗、网页视频等功能。使用 '/bw config' 指令进行配置。（简体中文汉化版）",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/2488652el/Browsingway-cn",
+                "LastUpdate": 1788259361
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "2488652el",
         "repo_url": "https://raw.githubusercontent.com/2488652el/ItemVendorLocation-cn/main/pluginmaster.json",
         "repo_source_url": "https://github.com/2488652el/ItemVendorLocation-cn",
         "repo_name": "ItemVendorLocation-cn",
@@ -1673,12 +1691,12 @@
                 "Author": "Angelways",
                 "Name": "OCNFarmer",
                 "InternalName": "NorthIslandChestPlugin",
-                "AssemblyVersion": "1.9.1.0",
+                "AssemblyVersion": "1.9.4.0",
                 "Description": "蜃景幻界新月岛 北征之章全自动战斗与寻宝流程",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Angelways/OCNFarmer/main/icon.png",
                 "RepoUrl": "https://github.com/Angelways/OCNFarmer",
-                "LastUpdate": 1788227708
+                "LastUpdate": 1788250770
             }
         ]
     },
@@ -2227,11 +2245,11 @@
                 "Author": "Arceuid731; based on FFXIV-CombatReborn/BossmodReborn",
                 "Name": "Foretell",
                 "InternalName": "Foretell",
-                "AssemblyVersion": "0.2.1.0",
+                "AssemblyVersion": "0.4.0.0",
                 "Description": "Adaptive encounter intelligence built on BossMod Reborn. Learns mechanics locally and renders predictive world/radar/text guidance while preserving BMR.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Arceuid731/Foretell",
-                "LastUpdate": 1788214009
+                "LastUpdate": 1788256043
             }
         ]
     },
@@ -2640,7 +2658,7 @@
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/Dalamud-DailyRoutines/DailyRoutines/main/Resources/icon.png",
                 "RepoUrl": "https://github.com/Dalamud-DailyRoutines/DailyRoutines/releases/latest",
-                "LastUpdate": 1787305016,
+                "LastUpdate": 1788255785,
                 "is_closed_source": true
             },
             {
@@ -2652,19 +2670,19 @@
                 "DalamudApiLevel": 14,
                 "IconUrl": "https://raw.githubusercontent.com/Dalamud-DailyRoutines/DailyRoutines/main/Resources/icon.png",
                 "RepoUrl": "https://github.com/Dalamud-DailyRoutines/DailyRoutines/releases/latest",
-                "LastUpdate": 1787305016,
+                "LastUpdate": 1788255785,
                 "is_closed_source": true
             },
             {
                 "Author": "AtmoOmen",
                 "Name": "Daily Routines",
                 "InternalName": "DailyRoutines",
-                "AssemblyVersion": "2.1.7.0",
+                "AssemblyVersion": "2.1.7.1",
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Dalamud-DailyRoutines/DailyRoutines/main/Resources/icon.png",
                 "RepoUrl": "https://github.com/Dalamud-DailyRoutines/DailyRoutines/releases/latest",
-                "LastUpdate": 1787305016,
+                "LastUpdate": 1788255785,
                 "is_closed_source": true
             },
             {
@@ -2774,7 +2792,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/AtmoOmen/ffxiv_navmesh-cn/CN/Resources/icon2.png",
                 "RepoUrl": "https://github.com/AtmoOmen/ffxiv_navmesh-cn",
-                "LastUpdate": 1787977183
+                "LastUpdate": 1788066608
             }
         ]
     },
@@ -5627,11 +5645,11 @@
                 "Author": "FF14 Accessibility Project",
                 "Name": "FF14 Accessibility",
                 "InternalName": "FF14Accessibility",
-                "AssemblyVersion": "5.94.0.0",
+                "AssemblyVersion": "5.95.0.0",
                 "Description": "Macht FF14 für blinde Spieler zugänglich via NVDA/TOLK Integration, Audio-Navigation und vollständiger Tastatursteuerung.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/derbruedi/ff14-accessibility",
-                "LastUpdate": 1788076633,
+                "LastUpdate": 1788247415,
                 "is_ai_attributed": true
             }
         ]
@@ -7573,7 +7591,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1788178807
+                "LastUpdate": 1788260019
             }
         ]
     },
@@ -8024,12 +8042,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "BossMod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.5.62",
+                "AssemblyVersion": "7.5.5.64",
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1788203689
+                "LastUpdate": 1788250829
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -9455,6 +9473,24 @@
         ]
     },
     {
+        "repo_developer_name": "Hangovers",
+        "repo_url": "https://raw.githubusercontent.com/Hangovers/PluginSync/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/Hangovers/PluginSync",
+        "repo_name": "PluginSync",
+        "plugins": [
+            {
+                "Author": "Hangovers",
+                "Name": "PluginSync",
+                "InternalName": "PluginSync",
+                "AssemblyVersion": "1.4.1.0",
+                "Description": "Have you ever logged in on another machine and realized half your plugins are missing? PluginSync compares the plugins installed on this machine with the plugin list you synced from your other setup, shows exactly what's missing (and what's extra), and lets you open the plugin installer pre-filtered to install the missing ones in one click. Sync your plugin list via a local file, any raw-text URL, or Pastebin.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Hangovers/PluginSync",
+                "LastUpdate": 1788251095
+            }
+        ]
+    },
+    {
         "repo_developer_name": "happytunesai",
         "repo_url": "https://raw.githubusercontent.com/happytunesai/Craftimizer_alt/main/pluginmaster.json",
         "repo_source_url": "https://github.com/happytunesai/Craftimizer_alt",
@@ -10607,6 +10643,17 @@
         "repo_source_url": "https://github.com/J1ntttao/FFXIVDalamudPlugins",
         "repo_name": "FFXIVDalamudPlugins",
         "plugins": [
+            {
+                "Author": "J1ntttao",
+                "Name": "Better Fake Name",
+                "InternalName": "FFXIVBetterFakeName",
+                "AssemblyVersion": "1.3.0.0",
+                "Description": "按角色真实姓名与所属服务器建立独立映射，在原生 UI 和新聊天中替换、保留或隐藏玩家姓名；姓名板部队简称、头顶及角色面板称号、右上角及冒险者铭牌区服也可独立自定义。只改变本机显示，不改变玩家链接与交互身份。",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/J1ntttao/FFXIVDalamudPlugins/master/plugins/FFXIVBetterFakeName/icon.png",
+                "RepoUrl": "https://github.com/J1ntttao/FFXIV_BetterFakeName",
+                "LastUpdate": 1788247267
+            },
             {
                 "Author": "J1ntttao",
                 "Name": "Triad Buddy Auto",
@@ -13094,12 +13141,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.3.25",
+                "AssemblyVersion": "15.306.3.26",
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1788213390,
+                "LastUpdate": 1788238613,
                 "is_ai_attributed": true
             },
             {
@@ -16505,6 +16552,42 @@
     },
     {
         "repo_developer_name": "mr-reeh",
+        "repo_url": "https://raw.githubusercontent.com/mr-reeh/milk-gauge/main/repo.json",
+        "repo_source_url": "https://github.com/mr-reeh/milk-gauge",
+        "repo_name": "milk-gauge",
+        "plugins": [
+            {
+                "Author": "MrReeh",
+                "Name": "Milk Meter",
+                "InternalName": "MilkMeter",
+                "AssemblyVersion": "1.3.0.0",
+                "Description": "Drives Customize+ chest scale from your choice of source: a Food Buff timer, Mana percentage, or an in-combat Job Actions mode built around GCD usage, tracked job abilities, jumping, and damage taken. Displayed as an animated baby-bottle HUD gauge with configurable fill zones, a pause toggle, and an optional high-scale threshold effect (vignette, glow, heartbeat sound). Fully configurable in-game via a settings window. Requires Customize+. Local only: nobody else sees it.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/mr-reeh/milk-meter",
+                "LastUpdate": 1788249506
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "mr-reeh",
+        "repo_url": "https://raw.githubusercontent.com/mr-reeh/milk-meter/main/repo.json",
+        "repo_source_url": "https://github.com/mr-reeh/milk-meter",
+        "repo_name": "milk-meter",
+        "plugins": [
+            {
+                "Author": "MrReeh",
+                "Name": "Milk Meter",
+                "InternalName": "MilkMeter",
+                "AssemblyVersion": "1.3.0.0",
+                "Description": "Drives Customize+ chest scale from your choice of source: a Food Buff timer, Mana percentage, or an in-combat Job Actions mode built around GCD usage, tracked job abilities, jumping, and damage taken. Displayed as an animated baby-bottle HUD gauge with configurable fill zones, a pause toggle, and an optional high-scale threshold effect (vignette, glow, heartbeat sound). Fully configurable in-game via a settings window. Requires Customize+. Local only: nobody else sees it.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/mr-reeh/milk-meter",
+                "LastUpdate": 1788249506
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "mr-reeh",
         "repo_url": "https://raw.githubusercontent.com/mr-reeh/straight-to-your-chest/main/repo.json",
         "repo_source_url": "https://github.com/mr-reeh/straight-to-your-chest",
         "repo_name": "straight-to-your-chest",
@@ -17283,11 +17366,11 @@
                 "Author": "nesphy",
                 "Name": "Tether",
                 "InternalName": "Tether",
-                "AssemblyVersion": "1.0.0.0",
+                "AssemblyVersion": "1.1.0.0",
                 "Description": "Create a temporary chats for you and your friends, that are working inside a duty or locked instances. Add how many people u want, and manage it from there!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/nesforia/tether",
-                "LastUpdate": 1788157806
+                "LastUpdate": 1788250578
             }
         ]
     },
@@ -20650,12 +20733,12 @@
                 "Author": "TF",
                 "Name": "GlamSource",
                 "InternalName": "GlamSource",
-                "AssemblyVersion": "0.0.0.268",
+                "AssemblyVersion": "0.0.0.272",
                 "Description": "Zeigt Herkunft von Glams und Mounts in FFXIV an.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Primov1x/GlamSource/main/images/icon.png",
                 "RepoUrl": "https://github.com/Primov1x/GlamSource",
-                "LastUpdate": 1788215051,
+                "LastUpdate": 1788247917,
                 "is_ai_attributed": true
             }
         ]
@@ -21153,12 +21236,12 @@
                 "Author": "the Puni.sh Quest Squad",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.3.25",
+                "AssemblyVersion": "15.306.3.26",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1788213390,
+                "LastUpdate": 1788238613,
                 "is_ai_attributed": true
             },
             {
@@ -22511,11 +22594,11 @@
                 "Author": "Critical_Impact",
                 "Name": "亚拉戈工具箱",
                 "InternalName": "InventoryTools",
-                "AssemblyVersion": "1.15.0.11",
+                "AssemblyVersion": "1.15.0.12",
                 "Description": "亚拉戈工具箱主要用于追踪各角色、雇员与部队仓库中的物品。借助强大的筛选系统，你可随时找到物品并了解应整理到哪里。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/QuserH/InventoryTools",
-                "LastUpdate": 1788237191
+                "LastUpdate": 1788239221
             },
             {
                 "Author": "Anna / QuserH",
@@ -26212,12 +26295,12 @@
                 "Author": "SorenWolfe",
                 "Name": "Foxtrot",
                 "InternalName": "Foxtrot",
-                "AssemblyVersion": "0.2.4.0",
+                "AssemblyVersion": "0.3.0.0",
                 "Description": "Preview any orchestrion roll before you go and earn it. Right-click a roll in your bags for a small player, or open the browser and search every track in the game — including the ones you do not own yet. The zone music steps aside while you listen and comes back when you stop.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/sorenwolfe/Foxtrot/main/images/icon.png",
                 "RepoUrl": "https://github.com/sorenwolfe/Foxtrot",
-                "LastUpdate": 1788227166
+                "LastUpdate": 1788247301
             }
         ]
     },
@@ -26250,12 +26333,12 @@
                 "Author": "SorenWolfe",
                 "Name": "Foxtrot",
                 "InternalName": "Foxtrot",
-                "AssemblyVersion": "0.2.4.0",
+                "AssemblyVersion": "0.3.0.0",
                 "Description": "Preview any orchestrion roll before you go and earn it. Right-click a roll in your bags for a small player, or open the browser and search every track in the game — including the ones you do not own yet. The zone music steps aside while you listen and comes back when you stop.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/sorenwolfe/Foxtrot/main/images/icon.png",
                 "RepoUrl": "https://github.com/sorenwolfe/Foxtrot",
-                "LastUpdate": 1788227166
+                "LastUpdate": 1788247301
             },
             {
                 "Author": "SorenWolfe",
@@ -26266,7 +26349,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/sorenwolfe/RaidPlan/main/images/icon.png",
                 "RepoUrl": "https://github.com/sorenwolfe/RaidPlan",
-                "LastUpdate": 1788215725
+                "LastUpdate": 1788245818
             }
         ]
     },
@@ -26626,7 +26709,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/SumomoAkihime/ffxiv_bossmod/master/Data/icon.png",
                 "RepoUrl": "https://github.com/SumomoAkihime/ffxiv_bossmod",
-                "LastUpdate": 1788164577
+                "LastUpdate": 1788252186
             },
             {
                 "Author": "Kouzukii",
@@ -29016,6 +29099,24 @@
         ]
     },
     {
+        "repo_developer_name": "wenliang110",
+        "repo_url": "https://raw.githubusercontent.com/wenliang110/TreasureHunt/main/repo.json",
+        "repo_source_url": "https://github.com/wenliang110/TreasureHunt",
+        "repo_name": "TreasureHunt",
+        "plugins": [
+            {
+                "Author": "wenliang110",
+                "Name": "TreasureHunt",
+                "InternalName": "TreasureHunt",
+                "AssemblyVersion": "0.1.0.4",
+                "Description": "支持陈旧的卡冈图亚革地图 (G18) 自动购买、解读、传送、导航、挖掘、进洞、下一层交互及 TP 钱袋子奖励房自动收集。模块化设计，配合 vnavmesh 导航及其他战斗插件实现全流程自动化。",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/wenliang110/TreasureHunt",
+                "LastUpdate": 1788255600
+            }
+        ]
+    },
+    {
         "repo_url": "https://raw.githubusercontent.com/WesleyLuk90/ffxiv-vr/master/PluginRepo/pluginmaster.json",
         "repo_source_url": "https://github.com/WesleyLuk90/ffxiv-vr",
         "repo_name": "ffxiv-vr",
@@ -30323,12 +30424,12 @@
                 "Author": "youdianfengbao (基于 PunishXIV/Questionable)",
                 "Name": "Questionable (国服汉化)",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.3.24",
+                "AssemblyVersion": "15.306.3.26",
                 "Description": "国服汉化版自动任务插件，基于 PunishXIV/Questionable。可在尽可能的情况下自动完成游戏任务。\n所需插件：vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://qstxiv.github.io/icons/Questionable.png",
                 "RepoUrl": "https://github.com/youdianfengbao/Questionable",
-                "LastUpdate": 1788184450,
+                "LastUpdate": 1788249788,
                 "is_ai_attributed": true
             },
             {
@@ -30704,12 +30805,12 @@
                 "Author": "zlatan-mt",
                 "Name": "XIV Mini Util",
                 "InternalName": "XivMiniUtil",
-                "AssemblyVersion": "0.4.1.0",
+                "AssemblyVersion": "0.4.2.0",
                 "Description": "マテリア精製とアイテム分解、NPC販売場所検索を支援するミニユーティリティです。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/zlatan-mt/XIV-Mini-Util/main/images/icon.png",
                 "RepoUrl": "https://github.com/zlatan-mt/XIV-Mini-Util",
-                "LastUpdate": 1788235731
+                "LastUpdate": 1788255240
             }
         ]
     },
