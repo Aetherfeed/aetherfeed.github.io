@@ -2245,11 +2245,11 @@
                 "Author": "Arceuid731; based on FFXIV-CombatReborn/BossmodReborn",
                 "Name": "Foretell",
                 "InternalName": "Foretell",
-                "AssemblyVersion": "0.6.1.0",
+                "AssemblyVersion": "0.7.0.0",
                 "Description": "Adaptive encounter intelligence built on BossMod Reborn. Learns mechanics locally and renders predictive world/radar/text guidance while preserving BMR.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Arceuid731/Foretell",
-                "LastUpdate": 1788341320
+                "LastUpdate": 1788367350
             }
         ]
     },
@@ -3138,7 +3138,7 @@
                 "Description": "ExtraChat adds end-to-end encrypted, cross-data-centre, unlimited linkshells\nto the game. (Fork of official plugin with features and some fixes)",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/beer-psi/ExtraChat",
-                "LastUpdate": 1786905972
+                "LastUpdate": 1787990127
             },
             {
                 "Author": "beerpsi",
@@ -4256,7 +4256,7 @@
                 "Author": "ChanceRain",
                 "Name": "Mortal MJ",
                 "InternalName": "MortalMJPlugin",
-                "AssemblyVersion": "1.0.0.18",
+                "AssemblyVersion": "1.0.0.19",
                 "Description": "FFXIV 国服「多玛方城战」麻将 AI 辅助插件，基于 Mortal AI 提供实时打牌建议与自动化（自动出牌/吃碰杠荣和/看整桌）。需要额外配置 Mortal AI 环境，详见仓库 README。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ChanceRain0108/DalamudPlugins/main/icon.png",
@@ -7566,6 +7566,16 @@
                 "is_closed_source": true
             },
             {
+                "Author": "Errer",
+                "Name": "FFXIVPVPAuto",
+                "InternalName": "FFXIVPVPAuto",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "一个简单的绿色插件。",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
+                "LastUpdate": 1788368720
+            },
+            {
                 "Author": "moewcorp",
                 "Name": "NekoHackBox",
                 "InternalName": "NekoHackBox",
@@ -7575,17 +7585,6 @@
                 "IconUrl": "https://raw.githubusercontent.com/Errerer/DalamudPlugins/main/Plugins/neko/nekohackbox.png",
                 "RepoUrl": "https://github.com/Errerer/DalamudPlugins/tree/main/Plugins/neko",
                 "LastUpdate": 1780416380,
-                "is_closed_source": true
-            },
-            {
-                "Author": "Errer",
-                "Name": "pvpauto",
-                "InternalName": "pvpauto",
-                "AssemblyVersion": "7.1.1.1",
-                "Description": "一个简单的绿色插件。",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/Errerer/DalamudPlugins/blob/main/Plugins/latest.zip",
-                "LastUpdate": 1780456663,
                 "is_closed_source": true
             },
             {
@@ -7654,7 +7653,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1788260019
+                "LastUpdate": 1788344367
             }
         ]
     },
@@ -7756,11 +7755,11 @@
                 "Author": "Evernow",
                 "Name": "Emptor",
                 "InternalName": "Emptor",
-                "AssemblyVersion": "0.2.10.0",
+                "AssemblyVersion": "0.2.12.0",
                 "Description": "Works a list of items, quantities and per-item price ceilings against the market board, buying the cheapest acceptable listings for you. Walks to a board, searches, and buys with human-variable timing. Exposes a Dalamud IPC API so other plugins can submit buy orders and read back what was purchased and at what price.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Evernow/Emptor",
-                "LastUpdate": 1788096012
+                "LastUpdate": 1788369341
             }
         ]
     },
@@ -7999,12 +7998,12 @@
                 "Author": "Beep Boop Bip ... Vibe Code",
                 "Name": "JEBlock",
                 "InternalName": "JEBlock",
-                "AssemblyVersion": "1.1.0.1",
+                "AssemblyVersion": "1.1.0.2",
                 "Description": "When using Triggers or Puppeteer for emotes, your partner can escape by tapping jump, or performing a new /emote. This plugin blocks those actions when /wringhands is detected. You can only escape by moving your character (which may be denied, or locked, by the restriction from Gagspeak)",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/feral-src/jeblock/main/JEBlock/JEBlock.png",
                 "RepoUrl": "https://github.com/feral-src/jeblock",
-                "LastUpdate": 1788166361
+                "LastUpdate": 1788351290
             }
         ]
     },
@@ -8086,7 +8085,7 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "BossMod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.5.66",
+                "AssemblyVersion": "7.5.5.67",
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
@@ -9602,11 +9601,11 @@
                 "Author": "Haselnussbomber",
                 "Name": "HaselDebug",
                 "InternalName": "HaselDebug",
-                "AssemblyVersion": "1.72.0.0",
+                "AssemblyVersion": "1.73.0.0",
                 "Description": "For developers.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
-                "LastUpdate": 1788269532
+                "LastUpdate": 1788362262
             },
             {
                 "Author": "Haselnussbomber",
@@ -12866,11 +12865,11 @@
                 "Author": "kittenhaswares-ui",
                 "Name": "Seiton Sense",
                 "InternalName": "SeitonSense.Plugin",
-                "AssemblyVersion": "0.43.0.9",
+                "AssemblyVersion": "0.44.0.0",
                 "Description": "A local PvP HUD with exact native-nameplate cues, LB activation and damage notifications, pressure and CC awareness, a bounded Purify-first held-action scheduler, Smart Target and assist macros, local MP sounds, survival/job helpers, team communication, and target highlights.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kittenhaswares-ui/SeitonSense",
-                "LastUpdate": 1788297578
+                "LastUpdate": 1788361348
             }
         ]
     },
@@ -13185,12 +13184,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.3.28",
+                "AssemblyVersion": "15.306.3.30",
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1788337797,
+                "LastUpdate": 1788355072,
                 "is_ai_attributed": true
             },
             {
@@ -13425,11 +13424,11 @@
                 "Author": "HalfBlindCatte",
                 "Name": "AliasXIV",
                 "InternalName": "AliasXIV",
-                "AssemblyVersion": "1.0.0.0",
+                "AssemblyVersion": "1.1.0.0",
                 "Description": "Intercepts outgoing FFXIV chat and applies user-defined word/phrase replacements immediately before the game processes the message. Open with /aliasxiv.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/L1ghth0us3/AliasXIV",
-                "LastUpdate": 1786974470,
+                "LastUpdate": 1788360761,
                 "is_ai_attributed": true
             }
         ]
@@ -13448,7 +13447,7 @@
                 "Description": "Reads chat messages, detects /random rolls, shows all rolls plus highest and lowest roll in a small ImGui window. Commands: /rolltracker, /rt.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/la1998/RollTracker",
-                "LastUpdate": 1788304211
+                "LastUpdate": 1788366326
             }
         ]
     },
@@ -13724,7 +13723,7 @@
                 "Author": "Usagi, Latihas",
                 "Name": "IINACTEx",
                 "InternalName": "IINACTEx",
-                "AssemblyVersion": "7.55.1.3",
+                "AssemblyVersion": "7.55.1.7",
                 "Description": "该插件会在一个类ACT的环境下运行FFXIV_ACT_Plugin与大量修改的Overlay Plugin以适配现代.NET。与此同时，也添加了大量修改的Triggernometry与Postnamazu。包括类ACT、Triggernometry、Postnamazu在内，这些并非完整的代码移植，并且仍在开发完善中，可能缺少部分原版的函数，开发时请注意。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/marzent/IINACT/master/images/icon.png",
@@ -13793,12 +13792,12 @@
                 "Author": "Legends of the Game",
                 "Name": "Time Memoria",
                 "InternalName": "TimeMemoriaV3",
-                "AssemblyVersion": "3.4.0.15",
+                "AssemblyVersion": "3.4.1.15",
                 "Description": "Quest progression and pacing — a reflective notebook for your story journey, not a scoreboard.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/LegendsOfTheGame/TimeMemoriaV3/main/assets/icon.png",
                 "RepoUrl": "https://github.com/LegendsOfTheGame/TimeMemoriaV3",
-                "LastUpdate": 1788150042,
+                "LastUpdate": 1788359113,
                 "is_ai_attributed": true
             }
         ]
@@ -14209,11 +14208,11 @@
                 "Author": "Luci",
                 "Name": "XIV Instant Edit",
                 "InternalName": "InstantEdit",
-                "AssemblyVersion": "1.1.4.0",
+                "AssemblyVersion": "1.1.5.0",
                 "Description": "Lists models currently on screen and sends them to Blender through the XIV Instant Edit add-on. Quick Export writes edited models back to their original Penumbra mod path.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/link-0402/Instant-Edit",
-                "LastUpdate": 1788213346
+                "LastUpdate": 1788369060
             }
         ]
     },
@@ -14227,11 +14226,11 @@
                 "Author": "Luci",
                 "Name": "XIV Instant Edit",
                 "InternalName": "InstantEdit",
-                "AssemblyVersion": "1.1.4.0",
+                "AssemblyVersion": "1.1.5.0",
                 "Description": "Enables easy importing of Penumbra model files in Blender and exporting them back to the game with just a single click. Provides various utilities and settings to make mod creation and editing easier and faster.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/link-0402/XIV-Instant-Edit",
-                "LastUpdate": 1788213346
+                "LastUpdate": 1788369060
             }
         ]
     },
@@ -16618,12 +16617,12 @@
                 "Author": "MrReeh",
                 "Name": "Flash",
                 "InternalName": "Flash",
-                "AssemblyVersion": "0.3.0.0",
+                "AssemblyVersion": "0.4.0.0",
                 "Description": "Watches for configured emotes and swaps your outfit via Glamourer while (and optionally only while) you're performing them, then reverts back to your normal gear afterward.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/mr-reeh/flash/main/images/icon.png",
                 "RepoUrl": "https://github.com/mr-reeh/flash",
-                "LastUpdate": 1788300740
+                "LastUpdate": 1788360144
             }
         ]
     },
@@ -17657,7 +17656,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/Lifestream/main/Lifestream/images/icon.png",
                 "RepoUrl": "https://github.com/NightmareXIV/Lifestream",
-                "LastUpdate": 1788142368
+                "LastUpdate": 1788370487
             },
             {
                 "Author": "NightmareXIV, Marulu, StreetRat",
@@ -19259,12 +19258,12 @@
                 "Author": "Faye, Kage",
                 "Name": "Better Occult Crescent & Chest Helper Interface",
                 "InternalName": "BOCCHI",
-                "AssemblyVersion": "4.2.0.8",
+                "AssemblyVersion": "4.2.0.9",
                 "Description": "BOCCHI is here to smooth out your Occult Crescent experience.\n- No more of that pesky 'walking' or 'finding chests'. That's for losers.\n- A cute little Fate and CE panel that'll tell you what rewards it gives AND help you automatically path to it, wowee.\n- An extre illegal 'illegal mode' for those of you that would rather be touching grass or playing a game with worthwhile content.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/OhKannaDuh/BOCCHI/master/assets/icon.png",
                 "RepoUrl": "https://github.com/OhKannaDuh/OccultCrescentHelper",
-                "LastUpdate": 1788176459
+                "LastUpdate": 1788364825
             }
         ]
     },
@@ -21313,12 +21312,12 @@
                 "Author": "the Puni.sh Quest Squad",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.3.28",
+                "AssemblyVersion": "15.306.3.30",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1788337797,
+                "LastUpdate": 1788355072,
                 "is_ai_attributed": true
             },
             {
@@ -23183,6 +23182,25 @@
                 "IconUrl": "https://raw.githubusercontent.com/Ray-CR/BackstabTheTrade/main/images/icon.png",
                 "RepoUrl": "https://github.com/Ray-CR/BackstabTheTrade",
                 "LastUpdate": 1780542713
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "RaylaPetal",
+        "repo_url": "https://raw.githubusercontent.com/RaylaPetal/ReactToMe/master/repo.json",
+        "repo_source_url": "https://github.com/RaylaPetal/ReactToMe",
+        "repo_name": "ReactToMe",
+        "plugins": [
+            {
+                "Author": "Rayla Petal",
+                "Name": "ReactToMe",
+                "InternalName": "ReactToMe",
+                "AssemblyVersion": "0.0.0.1",
+                "Description": "Listens for emotes targeted at you and applies a configured Glamourer design and Moodles status in response, automatically reverting the Glamourer design after a set duration.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/RaylaPetal/ReactToMe",
+                "LastUpdate": 1788368236,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -25646,14 +25664,14 @@
                 "Description": "自动隐藏怪物，避免干扰选中和战斗",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Shieldhelder/DalamudPlugins",
-                "LastUpdate": 1788348700,
+                "LastUpdate": 1788368123,
                 "is_closed_source": true
             },
             {
                 "Author": "croizat",
                 "Name": "Glamour Log",
                 "InternalName": "GlamourLog",
-                "AssemblyVersion": "15.67",
+                "AssemblyVersion": "15.67.10.0",
                 "Description": "A log for all your glamours and other glam-related tweaks",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/136",
@@ -25668,7 +25686,7 @@
                 "Description": "此插件在国际服确认会导致账号封禁\n请考虑清楚后决定是否使用\n下载后请于24小时内删除，因使用本资源造成的任何法律纠纷或损失，均由使用者自行承担\n\n\nPlugin to help farming DeepDungeon Hoards (...for you)",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Shieldhelder/DalamudPlugins",
-                "LastUpdate": 1788348700,
+                "LastUpdate": 1788368123,
                 "is_closed_source": true
             },
             {
@@ -29234,11 +29252,11 @@
                 "Author": "wenliang110",
                 "Name": "TreasureHunt",
                 "InternalName": "TreasureHunt",
-                "AssemblyVersion": "0.3.0.0",
+                "AssemblyVersion": "0.3.4.2",
                 "Description": "支持陈旧的卡冈图亚革地图 (G18) 自动购买、解读、传送、导航、挖掘、进洞、下一层交互及 TP 钱袋子奖励房自动收集。模块化设计，配合 vnavmesh 导航及其他战斗插件实现全流程自动化。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/wenliang110/TreasureHunt",
-                "LastUpdate": 1788343266
+                "LastUpdate": 1788361900
             }
         ]
     },
@@ -29598,11 +29616,11 @@
                 "Author": "David",
                 "Name": "DamageMeter-CN",
                 "InternalName": "DamageMeter-CN",
-                "AssemblyVersion": "0.3.2.0",
+                "AssemblyVersion": "0.3.5.0",
                 "Description": "Tracks damage dealt, healing done, DPS, HPS, overhealing, damage taken, and more in real time for you and your party. Stores up to 20 recent combat sessions with manual save slots. Fully configurable display, bar colors, and window styles.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/xdw0000/DamageMeter-CN",
-                "LastUpdate": 1788272799
+                "LastUpdate": 1788356579
             }
         ]
     },
@@ -29832,11 +29850,12 @@
                 "Author": "GUGU",
                 "Name": "新月岛撒娇罐",
                 "InternalName": "OccultPot",
-                "AssemblyVersion": "2.0.2.0",
+                "AssemblyVersion": "2.0.3.0",
                 "Description": "按勾选大区循环，每区北岛再南岛。打完或没中就退岛换下一处，原生服务器目的地锁定。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/xiaoxiaogugu/occult-pot",
-                "LastUpdate": 1788211584
+                "LastUpdate": 1788346641,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -29920,11 +29939,11 @@
                 "Author": "XivHub",
                 "Name": "AutoPincher",
                 "InternalName": "AutoPincher",
-                "AssemblyVersion": "0.1.11.0",
+                "AssemblyVersion": "0.1.12.0",
                 "Description": "Repinches your retainer market listings by undercutting the cheapest live competitor by 1 gil. Reads each listing straight from game memory, clicks the in-game market board's Compare Prices to find the current cheapest offering, and lowers your asking price to one below it (holding when your own listing is already cheapest). No server, no telemetry, nothing leaves your client. Adds an Auto Pinch button next to AutoRetainer's retainer-list controls and a /autopinch command for the open retainer. AutoRetainer is optional (used only to pause its automation during a pinch run).",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XivHub/AutoPincher",
-                "LastUpdate": 1788332278,
+                "LastUpdate": 1788359914,
                 "is_ai_attributed": true
             },
             {
@@ -30109,12 +30128,12 @@
                 "Author": "XozaShadow",
                 "Name": "StatusShift",
                 "InternalName": "StatusShift",
-                "AssemblyVersion": "0.1.1.0",
+                "AssemblyVersion": "0.1.3.1",
                 "Description": "Rules change your search comment, online status, and optional commands from zone, duty, activity, job, world, and schedule.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XozaShadow/StatusShift/main/images/icon.png",
                 "RepoUrl": "https://github.com/XozaShadow/StatusShift",
-                "LastUpdate": 1788323234
+                "LastUpdate": 1788367542
             }
         ]
     },
@@ -30587,12 +30606,12 @@
                 "Author": "youdianfengbao (基于 PunishXIV/Questionable)",
                 "Name": "Questionable (国服汉化)",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.3.26",
+                "AssemblyVersion": "15.306.3.30",
                 "Description": "国服汉化版自动任务插件，基于 PunishXIV/Questionable。可在尽可能的情况下自动完成游戏任务。\n所需插件：vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://qstxiv.github.io/icons/Questionable.png",
                 "RepoUrl": "https://github.com/youdianfengbao/Questionable",
-                "LastUpdate": 1788249788,
+                "LastUpdate": 1788355594,
                 "is_ai_attributed": true
             },
             {
