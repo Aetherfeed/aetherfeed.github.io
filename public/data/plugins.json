@@ -82,13 +82,23 @@
         "plugins": [
             {
                 "Author": "Dash + AI",
-                "Name": "DAH-LocalSpotifySupport",
+                "Name": "[Discontinued] DAH-LocalSpotifySupport",
                 "InternalName": "DAH-LocalSpotifySupport",
                 "AssemblyVersion": "0.1.0.0",
                 "Description": "Discord Activity Honorific with Spotify Web API fallback for Spotify local files.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/420Dasher/DAH-LocalTrackSupport",
-                "LastUpdate": 1788236941
+                "LastUpdate": 1788386465
+            },
+            {
+                "Author": "Dash + AI",
+                "Name": "SpotifyTrackHonorific",
+                "InternalName": "SpotifyTrackHonorific",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "Shows your current Spotify track as an Honorific title, including local files, formatting, cleanup, styling, supporter effects, and reliability handling.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/420Dasher/DAH-LocalTrackSupport",
+                "LastUpdate": 1788386465
             }
         ]
     },
@@ -694,12 +704,12 @@
                 "Author": "DhogGPT",
                 "Name": "dad",
                 "InternalName": "dad",
-                "AssemblyVersion": "0.6.0.4",
+                "AssemblyVersion": "0.6.0.5",
                 "Description": "DAD is a duty planner and multibox coordinator for FFXIV. Create reusable character presets, wake or relog the right clients, prepare jobs, assemble and verify parties, queue supported duties and roulettes, and chain presets into manual or daily schedules. Live readiness checks, clear blockers, reconnect status, cancellation, and Stop All keep every run visible and recoverable.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dad/main/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/dad",
-                "LastUpdate": 1788319303,
+                "LastUpdate": 1788380782,
                 "is_ai_attributed": true
             },
             {
@@ -754,12 +764,12 @@
                 "Author": "DhogGPT",
                 "Name": "Fren Rider",
                 "InternalName": "FrenRider",
-                "AssemblyVersion": "1.3.0.14",
+                "AssemblyVersion": "1.3.0.15",
                 "Description": "Native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider or /fr to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1788317097,
+                "LastUpdate": 1788382454,
                 "is_ai_attributed": true
             },
             {
@@ -2245,11 +2255,11 @@
                 "Author": "Arceuid731; based on FFXIV-CombatReborn/BossmodReborn",
                 "Name": "Foretell",
                 "InternalName": "Foretell",
-                "AssemblyVersion": "0.7.0.0",
+                "AssemblyVersion": "0.8.0.0",
                 "Description": "Adaptive encounter intelligence built on BossMod Reborn. Learns mechanics locally and renders predictive world/radar/text guidance while preserving BMR.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Arceuid731/Foretell",
-                "LastUpdate": 1788367350
+                "LastUpdate": 1788385911
             }
         ]
     },
@@ -4541,7 +4551,7 @@
                 "Author": "The Sundouleia Team",
                 "Name": "Sundouleia",
                 "InternalName": "Sundouleia",
-                "AssemblyVersion": "1.0.3.1",
+                "AssemblyVersion": "1.0.4.0",
                 "Description": "Yet another Mare fork",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Sundouleia/repo/main/Images/icon.png",
@@ -5675,22 +5685,22 @@
                 "Author": "deserokk",
                 "Name": "DesCast",
                 "InternalName": "DesCast",
-                "AssemblyVersion": "0.4.4.0",
+                "AssemblyVersion": "0.4.5.0",
                 "Description": "Flat screens placed anywhere in a house, correctly hidden by walls and people. Shows an image or a rotating set, from your PC or a link, and a whole room of them can be shared with your Free Company from one file.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/deserokk/DesCast",
-                "LastUpdate": 1788345819,
+                "LastUpdate": 1788371647,
                 "is_ai_attributed": true
             },
             {
                 "Author": "deserokk",
                 "Name": "DeserokUtils",
                 "InternalName": "DeserokUtils",
-                "AssemblyVersion": "1.19.1.0",
+                "AssemblyVersion": "1.20.1.0",
                 "Description": "Small quality-of-life utilities, one feature per tab.\n\nCastWatch: gate a macro line on whether an action actually went off. Arm a watch above the /ac, then /ifwatch runs your line only if the action was accepted -- or cancels the macro if it was not. Works for instant casts, oGCDs and usable items, none of which produce a cast bar to observe. Optional target filters (--self, --notself, --party) and a {who} token that fills in whoever actually received it, which a vanilla macro cannot do.\n\nIt never composes or sends anything on your behalf; it only runs or suppresses a line you already wrote.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/deserokk/DeserokUtils",
-                "LastUpdate": 1788033418,
+                "LastUpdate": 1788386560,
                 "is_ai_attributed": true
             },
             {
@@ -5716,11 +5726,11 @@
                 "Author": "deserokk",
                 "Name": "DesCast",
                 "InternalName": "DesCast",
-                "AssemblyVersion": "0.4.4.0",
+                "AssemblyVersion": "0.4.5.0",
                 "Description": "Flat screens placed anywhere in a house, correctly hidden by walls and people. Shows an image or a rotating set, from your PC or a link, and a whole room of them can be shared with your Free Company from one file.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/deserokk/DesCast",
-                "LastUpdate": 1788345819,
+                "LastUpdate": 1788371647,
                 "is_ai_attributed": true
             }
         ]
@@ -7569,11 +7579,11 @@
                 "Author": "Errer",
                 "Name": "FFXIVPVPAuto",
                 "InternalName": "FFXIVPVPAuto",
-                "AssemblyVersion": "1.0.0.0",
+                "AssemblyVersion": "1.0.0.1",
                 "Description": "一个简单的绿色插件。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
-                "LastUpdate": 1788368720
+                "LastUpdate": 1788377280
             },
             {
                 "Author": "moewcorp",
@@ -8085,12 +8095,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "BossMod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.5.67",
+                "AssemblyVersion": "7.5.5.68",
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1788345502
+                "LastUpdate": 1788380673
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -12092,12 +12102,12 @@
                 "Author": "Tomok",
                 "Name": "Glamourer Preview Manager",
                 "InternalName": "GlamourerPreviewManager",
-                "AssemblyVersion": "1.1.4.0",
+                "AssemblyVersion": "1.1.4.1",
                 "Description": "A helper tool to easily attach local, XIVModArchive, direct URL preview/cover images, or take cropped screenshots of your characters to attach to your Glamourer designs.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/KaraRemy/TomokPlugins/main/GlamourerPreviewManager/icon.png",
                 "RepoUrl": "https://github.com/KaraRemy/GlamourerPreviewManager",
-                "LastUpdate": 1788310285,
+                "LastUpdate": 1788377372,
                 "is_ai_attributed": true
             },
             {
@@ -12394,11 +12404,11 @@
                 "Author": "Kei Joi",
                 "Name": "Mair's Trivia",
                 "InternalName": "MairsTrivia",
-                "AssemblyVersion": "1.2.2.0",
+                "AssemblyVersion": "1.2.3.0",
                 "Description": "Host controls for Mair's Trivia. Open with /mairstrivia.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/KeiJoi/mairstrivia",
-                "LastUpdate": 1787868406
+                "LastUpdate": 1788390955
             }
         ]
     },
@@ -12865,11 +12875,11 @@
                 "Author": "kittenhaswares-ui",
                 "Name": "Seiton Sense",
                 "InternalName": "SeitonSense.Plugin",
-                "AssemblyVersion": "0.44.0.0",
+                "AssemblyVersion": "0.44.0.2",
                 "Description": "A local PvP HUD with exact native-nameplate cues, LB activation and damage notifications, pressure and CC awareness, a bounded Purify-first held-action scheduler, Smart Target and assist macros, local MP sounds, survival/job helpers, team communication, and target highlights.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kittenhaswares-ui/SeitonSense",
-                "LastUpdate": 1788361348
+                "LastUpdate": 1788373259
             }
         ]
     },
@@ -13792,12 +13802,12 @@
                 "Author": "Legends of the Game",
                 "Name": "Time Memoria",
                 "InternalName": "TimeMemoriaV3",
-                "AssemblyVersion": "3.4.1.15",
+                "AssemblyVersion": "3.4.2.15",
                 "Description": "Quest progression and pacing — a reflective notebook for your story journey, not a scoreboard.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/LegendsOfTheGame/TimeMemoriaV3/main/assets/icon.png",
                 "RepoUrl": "https://github.com/LegendsOfTheGame/TimeMemoriaV3",
-                "LastUpdate": 1788359113,
+                "LastUpdate": 1788382044,
                 "is_ai_attributed": true
             }
         ]
@@ -15237,12 +15247,12 @@
                 "Author": "DhogGPT",
                 "Name": "dad",
                 "InternalName": "dad",
-                "AssemblyVersion": "0.6.0.4",
+                "AssemblyVersion": "0.6.0.5",
                 "Description": "Private Dad duty operations shell with multiplayer status, preset planning, queue routing, and Duty Support automation.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dad/main/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/dad",
-                "LastUpdate": 1788319303,
+                "LastUpdate": 1788380782,
                 "is_ai_attributed": true
             }
         ]
@@ -15337,12 +15347,12 @@
                 "Author": "DhogGPT",
                 "Name": "Fren Rider",
                 "InternalName": "FrenRider",
-                "AssemblyVersion": "1.3.0.14",
+                "AssemblyVersion": "1.3.0.15",
                 "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1788317097,
+                "LastUpdate": 1788382454,
                 "is_ai_attributed": true
             }
         ]
@@ -15525,12 +15535,12 @@
                 "Author": "DhogGPT",
                 "Name": "dad",
                 "InternalName": "dad",
-                "AssemblyVersion": "0.6.0.4",
+                "AssemblyVersion": "0.6.0.5",
                 "Description": "DAD is a duty planner and multibox coordinator for FFXIV. Create reusable character presets, wake or relog the right clients, prepare jobs, assemble and verify parties, queue supported duties and roulettes, and chain presets into manual or daily schedules. Live readiness checks, clear blockers, reconnect status, cancellation, and Stop All keep every run visible and recoverable.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dad/main/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/dad",
-                "LastUpdate": 1788319303
+                "LastUpdate": 1788380782
             },
             {
                 "Author": "DhogGPT",
@@ -15583,12 +15593,12 @@
                 "Author": "DhogGPT",
                 "Name": "Fren Rider",
                 "InternalName": "FrenRider",
-                "AssemblyVersion": "1.3.0.14",
+                "AssemblyVersion": "1.3.0.15",
                 "Description": "Native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider or /fr to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1788317097,
+                "LastUpdate": 1788382454,
                 "is_ai_attributed": true
             },
             {
@@ -15662,39 +15672,6 @@
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
                 "LastUpdate": 1788214748,
                 "is_ai_attributed": true
-            },
-            {
-                "Author": "XA",
-                "Name": "XA Database",
-                "InternalName": "XADatabase",
-                "AssemblyVersion": "0.0.0.40",
-                "Description": "Parser of all databases.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Database/master/XADatabase/images/icon.png",
-                "RepoUrl": "https://github.com/xa-io/XA-Database",
-                "LastUpdate": 1786144172
-            },
-            {
-                "Author": "XA",
-                "Name": "XA HUD Navigator",
-                "InternalName": "XAHudNavigator",
-                "AssemblyVersion": "0.0.0.8",
-                "Description": "Finding stuff is hard.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-HUD-Navigator/main/XAHudNavigator/images/icon.png",
-                "RepoUrl": "https://github.com/xa-io/XA-HUD-Navigator",
-                "LastUpdate": 1786144175
-            },
-            {
-                "Author": "XA",
-                "Name": "XA Slave",
-                "InternalName": "XASlave",
-                "AssemblyVersion": "0.0.0.43",
-                "Description": "Don't manual.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Slave/master/XASlave/images/icon.png",
-                "RepoUrl": "https://github.com/xa-io/XA-Slave",
-                "LastUpdate": 1786144179
             }
         ],
         "repo_discord_url": "https://discord.gg/g2NmYxPQCa"
@@ -15973,11 +15950,11 @@
                 "Author": "Midona",
                 "Name": "Poser",
                 "InternalName": "Poser",
-                "AssemblyVersion": "0.9.2.0",
+                "AssemblyVersion": "0.9.4.0",
                 "Description": "Poser is a posing and scene tool for FINAL FANTASY XIV's group pose.\n\n- Pose actors bone by bone: overlay handles, a graphical body map, and numeric transforms\n- IK on any bone with a parent, plus mirror, link and named bone-visibility presets\n- Spawn actors and objects, or click a world handle to bring what is already there into the scene\n- Borrow the map's own objects by reference and give them back untouched on release\n- Save and restore the whole shot — actors, objects, lights, camera and environment — with load options\n- Custom lights, camera control and a free camera; snapping, group pivot and group moves\n- Gaze control and one-click expressions\n- A pose library with tags, authors and search; import and export poses, and MCDF appearance files\n- Time, weather and festival control\n- On-screen dialogue panels, chat bubbles and status lines drawn with the game's own UI\n- Reference pictures as floating, aspect-locked windows\n- Twenty-five rebindable actions with Poser, Brio and Ktisis presets\n\nThis is a beta. It is not stable and it is not finished. Poser is derivative of Anamnesis, Ktisis and Brio, and those three are the mature tools.\n\nPoser was coded with the use of artificial intelligence. The plugin says so on first launch and asks you to confirm before the workspace opens.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/midona-rhel/Poser",
-                "LastUpdate": 1788127789,
+                "LastUpdate": 1788392715,
                 "is_ai_attributed": true
             }
         ]
@@ -17495,7 +17472,7 @@
                 "Description": "This plugin shows the destination zone's concept art while loading.\nNOTE: ONLY LOOKS RIGHT ON 16:9 SCREENS! The concept art is not any bigger, and we can't expand/fix it. Sorry!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NeXzRo/Dalamud.LoadingImage",
-                "LastUpdate": 1787448891
+                "LastUpdate": 1788063996
             }
         ]
     },
@@ -18899,12 +18876,12 @@
                 "Author": "Noranda",
                 "Name": "XIV Shinies Sync",
                 "InternalName": "XIVShinies.SyncPlugin",
-                "AssemblyVersion": "0.7.0.0",
+                "AssemblyVersion": "0.7.1.0",
                 "Description": "Automatically records your collection progress on XIV Shinies (https://xiv-shinies.com). New unlocks — quests, achievements, mounts, minions, and more — appear on the site within seconds, and everything else syncs automatically in the background. Fully opt-in: nothing uploads until you finish the short setup, and you choose exactly which collections to send. Use /shinies to get started.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XIV-Shinies/xiv-shinies-plugin/main/src/XIVShinies.SyncPlugin/images/icon.png",
                 "RepoUrl": "https://github.com/noranda/xiv-shinies-plugin",
-                "LastUpdate": 1787958037,
+                "LastUpdate": 1788378752,
                 "is_ai_attributed": true
             }
         ]
@@ -20809,12 +20786,12 @@
                 "Author": "TF",
                 "Name": "GlamSource",
                 "InternalName": "GlamSource",
-                "AssemblyVersion": "0.0.0.304",
+                "AssemblyVersion": "1.0.1.0",
                 "Description": "Zeigt Herkunft von Glams und Mounts in FFXIV an.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Primov1x/GlamSource/main/images/icon.png",
                 "RepoUrl": "https://github.com/Primov1x/GlamSource",
-                "LastUpdate": 1788339143,
+                "LastUpdate": 1788387682,
                 "is_ai_attributed": true
             }
         ]
@@ -21236,7 +21213,7 @@
                 "Author": "kawaii, NightmareXIV",
                 "Name": "AutoRetainer",
                 "InternalName": "AutoRetainer",
-                "AssemblyVersion": "4.6.1.27",
+                "AssemblyVersion": "4.6.1.34",
                 "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/24",
@@ -21312,12 +21289,12 @@
                 "Author": "the Puni.sh Quest Squad",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.3.30",
+                "AssemblyVersion": "15.306.3.31",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1788355072,
+                "LastUpdate": 1788393166,
                 "is_ai_attributed": true
             },
             {
@@ -21647,7 +21624,7 @@
                 "Author": "Knightmore",
                 "Name": "Henchman",
                 "InternalName": "Henchman",
-                "AssemblyVersion": "3.0.1.21",
+                "AssemblyVersion": "3.0.1.22",
                 "Description": "Your personal Henchman doing all the heavy lifting for you!\n\n- Hunt Logs\n- Hunt Bills\n- Retainer Creation\nand more to come.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/85",
@@ -21757,12 +21734,12 @@
                 "Author": "Nexai",
                 "Name": "FCCH",
                 "InternalName": "FCCH",
-                "AssemblyVersion": "2.5.0.0",
+                "AssemblyVersion": "2.5.1.0",
                 "Description": "Free Company Chest Helper. Automate deposits, withdrawals, organization, crystals, workshop project pulls, and custom item lists.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/149",
                 "RepoUrl": "https://github.com/Nexaii/FCCH",
-                "LastUpdate": 1787703459
+                "LastUpdate": 1788389180
             },
             {
                 "Author": "Nexai",
@@ -26431,6 +26408,25 @@
     },
     {
         "repo_developer_name": "sorenwolfe",
+        "repo_url": "https://raw.githubusercontent.com/sorenwolfe/Miyagi/main/repo.json",
+        "repo_source_url": "https://github.com/sorenwolfe/Miyagi",
+        "repo_name": "Miyagi",
+        "plugins": [
+            {
+                "Author": "SorenWolfe",
+                "Name": "Miyagi",
+                "InternalName": "Miyagi",
+                "AssemblyVersion": "0.1.1.0",
+                "Description": "Learn your rotation instead of following a highlight. Shows the next button, then waits for you to hesitate, then says nothing until you get one wrong — and when the pull ends it tells you what it actually cost: uptime, casts you cancelled by moving, cooldowns you held too long. Black Mage at level 100, built from the Balance guide and checked against savage cast logs.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/sorenwolfe/Miyagi/main/images/icon.png",
+                "RepoUrl": "https://github.com/sorenwolfe/Miyagi",
+                "LastUpdate": 1788393317
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "sorenwolfe",
         "repo_url": "https://raw.githubusercontent.com/sorenwolfe/RaidPlan/main/repo.json",
         "repo_source_url": "https://github.com/sorenwolfe/RaidPlan",
         "repo_name": "RaidPlan",
@@ -26483,6 +26479,17 @@
                 "IconUrl": "https://raw.githubusercontent.com/sorenwolfe/Foxtrot/main/images/icon.png",
                 "RepoUrl": "https://github.com/sorenwolfe/Foxtrot",
                 "LastUpdate": 1788315624
+            },
+            {
+                "Author": "SorenWolfe",
+                "Name": "Miyagi",
+                "InternalName": "Miyagi",
+                "AssemblyVersion": "0.1.1.0",
+                "Description": "Learn your rotation instead of following a highlight. Shows the next button, then waits for you to hesitate, then says nothing until you get one wrong — and when the pull ends it tells you what it actually cost: uptime, casts you cancelled by moving, cooldowns you held too long. Black Mage at level 100, built from the Balance guide and checked against savage cast logs.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/sorenwolfe/Miyagi/main/images/icon.png",
+                "RepoUrl": "https://github.com/sorenwolfe/Miyagi",
+                "LastUpdate": 1788393317
             },
             {
                 "Author": "SorenWolfe",
@@ -27511,12 +27518,12 @@
                 "Author": "ThatKwistine",
                 "Name": "Wardrobe",
                 "InternalName": "WardrobePlugin",
-                "AssemblyVersion": "1.5.5.0",
+                "AssemblyVersion": "1.6.0.0",
                 "Description": "A visual wardrobe for Penumbra mods. Each entry targets a single equipment slot, so you can wear or unwear exactly what you want without disturbing the rest of your look. Handles items spanning several mods, mod option groups, hair and other customisation mods, image previews, tags, favourites, search and sort, and automated screenshot sessions.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ThatKwistine/WardrobePlugin/main/images/icon.png",
                 "RepoUrl": "https://github.com/ThatKwistine/WardrobePlugin",
-                "LastUpdate": 1788180432,
+                "LastUpdate": 1788380362,
                 "is_ai_attributed": true
             }
         ]
@@ -29869,12 +29876,12 @@
                 "Author": "Noranda",
                 "Name": "XIV Shinies Sync",
                 "InternalName": "XIVShinies.SyncPlugin",
-                "AssemblyVersion": "0.7.0.0",
+                "AssemblyVersion": "0.7.1.0",
                 "Description": "Automatically records your collection progress on XIV Shinies (https://xiv-shinies.com). New quest, achievement, mount, and minion unlocks appear on the site within seconds; Triple Triad cards, Occult Crescent progress, and the items the site tracks sync automatically in the background. Fully opt-in: nothing uploads until you finish the short setup, and you choose exactly which collections to send. Use /shinies to get started.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XIV-Shinies/xiv-shinies-plugin/main/src/XIVShinies.SyncPlugin/images/icon.png",
                 "RepoUrl": "https://github.com/noranda/xiv-shinies-plugin",
-                "LastUpdate": 1787958037,
+                "LastUpdate": 1788378752,
                 "is_ai_attributed": true
             }
         ]
