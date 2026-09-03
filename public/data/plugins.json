@@ -632,12 +632,12 @@
                 "Author": "DhogGPT",
                 "Name": "AI Duty Solver",
                 "InternalName": "ADS",
-                "AssemblyVersion": "0.8.1.1",
+                "AssemblyVersion": "0.9.0.2",
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/ADS/main/ADS/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1788307692,
+                "LastUpdate": 1788410004,
                 "is_ai_attributed": true
             },
             {
@@ -1985,6 +1985,24 @@
                 "IconUrl": "https://raw.githubusercontent.com/AnnaNomoly/SayMyName/main/images/icon.png",
                 "RepoUrl": "https://github.com/AnnaNomoly/SayMyName",
                 "LastUpdate": 1778025194
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "anomalousgamer",
+        "repo_url": "https://raw.githubusercontent.com/anomalousgamer/FriendLoginNotifier/master/repo.json",
+        "repo_source_url": "https://github.com/anomalousgamer/FriendLoginNotifier",
+        "repo_name": "FriendLoginNotifier",
+        "plugins": [
+            {
+                "Author": "Anomaly",
+                "Name": "Friend Login Notifier",
+                "InternalName": "FriendLoginNotifier",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "Monitors the FFXIV friends list and prints a chat notification when a friend changes from offline to online after the list updates.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/anomalousgamer/FriendLoginNotifier",
+                "LastUpdate": 1788396597
             }
         ]
     },
@@ -6982,11 +7000,12 @@
                 "Author": "Elpa",
                 "Name": "Plugin JP Helper",
                 "InternalName": "PluginJPHelper",
-                "AssemblyVersion": "0.1.0.0",
+                "AssemblyVersion": "0.2.0.0",
                 "Description": "Dalamudプラグインの表示文字列を日本語化する補助プラグインです。",
                 "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/elpapityo/PluginJPHelper/main/assets/PluginJPHelper.png",
                 "RepoUrl": "https://github.com/elpapityo/PluginJPHelper",
-                "LastUpdate": 1788325591
+                "LastUpdate": 1788412267
             }
         ]
     },
@@ -9626,7 +9645,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/main/HaselTweaks/Assets/Icon.png",
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1787916991
+                "LastUpdate": 1788391264
             },
             {
                 "Author": "Haselnussbomber",
@@ -9637,7 +9656,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/LeveHelper/refs/heads/main/LeveHelper/Assets/Icon.png",
                 "RepoUrl": "https://github.com/Haselnussbomber/LeveHelper",
-                "LastUpdate": 1788274794
+                "LastUpdate": 1788403269
             }
         ]
     },
@@ -12441,12 +12460,12 @@
                 "Author": "Kay Joy",
                 "Name": "Venue Status and Greet",
                 "InternalName": "VenueStatusAndGreet",
-                "AssemblyVersion": "1.0.0.4",
+                "AssemblyVersion": "1.0.0.6",
                 "Description": "Tracks venue guests, greeting history, and nightly statistics with export support.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/KeiJoi/venuestatusandgreet/refs/heads/main/latest/icon.png",
                 "RepoUrl": "https://github.com/KeiJoi/venuestatusandgreet",
-                "LastUpdate": 1777724449
+                "LastUpdate": 1788404065
             }
         ]
     },
@@ -12875,11 +12894,11 @@
                 "Author": "kittenhaswares-ui",
                 "Name": "Seiton Sense",
                 "InternalName": "SeitonSense.Plugin",
-                "AssemblyVersion": "0.44.0.2",
+                "AssemblyVersion": "0.44.0.3",
                 "Description": "A local PvP HUD with exact native-nameplate cues, LB activation and damage notifications, pressure and CC awareness, a bounded Purify-first held-action scheduler, Smart Target and assist macros, local MP sounds, survival/job helpers, team communication, and target highlights.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kittenhaswares-ui/SeitonSense",
-                "LastUpdate": 1788373259
+                "LastUpdate": 1788374918
             }
         ]
     },
@@ -13177,7 +13196,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1788216617
+                "LastUpdate": 1788401126
             },
             {
                 "Author": "sourpuh",
@@ -13194,12 +13213,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.3.30",
+                "AssemblyVersion": "15.306.3.31",
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1788355072,
+                "LastUpdate": 1788393166,
                 "is_ai_attributed": true
             },
             {
@@ -15167,12 +15186,12 @@
                 "Author": "DhogGPT",
                 "Name": "AI Duty Solver",
                 "InternalName": "ADS",
-                "AssemblyVersion": "0.8.1.1",
+                "AssemblyVersion": "0.9.0.2",
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/ADS/main/ADS/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1788307692,
+                "LastUpdate": 1788410004,
                 "is_ai_attributed": true
             }
         ]
@@ -19245,6 +19264,25 @@
         ]
     },
     {
+        "repo_developer_name": "okaminico",
+        "repo_url": "https://raw.githubusercontent.com/okaminico/Questionable-1/tw-fix/repo.json",
+        "repo_source_url": "https://github.com/okaminico/Questionable-1",
+        "repo_name": "Questionable-1",
+        "plugins": [
+            {
+                "Author": "okaminico (based on ffxiv-tc-port's fork of liza/Questionable)",
+                "Name": "Questionable",
+                "InternalName": "Questionable",
+                "AssemblyVersion": "7.15.0.5",
+                "Description": "自動接取並完成任務，使用 navmesh 自動走路到任務座標並嘗試自動完成沿路的步驟(不含副本、單人任務、戰鬥)。\n\n本版本修正了「卡住時自動重新整理任務步驟」功能，新增「連續中斷重試 3 次後主動傳送到最近的大水晶」，並把移動卡住的反應時間從寫死 5 秒改成可調、預設 2.5 秒，避免長時間原地跑步被看到。",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/okaminico/Questionable-1",
+                "LastUpdate": 1788410093,
+                "is_ai_attributed": true
+            }
+        ]
+    },
+    {
         "repo_developer_name": "OkuKatsu",
         "repo_url": "https://raw.githubusercontent.com/OkuKatsu/DalamudRepo/master/pluginmaster.json",
         "repo_source_url": "https://github.com/OkuKatsu/DalamudRepo",
@@ -22070,7 +22108,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1788216617
+                "LastUpdate": 1788401126
             },
             {
                 "Author": "veyn, croizat",
@@ -23871,6 +23909,36 @@
     },
     {
         "repo_developer_name": "RoarkGit",
+        "repo_url": "https://raw.githubusercontent.com/RoarkGit/DalamudPlugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/RoarkGit/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "RoarkGit",
+                "Name": "XIVMit",
+                "InternalName": "XIVMit",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "Loads a plan from xivmit.app and shows your upcoming mitigations on a live fight clock. Starts automatically on combat and stays synced from boss casts and phase transitions. Use /xivmit to open.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/RoarkGit/XIVMit-Dalamud",
+                "LastUpdate": 1788397893,
+                "is_ai_attributed": true
+            },
+            {
+                "Author": "RoarkGit",
+                "Name": "XIV Raid Tools",
+                "InternalName": "XIVRaidToolsPlugin",
+                "AssemblyVersion": "0.1.11.0",
+                "Description": "A growing set of in-game raid tools, starting with Kefka Says, an in-game mirror of the Kefka Says / UMAD room tracker, synced with the webapp over the same WebSocket relay. Open with /xrt kefka.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/RoarkGit/XIV-Raid-Tools",
+                "LastUpdate": 1788397398,
+                "is_ai_attributed": true
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "RoarkGit",
         "repo_url": "https://raw.githubusercontent.com/RoarkGit/XIV-Raid-Tools/main/pluginmaster.json",
         "repo_source_url": "https://github.com/RoarkGit/XIV-Raid-Tools",
         "repo_name": "XIV-Raid-Tools",
@@ -25347,12 +25415,12 @@
                 "Author": "Selken",
                 "Name": "Armoire Butler",
                 "InternalName": "ArmoireButlerPlugin",
-                "AssemblyVersion": "0.1.10.0",
+                "AssemblyVersion": "0.1.11.0",
                 "Description": "Analyzes local wardrobe, armoire, glamour dresser, retainer cache, dyes, duplicates, glamour sets, and store outfit ownership. Command: /yggj",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/selken-ixx/SelkenDalamud/main/assets/ArmoireButler/icon.png",
                 "RepoUrl": "https://github.com/selken-ixx/SelkenDalamud",
-                "LastUpdate": 1784022589,
+                "LastUpdate": 1788406338,
                 "is_closed_source": true
             },
             {
@@ -26416,12 +26484,12 @@
                 "Author": "SorenWolfe",
                 "Name": "Miyagi",
                 "InternalName": "Miyagi",
-                "AssemblyVersion": "0.1.1.0",
+                "AssemblyVersion": "0.1.7.0",
                 "Description": "Learn your rotation instead of following a highlight. Shows the next button, then waits for you to hesitate, then says nothing until you get one wrong — and when the pull ends it tells you what it actually cost: uptime, casts you cancelled by moving, cooldowns you held too long. Black Mage at level 100, built from the Balance guide and checked against savage cast logs.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/sorenwolfe/Miyagi/main/images/icon.png",
                 "RepoUrl": "https://github.com/sorenwolfe/Miyagi",
-                "LastUpdate": 1788393317
+                "LastUpdate": 1788413559
             }
         ]
     },
@@ -26484,12 +26552,12 @@
                 "Author": "SorenWolfe",
                 "Name": "Miyagi",
                 "InternalName": "Miyagi",
-                "AssemblyVersion": "0.1.1.0",
+                "AssemblyVersion": "0.1.7.0",
                 "Description": "Learn your rotation instead of following a highlight. Shows the next button, then waits for you to hesitate, then says nothing until you get one wrong — and when the pull ends it tells you what it actually cost: uptime, casts you cancelled by moving, cooldowns you held too long. Black Mage at level 100, built from the Balance guide and checked against savage cast logs.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/sorenwolfe/Miyagi/main/images/icon.png",
                 "RepoUrl": "https://github.com/sorenwolfe/Miyagi",
-                "LastUpdate": 1788393317
+                "LastUpdate": 1788413559
             },
             {
                 "Author": "SorenWolfe",
@@ -29259,11 +29327,11 @@
                 "Author": "wenliang110",
                 "Name": "TreasureHunt",
                 "InternalName": "TreasureHunt",
-                "AssemblyVersion": "0.3.4.2",
+                "AssemblyVersion": "0.3.9.0",
                 "Description": "支持陈旧的卡冈图亚革地图 (G18) 自动购买、解读、传送、导航、挖掘、进洞、下一层交互及 TP 钱袋子奖励房自动收集。模块化设计，配合 vnavmesh 导航及其他战斗插件实现全流程自动化。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/wenliang110/TreasureHunt",
-                "LastUpdate": 1788361900
+                "LastUpdate": 1788414011
             }
         ]
     },
@@ -29857,11 +29925,11 @@
                 "Author": "GUGU",
                 "Name": "新月岛撒娇罐",
                 "InternalName": "OccultPot",
-                "AssemblyVersion": "2.0.3.0",
+                "AssemblyVersion": "2.0.4.0",
                 "Description": "按勾选大区循环，每区北岛再南岛。打完或没中就退岛换下一处，原生服务器目的地锁定。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/xiaoxiaogugu/occult-pot",
-                "LastUpdate": 1788346641,
+                "LastUpdate": 1788403117,
                 "is_ai_attributed": true
             }
         ]
@@ -30699,19 +30767,19 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Macro%20Redirection/cursor_hr1.png",
                 "RepoUrl": "https://github.com/YouShux/DalamudPlugins/blob/main/Plugins/Macro%20Redirection/Macro%20Redirection.zip",
-                "LastUpdate": 1788228019,
+                "LastUpdate": 1788405393,
                 "is_closed_source": true
             },
             {
                 "Author": "YouShu",
                 "Name": "Omni Toolbox",
                 "InternalName": "OmniToolbox",
-                "AssemblyVersion": "1.1.1.3",
+                "AssemblyVersion": "1.1.1.4",
                 "Description": "支持物品价格查询、商店购买与兑换位置查找、库存追踪、食物/药品期望计算、物品监控预警自动补货、传送以及坐骑/宠物/发型/绘画作品的悬浮窗预览等等。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Resources/%E5%9B%BE%E6%A0%87.png",
                 "RepoUrl": "https://github.com/YouShux/DalamudPlugins/blob/main/Plugins/Omni%20Toolbox/Omni%20Toolbox.zip",
-                "LastUpdate": 1788228019,
+                "LastUpdate": 1788405393,
                 "is_closed_source": true
             }
         ]
