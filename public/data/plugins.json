@@ -1048,12 +1048,12 @@
                 "Author": "Airi Tsukino",
                 "Name": "AirTablet",
                 "InternalName": "AirTablet",
-                "AssemblyVersion": "1.1.0.3",
+                "AssemblyVersion": "1.1.0.4",
                 "Description": "A modern tablet OS for Airi's venue apps.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/AiriTsukino/AirTablet/main/AirTablet/Resources/ATLogo.png",
                 "RepoUrl": "https://github.com/AiriTsukino/AirTablet",
-                "LastUpdate": 1788319124,
+                "LastUpdate": 1788425181,
                 "is_ai_attributed": true
             },
             {
@@ -1140,7 +1140,7 @@
                 "Author": "Airi Tsukino",
                 "Name": "AirTablet",
                 "InternalName": "AirTablet",
-                "AssemblyVersion": "1.1.0.3",
+                "AssemblyVersion": "1.1.0.4",
                 "Description": "A modern tablet OS for Airi's venue apps.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/AiriTsukino/AirTablet/main/AirTablet/Resources/ATLogo.png",
@@ -1485,12 +1485,12 @@
                 "Author": "Akl",
                 "Name": "Macro Shelf-A",
                 "InternalName": "MacroShelfA",
-                "AssemblyVersion": "0.3.1.0",
+                "AssemblyVersion": "0.3.2.0",
                 "Description": "在独立窗口中集中保存、搜索、分组、排序并执行多行 FF14 宏命令，支持延时、中止和配置持久化。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/MacroShelfA/main/icon.png",
                 "RepoUrl": "https://github.com/Alittlerecallinglittlebrother/MacroShelfA",
-                "LastUpdate": 1787314316
+                "LastUpdate": 1788417465
             }
         ]
     },
@@ -2273,11 +2273,11 @@
                 "Author": "Arceuid731; based on FFXIV-CombatReborn/BossmodReborn",
                 "Name": "Foretell",
                 "InternalName": "Foretell",
-                "AssemblyVersion": "0.8.0.0",
+                "AssemblyVersion": "0.8.2.0",
                 "Description": "Adaptive encounter intelligence built on BossMod Reborn. Learns mechanics locally and renders predictive world/radar/text guidance while preserving BMR.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Arceuid731/Foretell",
-                "LastUpdate": 1788385911
+                "LastUpdate": 1788425653
             }
         ]
     },
@@ -4284,7 +4284,7 @@
                 "Author": "ChanceRain",
                 "Name": "Mortal MJ",
                 "InternalName": "MortalMJPlugin",
-                "AssemblyVersion": "1.0.0.19",
+                "AssemblyVersion": "1.0.0.22",
                 "Description": "FFXIV 国服「多玛方城战」麻将 AI 辅助插件，基于 Mortal AI 提供实时打牌建议与自动化（自动出牌/吃碰杠荣和/看整桌）。需要额外配置 Mortal AI 环境，详见仓库 README。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ChanceRain0108/DalamudPlugins/main/icon.png",
@@ -7000,12 +7000,12 @@
                 "Author": "Elpa",
                 "Name": "Plugin JP Helper",
                 "InternalName": "PluginJPHelper",
-                "AssemblyVersion": "0.2.0.0",
+                "AssemblyVersion": "0.3.0.0",
                 "Description": "Dalamudプラグインの表示文字列を日本語化する補助プラグインです。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/elpapityo/PluginJPHelper/main/assets/PluginJPHelper.png",
                 "RepoUrl": "https://github.com/elpapityo/PluginJPHelper",
-                "LastUpdate": 1788412267
+                "LastUpdate": 1788434840
             }
         ]
     },
@@ -7663,7 +7663,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1788344367
+                "LastUpdate": 1788431348
             }
         ]
     },
@@ -7867,12 +7867,12 @@
                 "Author": "mirage",
                 "Name": "Oracle",
                 "InternalName": "Oracle",
-                "AssemblyVersion": "1.0.6.0",
+                "AssemblyVersion": "1.1.0.0",
                 "Description": "Shows mitigation and skill timing cues as a timeline overlay. Matches zone, job, and scene; starts on countdown (-N) or combat.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/exatrines/Oracle/main/Oracle/Data/plugin-icon.png",
                 "RepoUrl": "https://github.com/exatrines/Oracle",
-                "LastUpdate": 1788158313
+                "LastUpdate": 1788423751
             },
             {
                 "Author": "mirage",
@@ -10068,6 +10068,24 @@
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/hu1j1233/Questionable",
                 "LastUpdate": 1784268708
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "HuntHelperEvolved",
+        "repo_url": "https://raw.githubusercontent.com/HuntHelperEvolved/HuntHelperEvolved/main/repo.json",
+        "repo_source_url": "https://github.com/HuntHelperEvolved/HuntHelperEvolved",
+        "repo_name": "HuntHelperEvolved",
+        "plugins": [
+            {
+                "Author": "MusicManBowls, kihtli",
+                "Name": "Hunt Helper Evolved",
+                "InternalName": "HuntHelperEvolved",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "Hunt tracking for FFXIV. Detects marks and records a train with exact kill times, posts Discord reports sorted by the order marks actually died, draws spawn points, your detection range and SS event locations on the in-game map, counts S-rank trigger mobs, and keeps a lifetime per-mark kill tally per character.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://raw.githubusercontent.com/HuntHelperEvolved/HuntHelperEvolved/main/repo.json",
+                "LastUpdate": 1788438031
             }
         ]
     },
@@ -12894,11 +12912,11 @@
                 "Author": "kittenhaswares-ui",
                 "Name": "Seiton Sense",
                 "InternalName": "SeitonSense.Plugin",
-                "AssemblyVersion": "0.44.0.3",
+                "AssemblyVersion": "0.44.0.4",
                 "Description": "A local PvP HUD with exact native-nameplate cues, LB activation and damage notifications, pressure and CC awareness, a bounded Purify-first held-action scheduler, Smart Target and assist macros, local MP sounds, survival/job helpers, team communication, and target highlights.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kittenhaswares-ui/SeitonSense",
-                "LastUpdate": 1788374918
+                "LastUpdate": 1788418390
             }
         ]
     },
@@ -13213,12 +13231,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.3.31",
+                "AssemblyVersion": "15.306.3.32",
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1788393166,
+                "LastUpdate": 1788427443,
                 "is_ai_attributed": true
             },
             {
@@ -13241,7 +13259,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1788175181
+                "LastUpdate": 1788438144
             }
         ]
     },
@@ -15486,12 +15504,12 @@
                 "Author": "DhogGPT",
                 "Name": "AI Duty Solver",
                 "InternalName": "ADS",
-                "AssemblyVersion": "0.8.1.1",
+                "AssemblyVersion": "0.9.0.2",
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/ADS/main/ADS/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1788307692
+                "LastUpdate": 1788410004
             },
             {
                 "Author": "DhogGPT",
@@ -15691,6 +15709,39 @@
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
                 "LastUpdate": 1788214748,
                 "is_ai_attributed": true
+            },
+            {
+                "Author": "XA",
+                "Name": "XA Database",
+                "InternalName": "XADatabase",
+                "AssemblyVersion": "0.0.0.40",
+                "Description": "Parser of all databases.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Database/master/XADatabase/images/icon.png",
+                "RepoUrl": "https://github.com/xa-io/XA-Database",
+                "LastUpdate": 1786144172
+            },
+            {
+                "Author": "XA",
+                "Name": "XA HUD Navigator",
+                "InternalName": "XAHudNavigator",
+                "AssemblyVersion": "0.0.0.8",
+                "Description": "Finding stuff is hard.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-HUD-Navigator/main/XAHudNavigator/images/icon.png",
+                "RepoUrl": "https://github.com/xa-io/XA-HUD-Navigator",
+                "LastUpdate": 1786144175
+            },
+            {
+                "Author": "XA",
+                "Name": "XA Slave",
+                "InternalName": "XASlave",
+                "AssemblyVersion": "0.0.0.43",
+                "Description": "Don't manual.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Slave/master/XASlave/images/icon.png",
+                "RepoUrl": "https://github.com/xa-io/XA-Slave",
+                "LastUpdate": 1786144179
             }
         ],
         "repo_discord_url": "https://discord.gg/g2NmYxPQCa"
@@ -16141,12 +16192,12 @@
                 "Author": "miqote69",
                 "Name": "Actor Morpher",
                 "InternalName": "ActorMorpher",
-                "AssemblyVersion": "0.0.0.48",
+                "AssemblyVersion": "0.0.0.49",
                 "Description": "Locally changes visible actors into selected NPC, demihuman, or monster forms. Use /actormorpher to open the window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/miqote69/ActorMorpher/main/images/icon-v18.png",
                 "RepoUrl": "https://github.com/miqote69/ActorMorpher",
-                "LastUpdate": 1788057834,
+                "LastUpdate": 1788428409,
                 "is_ai_attributed": true
             }
         ]
@@ -16988,12 +17039,12 @@
                 "Author": "naco-ff14",
                 "Name": "AltMate",
                 "InternalName": "AltMate",
-                "AssemblyVersion": "1.58.9.0",
+                "AssemblyVersion": "1.60.1.0",
                 "Description": "AltMate supports multiple FFXIV clients running on the same PC. It provides linked controls, housing tracking, Penumbra emote playback, and shared gil summaries. Data stays on the local PC. Japanese and English UI are supported.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/naco-ff14/AltMate/main/images/icon.png",
                 "RepoUrl": "https://github.com/naco-ff14/AltMate",
-                "LastUpdate": 1788346500
+                "LastUpdate": 1788424958
             }
         ]
     },
@@ -19273,11 +19324,11 @@
                 "Author": "okaminico (based on ffxiv-tc-port's fork of liza/Questionable)",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "7.15.0.5",
+                "AssemblyVersion": "7.15.0.6",
                 "Description": "自動接取並完成任務，使用 navmesh 自動走路到任務座標並嘗試自動完成沿路的步驟(不含副本、單人任務、戰鬥)。\n\n本版本修正了「卡住時自動重新整理任務步驟」功能，新增「連續中斷重試 3 次後主動傳送到最近的大水晶」，並把移動卡住的反應時間從寫死 5 秒改成可調、預設 2.5 秒，避免長時間原地跑步被看到。",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/okaminico/Questionable-1",
-                "LastUpdate": 1788410093,
+                "LastUpdate": 1788424534,
                 "is_ai_attributed": true
             }
         ]
@@ -20824,12 +20875,12 @@
                 "Author": "TF",
                 "Name": "GlamSource",
                 "InternalName": "GlamSource",
-                "AssemblyVersion": "1.0.1.0",
+                "AssemblyVersion": "1.0.9.0",
                 "Description": "Zeigt Herkunft von Glams und Mounts in FFXIV an.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Primov1x/GlamSource/main/images/icon.png",
                 "RepoUrl": "https://github.com/Primov1x/GlamSource",
-                "LastUpdate": 1788387682,
+                "LastUpdate": 1788434968,
                 "is_ai_attributed": true
             }
         ]
@@ -21327,12 +21378,12 @@
                 "Author": "the Puni.sh Quest Squad",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.3.31",
+                "AssemblyVersion": "15.306.3.32",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1788393166,
+                "LastUpdate": 1788427443,
                 "is_ai_attributed": true
             },
             {
@@ -21366,7 +21417,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1788175181
+                "LastUpdate": 1788438144
             },
             {
                 "Author": "daemitus, croizat",
@@ -25879,12 +25930,12 @@
                 "Author": "白泉澈",
                 "Name": "AutoHunt",
                 "InternalName": "AutoHunt",
-                "AssemblyVersion": "2.0.8.0",
+                "AssemblyVersion": "2.0.9.0",
                 "Description": "自动狩猎（狩猎车）助手：右键聊天玩家名设为车头；自动解析车头在任何频道发送的坐标，自动打开地图插旗；跨图或远距离自动传送到最近水晶；上坐骑后执行 /vnav flyflag 飞向旗标（可选 IPC 直接寻路）；到达后自动选中狩猎怪（基于 NotoriousMonster 数据表识别 A/S 级），血量低于阈值自动下坐骑并 /rotation Manual 输出，目标死亡自动关闭；每击杀 N 只怪自动切换副本区。依赖：vnavmesh、RotationSolver、Lifestream、Teleporter。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ShiraisumiKiyoshi/AutoHunt/main/dist/images/icon.png",
                 "RepoUrl": "https://github.com/ShiraisumiKiyoshi/AutoHunt",
-                "LastUpdate": 1787658592
+                "LastUpdate": 1788438384
             }
         ]
     },
@@ -26437,6 +26488,24 @@
         ]
     },
     {
+        "repo_developer_name": "Soluspsism",
+        "repo_url": "https://raw.githubusercontent.com/Soluspsism/MSBT/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/Soluspsism/MSBT",
+        "repo_name": "MSBT",
+        "plugins": [
+            {
+                "Author": "Soluspsism",
+                "Name": "MSBT",
+                "InternalName": "MSBT",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "AAA-tier custom scrolling combat text and WeakAuras-style trackers.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Soluspsism/MSBT",
+                "LastUpdate": 1725350000
+            }
+        ]
+    },
+    {
         "repo_developer_name": "SomethingAstraSomething",
         "repo_url": "https://raw.githubusercontent.com/SomethingAstraSomething/PinkChocoboTrivial/master/repo.json",
         "repo_source_url": "https://github.com/SomethingAstraSomething/PinkChocoboTrivial",
@@ -26484,12 +26553,12 @@
                 "Author": "SorenWolfe",
                 "Name": "Miyagi",
                 "InternalName": "Miyagi",
-                "AssemblyVersion": "0.1.7.0",
+                "AssemblyVersion": "0.3.0.0",
                 "Description": "Learn your rotation instead of following a highlight. Shows the next button, then waits for you to hesitate, then says nothing until you get one wrong — and when the pull ends it tells you what it actually cost: uptime, casts you cancelled by moving, cooldowns you held too long. Black Mage at level 100, built from the Balance guide and checked against savage cast logs.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/sorenwolfe/Miyagi/main/images/icon.png",
                 "RepoUrl": "https://github.com/sorenwolfe/Miyagi",
-                "LastUpdate": 1788413559
+                "LastUpdate": 1788422373
             }
         ]
     },
@@ -26552,12 +26621,12 @@
                 "Author": "SorenWolfe",
                 "Name": "Miyagi",
                 "InternalName": "Miyagi",
-                "AssemblyVersion": "0.1.7.0",
+                "AssemblyVersion": "0.3.0.0",
                 "Description": "Learn your rotation instead of following a highlight. Shows the next button, then waits for you to hesitate, then says nothing until you get one wrong — and when the pull ends it tells you what it actually cost: uptime, casts you cancelled by moving, cooldowns you held too long. Black Mage at level 100, built from the Balance guide and checked against savage cast logs.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/sorenwolfe/Miyagi/main/images/icon.png",
                 "RepoUrl": "https://github.com/sorenwolfe/Miyagi",
-                "LastUpdate": 1788413559
+                "LastUpdate": 1788422373
             },
             {
                 "Author": "SorenWolfe",
@@ -28723,7 +28792,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Valiice/SpotifyHonorific/master/images/icon.png",
                 "RepoUrl": "https://github.com/Valiice/SpotifyHonorific",
-                "LastUpdate": 1786959171,
+                "LastUpdate": 1788438421,
                 "is_ai_attributed": true
             }
         ]
@@ -29327,11 +29396,11 @@
                 "Author": "wenliang110",
                 "Name": "TreasureHunt",
                 "InternalName": "TreasureHunt",
-                "AssemblyVersion": "0.3.9.0",
+                "AssemblyVersion": "0.4.0.0",
                 "Description": "支持陈旧的卡冈图亚革地图 (G18) 自动购买、解读、传送、导航、挖掘、进洞、下一层交互及 TP 钱袋子奖励房自动收集。模块化设计，配合 vnavmesh 导航及其他战斗插件实现全流程自动化。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/wenliang110/TreasureHunt",
-                "LastUpdate": 1788414011
+                "LastUpdate": 1788418041
             }
         ]
     },
@@ -30681,12 +30750,12 @@
                 "Author": "youdianfengbao (基于 PunishXIV/Questionable)",
                 "Name": "Questionable (国服汉化)",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.3.30",
+                "AssemblyVersion": "15.306.3.32",
                 "Description": "国服汉化版自动任务插件，基于 PunishXIV/Questionable。可在尽可能的情况下自动完成游戏任务。\n所需插件：vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://qstxiv.github.io/icons/Questionable.png",
                 "RepoUrl": "https://github.com/youdianfengbao/Questionable",
-                "LastUpdate": 1788355594,
+                "LastUpdate": 1788417561,
                 "is_ai_attributed": true
             },
             {
@@ -30767,19 +30836,19 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Macro%20Redirection/cursor_hr1.png",
                 "RepoUrl": "https://github.com/YouShux/DalamudPlugins/blob/main/Plugins/Macro%20Redirection/Macro%20Redirection.zip",
-                "LastUpdate": 1788405393,
+                "LastUpdate": 1788416651,
                 "is_closed_source": true
             },
             {
                 "Author": "YouShu",
                 "Name": "Omni Toolbox",
                 "InternalName": "OmniToolbox",
-                "AssemblyVersion": "1.1.1.4",
+                "AssemblyVersion": "1.1.1.5",
                 "Description": "支持物品价格查询、商店购买与兑换位置查找、库存追踪、食物/药品期望计算、物品监控预警自动补货、传送以及坐骑/宠物/发型/绘画作品的悬浮窗预览等等。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Resources/%E5%9B%BE%E6%A0%87.png",
                 "RepoUrl": "https://github.com/YouShux/DalamudPlugins/blob/main/Plugins/Omni%20Toolbox/Omni%20Toolbox.zip",
-                "LastUpdate": 1788405393,
+                "LastUpdate": 1788416651,
                 "is_closed_source": true
             }
         ]
