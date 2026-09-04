@@ -88,18 +88,18 @@
                 "Description": "Discord Activity Honorific with Spotify Web API fallback for Spotify local files.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/420Dasher/DAH-LocalTrackSupport",
-                "LastUpdate": 1788481004
+                "LastUpdate": 1788501409
             },
             {
                 "Author": "Dash + AI",
                 "Name": "SpotifyTrackHonorific",
                 "InternalName": "SpotifyTrackHonorific",
-                "AssemblyVersion": "1.0.4.0",
+                "AssemblyVersion": "1.0.5.0",
                 "Description": "Shows your current Spotify track as an Honorific title, including local files, formatting, cleanup, styling, supporter effects, and reliability handling.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/420Dasher/DAH-LocalTrackSupport/main/SpotifyTrackHonorific/images/icon.png",
                 "RepoUrl": "https://github.com/420Dasher/DAH-LocalTrackSupport",
-                "LastUpdate": 1788481004
+                "LastUpdate": 1788501409
             }
         ]
     },
@@ -560,7 +560,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Aether-Tools/CustomizePlus/main/Data/icon.png",
                 "RepoUrl": "https://github.com/Aether-Tools/CustomizePlus",
-                "LastUpdate": 1784141916
+                "LastUpdate": 1788487678
             }
         ]
     },
@@ -579,7 +579,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Aether-Tools/CustomizePlus/main/Data/icon.png",
                 "RepoUrl": "https://github.com/Aether-Tools/CustomizePlus",
-                "LastUpdate": 1784141916
+                "LastUpdate": 1788487678
             }
         ]
     },
@@ -1049,12 +1049,12 @@
                 "Author": "Airi Tsukino",
                 "Name": "AirTablet",
                 "InternalName": "AirTablet",
-                "AssemblyVersion": "1.1.0.7",
+                "AssemblyVersion": "1.1.0.8",
                 "Description": "A modern tablet OS for Airi's venue apps.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/AiriTsukino/AirTablet/main/AirTablet/Resources/ATLogo.png",
                 "RepoUrl": "https://github.com/AiriTsukino/AirTablet",
-                "LastUpdate": 1788476216,
+                "LastUpdate": 1788498911,
                 "is_ai_attributed": true
             },
             {
@@ -1141,7 +1141,7 @@
                 "Author": "Airi Tsukino",
                 "Name": "AirTablet",
                 "InternalName": "AirTablet",
-                "AssemblyVersion": "1.1.0.7",
+                "AssemblyVersion": "1.1.0.8",
                 "Description": "A modern tablet OS for Airi's venue apps.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/AiriTsukino/AirTablet/main/AirTablet/Resources/ATLogo.png",
@@ -1712,12 +1712,12 @@
                 "Author": "Angelways",
                 "Name": "OCNFarmer",
                 "InternalName": "NorthIslandChestPlugin",
-                "AssemblyVersion": "1.9.6.0",
+                "AssemblyVersion": "1.9.7.0",
                 "Description": "蜃景幻界新月岛 北征之章全自动战斗与寻宝流程",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Angelways/OCNFarmer/main/icon.png",
                 "RepoUrl": "https://github.com/Angelways/OCNFarmer",
-                "LastUpdate": 1788456080
+                "LastUpdate": 1788488673
             }
         ]
     },
@@ -2009,7 +2009,7 @@
                 "Author": "Anomaly",
                 "Name": "Friend Login Notifier",
                 "InternalName": "FriendLoginNotifier",
-                "AssemblyVersion": "1.1.0.0",
+                "AssemblyVersion": "1.1.1.0",
                 "Description": "Monitors the FFXIV friends list and prints a chat notification when a friend changes from offline to online after the list updates.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/anomalousgamer/FriendLoginNotifier/master/icon.png",
@@ -4966,6 +4966,18 @@
                 "is_ai_attributed": true
             },
             {
+                "Author": "dajoey",
+                "Name": "LazyCrafter",
+                "InternalName": "LazyCrafter",
+                "AssemblyVersion": "0.0.0.0",
+                "Description": "Catalogs every recipe you can craft, buckets them by how much effort the missing materials take, prices them with Universalis, and hands the missing-material work to Artisan / GBR / ARC / Lifestream.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/dajoey/lalalazy/main/LalaImages/lazycrafter-icon.png",
+                "RepoUrl": "https://github.com/dajoey/lalalazy/tree/main/src/LazyCrafter",
+                "LastUpdate": 1788495251,
+                "is_ai_attributed": true
+            },
+            {
                 "Author": "Blackcatz1911, dajoey",
                 "Name": "Lazy Currency Spender",
                 "InternalName": "LazyCurrencySpender",
@@ -5726,11 +5738,11 @@
                 "Author": "deserokk",
                 "Name": "DeserokUtils",
                 "InternalName": "DeserokUtils",
-                "AssemblyVersion": "1.22.1.0",
+                "AssemblyVersion": "1.22.3.0",
                 "Description": "Small quality-of-life utilities, one feature per tab.\n\nCastWatch: gate a macro line on whether an action actually went off. Arm a watch above the /ac, then /ifwatch runs your line only if the action was accepted -- or cancels the macro if it was not. Works for instant casts, oGCDs and usable items, none of which produce a cast bar to observe. Optional target filters (--self, --notself, --party) and a {who} token that fills in whoever actually received it, which a vanilla macro cannot do.\n\nIt never composes or sends anything on your behalf; it only runs or suppresses a line you already wrote.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/deserokk/DeserokUtils",
-                "LastUpdate": 1788481004,
+                "LastUpdate": 1788484309,
                 "is_ai_attributed": true
             },
             {
@@ -5775,11 +5787,11 @@
                 "Author": "deserokk",
                 "Name": "DeserokUtils",
                 "InternalName": "DeserokUtils",
-                "AssemblyVersion": "1.22.1.0",
+                "AssemblyVersion": "1.22.3.0",
                 "Description": "Small quality-of-life utilities, one feature per tab.\n\nCastWatch: gate a macro line on whether an action actually went off. Arm a watch above the /ac, then /ifwatch runs your line only if the action was accepted -- or cancels the macro if it was not. Works for instant casts, oGCDs and usable items, none of which produce a cast bar to observe. Optional target filters (--self, --notself, --party) and a {who} token that fills in whoever actually received it, which a vanilla macro cannot do.\n\nIt never composes or sends anything on your behalf; it only runs or suppresses a line you already wrote.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/deserokk/DeserokUtils",
-                "LastUpdate": 1788481004,
+                "LastUpdate": 1788484309,
                 "is_ai_attributed": true
             }
         ]
@@ -7012,12 +7024,12 @@
                 "Author": "Elpa",
                 "Name": "Plugin JP Helper",
                 "InternalName": "PluginJPHelper",
-                "AssemblyVersion": "0.3.1.0",
+                "AssemblyVersion": "0.3.3.0",
                 "Description": "Dalamudプラグインの表示文字列を日本語化する補助プラグインです。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/elpapityo/PluginJPHelper/main/assets/PluginJPHelper.png",
                 "RepoUrl": "https://github.com/elpapityo/PluginJPHelper",
-                "LastUpdate": 1788473274
+                "LastUpdate": 1788503159
             }
         ]
     },
@@ -7708,11 +7720,11 @@
                 "Author": "Etupa",
                 "Name": "EmoteGrid",
                 "InternalName": "EmoteGrid",
-                "AssemblyVersion": "1.3.0.0",
+                "AssemblyVersion": "1.3.1.0",
                 "Description": "A standalone plugin providing a scalable ImGui grid for emotes.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Etupa/EmoteGrid",
-                "LastUpdate": 1788450637,
+                "LastUpdate": 1788502180,
                 "is_ai_attributed": true
             },
             {
@@ -7738,12 +7750,12 @@
                 "Author": "Etupa",
                 "Name": "EmoteGrid",
                 "InternalName": "EmoteGrid",
-                "AssemblyVersion": "1.3.0.0",
+                "AssemblyVersion": "1.3.1.0",
                 "Description": "A standalone plugin providing a scalable ImGui grid for emotes.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etupa/EmoteGrid/master/icon.png",
                 "RepoUrl": "https://github.com/Etupa/EmoteGrid",
-                "LastUpdate": 1788450637,
+                "LastUpdate": 1788502180,
                 "is_ai_attributed": true
             }
         ]
@@ -8197,7 +8209,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1787878093
+                "LastUpdate": 1788503372
             },
             {
                 "Author": "Churin",
@@ -9668,7 +9680,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/LeveHelper/refs/heads/main/LeveHelper/Assets/Icon.png",
                 "RepoUrl": "https://github.com/Haselnussbomber/LeveHelper",
-                "LastUpdate": 1788453445
+                "LastUpdate": 1788481411
             }
         ]
     },
@@ -13244,12 +13256,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.3.32",
+                "AssemblyVersion": "15.306.3.34",
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1788427443,
+                "LastUpdate": 1788495931,
                 "is_ai_attributed": true
             },
             {
@@ -13261,7 +13273,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1787878093
+                "LastUpdate": 1788503372
             },
             {
                 "Author": "Team Wrath",
@@ -13272,7 +13284,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1788438144
+                "LastUpdate": 1788440598
             }
         ]
     },
@@ -15003,12 +15015,12 @@
                 "Author": "Mayo Botic",
                 "Name": "AutoRezzer",
                 "InternalName": "AutoRezzer",
-                "AssemblyVersion": "1.1.0.0",
+                "AssemblyVersion": "1.4.0.0",
                 "Description": "Raises dead players around you, and accepts raises cast on you.\n\nRequires Rotation Solver Reborn - add the Combat Reborn repository:\nhttps://raw.githubusercontent.com/FFXIV-CombatReborn/CombatRebornRepo/main/pluginmaster.json\n\nOne switch. Anyone in range who needs a raise gets one, Swiftcast first. In Occult Crescent it uses Occult Raise or Revive instead, which work on any job. It pauses your rotation only for the cast, and won't start one below 2400 MP.\n\nBuilt for Occult Crescent and FATEs.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Marobotic/PfPresets/main/repo/AutoRezzer-icon.png",
                 "RepoUrl": "https://github.com/Marobotic/AutoRezzer",
-                "LastUpdate": 1787968203
+                "LastUpdate": 1788498400
             },
             {
                 "Author": "Mayo Botic",
@@ -15030,7 +15042,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Marobotic/PfPresets/main/images/icon.png",
                 "RepoUrl": "https://github.com/Marobotic/PfPresets",
-                "LastUpdate": 1788305601,
+                "LastUpdate": 1788498390,
                 "is_closed_source": true,
                 "is_ai_attributed": true
             }
@@ -16269,6 +16281,24 @@
                 "IconUrl": "https://raw.githubusercontent.com/miqote69/MinionScalerRepo/main/Assets/icon-v3.png",
                 "RepoUrl": "https://github.com/miqote69/MinionScalerRepo",
                 "LastUpdate": 1785489481
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Miraco33",
+        "repo_url": "https://raw.githubusercontent.com/Miraco33/seasonal-event/main/repo.json",
+        "repo_source_url": "https://github.com/Miraco33/seasonal-event",
+        "repo_name": "seasonal-event",
+        "plugins": [
+            {
+                "Author": "Miraco33",
+                "Name": "Seasonal Event",
+                "InternalName": "seasonalevent",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "国服 Final Fantasy XIV 游戏内季节活动提醒。支持每日提醒、任务与成就完成判断、任务地图旗标、奖励信息和离线缓存。当前为尚未完成游戏内验收的初始测试版。",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Miraco33/seasonal-event",
+                "LastUpdate": 1788491536
             }
         ]
     },
@@ -17600,7 +17630,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/NeXzRo/Stuff/main/BetterTargetingSystemPvP/icon.png",
                 "RepoUrl": "https://github.com/NeXzRo/BetterTargetingSystem",
-                "LastUpdate": 1787977976
+                "LastUpdate": 1788400020
             },
             {
                 "Author": "goat, Maple",
@@ -18442,12 +18472,12 @@
                 "Author": "091",
                 "Name": "SpeedRadiusPlugin",
                 "InternalName": "SpeedRadiusPlugin",
-                "AssemblyVersion": "1.4.3.336",
+                "AssemblyVersion": "1.4.3.338",
                 "Description": "给宝宝写的移速挂。使用方法：游戏内输入 /sr 打开配置窗口。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/nihil-string/simple-Tool-dist/main/icon.png",
                 "RepoUrl": "https://github.com/nihil-string/simple-Tool-dist",
-                "LastUpdate": 1787596416
+                "LastUpdate": 1788491004
             }
         ]
     },
@@ -19998,7 +20028,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Aether-Tools/CustomizePlus/main/Data/icon.png",
                 "RepoUrl": "https://github.com/Aether-Tools/CustomizePlus",
-                "LastUpdate": 1784141916
+                "LastUpdate": 1788487678
             },
             {
                 "Author": "NightmareXIV, AsunaTsuki",
@@ -20943,12 +20973,12 @@
                 "Author": "TF",
                 "Name": "GlamSource",
                 "InternalName": "GlamSource",
-                "AssemblyVersion": "1.0.41.0",
+                "AssemblyVersion": "1.0.45.0",
                 "Description": "Zeigt Herkunft von Glams und Mounts in FFXIV an.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Primov1x/GlamSource/main/images/icon.png",
                 "RepoUrl": "https://github.com/Primov1x/GlamSource",
-                "LastUpdate": 1788473739,
+                "LastUpdate": 1788504180,
                 "is_ai_attributed": true
             }
         ]
@@ -21446,12 +21476,12 @@
                 "Author": "the Puni.sh Quest Squad",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.3.32",
+                "AssemblyVersion": "15.306.3.34",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1788427443,
+                "LastUpdate": 1788495931,
                 "is_ai_attributed": true
             },
             {
@@ -21474,7 +21504,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/10",
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1787789909
+                "LastUpdate": 1788486501
             },
             {
                 "Author": "Team Wrath",
@@ -23339,6 +23369,25 @@
         ]
     },
     {
+        "repo_developer_name": "RaylaPetal",
+        "repo_url": "https://raw.githubusercontent.com/RaylaPetal/xiv-collar/master/repo.json",
+        "repo_source_url": "https://github.com/RaylaPetal/xiv-collar",
+        "repo_name": "xiv-collar",
+        "plugins": [
+            {
+                "Author": "Rayla Petal",
+                "Name": "Collar System",
+                "InternalName": "CollarSystem.Plugin",
+                "AssemblyVersion": "0.0.0.1",
+                "Description": "A consent-based collar control plugin. An Owner sends outfit, title, gesture, and follow/leash commands as ordinary in-game tells - no server, no hosting; the Sub's own client watches for them and applies them locally via Glamourer, Honorific, and Penumbra, and existing sync tooling propagates the result to everyone paired with the Sub.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/raylapetal/xiv-collar",
+                "LastUpdate": 1788478395,
+                "is_ai_attributed": true
+            }
+        ]
+    },
+    {
         "repo_developer_name": "reckhou",
         "repo_url": "https://raw.githubusercontent.com/reckhou/BardToolbox-Release/refs/heads/master/pluginmaster.json",
         "repo_source_url": "https://github.com/reckhou/BardToolbox-Release",
@@ -24792,6 +24841,25 @@
         ]
     },
     {
+        "repo_developer_name": "ryancan222",
+        "repo_url": "https://raw.githubusercontent.com/ryancan222/HelloWorldPlugin/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/ryancan222/HelloWorldPlugin",
+        "repo_name": "HelloWorldPlugin",
+        "plugins": [
+            {
+                "Author": "ryancan222",
+                "Name": "Hello World",
+                "InternalName": "HelloWorldPlugin",
+                "AssemblyVersion": "0.0.1.0",
+                "Description": "A minimal Dalamud plugin that opens a window saying \"Hello World\" - a starting point for future plugins. Toggle with /helloworld.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/ryancan222/HelloWorldPlugin",
+                "LastUpdate": 1788495855,
+                "is_ai_attributed": true
+            }
+        ]
+    },
+    {
         "repo_developer_name": "Rycko2",
         "repo_url": "https://raw.githubusercontent.com/Rycko2/AutoMeld/main/repo.json",
         "repo_source_url": "https://github.com/Rycko2/AutoMeld",
@@ -25857,14 +25925,14 @@
                 "Description": "自动隐藏怪物，避免干扰选中和战斗",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Shieldhelder/DalamudPlugins",
-                "LastUpdate": 1788368123,
+                "LastUpdate": 1788497193,
                 "is_closed_source": true
             },
             {
                 "Author": "croizat",
                 "Name": "Glamour Log",
                 "InternalName": "GlamourLog",
-                "AssemblyVersion": "15.67.10.0",
+                "AssemblyVersion": "15.67.11.0",
                 "Description": "A log for all your glamours and other glam-related tweaks",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/136",
@@ -25879,7 +25947,7 @@
                 "Description": "此插件在国际服确认会导致账号封禁\n请考虑清楚后决定是否使用\n下载后请于24小时内删除，因使用本资源造成的任何法律纠纷或损失，均由使用者自行承担\n\n\nPlugin to help farming DeepDungeon Hoards (...for you)",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Shieldhelder/DalamudPlugins",
-                "LastUpdate": 1788368123,
+                "LastUpdate": 1788497193,
                 "is_closed_source": true
             },
             {
