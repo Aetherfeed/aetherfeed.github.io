@@ -88,17 +88,18 @@
                 "Description": "Discord Activity Honorific with Spotify Web API fallback for Spotify local files.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/420Dasher/DAH-LocalTrackSupport",
-                "LastUpdate": 1788386465
+                "LastUpdate": 1788481004
             },
             {
                 "Author": "Dash + AI",
                 "Name": "SpotifyTrackHonorific",
                 "InternalName": "SpotifyTrackHonorific",
-                "AssemblyVersion": "1.0.0.0",
+                "AssemblyVersion": "1.0.4.0",
                 "Description": "Shows your current Spotify track as an Honorific title, including local files, formatting, cleanup, styling, supporter effects, and reliability handling.",
                 "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/420Dasher/DAH-LocalTrackSupport/main/SpotifyTrackHonorific/images/icon.png",
                 "RepoUrl": "https://github.com/420Dasher/DAH-LocalTrackSupport",
-                "LastUpdate": 1788386465
+                "LastUpdate": 1788481004
             }
         ]
     },
@@ -1048,12 +1049,12 @@
                 "Author": "Airi Tsukino",
                 "Name": "AirTablet",
                 "InternalName": "AirTablet",
-                "AssemblyVersion": "1.1.0.4",
+                "AssemblyVersion": "1.1.0.7",
                 "Description": "A modern tablet OS for Airi's venue apps.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/AiriTsukino/AirTablet/main/AirTablet/Resources/ATLogo.png",
                 "RepoUrl": "https://github.com/AiriTsukino/AirTablet",
-                "LastUpdate": 1788425181,
+                "LastUpdate": 1788476216,
                 "is_ai_attributed": true
             },
             {
@@ -1140,7 +1141,7 @@
                 "Author": "Airi Tsukino",
                 "Name": "AirTablet",
                 "InternalName": "AirTablet",
-                "AssemblyVersion": "1.1.0.4",
+                "AssemblyVersion": "1.1.0.7",
                 "Description": "A modern tablet OS for Airi's venue apps.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/AiriTsukino/AirTablet/main/AirTablet/Resources/ATLogo.png",
@@ -1537,7 +1538,17 @@
                 "Description": "An improved, responsive, and feature-rich friend list for Final Fantasy XIV.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AlmerisBE/Befriender",
-                "LastUpdate": 1788296972
+                "LastUpdate": 1788345307
+            },
+            {
+                "Author": "Almeris",
+                "Name": "RolePlayer",
+                "InternalName": "RolePlayer",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "An advanced emote manager and RP hotbar suite for Final Fantasy XIV. Features dynamic emote tracking based on active Penumbra mods, unlock source lookups, custom tagging/grouping, and responsive floating hotbars.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/AlmerisBE/RolePlayer",
+                "LastUpdate": 1788482793
             }
         ]
     },
@@ -1998,11 +2009,12 @@
                 "Author": "Anomaly",
                 "Name": "Friend Login Notifier",
                 "InternalName": "FriendLoginNotifier",
-                "AssemblyVersion": "1.0.0.0",
+                "AssemblyVersion": "1.1.0.0",
                 "Description": "Monitors the FFXIV friends list and prints a chat notification when a friend changes from offline to online after the list updates.",
                 "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/anomalousgamer/FriendLoginNotifier/master/icon.png",
                 "RepoUrl": "https://github.com/anomalousgamer/FriendLoginNotifier",
-                "LastUpdate": 1788396597
+                "LastUpdate": 1788476065
             }
         ]
     },
@@ -2273,11 +2285,11 @@
                 "Author": "Arceuid731; based on FFXIV-CombatReborn/BossmodReborn",
                 "Name": "Foretell",
                 "InternalName": "Foretell",
-                "AssemblyVersion": "0.8.6.0",
+                "AssemblyVersion": "0.9.0.0",
                 "Description": "Adaptive encounter intelligence built on BossMod Reborn. Learns mechanics locally and renders predictive world/radar/text guidance while preserving BMR.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Arceuid731/Foretell",
-                "LastUpdate": 1788460453
+                "LastUpdate": 1788475902
             }
         ]
     },
@@ -2474,12 +2486,12 @@
                 "Author": "ashdam",
                 "Name": "Gubal Library",
                 "InternalName": "GubalLibrary",
-                "AssemblyVersion": "0.4.1.1",
+                "AssemblyVersion": "0.5.0.1",
                 "Description": "THE PLUGIN SHIPS EMPTY. It contains no translations. Installing it changes nothing: until you load a corpus, the game reads exactly as it always did.\n\nWhat it is, is a lookup engine. It loads a corpus file, matches what is on screen against it, and injects the result. It makes no network calls of any kind -- nothing is sent anywhere, and nothing is translated at runtime.\n\nYOU BRING THE CORPUS, and this project does not distribute one. The translations are somebody's separate work. Either use a corpus the community has published for your language, or build your own: the file format is documented in full so that starting from nothing is a real option, for any locale.\n\nThere is a self-test bundled -- two lines from one NPC, so you can tell a correct install from a broken one. Talk to Ahldskyf on the pier in Limsa Lominsa Lower Decks and they come out as Hello World. That is a smoke test, not content, and the settings window stays red for as long as it is all that is loaded.\n\nCoverage once you have a corpus: dialogue, quest text and cutscene speech (Talk), cutscene narration (TalkSubtitle), and speaker names. Battle callouts, speech balloons and the variant-dungeon banner are wired up but not yet characterised. This is a testing build -- please report problems on GitHub.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ashdam/gubal-library/main/images/icon.png",
                 "RepoUrl": "https://github.com/ashdam/gubal-library",
-                "LastUpdate": 1787679049,
+                "LastUpdate": 1788462241,
                 "is_ai_attributed": true
             }
         ]
@@ -3172,11 +3184,11 @@
                 "Author": "beerpsi",
                 "Name": "FF Logs Uploader",
                 "InternalName": "FFLogsUploaderPlugin",
-                "AssemblyVersion": "0.0.0.7",
+                "AssemblyVersion": "0.0.0.9",
                 "Description": "An alternative to the Archon App for uploading logs to the FF Logs service. Basic features are covered: uploading a log, splitting a log file, live logging.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/beer-psi/FFLogsUploaderPlugin",
-                "LastUpdate": 1786031575
+                "LastUpdate": 1788464318
             }
         ]
     },
@@ -5703,22 +5715,22 @@
                 "Author": "deserokk",
                 "Name": "DesCast",
                 "InternalName": "DesCast",
-                "AssemblyVersion": "0.4.5.0",
+                "AssemblyVersion": "0.5.0.0",
                 "Description": "Flat screens placed anywhere in a house, correctly hidden by walls and people. Shows an image or a rotating set, from your PC or a link, and a whole room of them can be shared with your Free Company from one file.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/deserokk/DesCast",
-                "LastUpdate": 1788371647,
+                "LastUpdate": 1788475775,
                 "is_ai_attributed": true
             },
             {
                 "Author": "deserokk",
                 "Name": "DeserokUtils",
                 "InternalName": "DeserokUtils",
-                "AssemblyVersion": "1.20.1.0",
+                "AssemblyVersion": "1.22.1.0",
                 "Description": "Small quality-of-life utilities, one feature per tab.\n\nCastWatch: gate a macro line on whether an action actually went off. Arm a watch above the /ac, then /ifwatch runs your line only if the action was accepted -- or cancels the macro if it was not. Works for instant casts, oGCDs and usable items, none of which produce a cast bar to observe. Optional target filters (--self, --notself, --party) and a {who} token that fills in whoever actually received it, which a vanilla macro cannot do.\n\nIt never composes or sends anything on your behalf; it only runs or suppresses a line you already wrote.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/deserokk/DeserokUtils",
-                "LastUpdate": 1788386560,
+                "LastUpdate": 1788481004,
                 "is_ai_attributed": true
             },
             {
@@ -5744,11 +5756,11 @@
                 "Author": "deserokk",
                 "Name": "DesCast",
                 "InternalName": "DesCast",
-                "AssemblyVersion": "0.4.5.0",
+                "AssemblyVersion": "0.5.0.0",
                 "Description": "Flat screens placed anywhere in a house, correctly hidden by walls and people. Shows an image or a rotating set, from your PC or a link, and a whole room of them can be shared with your Free Company from one file.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/deserokk/DesCast",
-                "LastUpdate": 1788371647,
+                "LastUpdate": 1788475775,
                 "is_ai_attributed": true
             }
         ]
@@ -5763,11 +5775,11 @@
                 "Author": "deserokk",
                 "Name": "DeserokUtils",
                 "InternalName": "DeserokUtils",
-                "AssemblyVersion": "1.17.0.0",
+                "AssemblyVersion": "1.22.1.0",
                 "Description": "Small quality-of-life utilities, one feature per tab.\n\nCastWatch: gate a macro line on whether an action actually went off. Arm a watch above the /ac, then /ifwatch runs your line only if the action was accepted -- or cancels the macro if it was not. Works for instant casts, oGCDs and usable items, none of which produce a cast bar to observe. Optional target filters (--self, --notself, --party) and a {who} token that fills in whoever actually received it, which a vanilla macro cannot do.\n\nIt never composes or sends anything on your behalf; it only runs or suppresses a line you already wrote.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/deserokk/DeserokUtils",
-                "LastUpdate": 1788033418,
+                "LastUpdate": 1788481004,
                 "is_ai_attributed": true
             }
         ]
@@ -7000,12 +7012,12 @@
                 "Author": "Elpa",
                 "Name": "Plugin JP Helper",
                 "InternalName": "PluginJPHelper",
-                "AssemblyVersion": "0.3.0.0",
+                "AssemblyVersion": "0.3.1.0",
                 "Description": "Dalamudプラグインの表示文字列を日本語化する補助プラグインです。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/elpapityo/PluginJPHelper/main/assets/PluginJPHelper.png",
                 "RepoUrl": "https://github.com/elpapityo/PluginJPHelper",
-                "LastUpdate": 1788434840
+                "LastUpdate": 1788473274
             }
         ]
     },
@@ -8114,12 +8126,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "BossMod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.5.69",
+                "AssemblyVersion": "7.5.5.70",
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1788444918
+                "LastUpdate": 1788475819
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -12423,12 +12435,12 @@
                 "Author": "Kei Joi",
                 "Name": "FFXIV Raffle 4 All",
                 "InternalName": "FFXIVRaffle4All",
-                "AssemblyVersion": "1.0.0.0",
+                "AssemblyVersion": "1.0.0.1",
                 "Description": "FFXIV Plugin for Running Raffles with a Wheel of Names Backend",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/KeiJoi/ffxivraffle4all/main/icon.png",
                 "RepoUrl": "https://github.com/KeiJoi/ffxivraffle4all",
-                "LastUpdate": 1768954810
+                "LastUpdate": 1788474035
             }
         ]
     },
@@ -12913,11 +12925,11 @@
                 "Author": "kittenhaswares-ui",
                 "Name": "Seiton Sense",
                 "InternalName": "SeitonSense.Plugin",
-                "AssemblyVersion": "0.44.0.4",
+                "AssemblyVersion": "0.44.0.5",
                 "Description": "A local PvP HUD with exact native-nameplate cues, LB activation and damage notifications, pressure and CC awareness, a bounded Purify-first held-action scheduler, Smart Target and assist macros, local MP sounds, survival/job helpers, team communication, and target highlights.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kittenhaswares-ui/SeitonSense",
-                "LastUpdate": 1788418390
+                "LastUpdate": 1788462331
             }
         ]
     },
@@ -13491,11 +13503,11 @@
                 "Author": "Arty",
                 "Name": "RollTracker",
                 "InternalName": "RollTracker",
-                "AssemblyVersion": "0.1.0.58",
+                "AssemblyVersion": "0.1.0.64",
                 "Description": "Reads chat messages, detects /random rolls, shows all rolls plus highest and lowest roll in a small ImGui window. Commands: /rolltracker, /rt.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/la1998/RollTracker",
-                "LastUpdate": 1788458901
+                "LastUpdate": 1788464148
             }
         ]
     },
@@ -20931,12 +20943,12 @@
                 "Author": "TF",
                 "Name": "GlamSource",
                 "InternalName": "GlamSource",
-                "AssemblyVersion": "1.0.23.0",
+                "AssemblyVersion": "1.0.41.0",
                 "Description": "Zeigt Herkunft von Glams und Mounts in FFXIV an.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Primov1x/GlamSource/main/images/icon.png",
                 "RepoUrl": "https://github.com/Primov1x/GlamSource",
-                "LastUpdate": 1788446457,
+                "LastUpdate": 1788473739,
                 "is_ai_attributed": true
             }
         ]
@@ -21936,7 +21948,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/163",
                 "RepoUrl": "https://github.com/OOFGamesss/MiniGamesEmporium",
-                "LastUpdate": 1788110862
+                "LastUpdate": 1788465141
             },
             {
                 "Author": "OOF Games",
@@ -25679,6 +25691,24 @@
         ]
     },
     {
+        "repo_developer_name": "sfy20001220-collab",
+        "repo_url": "https://raw.githubusercontent.com/sfy20001220-collab/simpleacr/main/dist/pluginmaster.json",
+        "repo_source_url": "https://github.com/sfy20001220-collab/simpleacr",
+        "repo_name": "simpleacr",
+        "plugins": [
+            {
+                "Author": "sfy20001220-collab",
+                "Name": "SimpleACR",
+                "InternalName": "SimpleACR",
+                "AssemblyVersion": "0.2.0.0",
+                "Description": "SimpleACR 是一个「教学用」的 FF14 自动循环（ACR）插件模板。\n\n它复刻了 AEAssist 的核心架构：职业循环 = 一张按优先级排列的技能表，\n引擎每帧自上而下求值，取第一条满足条件的技能执行。\n\n内置骑士（PLD）与战士（WAR）两份 7.x 循环示例，\n可直接在 Rotations/Jobs 下新增自己的职业循环。\n\n仅用于学习 Dalamud 插件开发，请自行承担使用风险。",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/sfy20001220-collab/simpleacr",
+                "LastUpdate": 1788462287
+            }
+        ]
+    },
+    {
         "repo_developer_name": "ShaalaXIV",
         "repo_url": "https://raw.githubusercontent.com/ShaalaXIV/AetherPress/main/repo.json",
         "repo_source_url": "https://github.com/ShaalaXIV/AetherPress",
@@ -26544,12 +26574,12 @@
                 "Author": "Solona",
                 "Name": "Proteus",
                 "InternalName": "Proteus",
-                "AssemblyVersion": "2608.330.0.0",
+                "AssemblyVersion": "2609.344.0.0",
                 "Description": "Headless overlay compositor for Penumbra. Discovers mods with a Proteus/ sidecar, composites their overlay textures in Penumbra priority order, and maintains a single managed mod at priority 999. No authoring UI — all work happens in external tools. Type /proteus to open the status window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://dl.solona.info/icon.png",
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1788233763,
+                "LastUpdate": 1788470063,
                 "is_ai_attributed": true
             }
         ]
@@ -29655,11 +29685,11 @@
                 "Author": "WildWolf",
                 "Name": "KillFeed",
                 "InternalName": "KillFeed",
-                "AssemblyVersion": "1.2.0",
+                "AssemblyVersion": "1.2.3",
                 "Description": "Ever wanted a kill feed ala Battlefield and Modern Warfare? Well now you can with KillFeed.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/wolfcomp/KillFeed",
-                "LastUpdate": 1777536762
+                "LastUpdate": 1788467009
             }
         ]
     },
@@ -30061,11 +30091,11 @@
                 "Author": "GUGU",
                 "Name": "新月岛撒娇罐",
                 "InternalName": "OccultPot",
-                "AssemblyVersion": "2.0.4.0",
+                "AssemblyVersion": "2.1.0.0",
                 "Description": "按勾选大区循环，每区北岛再南岛。打完或没中就退岛换下一处，原生服务器目的地锁定。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/xiaoxiaogugu/occult-pot",
-                "LastUpdate": 1788403117,
+                "LastUpdate": 1788471715,
                 "is_ai_attributed": true
             }
         ]
@@ -30339,12 +30369,12 @@
                 "Author": "XozaShadow",
                 "Name": "StatusShift",
                 "InternalName": "StatusShift",
-                "AssemblyVersion": "0.1.3.1",
+                "AssemblyVersion": "0.1.5.1",
                 "Description": "Rules change your search comment, online status, and optional commands from zone, duty, activity, job, world, and schedule.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XozaShadow/StatusShift/main/images/icon.png",
                 "RepoUrl": "https://github.com/XozaShadow/StatusShift",
-                "LastUpdate": 1788367542
+                "LastUpdate": 1788471059
             }
         ]
     },
