@@ -4637,11 +4637,11 @@
                 "Author": "Jasmine",
                 "Name": "Aetherstream",
                 "InternalName": "Aetherstream",
-                "AssemblyVersion": "0.2.0.0",
+                "AssemblyVersion": "0.2.5.0",
                 "Description": "Puts a live stream on a screen anchored in the world: place it on a wall, size it, and watch while you play. Plays Twitch, YouTube, Plex and direct streams, painted onto a real in-game surface so the game lights and occludes it properly. Party groups let a room watch the same thing together from a six-character code.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/CorkedFever/Aetherstream",
-                "LastUpdate": 1788556798,
+                "LastUpdate": 1788582326,
                 "is_ai_attributed": true
             }
         ]
@@ -8178,12 +8178,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "GatherBuddy Reborn",
                 "InternalName": "GatherBuddyReborn",
-                "AssemblyVersion": "7.5.5.0",
+                "AssemblyVersion": "7.5.5.1",
                 "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/GBR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
-                "LastUpdate": 1785303560
+                "LastUpdate": 1788582855
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -8222,7 +8222,7 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.5.40",
+                "AssemblyVersion": "7.5.5.41",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
@@ -9502,6 +9502,24 @@
         ]
     },
     {
+        "repo_developer_name": "HAAAAe1",
+        "repo_url": "https://raw.githubusercontent.com/HAAAAe1/MyPlugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/HAAAAe1/MyPlugins",
+        "repo_name": "MyPlugins",
+        "plugins": [
+            {
+                "Author": "HAAAAe1",
+                "Name": "MagicBulletFullEffects",
+                "InternalName": "MagicBulletFullEffects",
+                "AssemblyVersion": "1.0.0",
+                "Description": "在简易特效设置下，强制魔弹射手显示全部特效。检测到施放魔弹射手时自动切换，施放结束后恢复原设置。",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/HAAAAe1/MyPlugins",
+                "LastUpdate": 1788594377
+            }
+        ]
+    },
+    {
         "repo_developer_name": "haavis",
         "repo_url": "https://raw.githubusercontent.com/haavis/varangerfjorden/main/repo.json",
         "repo_source_url": "https://github.com/haavis/varangerfjorden",
@@ -9687,7 +9705,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/main/HaselTweaks/Assets/Icon.png",
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1788517855
+                "LastUpdate": 1788568268
             },
             {
                 "Author": "Haselnussbomber",
@@ -10900,12 +10918,12 @@
                 "Author": "raynording",
                 "Name": "Dalamud ACT Compat",
                 "InternalName": "DalamudActCompat",
-                "AssemblyVersion": "0.4.0.2",
+                "AssemblyVersion": "0.4.0.3",
                 "Description": "Dalamud-side UI, storage, parser abstraction, and compatibility-host bridge for an ACT-compatible FFXIV parsing platform. This early build does not yet load FFXIV_ACT_Plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/JackyWilliam/DalamudActCompat/main/src/DalamudActCompat/Assets/act-logo.jpg",
                 "RepoUrl": "https://github.com/JackyWilliam/DalamudActCompat",
-                "LastUpdate": 1788534347,
+                "LastUpdate": 1788581052,
                 "is_ai_attributed": true
             }
         ]
@@ -10920,12 +10938,12 @@
                 "Author": "raynording",
                 "Name": "Dalamud ACT Compat",
                 "InternalName": "DalamudActCompat",
-                "AssemblyVersion": "0.4.0.2",
+                "AssemblyVersion": "0.4.0.3",
                 "Description": "Dalamud-side UI, storage, parser abstraction, and compatibility-host bridge for an ACT-compatible FFXIV parsing platform. This early build does not yet load FFXIV_ACT_Plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/JackyWilliam/DalamudActCompatRepo/main/act-logo-512.png",
                 "RepoUrl": "https://github.com/JackyWilliam/DalamudActCompat",
-                "LastUpdate": 1788534965,
+                "LastUpdate": 1788583880,
                 "is_ai_attributed": true
             }
         ]
@@ -11098,12 +11116,12 @@
                 "Author": "jFray",
                 "Name": "EchoSim",
                 "InternalName": "EchoSim.Plugin",
-                "AssemblyVersion": "1.0.2.7",
+                "AssemblyVersion": "1.0.2.8",
                 "Description": "Simulates a full-length fight for your job using your own gear or a best-in-slot preset, then reports the DPS and shows exactly where it came from. Compares gear, melds and consumables, checks your openers and burst windows, and analyses an FFLogs report against the simulated ceiling. Kills on supported encounters can be scored and submitted to per-job leaderboards.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/jfraygit/EchoXIV/main/icons/echosim-icon.png",
                 "RepoUrl": "https://github.com/jfraygit/EchoXIV/tree/main/EchoSim",
-                "LastUpdate": 1787728575
+                "LastUpdate": 1788590185
             }
         ]
     },
@@ -11869,6 +11887,25 @@
                 "RepoUrl": "https://github.com/kadakatzenberg/SellEverything",
                 "LastUpdate": 1784942424,
                 "is_ai_attributed": true
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "kaerlath",
+        "repo_url": "https://raw.githubusercontent.com/kaerlath/Bibliognost/main/repo.json",
+        "repo_source_url": "https://github.com/kaerlath/Bibliognost",
+        "repo_name": "Bibliognost",
+        "plugins": [
+            {
+                "Author": "Lynnaes Krasikaz",
+                "Name": "Bibliognost",
+                "InternalName": "Bibliognost",
+                "AssemblyVersion": "0.23.6.0",
+                "Description": "A polished, provider-based in-game catalog for discovering Final Fantasy XIV mods.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/kaerlath/Bibliognost/main/Images/icon.png",
+                "RepoUrl": "https://github.com/kaerlath/Bibliognost",
+                "LastUpdate": 1788594673
             }
         ]
     },
@@ -12955,11 +12992,11 @@
                 "Author": "kittenhaswares-ui",
                 "Name": "Seiton Sense",
                 "InternalName": "SeitonSense.Plugin",
-                "AssemblyVersion": "0.44.1.0",
+                "AssemblyVersion": "0.44.1.1",
                 "Description": "A local PvP HUD with exact native-nameplate cues, LB activation and damage notifications, pressure and CC awareness, a bounded Purify-first held-action scheduler, Smart Target and assist macros, local MP sounds, survival/job helpers, team communication, and target highlights.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kittenhaswares-ui/SeitonSense",
-                "LastUpdate": 1788554865
+                "LastUpdate": 1788584102
             }
         ]
     },
@@ -13257,7 +13294,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1788401126
+                "LastUpdate": 1788566414
             },
             {
                 "Author": "sourpuh",
@@ -13279,19 +13316,19 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1788495931,
+                "LastUpdate": 1788591058,
                 "is_ai_attributed": true
             },
             {
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.5.39",
+                "AssemblyVersion": "7.5.5.41",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1788503372
+                "LastUpdate": 1788571944
             },
             {
                 "Author": "Team Wrath",
@@ -15080,7 +15117,7 @@
                 "Description": "Prototype HuntAlerts companion. v0.1 uses vnavmesh to approach and park safely away from an S rank and never attacks.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/MarshalTitan/SRankSentinel",
-                "LastUpdate": 1788231322
+                "LastUpdate": 1788589888
             }
         ]
     },
@@ -16312,11 +16349,11 @@
                 "Author": "Miraco33",
                 "Name": "Seasonal Event",
                 "InternalName": "seasonalevent",
-                "AssemblyVersion": "0.1.1.0",
+                "AssemblyVersion": "1.0.0.0",
                 "Description": "国服 Final Fantasy XIV 游戏内季节活动提醒。支持每日提醒、任务与成就完成判断、任务地图旗标、奖励信息和离线缓存。当前为尚未完成游戏内验收的初始测试版。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Miraco33/seasonal-event",
-                "LastUpdate": 1788521945
+                "LastUpdate": 1788582016
             }
         ]
     },
@@ -17649,7 +17686,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/NeXzRo/Stuff/main/BetterTargetingSystemPvP/icon.png",
                 "RepoUrl": "https://github.com/NeXzRo/BetterTargetingSystem",
-                "LastUpdate": 1788400020
+                "LastUpdate": 1788572521
             },
             {
                 "Author": "goat, Maple",
@@ -19441,12 +19478,12 @@
                 "Author": "okaminico (based on ffxiv-tc-port's fork of AutoDuty)",
                 "Name": "AutoDuty",
                 "InternalName": "AutoDuty",
-                "AssemblyVersion": "7.15.1.4",
+                "AssemblyVersion": "7.15.1.5",
                 "Description": "自動幫你跑副本，支援信賴的同伴、達人指引、士官兵團、多變或一般模式。需搭配 BossModReborn、vnavmesh 與一款戰鬥循環插件（WrathCombo 或 BossMod AutoRotation）使用。\n\n本版本修正了《巴哈姆特禁欲者(邂逅篇)》Turn 3 走路會卡住的問題，並修正了「打完副本不會自動離開」——結算選單重複呼叫 Show() 疑似打斷了它自己的載入流程，改成只在視窗真的不可見時才呼叫。",
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/ffxiv-tc-port/DalamudPluginsTC/main/icons/AutoDuty.png",
                 "RepoUrl": "https://github.com/okaminico/AutoDuty-1",
-                "LastUpdate": 1788528033,
+                "LastUpdate": 1788589794,
                 "is_ai_attributed": true
             }
         ]
@@ -19461,69 +19498,69 @@
                 "Author": "okaminico (based on ffxiv-tc-port's fork of AutoDuty)",
                 "Name": "AutoDuty",
                 "InternalName": "AutoDuty",
-                "AssemblyVersion": "7.15.1.4",
+                "AssemblyVersion": "7.15.1.5",
                 "Description": "自動幫你跑副本，支援信賴的同伴、達人指引、士官兵團、多變或一般模式。需搭配 BossModReborn、vnavmesh 與一款戰鬥循環插件（WrathCombo 或 BossMod AutoRotation）使用。\n\n本版本修正了《巴哈姆特禁欲者(邂逅篇)》Turn 3 走路會卡住的問題，並針對「打完副本不會自動離開」新增診斷記錄，正在排查中。",
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/ffxiv-tc-port/DalamudPluginsTC/main/icons/AutoDuty.png",
                 "RepoUrl": "https://github.com/okaminico/AutoDuty-1",
-                "LastUpdate": 1788528033,
+                "LastUpdate": 1788589794,
                 "is_ai_attributed": true
             },
             {
                 "Author": "okaminico (based on ffxiv-tc-port's fork of BossMod Reborn)",
                 "Name": "Bossmod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.15.0.1",
+                "AssemblyVersion": "7.15.0.66",
                 "Description": "提供 Boss 戰雷達、自動循環、冷卻計劃與 AI 功能，幫助您輕鬆應對各種 Boss 機制。\n\n本版本新增兩個模組：E4S 泰坦(伊甸零式：光影1，OID/AID 已用遊戲內確認)、極月讀(The Wreath of Snakes Extreme，從社群國服版移植，尚未實機測試)。",
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/ffxiv-tc-port/DalamudPluginsTC/main/icons/BossModReborn.png",
                 "RepoUrl": "https://github.com/okaminico/BossmodReborn",
-                "LastUpdate": 1788554439,
+                "LastUpdate": 1788591384,
                 "is_ai_attributed": true
             },
             {
                 "Author": "okaminico (based on ffxiv-tc-port's fork of NightmareXIV/Lifestream)",
                 "Name": "Lifestream",
                 "InternalName": "Lifestream",
-                "AssemblyVersion": "7.15.0.3",
+                "AssemblyVersion": "7.15.0.4",
                 "Description": "- 一鍵傳送至任何世界或以太之光目的地\n- 點擊區域地圖上的以太之光即可傳送過去\n\n本版本修正了台服(TC)無法正確解析以太之光目的地名稱的問題。",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/okaminico/Lifestream-1",
-                "LastUpdate": 1788348571,
+                "LastUpdate": 1788589230,
                 "is_ai_attributed": true
             },
             {
                 "Author": "okaminico (based on ffxiv-tc-port's fork of Infiziert90/NotificationMaster)",
                 "Name": "NotificationMaster",
                 "InternalName": "NotificationMaster",
-                "AssemblyVersion": "7.15.0.19",
+                "AssemblyVersion": "7.15.0.20",
                 "Description": "在遊戲視窗縮到最小時，通知你各種遊戲內事件（副本排到、準備確認、聊天訊息、接近地圖標記等）。\n\n本版本新增「抵達（vnavmesh）」通知模組：vnavmesh 完成一次自動導航（不限地圖標記，Questionable 等外掛觸發的導航也算）就會通知，可搭配 TataruPraise（塔塔露誇獎）語音提醒。",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/okaminico/NotificationMaster",
-                "LastUpdate": 1788386844,
+                "LastUpdate": 1788589360,
                 "is_ai_attributed": true
             },
             {
                 "Author": "okaminico (based on ffxiv-tc-port's fork of liza/Questionable)",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "7.15.0.9",
+                "AssemblyVersion": "7.15.0.10",
                 "Description": "自動接取並完成任務，使用 navmesh 自動走路到任務座標並嘗試自動完成沿路的步驟(不含副本、單人任務、戰鬥)。\n\n本版本修正了「卡住時自動重新整理任務步驟」功能，新增「攻頂乙太水晶連續中斷重試 3 次後微幅調整位置」，把移動卡住的反應時間從寫死 5 秒改成可調、預設 2.5 秒，補回官方上游有、但台服版一直缺少的 477 個任務資料檔案，並補上其中 28 個釣魚任務步驟缺少的執行邏輯(需搭配 AutoHook 外掛)。",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/okaminico/Questionable-1",
-                "LastUpdate": 1788519435,
+                "LastUpdate": 1788589693,
                 "is_ai_attributed": true
             },
             {
                 "Author": "okaminico (based on ffxiv-tc-port's fork of TataruPraise)",
                 "Name": "塔塔露誇獎",
                 "InternalName": "TataruPraise",
-                "AssemblyVersion": "7.20.0.4",
+                "AssemblyVersion": "7.20.0.5",
                 "Description": "遊戲裡發生事情的時候，用塔塔露的聲音喊一句極短的提示——「完美收工！」「後面！」「排到了！」。不是要太多對話，只是要有聲音。每個情境一句、全部 8 個字以內，情境有副本完成／升等／登入／Gil 里程碑／血量低／背後有人／收到密語／副本排到／組隊邀請／交易請求等，各自獨立開關（預設全部關閉）。播的是事先合成好的語音檔，執行期完全不連網。語音來自本機的 GPT-SoVITS 橋接（預設 http://127.0.0.1:9882），沒有橋接就只是不出聲，不會卡遊戲。設定視窗可以直接編輯每個情境的短句；資訊列上有一格，點一下切換總開關。指令 /tataru 開啟設定視窗，/tataru test 試播一句。\n\n本版本修正了離開等級壓制的副本／大型任務時，明明只是恢復原本等級卻被誤判成升等而喊出語音的問題。",
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/ffxiv-tc-port/DalamudPluginsTC/main/icons/TataruPraise.png",
                 "RepoUrl": "https://github.com/okaminico/TataruPraise",
-                "LastUpdate": 1788535851,
+                "LastUpdate": 1788589512,
                 "is_ai_attributed": true
             }
         ]
@@ -19538,11 +19575,11 @@
                 "Author": "okaminico (based on ffxiv-tc-port's fork of liza/Questionable)",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "7.15.0.9",
+                "AssemblyVersion": "7.15.0.10",
                 "Description": "自動接取並完成任務，使用 navmesh 自動走路到任務座標並嘗試自動完成沿路的步驟(不含副本、單人任務、戰鬥)。\n\n本版本修正了「卡住時自動重新整理任務步驟」功能，新增「連續中斷重試 3 次後主動傳送到最近的大水晶」，並把移動卡住的反應時間從寫死 5 秒改成可調、預設 2.5 秒，避免長時間原地跑步被看到。",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/okaminico/Questionable-1",
-                "LastUpdate": 1788519435,
+                "LastUpdate": 1788589693,
                 "is_ai_attributed": true
             }
         ]
@@ -19557,12 +19594,12 @@
                 "Author": "okaminico (based on ffxiv-tc-port's fork of TataruPraise)",
                 "Name": "塔塔露誇獎",
                 "InternalName": "TataruPraise",
-                "AssemblyVersion": "7.20.0.4",
+                "AssemblyVersion": "7.20.0.5",
                 "Description": "遊戲裡發生事情的時候，用塔塔露的聲音喊一句極短的提示——「完美收工！」「後面！」「排到了！」。不是要太多對話，只是要有聲音。每個情境一句、全部 8 個字以內，情境有副本完成／升等／登入／Gil 里程碑／血量低／背後有人／收到密語／副本排到／組隊邀請／交易請求等，各自獨立開關（預設全部關閉）。播的是事先合成好的語音檔，執行期完全不連網。語音來自本機的 GPT-SoVITS 橋接（預設 http://127.0.0.1:9882），沒有橋接就只是不出聲，不會卡遊戲。設定視窗可以直接編輯每個情境的短句；資訊列上有一格，點一下切換總開關。指令 /tataru 開啟設定視窗，/tataru test 試播一句。\n\n本版本修正了離開等級壓制的副本／大型任務時，明明只是恢復原本等級卻被誤判成升等而喊出語音的問題。",
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/ffxiv-tc-port/DalamudPluginsTC/main/icons/TataruPraise.png",
                 "RepoUrl": "https://github.com/okaminico/TataruPraise",
-                "LastUpdate": 1788535851,
+                "LastUpdate": 1788589512,
                 "is_ai_attributed": true
             }
         ]
@@ -21281,12 +21318,12 @@
                 "Author": "Cordelia",
                 "Name": "Project GagSpeak",
                 "InternalName": "ProjectGagSpeak",
-                "AssemblyVersion": "2.2.0.6",
+                "AssemblyVersion": "2.2.1.1",
                 "Description": "GagSpeak 4.0 (Now Server-Side!), 20+ Modules, 100+ Features, 50+ Configurations. No Paywalls!",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Project-GagSpeak/repo/main/ProjectGagSpeak/images/icon.png",
                 "RepoUrl": "https://github.com/Project-GagSpeak/client",
-                "LastUpdate": 1788128810
+                "LastUpdate": 1788584478
             }
         ]
     },
@@ -21612,12 +21649,12 @@
                 "Author": "the Puni.sh Quest Squad",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.306.3.34",
+                "AssemblyVersion": "15.306.3.35",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1788542195,
+                "LastUpdate": 1788591058,
                 "is_ai_attributed": true
             },
             {
@@ -21971,7 +22008,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/160",
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1788567976,
+                "LastUpdate": 1788584528,
                 "is_ai_attributed": true
             },
             {
@@ -23514,11 +23551,11 @@
                 "Author": "Rayla Petal",
                 "Name": "Oathbound",
                 "InternalName": "Oathbound.Plugin",
-                "AssemblyVersion": "0.0.0.7",
+                "AssemblyVersion": "0.0.1.1",
                 "Description": "A consent-based collar control plugin. An Owner sends outfit, title, gesture, and follow/leash commands as ordinary in-game tells - no server, no hosting; the Sub's own client watches for them and applies them locally via Glamourer, Honorific, and Penumbra, and existing sync tooling propagates the result to everyone paired with the Sub.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/raylapetal/xiv-collar",
-                "LastUpdate": 1788570756,
+                "LastUpdate": 1788582807,
                 "is_ai_attributed": true
             }
         ]
@@ -26914,12 +26951,12 @@
                 "Author": "SorenWolfe",
                 "Name": "Shikari",
                 "InternalName": "Shikari",
-                "AssemblyVersion": "0.5.1.0",
+                "AssemblyVersion": "0.6.1.0",
                 "Description": "Build, share and call raid strategies without leaving the game. Slide-based arena diagrams, per-player cooldown assignments, and shotcall reminders anchored to real boss casts or to timings the plugin learns from your own pulls.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/sorenwolfe/Shikari/main/images/icon.png",
                 "RepoUrl": "https://github.com/sorenwolfe/Shikari",
-                "LastUpdate": 1788328784
+                "LastUpdate": 1788592253
             }
         ]
     },
@@ -26933,12 +26970,12 @@
                 "Author": "SorenWolfe",
                 "Name": "Shikari",
                 "InternalName": "Shikari",
-                "AssemblyVersion": "0.5.1.0",
+                "AssemblyVersion": "0.6.1.0",
                 "Description": "Build, share and call raid strategies without leaving the game. Slide-based arena diagrams, per-player cooldown assignments, and shotcall reminders anchored to real boss casts or to timings the plugin learns from your own pulls.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/sorenwolfe/Shikari/main/images/icon.png",
                 "RepoUrl": "https://github.com/sorenwolfe/Shikari",
-                "LastUpdate": 1788328784
+                "LastUpdate": 1788592253
             }
         ]
     },
@@ -26974,12 +27011,12 @@
                 "Author": "SorenWolfe",
                 "Name": "Shikari",
                 "InternalName": "Shikari",
-                "AssemblyVersion": "0.5.1.0",
+                "AssemblyVersion": "0.6.1.0",
                 "Description": "Build, share and call raid strategies without leaving the game. Slide-based arena diagrams, per-player cooldown assignments, and shotcall reminders anchored to real boss casts or to timings the plugin learns from your own pulls.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/sorenwolfe/Shikari/main/images/icon.png",
                 "RepoUrl": "https://github.com/sorenwolfe/Shikari",
-                "LastUpdate": 1788328784
+                "LastUpdate": 1788592253
             }
         ]
     },
@@ -29586,7 +29623,7 @@
                 "Author": "Voudi",
                 "Name": "AlphaChannel",
                 "InternalName": "AlphaChannel.Plugin",
-                "AssemblyVersion": "2.1.5.3",
+                "AssemblyVersion": "2.1.5.5",
                 "Description": "Renders an in-world video screen and syncs playback with other players running AlphaChannel over a self-hosted relay.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Kodie0/AlphaChannelKodie",
