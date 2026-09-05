@@ -1004,6 +1004,24 @@
     },
     {
         "repo_developer_name": "AinaSnow",
+        "repo_url": "https://raw.githubusercontent.com/AinaSnow/FFXIV-Dalamud-Plugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/AinaSnow/FFXIV-Dalamud-Plugins",
+        "repo_name": "FFXIV-Dalamud-Plugins",
+        "plugins": [
+            {
+                "Author": "AinaSnow",
+                "Name": "Party Marker Party List",
+                "InternalName": "PartyMarkerPartyList",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "将队伍成员头顶的原生目标标记同步显示在小队列表职业图标左侧。只读显示，不会自动施加或修改标记。",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/AinaSnow/PartyMarkerPartyList",
+                "LastUpdate": 1788552096
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "AinaSnow",
         "repo_url": "https://raw.githubusercontent.com/AinaSnow/XIVChatNext/main/repo.json",
         "repo_source_url": "https://github.com/AinaSnow/XIVChatNext",
         "repo_name": "XIVChatNext",
@@ -2285,11 +2303,11 @@
                 "Author": "Arceuid731; based on FFXIV-CombatReborn/BossmodReborn",
                 "Name": "Foretell",
                 "InternalName": "Foretell",
-                "AssemblyVersion": "0.9.5.0",
+                "AssemblyVersion": "0.9.6.0",
                 "Description": "Adaptive encounter intelligence built on BossMod Reborn. Learns mechanics locally and renders predictive world/radar/text guidance while preserving BMR.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Arceuid731/Foretell",
-                "LastUpdate": 1788535835
+                "LastUpdate": 1788557042
             }
         ]
     },
@@ -4038,12 +4056,12 @@
                 "Author": "CateDesu",
                 "Name": "NyaaTriggers",
                 "InternalName": "NyaaTriggers",
-                "AssemblyVersion": "0.2.0.17",
+                "AssemblyVersion": "0.2.0.19",
                 "Description": "Companion plugin for the NyaaTriggers program.\n\n/nyaa -> Open plugin settings. /nyaa lock -> Toggles the overlay lock.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/CateDesu/NyaaTriggers-Overlay/main/images/icon.png",
                 "RepoUrl": "https://github.com/CateDesu/NyaaTriggers-Overlay",
-                "LastUpdate": 1788326535,
+                "LastUpdate": 1788567273,
                 "is_ai_attributed": true
             }
         ]
@@ -4619,11 +4637,11 @@
                 "Author": "Jasmine",
                 "Name": "Aetherstream",
                 "InternalName": "Aetherstream",
-                "AssemblyVersion": "0.1.0.0",
+                "AssemblyVersion": "0.2.0.0",
                 "Description": "Puts a live stream on a screen anchored in the world: place it on a wall, size it, and watch while you play. Plays Twitch, YouTube, Plex and direct streams, painted onto a real in-game surface so the game lights and occludes it properly. Party groups let a room watch the same thing together from a six-character code.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/CorkedFever/Aetherstream",
-                "LastUpdate": 1788066778,
+                "LastUpdate": 1788556798,
                 "is_ai_attributed": true
             }
         ]
@@ -5738,11 +5756,11 @@
                 "Author": "deserokk",
                 "Name": "DeserokUtils",
                 "InternalName": "DeserokUtils",
-                "AssemblyVersion": "1.22.3.0",
+                "AssemblyVersion": "1.23.2.0",
                 "Description": "Small quality-of-life utilities, one feature per tab.\n\nCastWatch: gate a macro line on whether an action actually went off. Arm a watch above the /ac, then /ifwatch runs your line only if the action was accepted -- or cancels the macro if it was not. Works for instant casts, oGCDs and usable items, none of which produce a cast bar to observe. Optional target filters (--self, --notself, --party) and a {who} token that fills in whoever actually received it, which a vanilla macro cannot do.\n\nIt never composes or sends anything on your behalf; it only runs or suppresses a line you already wrote.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/deserokk/DeserokUtils",
-                "LastUpdate": 1788484309,
+                "LastUpdate": 1788568252,
                 "is_ai_attributed": true
             },
             {
@@ -5787,11 +5805,11 @@
                 "Author": "deserokk",
                 "Name": "DeserokUtils",
                 "InternalName": "DeserokUtils",
-                "AssemblyVersion": "1.22.3.0",
+                "AssemblyVersion": "1.23.2.0",
                 "Description": "Small quality-of-life utilities, one feature per tab.\n\nCastWatch: gate a macro line on whether an action actually went off. Arm a watch above the /ac, then /ifwatch runs your line only if the action was accepted -- or cancels the macro if it was not. Works for instant casts, oGCDs and usable items, none of which produce a cast bar to observe. Optional target filters (--self, --notself, --party) and a {who} token that fills in whoever actually received it, which a vanilla macro cannot do.\n\nIt never composes or sends anything on your behalf; it only runs or suppresses a line you already wrote.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/deserokk/DeserokUtils",
-                "LastUpdate": 1788484309,
+                "LastUpdate": 1788568252,
                 "is_ai_attributed": true
             }
         ]
@@ -8209,7 +8227,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1788503372
+                "LastUpdate": 1788571944
             },
             {
                 "Author": "Churin",
@@ -12937,11 +12955,11 @@
                 "Author": "kittenhaswares-ui",
                 "Name": "Seiton Sense",
                 "InternalName": "SeitonSense.Plugin",
-                "AssemblyVersion": "0.44.0.8",
+                "AssemblyVersion": "0.44.1.0",
                 "Description": "A local PvP HUD with exact native-nameplate cues, LB activation and damage notifications, pressure and CC awareness, a bounded Purify-first held-action scheduler, Smart Target and assist macros, local MP sounds, survival/job helpers, team communication, and target highlights.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kittenhaswares-ui/SeitonSense",
-                "LastUpdate": 1788546529
+                "LastUpdate": 1788554865
             }
         ]
     },
@@ -16465,6 +16483,25 @@
         ]
     },
     {
+        "repo_developer_name": "Mobijuan",
+        "repo_url": "https://raw.githubusercontent.com/Mobijuan/VoiceCallouts/master/pluginmaster.json",
+        "repo_source_url": "https://github.com/Mobijuan/VoiceCallouts",
+        "repo_name": "VoiceCallouts",
+        "plugins": [
+            {
+                "Author": "Mobijuan",
+                "Name": "Voice Callouts",
+                "InternalName": "VoiceCallouts",
+                "AssemblyVersion": "0.5.0.0",
+                "Description": "Listens for hostile boss casts while you're in a duty or an open-world boss\nencounter (FATEs, field bosses, etc.) and reads the ability name aloud via text-to-speech.\nConfigurable minimum cast time and repeat suppression, plus mechanic warnings (e.g. \"FRONTAL\")\nfrom your own notes, a bundled cactbot-derived data set, and the game's own data.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Mobijuan/VoiceCallouts",
+                "LastUpdate": 1788562327,
+                "is_ai_attributed": true
+            }
+        ]
+    },
+    {
         "repo_url": "https://raw.githubusercontent.com/moewcorp/DalamudPlugins/main/pluginmaster.json",
         "repo_source_url": "https://github.com/moewcorp/DalamudPlugins",
         "repo_name": "DalamudPlugins",
@@ -16750,24 +16787,6 @@
                 "IconUrl": "https://raw.githubusercontent.com/mr-reeh/flash/main/images/icon.png",
                 "RepoUrl": "https://github.com/mr-reeh/flash",
                 "LastUpdate": 1788360144
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "mr-reeh",
-        "repo_url": "https://raw.githubusercontent.com/mr-reeh/job-titles/main/repo.json",
-        "repo_source_url": "https://github.com/mr-reeh/job-titles",
-        "repo_name": "job-titles",
-        "plugins": [
-            {
-                "Author": "MrReeh",
-                "Name": "Job Titles",
-                "InternalName": "JobTitles",
-                "AssemblyVersion": "1.0.0.0",
-                "Description": "Automatically sets your character title when you switch jobs or classes. Configure a title per job from the /jobtitles settings window.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/mr-reeh/job-titles",
-                "LastUpdate": 1788289112
             }
         ]
     },
@@ -17587,11 +17606,11 @@
                 "Author": "nesphy",
                 "Name": "Tether",
                 "InternalName": "Tether",
-                "AssemblyVersion": "1.1.0.0",
+                "AssemblyVersion": "1.1.1.0",
                 "Description": "Create a temporary chats for you and your friends, that are working inside a duty or locked instances. Add how many people u want, and manage it from there!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/nesforia/tether",
-                "LastUpdate": 1788250578
+                "LastUpdate": 1788560169
             }
         ]
     },
@@ -18472,12 +18491,12 @@
                 "Author": "091",
                 "Name": "SpeedRadiusPlugin",
                 "InternalName": "SpeedRadiusPlugin",
-                "AssemblyVersion": "1.4.3.338",
+                "AssemblyVersion": "1.4.3.341",
                 "Description": "给宝宝写的移速挂。使用方法：游戏内输入 /sr 打开配置窗口。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/nihil-string/simple-Tool-dist/main/icon.png",
                 "RepoUrl": "https://github.com/nihil-string/simple-Tool-dist",
-                "LastUpdate": 1788491004
+                "LastUpdate": 1788558590
             }
         ]
     },
@@ -19448,6 +19467,18 @@
                 "IconUrl": "https://raw.githubusercontent.com/ffxiv-tc-port/DalamudPluginsTC/main/icons/AutoDuty.png",
                 "RepoUrl": "https://github.com/okaminico/AutoDuty-1",
                 "LastUpdate": 1788528033,
+                "is_ai_attributed": true
+            },
+            {
+                "Author": "okaminico (based on ffxiv-tc-port's fork of BossMod Reborn)",
+                "Name": "Bossmod Reborn",
+                "InternalName": "BossModReborn",
+                "AssemblyVersion": "7.15.0.1",
+                "Description": "提供 Boss 戰雷達、自動循環、冷卻計劃與 AI 功能，幫助您輕鬆應對各種 Boss 機制。\n\n本版本新增兩個模組：E4S 泰坦(伊甸零式：光影1，OID/AID 已用遊戲內確認)、極月讀(The Wreath of Snakes Extreme，從社群國服版移植，尚未實機測試)。",
+                "DalamudApiLevel": 13,
+                "IconUrl": "https://raw.githubusercontent.com/ffxiv-tc-port/DalamudPluginsTC/main/icons/BossModReborn.png",
+                "RepoUrl": "https://github.com/okaminico/BossmodReborn",
+                "LastUpdate": 1788554439,
                 "is_ai_attributed": true
             },
             {
@@ -21940,7 +21971,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/160",
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1788284489,
+                "LastUpdate": 1788567976,
                 "is_ai_attributed": true
             },
             {
@@ -22362,7 +22393,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1788401126
+                "LastUpdate": 1788566414
             },
             {
                 "Author": "veyn, croizat",
@@ -23483,11 +23514,11 @@
                 "Author": "Rayla Petal",
                 "Name": "Oathbound",
                 "InternalName": "Oathbound.Plugin",
-                "AssemblyVersion": "0.0.0.2",
+                "AssemblyVersion": "0.0.0.7",
                 "Description": "A consent-based collar control plugin. An Owner sends outfit, title, gesture, and follow/leash commands as ordinary in-game tells - no server, no hosting; the Sub's own client watches for them and applies them locally via Glamourer, Honorific, and Penumbra, and existing sync tooling propagates the result to everyone paired with the Sub.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/raylapetal/xiv-collar",
-                "LastUpdate": 1788546742,
+                "LastUpdate": 1788570756,
                 "is_ai_attributed": true
             }
         ]
@@ -24363,12 +24394,12 @@
                 "Author": "RoseOfficial",
                 "Name": "Moirai",
                 "InternalName": "Moirai",
-                "AssemblyVersion": "0.3.0.0",
+                "AssemblyVersion": "0.3.6.0",
                 "Description": "Automated FATE farming with a pure, unit-tested decision core: picks the best FATE in the zone, travels there, syncs, fights it to completion, handles collect and escort FATEs, and recovers from death and stuck states.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/RoseOfficial/Moirai/main/src/Moirai/images/icon.png",
                 "RepoUrl": "https://github.com/RoseOfficial/Moirai",
-                "LastUpdate": 1788540330
+                "LastUpdate": 1788562019
             },
             {
                 "Author": "Rose",
@@ -24378,7 +24409,7 @@
                 "Description": "WHM bot that handles healing, damage, defensive cooldowns. MADE BY THE SAME GUY THAT MADE ECHOVAULT & MEMORIA. TAKE CAUTION.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/RoseOfficial/Olympus",
-                "LastUpdate": 1788540371,
+                "LastUpdate": 1788562060,
                 "is_ai_attributed": true
             }
         ]
@@ -26793,7 +26824,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://dl.solona.info/icon.png",
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1788545915,
+                "LastUpdate": 1788554108,
                 "is_ai_attributed": true
             }
         ]
@@ -27569,7 +27600,7 @@
                 "Author": "Suuria",
                 "Name": "Funny Duty Roulett Plugin",
                 "InternalName": "FunnyDutyRoulettPlugin",
-                "AssemblyVersion": "0.0.0.3",
+                "AssemblyVersion": "0.0.0.4",
                 "Description": "Verbindet sich über deine PlayerID mit Funny Duty Roulette, zeigt alle Job-Zuweisungen der aktuellen Session und prüft live, ob die Party bereits auf diese Jobs gewechselt ist.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Suuria/FunnyDutyRoulett"
@@ -29555,7 +29586,7 @@
                 "Author": "Voudi",
                 "Name": "AlphaChannel",
                 "InternalName": "AlphaChannel.Plugin",
-                "AssemblyVersion": "2.1.5.2",
+                "AssemblyVersion": "2.1.5.3",
                 "Description": "Renders an in-world video screen and syncs playback with other players running AlphaChannel over a self-hosted relay.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Kodie0/AlphaChannelKodie",
@@ -30583,12 +30614,12 @@
                 "Author": "XozaShadow",
                 "Name": "StatusShift",
                 "InternalName": "StatusShift",
-                "AssemblyVersion": "0.1.6.0",
+                "AssemblyVersion": "0.1.6.2",
                 "Description": "Rules change your search comment, online status, and optional commands from zone, duty, activity, job, world, and schedule.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XozaShadow/StatusShift/main/images/icon.png",
                 "RepoUrl": "https://github.com/XozaShadow/StatusShift",
-                "LastUpdate": 1788548904
+                "LastUpdate": 1788572151
             }
         ]
     },
