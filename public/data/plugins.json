@@ -1317,35 +1317,35 @@
                 "Author": "Aleqsd",
                 "Name": "Codex Monitor",
                 "InternalName": "CodexMonitor",
-                "AssemblyVersion": "0.8.0.0",
+                "AssemblyVersion": "0.11.1.0",
                 "Description": "Affiche les tâches Codex du PC, leurs états et les demandes d'intervention. Nécessite le relais local Codex Monitor. Version expérimentale ; essais en jeu encore à confirmer. Le relais local se lance séparément ; voir le README.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Aleqsd/dalamud-plugins/main/icons/CodexMonitor.png",
                 "RepoUrl": "https://github.com/Aleqsd/codex-monitor",
-                "LastUpdate": 1788769653
+                "LastUpdate": 1788790673
             },
             {
                 "Author": "Aleqsd",
                 "Name": "Hotbar Atelier",
                 "InternalName": "HotbarAtelier",
-                "AssemblyVersion": "0.5.2.0",
+                "AssemblyVersion": "0.6.0.0",
                 "Description": "15 bordures et 12 formes aux coins transparents. Textes masquables, click-through, taille continue et placement libre par barre. Réglages organisés par usage dans une interface fixe. Version expérimentale à valider en jeu. Démarre arrêté ; /hotbaratelier pour les réglages et /hotbaratelier off pour restaurer. Version expérimentale ; essais en jeu encore à confirmer.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Aleqsd/dalamud-plugins/main/icons/HotbarAtelier.png",
                 "RepoUrl": "https://github.com/Aleqsd/hotbar-atelier",
-                "LastUpdate": 1788765486,
+                "LastUpdate": 1788776170,
                 "is_ai_attributed": true
             },
             {
                 "Author": "Aleqsd",
                 "Name": "Minimap Zoom",
                 "InternalName": "MinimapZoom",
-                "AssemblyVersion": "0.4.1.0",
+                "AssemblyVersion": "0.5.0.0",
                 "Description": "Zoom réglable, mini-carte carrée, cadres personnalisables, filtres de marqueurs et tailles d’icônes indépendantes. Démarrage discret et zoom mémorisé en option. Réglages dans /minizoom. Client 2026.08.11.0000.0000. Version expérimentale ; essais en jeu encore à confirmer.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Aleqsd/dalamud-plugins/main/icons/MinimapZoom.png",
                 "RepoUrl": "https://github.com/Aleqsd/minimap-zoom",
-                "LastUpdate": 1788736795
+                "LastUpdate": 1788775289
             }
         ]
     },
@@ -4395,12 +4395,12 @@
                 "Author": "ChanceRain, NiGuangOwO, QianChangUwU",
                 "Name": "Mortal MJ",
                 "InternalName": "MortalMJPlugin",
-                "AssemblyVersion": "1.0.0.27",
+                "AssemblyVersion": "1.0.0.28",
                 "Description": "FFXIV 国服「多玛方城战」麻将 AI 辅助插件，基于 Mortal AI 提供实时打牌建议与自动化（自动出牌/吃碰杠荣和/看整桌）。需要额外配置 Mortal AI 环境，详见仓库 README。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ChanceRain0108/DalamudPlugins/main/icon.png",
                 "RepoUrl": "https://github.com/ChanceRain0108/DalamudPlugins",
-                "LastUpdate": 1788715381
+                "LastUpdate": 1788775292
             }
         ]
     },
@@ -5632,11 +5632,11 @@
                 "Author": "FF14 Accessibility Project",
                 "Name": "FF14 Accessibility",
                 "InternalName": "FF14Accessibility",
-                "AssemblyVersion": "5.96.0.0",
+                "AssemblyVersion": "6.8.7.0",
                 "Description": "Macht FF14 für blinde Spieler zugänglich via NVDA/TOLK Integration, Audio-Navigation und vollständiger Tastatursteuerung.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/derbruedi/ff14-accessibility",
-                "LastUpdate": 1788505501,
+                "LastUpdate": 1788795511,
                 "is_ai_attributed": true
             }
         ]
@@ -5673,22 +5673,11 @@
                 "Author": "deserokk",
                 "Name": "DeserokUtils",
                 "InternalName": "DeserokUtils",
-                "AssemblyVersion": "1.28.1.0",
+                "AssemblyVersion": "1.28.8.0",
                 "Description": "Small quality-of-life utilities, one feature per tab.\n\nCastWatch: gate a macro line on whether an action actually went off. Arm a watch above the /ac, then /ifwatch runs your line only if the action was accepted -- or cancels the macro if it was not. Works for instant casts, oGCDs and usable items, none of which produce a cast bar to observe. Optional target filters (--self, --notself, --party) and a {who} token that fills in whoever actually received it, which a vanilla macro cannot do.\n\nIt never composes or sends anything on your behalf; it only runs or suppresses a line you already wrote.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/deserokk/DeserokUtils",
-                "LastUpdate": 1788770169,
-                "is_ai_attributed": true
-            },
-            {
-                "Author": "deserokk",
-                "Name": "Fanfare",
-                "InternalName": "Fanfare",
-                "AssemblyVersion": "0.1.0.0",
-                "Description": "Changes achievement notifications to a stylized, console-adjacent popup with definable sounds.\nSix chimes are included; point it at your own file in the settings.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/deserokk/Fanfare",
-                "LastUpdate": 1788017452,
+                "LastUpdate": 1788790877,
                 "is_ai_attributed": true
             }
         ]
@@ -7622,7 +7611,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1788688891
+                "LastUpdate": 1788779620
             }
         ]
     },
@@ -7831,7 +7820,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/exatrines/Oracle/main/Oracle/Data/plugin-icon.png",
                 "RepoUrl": "https://github.com/exatrines/Oracle",
-                "LastUpdate": 1788423751
+                "LastUpdate": 1788756213
             },
             {
                 "Author": "mirage",
@@ -10058,7 +10047,7 @@
                 "Author": "MusicManBowls, kihtli",
                 "Name": "Hunt Helper Evolved",
                 "InternalName": "HuntHelperEvolved",
-                "AssemblyVersion": "0.4.0.0",
+                "AssemblyVersion": "0.5.0.2",
                 "Description": "Hunt tracking for FFXIV. Detects marks and records a train with exact kill times, posts Discord reports sorted by the order marks actually died, draws spawn points, your detection range and SS event locations on the in-game map, counts S-rank trigger mobs, and keeps a lifetime per-mark kill tally per character.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/HuntHelperEvolved/HuntHelperEvolved/main/icon.png",
@@ -10737,7 +10726,7 @@
                 "Author": "J1ntttao",
                 "Name": "Triad Buddy Auto",
                 "InternalName": "TriadBuddyAuto",
-                "AssemblyVersion": "1.0.0.8",
+                "AssemblyVersion": "1.0.0.9",
                 "Description": "读取 Triad Buddy 的求解结果并自动落牌，在连续再战流程中自动点击再战、挑战并选择最优卡组。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/J1ntttao/FFXIVDalamudPlugins/master/plugins/TriadBuddyAuto/icon.png",
@@ -10846,12 +10835,12 @@
                 "Author": "raynording",
                 "Name": "Dalamud ACT Compat",
                 "InternalName": "DalamudActCompat",
-                "AssemblyVersion": "0.4.0.4",
+                "AssemblyVersion": "0.4.1.0",
                 "Description": "Dalamud-side UI, storage, parser abstraction, and compatibility-host bridge for an ACT-compatible FFXIV parsing platform. This early build does not yet load FFXIV_ACT_Plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/JackyWilliam/DalamudActCompat/main/src/DalamudActCompat/Assets/act-logo.jpg",
                 "RepoUrl": "https://github.com/JackyWilliam/DalamudActCompat",
-                "LastUpdate": 1788705140,
+                "LastUpdate": 1788789462,
                 "is_ai_attributed": true
             }
         ]
@@ -10866,12 +10855,12 @@
                 "Author": "raynording",
                 "Name": "Dalamud ACT Compat",
                 "InternalName": "DalamudActCompat",
-                "AssemblyVersion": "0.4.0.4",
+                "AssemblyVersion": "0.4.1.0",
                 "Description": "Dalamud-side UI, storage, parser abstraction, and compatibility-host bridge for an ACT-compatible FFXIV parsing platform. This early build does not yet load FFXIV_ACT_Plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/JackyWilliam/DalamudActCompatRepo/main/act-logo-512.png",
                 "RepoUrl": "https://github.com/JackyWilliam/DalamudActCompat",
-                "LastUpdate": 1788705688,
+                "LastUpdate": 1788790222,
                 "is_ai_attributed": true
             }
         ]
@@ -11636,6 +11625,25 @@
                 "RepoUrl": "https://github.com/Just-Chaldea/VisitorsPass",
                 "LastUpdate": 1782337299,
                 "is_closed_source": true
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "just-cro",
+        "repo_url": "https://raw.githubusercontent.com/just-cro/EchoCanvas/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/just-cro/EchoCanvas",
+        "repo_name": "EchoCanvas",
+        "plugins": [
+            {
+                "Author": "cro, S",
+                "Name": "EchoCanvas",
+                "InternalName": "EchoCanvas",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "Create free-form button canvases, ordered rules, and color-coded instruction panels. EchoCanvas is manual and never automates game actions.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/just-cro/EchoCanvas",
+                "LastUpdate": 1788782904,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -14385,6 +14393,25 @@
         ]
     },
     {
+        "repo_developer_name": "Liquidize",
+        "repo_url": "https://raw.githubusercontent.com/Liquidize/Wyu2/claude/ffxiv-dalamud-friend-tracker-c0wod9/repo.json",
+        "repo_source_url": "https://github.com/Liquidize/Wyu2",
+        "repo_name": "Wyu2",
+        "plugins": [
+            {
+                "Author": "Kaliya",
+                "Name": "Wyu2",
+                "InternalName": "Wyu2",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "Wyu2 - \"what you up to?\" - shows friends who opted in on a radar, on the zone map, and in a live activity list: which zone and public instance they are in, which duty they are running, which job they are playing, and whether they are fighting, gathering, crafting, queueing or just idling in Limsa.\n\nNobody appears until they opt in. You swap share codes, both sides accept, and even then nothing leaves your machine until you turn sharing on and tick the fields you want to send. Each update is encrypted separately for each recipient, so a relay only ever moves blobs it cannot read. Point it at your own relay - one ships with the source - and delete your account whenever you like.\n\nCommands: /wyu2 for the friend list, /wyu2 radar, /wyu2 map, /wyu2 config, /wyu2 share on|off, /wyu2 pause [minutes], /wyu2 note <text>.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Liquidize/Wyu2",
+                "LastUpdate": 1788792171,
+                "is_ai_attributed": true
+            }
+        ]
+    },
+    {
         "repo_url": "https://raw.githubusercontent.com/littleblue50/plugins/refs/heads/main/manifest.json",
         "repo_source_url": "https://github.com/littleblue50/plugins",
         "repo_developer_name": "littleblue50",
@@ -14810,6 +14837,24 @@
         ]
     },
     {
+        "repo_developer_name": "MageritX",
+        "repo_url": "https://raw.githubusercontent.com/MageritX/DamageMeter-CN/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/MageritX/DamageMeter-CN",
+        "repo_name": "DamageMeter-CN",
+        "plugins": [
+            {
+                "Author": "David",
+                "Name": "DamageMeter-CN",
+                "InternalName": "DamageMeter-CN",
+                "AssemblyVersion": "0.3.6.0",
+                "Description": "Tracks damage dealt, healing done, DPS, HPS, overhealing, damage taken, and more in real time for you and your party. Stores up to 20 recent combat sessions with manual save slots. Fully configurable display, bar colors, and window styles.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/MageritX/DamageMeter-CN",
+                "LastUpdate": 1788787843
+            }
+        ]
+    },
+    {
         "repo_url": "https://raw.githubusercontent.com/Magg-droid/plugin-collection/main/pluginmaster.json",
         "repo_source_url": "https://github.com/Magg-droid/plugin-collection",
         "repo_developer_name": "Magg-droid",
@@ -15080,12 +15125,12 @@
                 "Author": "MTitan",
                 "Name": "S Rank Sentinel",
                 "InternalName": "SRankSentinel",
-                "AssemblyVersion": "0.7.3.0",
+                "AssemblyVersion": "0.7.5.0",
                 "Description": "Consumes Faloop with optional HuntAlerts/Sonar fallbacks, maps POIs directly to local vnavmesh destinations without a game map flag, retries missing entities/routes without false-clearing, requires positive kill evidence, queues later hunts, and performs one gated ranged tag.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MarshalTitan/SRankSentinel/main/assets/icon.png",
                 "RepoUrl": "https://github.com/MarshalTitan/SRankSentinel",
-                "LastUpdate": 1788763464
+                "LastUpdate": 1788795687
             }
         ]
     },
@@ -15099,12 +15144,12 @@
                 "Author": "MTitan",
                 "Name": "S Rank Sentinel",
                 "InternalName": "SRankSentinel",
-                "AssemblyVersion": "0.7.3.0",
+                "AssemblyVersion": "0.7.5.0",
                 "Description": "Prototype HuntAlerts companion. v0.1 uses vnavmesh to approach and park safely away from an S rank and never attacks.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MarshalTitan/SRankSentinel/main/assets/icon.png",
                 "RepoUrl": "https://github.com/MarshalTitan/SRankSentinel",
-                "LastUpdate": 1788763463
+                "LastUpdate": 1788795685
             }
         ]
     },
@@ -17746,7 +17791,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/NeXzRo/Stuff/main/BetterTargetingSystemPvP/icon.png",
                 "RepoUrl": "https://github.com/NeXzRo/BetterTargetingSystem",
-                "LastUpdate": 1788572521
+                "LastUpdate": 1788658564
             },
             {
                 "Author": "goat, Maple",
@@ -17756,7 +17801,7 @@
                 "Description": "This plugin shows the destination zone's concept art while loading.\nNOTE: ONLY LOOKS RIGHT ON 16:9 SCREENS! The concept art is not any bigger, and we can't expand/fix it. Sorry!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NeXzRo/Dalamud.LoadingImage",
-                "LastUpdate": 1788063996
+                "LastUpdate": 1788665897
             }
         ]
     },
@@ -18118,7 +18163,7 @@
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1788609795,
+                "LastUpdate": 1788782803,
                 "is_closed_source": true
             },
             {
@@ -18130,19 +18175,19 @@
                 "DalamudApiLevel": 14,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1788609795,
+                "LastUpdate": 1788782803,
                 "is_closed_source": true
             },
             {
                 "Author": "The Combat Reborn Team / NiGuangOwO（本地化&适配）",
                 "Name": "BossMod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.5.71",
+                "AssemblyVersion": "7.5.5.72",
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1788609795,
+                "LastUpdate": 1788782803,
                 "is_closed_source": true
             },
             {
@@ -20270,7 +20315,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1788688891
+                "LastUpdate": 1788779620
             },
             {
                 "Author": "Risa and Contributors",
@@ -20303,7 +20348,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Ottermandias/Glamourer/main/images/icon.png",
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1788617399
+                "LastUpdate": 1788787948
             },
             {
                 "Author": "Anna",
@@ -20347,7 +20392,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png",
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1788701780
+                "LastUpdate": 1788730123
             },
             {
                 "Author": "Caraxi",
@@ -21770,7 +21815,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1788766801
+                "LastUpdate": 1788779221
             },
             {
                 "Author": "daemitus, croizat",
@@ -22077,11 +22122,11 @@
                 "Author": "Knightmore",
                 "Name": "Knightshopper",
                 "InternalName": "Knightshopper",
-                "AssemblyVersion": "1.0.0.0",
+                "AssemblyVersion": "1.0.0.1",
                 "Description": "Your personal shopper who will take care of all your currency spendings!\n\nKnightshopper: because even knights deserve a squire for their shopping.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/173",
-                "LastUpdate": 1788697049
+                "LastUpdate": 1788789664
             }
         ]
     },
@@ -24074,7 +24119,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/RenNagasaki/Echokraut/master/Echokraut.png",
                 "RepoUrl": "https://github.com/RenNagasaki/Echokraut",
-                "LastUpdate": 1785835137,
+                "LastUpdate": 1788782992,
                 "is_ai_attributed": true
             },
             {
@@ -27326,12 +27371,12 @@
                 "Author": "lcc",
                 "Name": "LCC Tools",
                 "InternalName": "lccTools",
-                "AssemblyVersion": "0.1.2.3",
+                "AssemblyVersion": "0.1.2.4",
                 "Description": "LCC 的综合工具箱：提供游戏状态与悬停 ID 调试、自动复活和食物、PvP 好友雷达、分场景移动速度、按角色隔离的物品收录，以及带缓存、成交历史和众包上传的 Universalis 市场查询。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/spqrwk/LccTools-DalamudRepo/main/icons/icon.png",
                 "RepoUrl": "https://github.com/spqrwk/LccTools-DalamudRepo",
-                "LastUpdate": 1788712700
+                "LastUpdate": 1788777474
             }
         ]
     },
@@ -27774,6 +27819,17 @@
                 "IconUrl": "https://raw.githubusercontent.com/susy-bakaa/OOF/refs/heads/ox/Data/logo.png",
                 "RepoUrl": "https://github.com/susy-bakaa/OOF",
                 "LastUpdate": 1777566243
+            },
+            {
+                "Author": "Caraxi, susy_baka",
+                "Name": "Simple Tweaks Plugin (Fork)",
+                "InternalName": "SimpleTweaksPluginSus",
+                "AssemblyVersion": "1.15.0.7",
+                "Description": "A collection of Quality of Life tweaks. Aiming to improve the experience without changing anything drastically.\nAll changes are toggleable, with everything disabled by default. Visit the Repo for a full list of tweaks. (Globe icon below)",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/goatcorp/DalamudPluginsD17/refs/heads/main/stable/SimpleTweaksPlugin/images/icon.png",
+                "RepoUrl": "https://github.com/susy-bakaa/SimpleTweaksPlugin",
+                "LastUpdate": 1788782595
             },
             {
                 "Author": "Windmourn, 0x526f6d656f, susy_baka",
@@ -28263,7 +28319,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ThatKwistine/WardrobePlugin/main/images/icon.png",
                 "RepoUrl": "https://github.com/ThatKwistine/WardrobePlugin",
-                "LastUpdate": 1788380362,
+                "LastUpdate": 1788781167,
                 "is_ai_attributed": true
             }
         ]
@@ -29415,7 +29471,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Valiice/SpotifyHonorific/master/images/icon.png",
                 "RepoUrl": "https://github.com/Valiice/SpotifyHonorific",
-                "LastUpdate": 1788438698,
+                "LastUpdate": 1788773622,
                 "is_ai_attributed": true
             }
         ]
@@ -30383,11 +30439,11 @@
                 "Author": "David",
                 "Name": "DamageMeter-CN",
                 "InternalName": "DamageMeter-CN",
-                "AssemblyVersion": "0.3.5.0",
+                "AssemblyVersion": "0.3.6.0",
                 "Description": "Tracks damage dealt, healing done, DPS, HPS, overhealing, damage taken, and more in real time for you and your party. Stores up to 20 recent combat sessions with manual save slots. Fully configurable display, bar colors, and window styles.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/xdw0000/DamageMeter-CN",
-                "LastUpdate": 1788356579
+                "LastUpdate": 1788787843
             }
         ]
     },
@@ -31836,18 +31892,18 @@
                 "Description": "Plugin to send macro actions",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1788106228,
+                "LastUpdate": 1788790096,
                 "is_ai_attributed": true
             },
             {
                 "Author": "akira0245, Ori, Kalle, Zune",
                 "Name": "MidiBard 2 (BETA)",
                 "InternalName": "ZuneBard",
-                "AssemblyVersion": "1.15.0.156",
+                "AssemblyVersion": "1.15.0.158",
                 "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zunetrix/MidiBard2",
-                "LastUpdate": 1788711527,
+                "LastUpdate": 1788789338,
                 "is_closed_source": true,
                 "is_ai_attributed": true
             },
@@ -31855,7 +31911,7 @@
                 "Author": "akira0245, Ori, Kalle, Zune",
                 "Name": "MidiBard 2 (ALPHA)",
                 "InternalName": "ZuneBardAlpha",
-                "AssemblyVersion": "1.15.0.156",
+                "AssemblyVersion": "1.15.0.158",
                 "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://midibard.org",
