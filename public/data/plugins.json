@@ -1317,23 +1317,23 @@
                 "Author": "Aleqsd",
                 "Name": "Codex Monitor",
                 "InternalName": "CodexMonitor",
-                "AssemblyVersion": "0.6.1.0",
+                "AssemblyVersion": "0.8.0.0",
                 "Description": "Affiche les tâches Codex du PC, leurs états et les demandes d'intervention. Nécessite le relais local Codex Monitor. Version expérimentale ; essais en jeu encore à confirmer. Le relais local se lance séparément ; voir le README.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Aleqsd/dalamud-plugins/main/icons/CodexMonitor.png",
                 "RepoUrl": "https://github.com/Aleqsd/codex-monitor",
-                "LastUpdate": 1788736504
+                "LastUpdate": 1788769653
             },
             {
                 "Author": "Aleqsd",
                 "Name": "Hotbar Atelier",
                 "InternalName": "HotbarAtelier",
-                "AssemblyVersion": "0.5.1.0",
+                "AssemblyVersion": "0.5.2.0",
                 "Description": "15 bordures et 12 formes aux coins transparents. Textes masquables, click-through, taille continue et placement libre par barre. Réglages organisés par usage dans une interface fixe. Version expérimentale à valider en jeu. Démarre arrêté ; /hotbaratelier pour les réglages et /hotbaratelier off pour restaurer. Version expérimentale ; essais en jeu encore à confirmer.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Aleqsd/dalamud-plugins/main/icons/HotbarAtelier.png",
                 "RepoUrl": "https://github.com/Aleqsd/hotbar-atelier",
-                "LastUpdate": 1788736500,
+                "LastUpdate": 1788765486,
                 "is_ai_attributed": true
             },
             {
@@ -5051,12 +5051,12 @@
                 "Author": "Dalagab Group",
                 "Name": "Omega",
                 "InternalName": "DalagabOmega",
-                "AssemblyVersion": "0.10.0.0",
+                "AssemblyVersion": "0.20.26.0",
                 "Description": "In-game third-party plugin installer. Heavy AI usage, not affiliated with Aetherfeed.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/dalagab/omega/main/images/icon.png",
                 "RepoUrl": "https://github.com/dalagab/omega/tree/main/Omega",
-                "LastUpdate": 1787940377,
+                "LastUpdate": 1788725195,
                 "is_ai_attributed": true
             }
         ]
@@ -5673,11 +5673,11 @@
                 "Author": "deserokk",
                 "Name": "DeserokUtils",
                 "InternalName": "DeserokUtils",
-                "AssemblyVersion": "1.28.0.0",
+                "AssemblyVersion": "1.28.1.0",
                 "Description": "Small quality-of-life utilities, one feature per tab.\n\nCastWatch: gate a macro line on whether an action actually went off. Arm a watch above the /ac, then /ifwatch runs your line only if the action was accepted -- or cancels the macro if it was not. Works for instant casts, oGCDs and usable items, none of which produce a cast bar to observe. Optional target filters (--self, --notself, --party) and a {who} token that fills in whoever actually received it, which a vanilla macro cannot do.\n\nIt never composes or sends anything on your behalf; it only runs or suppresses a line you already wrote.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/deserokk/DeserokUtils",
-                "LastUpdate": 1788744912,
+                "LastUpdate": 1788770169,
                 "is_ai_attributed": true
             },
             {
@@ -8073,12 +8073,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "BossMod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.5.71",
+                "AssemblyVersion": "7.5.5.72",
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1788601907
+                "LastUpdate": 1788759353
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -8095,12 +8095,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "GatherBuddy Reborn",
                 "InternalName": "GatherBuddyReborn",
-                "AssemblyVersion": "7.5.5.2",
+                "AssemblyVersion": "7.5.5.3",
                 "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/GBR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
-                "LastUpdate": 1788674570
+                "LastUpdate": 1788753249
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -11828,12 +11828,12 @@
                 "Author": "Lynnaes Krasikaz",
                 "Name": "Bibliognost",
                 "InternalName": "Bibliognost",
-                "AssemblyVersion": "0.23.12.0",
+                "AssemblyVersion": "0.24.4.0",
                 "Description": "A polished, provider-based in-game catalog for discovering Final Fantasy XIV mods.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/kaerlath/Bibliognost/main/Images/icon.png",
                 "RepoUrl": "https://github.com/kaerlath/Bibliognost",
-                "LastUpdate": 1788741668
+                "LastUpdate": 1788768088
             }
         ]
     },
@@ -13499,11 +13499,12 @@
                 "Author": "Arty",
                 "Name": "RollTracker",
                 "InternalName": "RollTracker",
-                "AssemblyVersion": "0.1.0.65",
+                "AssemblyVersion": "0.1.0.68",
                 "Description": "Reads chat messages, detects /random rolls, shows all rolls plus highest and lowest roll in a small ImGui window. Commands: /rolltracker, /rt.",
                 "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/la1998/RollTracker/main/images/icon.png?v=0.1.0.68",
                 "RepoUrl": "https://github.com/la1998/RollTracker",
-                "LastUpdate": 1788521990
+                "LastUpdate": 1788759145
             }
         ]
     },
@@ -14251,6 +14252,25 @@
                 "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/DynamicBridge/main/DynamicBridge/images/icon.png",
                 "RepoUrl": "https://github.com/Limiana/DynamicBridgeStandalone",
                 "LastUpdate": 1781308393
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "link-0402",
+        "repo_url": "https://raw.githubusercontent.com/link-0402/DalamudPlugins/main/repo.json",
+        "repo_source_url": "https://github.com/link-0402/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "Luci",
+                "Name": "WindowResize+",
+                "InternalName": "WindowResizePlus",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "WindowResize+ sets the FFXIV game window to an arbitrary size beyond your display resolution. It is useful for high-resolution screenshots without going fullscreen and requires borderless or windowed mode.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/link-0402/WindowResizePlus/main/WindowResizePlus/images/icon.png",
+                "RepoUrl": "https://github.com/link-0402/WindowResizePlus",
+                "LastUpdate": 1788767599
             }
         ]
     },
@@ -15052,6 +15072,25 @@
     },
     {
         "repo_developer_name": "MarshalTitan",
+        "repo_url": "https://raw.githubusercontent.com/MarshalTitan/Sentinel/main/repo.json",
+        "repo_source_url": "https://github.com/MarshalTitan/Sentinel",
+        "repo_name": "Sentinel",
+        "plugins": [
+            {
+                "Author": "MTitan",
+                "Name": "S Rank Sentinel",
+                "InternalName": "SRankSentinel",
+                "AssemblyVersion": "0.7.3.0",
+                "Description": "Consumes Faloop with optional HuntAlerts/Sonar fallbacks, maps POIs directly to local vnavmesh destinations without a game map flag, retries missing entities/routes without false-clearing, requires positive kill evidence, queues later hunts, and performs one gated ranged tag.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/MarshalTitan/SRankSentinel/main/assets/icon.png",
+                "RepoUrl": "https://github.com/MarshalTitan/SRankSentinel",
+                "LastUpdate": 1788763464
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "MarshalTitan",
         "repo_url": "https://raw.githubusercontent.com/MarshalTitan/SRankSentinel/main/repo.json",
         "repo_source_url": "https://github.com/MarshalTitan/SRankSentinel",
         "repo_name": "SRankSentinel",
@@ -15060,12 +15099,12 @@
                 "Author": "MTitan",
                 "Name": "S Rank Sentinel",
                 "InternalName": "SRankSentinel",
-                "AssemblyVersion": "0.6.5.0",
+                "AssemblyVersion": "0.7.3.0",
                 "Description": "Prototype HuntAlerts companion. v0.1 uses vnavmesh to approach and park safely away from an S rank and never attacks.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MarshalTitan/SRankSentinel/main/assets/icon.png",
                 "RepoUrl": "https://github.com/MarshalTitan/SRankSentinel",
-                "LastUpdate": 1788748425
+                "LastUpdate": 1788763463
             }
         ]
     },
@@ -16776,25 +16815,6 @@
     },
     {
         "repo_developer_name": "mr-reeh",
-        "repo_url": "https://raw.githubusercontent.com/mr-reeh/flash/main/repo.json",
-        "repo_source_url": "https://github.com/mr-reeh/flash",
-        "repo_name": "flash",
-        "plugins": [
-            {
-                "Author": "MrReeh",
-                "Name": "Flash",
-                "InternalName": "Flash",
-                "AssemblyVersion": "0.4.0.0",
-                "Description": "Watches for configured emotes and swaps your outfit via Glamourer while (and optionally only while) you're performing them, then reverts back to your normal gear afterward.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/mr-reeh/flash/main/images/icon.png",
-                "RepoUrl": "https://github.com/mr-reeh/flash",
-                "LastUpdate": 1788360144
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "mr-reeh",
         "repo_url": "https://raw.githubusercontent.com/mr-reeh/Flash/main/repo.json",
         "repo_source_url": "https://github.com/mr-reeh/Flash",
         "repo_name": "Flash",
@@ -16805,6 +16825,25 @@
                 "InternalName": "Flash",
                 "AssemblyVersion": "0.4.0.0",
                 "Description": "Automatically changes a character's gear via Glamourer to Smallclothes or the Emperor's New Set when specified emotes or combat actions are used, with per-slot control, delay, and duration options, then reverts back to normal gear.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/mr-reeh/flash/main/images/icon.png",
+                "RepoUrl": "https://github.com/mr-reeh/flash",
+                "LastUpdate": 1788360144
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "mr-reeh",
+        "repo_url": "https://raw.githubusercontent.com/mr-reeh/flash/main/repo.json",
+        "repo_source_url": "https://github.com/mr-reeh/flash",
+        "repo_name": "flash",
+        "plugins": [
+            {
+                "Author": "MrReeh",
+                "Name": "Flash",
+                "InternalName": "Flash",
+                "AssemblyVersion": "0.4.0.0",
+                "Description": "Watches for configured emotes and swaps your outfit via Glamourer while (and optionally only while) you're performing them, then reverts back to your normal gear afterward.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/mr-reeh/flash/main/images/icon.png",
                 "RepoUrl": "https://github.com/mr-reeh/flash",
@@ -21135,7 +21174,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://porys.github.io/xivplugins/icon.png",
                 "RepoUrl": "https://github.com/porys/TomestoneTranslate",
-                "LastUpdate": 1787913519
+                "LastUpdate": 1787913519,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -21154,7 +21194,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://porys.github.io/xivplugins/icon.png",
                 "RepoUrl": "https://github.com/porys/TomestoneTranslate",
-                "LastUpdate": 1787913520
+                "LastUpdate": 1787913520,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -21729,7 +21770,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1788679970
+                "LastUpdate": 1788766801
             },
             {
                 "Author": "daemitus, croizat",
@@ -22059,7 +22100,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/160",
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1788738927,
+                "LastUpdate": 1788752440,
                 "is_ai_attributed": true
             },
             {
@@ -26248,14 +26289,14 @@
                 "Description": "自动隐藏怪物，避免干扰选中和战斗",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Shieldhelder/DalamudPlugins",
-                "LastUpdate": 1788497193,
+                "LastUpdate": 1788765684,
                 "is_closed_source": true
             },
             {
                 "Author": "croizat",
                 "Name": "Glamour Log",
                 "InternalName": "GlamourLog",
-                "AssemblyVersion": "15.67.11.0",
+                "AssemblyVersion": "15.67.12.0",
                 "Description": "A log for all your glamours and other glam-related tweaks",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/136",
@@ -26270,7 +26311,7 @@
                 "Description": "此插件在国际服确认会导致账号封禁\n请考虑清楚后决定是否使用\n下载后请于24小时内删除，因使用本资源造成的任何法律纠纷或损失，均由使用者自行承担\n\n\nPlugin to help farming DeepDungeon Hoards (...for you)",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Shieldhelder/DalamudPlugins",
-                "LastUpdate": 1788497193,
+                "LastUpdate": 1788765684,
                 "is_closed_source": true
             },
             {
@@ -26524,12 +26565,12 @@
                 "Author": "XSZYYS",
                 "Name": "XSZToolbox",
                 "InternalName": "XSZToolbox",
-                "AssemblyVersion": "1.7.5.8",
+                "AssemblyVersion": "1.7.6.0",
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ShoOtaku/DalamudPlugins/main/plugins/XSZToolbox/icon.png",
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins/tree/main/plugins/XSZToolbox",
-                "LastUpdate": 1788099962,
+                "LastUpdate": 1788770066,
                 "is_closed_source": true
             }
         ]
@@ -27071,12 +27112,12 @@
                 "Author": "SorenWolfe",
                 "Name": "Shikari",
                 "InternalName": "Shikari",
-                "AssemblyVersion": "0.8.5.0",
+                "AssemblyVersion": "0.9.0.0",
                 "Description": "Build, share and call raid strategies without leaving the game. Slide-based arena diagrams, per-player cooldown assignments, and shotcall reminders anchored to real boss casts or to timings the plugin learns from your own pulls.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/sorenwolfe/Shikari/main/images/icon.png",
                 "RepoUrl": "https://github.com/sorenwolfe/Shikari",
-                "LastUpdate": 1788687274
+                "LastUpdate": 1788773104
             }
         ]
     },
@@ -27090,12 +27131,12 @@
                 "Author": "SorenWolfe",
                 "Name": "Shikari",
                 "InternalName": "Shikari",
-                "AssemblyVersion": "0.8.5.0",
+                "AssemblyVersion": "0.9.0.0",
                 "Description": "Build, share and call raid strategies without leaving the game. Slide-based arena diagrams, per-player cooldown assignments, and shotcall reminders anchored to real boss casts or to timings the plugin learns from your own pulls.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/sorenwolfe/Shikari/main/images/icon.png",
                 "RepoUrl": "https://github.com/sorenwolfe/Shikari",
-                "LastUpdate": 1788687274
+                "LastUpdate": 1788773104
             }
         ]
     },
@@ -27131,12 +27172,12 @@
                 "Author": "SorenWolfe",
                 "Name": "Shikari",
                 "InternalName": "Shikari",
-                "AssemblyVersion": "0.8.5.0",
+                "AssemblyVersion": "0.9.0.0",
                 "Description": "Build, share and call raid strategies without leaving the game. Slide-based arena diagrams, per-player cooldown assignments, and shotcall reminders anchored to real boss casts or to timings the plugin learns from your own pulls.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/sorenwolfe/Shikari/main/images/icon.png",
                 "RepoUrl": "https://github.com/sorenwolfe/Shikari",
-                "LastUpdate": 1788687274
+                "LastUpdate": 1788773104
             }
         ]
     },
@@ -31428,19 +31469,19 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Macro%20Redirection/cursor_hr1.png",
                 "RepoUrl": "https://github.com/YouShux/DalamudPlugins/blob/main/Plugins/Macro%20Redirection/Macro%20Redirection.zip",
-                "LastUpdate": 1788636413,
+                "LastUpdate": 1788771872,
                 "is_closed_source": true
             },
             {
                 "Author": "YouShu",
                 "Name": "Omni Toolbox",
                 "InternalName": "OmniToolbox",
-                "AssemblyVersion": "1.1.1.6",
+                "AssemblyVersion": "1.1.1.8",
                 "Description": "支持物品价格查询、商店购买与兑换位置查找、库存追踪、食物/药品期望计算、物品监控预警自动补货、传送以及坐骑/宠物/发型/绘画作品的悬浮窗预览等等。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Resources/%E5%9B%BE%E6%A0%87.png",
                 "RepoUrl": "https://github.com/YouShux/DalamudPlugins/blob/main/Plugins/Omni%20Toolbox/Omni%20Toolbox.zip",
-                "LastUpdate": 1788636413,
+                "LastUpdate": 1788771872,
                 "is_closed_source": true
             }
         ]
