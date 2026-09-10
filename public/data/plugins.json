@@ -503,6 +503,25 @@
         ]
     },
     {
+        "repo_developer_name": "Aesthria",
+        "repo_url": "https://raw.githubusercontent.com/Aesthria/The-Crystarium-Boutique/main/repo.json",
+        "repo_source_url": "https://github.com/Aesthria/The-Crystarium-Boutique",
+        "repo_name": "The-Crystarium-Boutique",
+        "plugins": [
+            {
+                "Author": "Aesthria",
+                "Name": "The Crystarium Boutique",
+                "InternalName": "CrystariumBoutique",
+                "AssemblyVersion": "0.1.1.0",
+                "Description": "Browse FFXIV equipment like a boutique, preview items and dyes instantly, organize Favorites and Designs, use the Crystal Wardrobe, and view offline acquisition information.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Aesthria/The-Crystarium-Boutique/main/src/CrystariumBoutique/images/icon.png",
+                "RepoUrl": "https://github.com/Aesthria/The-Crystarium-Boutique",
+                "LastUpdate": 1789067721
+            }
+        ]
+    },
+    {
         "repo_developer_name": "aethel-tail",
         "repo_url": "https://raw.githubusercontent.com/aethel-tail/DalamudPlugins/main/pluginmaster.json",
         "repo_source_url": "https://github.com/aethel-tail/DalamudPlugins",
@@ -555,12 +574,12 @@
                 "Author": "Risa and Contributors",
                 "Name": "Customize+",
                 "InternalName": "CustomizePlus",
-                "AssemblyVersion": "2.2.1.2",
+                "AssemblyVersion": "2.2.1.3",
                 "Description": "A plugin that allows you to customize your character beyond FFXIV limitations by directly editing bone parameters.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Aether-Tools/CustomizePlus/main/Data/icon.png",
                 "RepoUrl": "https://github.com/Aether-Tools/CustomizePlus",
-                "LastUpdate": 1789004325
+                "LastUpdate": 1789072653
             }
         ]
     },
@@ -1950,12 +1969,12 @@
                 "Author": "Anmi",
                 "Name": "驯兽师助手",
                 "InternalName": "Beastmaster",
-                "AssemblyVersion": "0.1.16.0",
+                "AssemblyVersion": "0.1.18.0",
                 "Description": "追踪驯兽师任务链和魔兽图鉴收集进度，支持捕获消息自动记录、任务与图鉴目标导航，并可配合 vnavmesh 和 Lifestream 完成同地图移动及跨地图传送。",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/anmili2022/Beastmaster/main/images/icon.png",
+                "IconUrl": "https://raw.githubusercontent.com/anmili2022/Beastmaster/main/images/icon.png?v=2",
                 "RepoUrl": "https://github.com/anmili2022/Beastmaster",
-                "LastUpdate": 1789053169
+                "LastUpdate": 1789061948
             }
         ]
     },
@@ -4811,15 +4830,15 @@
         "repo_name": "Aetherstream",
         "plugins": [
             {
-                "Author": "Jasmine",
+                "Author": "CorkedFever",
                 "Name": "Aetherstream",
                 "InternalName": "Aetherstream",
-                "AssemblyVersion": "0.2.5.0",
+                "AssemblyVersion": "0.2.9.0",
                 "Description": "Puts a live stream on a screen anchored in the world: place it on a wall, size it, and watch while you play. Plays Twitch, YouTube, Plex and direct streams, painted onto a real in-game surface so the game lights and occludes it properly. Party groups let a room watch the same thing together from a six-character code.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/CorkedFever/Aetherstream/main/src/Aetherstream.Plugin/images/icon.png",
                 "RepoUrl": "https://github.com/CorkedFever/Aetherstream",
-                "LastUpdate": 1788582326,
+                "LastUpdate": 1789064641,
                 "is_ai_attributed": true
             }
         ]
@@ -9650,12 +9669,12 @@
                 "Author": "hanamigg",
                 "Name": "KupoTradeMaster",
                 "InternalName": "KupoTradeMaster",
-                "AssemblyVersion": "0.5.2.0",
+                "AssemblyVersion": "0.5.3.0",
                 "Description": "TSM-inspired FFXIV market flip ranker: auto-logged journal, Universalis-powered FlipScore, and a minimal price DSL. Read-only + user-clicks only.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/hanamigg/kupotrademaster/main/logo.png",
                 "RepoUrl": "https://github.com/hanamigg/kupotrademaster",
-                "LastUpdate": 1789046141
+                "LastUpdate": 1789068437
             }
         ]
     },
@@ -9767,7 +9786,7 @@
                 "Description": "For developers.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselDebug",
-                "LastUpdate": 1788888043
+                "LastUpdate": 1789047628
             },
             {
                 "Author": "Haselnussbomber",
@@ -9784,12 +9803,12 @@
                 "Author": "Haselnussbomber",
                 "Name": "LeveHelper",
                 "InternalName": "LeveHelper",
-                "AssemblyVersion": "2.5.6.0",
+                "AssemblyVersion": "2.6.0.0",
                 "Description": "A little helper to check which Levequests have been completed and which are missing.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/LeveHelper/refs/heads/main/LeveHelper/Assets/Icon.png",
                 "RepoUrl": "https://github.com/Haselnussbomber/LeveHelper",
-                "LastUpdate": 1788865239
+                "LastUpdate": 1789065486
             }
         ]
     },
@@ -13309,12 +13328,12 @@
                 "Author": "Anomek",
                 "Name": "AnoMech (TC)",
                 "InternalName": "AnoMech",
-                "AssemblyVersion": "0.3.16.0",
+                "AssemblyVersion": "0.3.16.3",
                 "Description": "在你的客戶端生出假隊友與假 boss，讓你一個人也能練習高難副本機制。進旅館後打 /anomech 開始。\n\n本分支是 anomek/AnoMech 針對繁體中文版（Dalamud API 13）的非官方移植，介面已繁中化。目前提供絕歐米茄 5 個與絕神兵 1 個場景；Dancing Mad 因為是 7.51 內容，繁中版客戶端沒有資料，故不包含。屬實驗性質，詳見 repo 說明。",
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/Knucklesssss/AnoMech-TW/api13-tw/images/icon.png",
                 "RepoUrl": "https://github.com/Knucklesssss/AnoMech-TW",
-                "LastUpdate": 1789053441,
+                "LastUpdate": 1789076323,
                 "is_ai_attributed": true
             }
         ]
@@ -13452,12 +13471,12 @@
                 "Author": "veyn, xan_0",
                 "Name": "Boss Mod",
                 "InternalName": "BossMod",
-                "AssemblyVersion": "7.5.6.2",
+                "AssemblyVersion": "7.5.6.3",
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1789009650
+                "LastUpdate": 1789053032
             },
             {
                 "Author": "sourpuh",
@@ -13474,12 +13493,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.756.0.1",
+                "AssemblyVersion": "15.756.1.0",
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1788977850,
+                "LastUpdate": 1789064607,
                 "is_ai_attributed": true
             },
             {
@@ -13502,7 +13521,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1789032849
+                "LastUpdate": 1789067643
             }
         ]
     },
@@ -13533,11 +13552,11 @@
                 "Author": "Kriss Hietala",
                 "Name": "Spiritbond Tracker",
                 "InternalName": "SpiritbondTracker",
-                "AssemblyVersion": "1.0.34.0",
+                "AssemblyVersion": "1.0.35.0",
                 "Description": "Tracks equipment spiritbond increases during duties, groups them by instance, and monitors active spiritbond buffs. Use /spiritbond to open the menu.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Kriss-Hietala/SpiritbondTracker",
-                "LastUpdate": 1789052470
+                "LastUpdate": 1789060786
             }
         ]
     },
@@ -15200,11 +15219,11 @@
                 "Author": "makuragami",
                 "Name": "Fisher Duty Scheduler",
                 "InternalName": "FisherDutyScheduler",
-                "AssemblyVersion": "0.6.1.0",
+                "AssemblyVersion": "0.6.2.0",
                 "Description": "在 MissFisher 的钓鱼等待间隙调用 AutoDuty，并在时间不足或流程结束后恢复所选钓鱼目标。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Makuragami/MissFisher_AutoDuty_Scheduler",
-                "LastUpdate": 1789049810
+                "LastUpdate": 1789065647
             }
         ]
     },
@@ -15427,12 +15446,12 @@
                 "Author": "MTitan",
                 "Name": "S Rank Sentinel",
                 "InternalName": "SRankSentinel",
-                "AssemblyVersion": "0.7.16.0",
+                "AssemblyVersion": "0.7.17.0",
                 "Description": "Consumes Faloop with optional HuntAlerts/Sonar fallbacks, maps POIs directly to local vnavmesh destinations without a game map flag, retries missing entities/routes without false-clearing, requires positive kill evidence, queues later hunts, and performs one gated ranged tag.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MarshalTitan/SRankSentinel/main/assets/icon.png",
                 "RepoUrl": "https://github.com/MarshalTitan/SRankSentinel",
-                "LastUpdate": 1789054114
+                "LastUpdate": 1789060331
             }
         ]
     },
@@ -15446,12 +15465,12 @@
                 "Author": "MTitan",
                 "Name": "S Rank Sentinel",
                 "InternalName": "SRankSentinel",
-                "AssemblyVersion": "0.7.16.0",
+                "AssemblyVersion": "0.7.17.0",
                 "Description": "Prototype HuntAlerts companion. v0.1 uses vnavmesh to approach and park safely away from an S rank and never attacks.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MarshalTitan/SRankSentinel/main/assets/icon.png",
                 "RepoUrl": "https://github.com/MarshalTitan/SRankSentinel",
-                "LastUpdate": 1789054113
+                "LastUpdate": 1789056125
             }
         ]
     },
@@ -16881,11 +16900,11 @@
                 "Author": "Mobijuan",
                 "Name": "Voice Callouts",
                 "InternalName": "VoiceCallouts",
-                "AssemblyVersion": "0.8.0.0",
+                "AssemblyVersion": "0.9.0.0",
                 "Description": "Listens for hostile boss casts while you're in a duty or an open-world boss\nencounter (FATEs, field bosses, etc.) and reads the ability name aloud via text-to-speech.\nConfigurable minimum cast time and repeat suppression, plus mechanic warnings (e.g. \"FRONTAL\")\nfrom your own notes, a bundled cactbot-derived data set, and the game's own data.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Mobijuan/VoiceCallouts",
-                "LastUpdate": 1788797253,
+                "LastUpdate": 1789056973,
                 "is_ai_attributed": true
             }
         ]
@@ -17236,9 +17255,9 @@
     },
     {
         "repo_developer_name": "mr-reeh",
-        "repo_url": "https://raw.githubusercontent.com/mr-reeh/Milk-Meter/main/repo.json",
-        "repo_source_url": "https://github.com/mr-reeh/Milk-Meter",
-        "repo_name": "Milk-Meter",
+        "repo_url": "https://raw.githubusercontent.com/mr-reeh/milk-meter/main/repo.json",
+        "repo_source_url": "https://github.com/mr-reeh/milk-meter",
+        "repo_name": "milk-meter",
         "plugins": [
             {
                 "Author": "MrReeh",
@@ -17254,9 +17273,9 @@
     },
     {
         "repo_developer_name": "mr-reeh",
-        "repo_url": "https://raw.githubusercontent.com/mr-reeh/milk-meter/main/repo.json",
-        "repo_source_url": "https://github.com/mr-reeh/milk-meter",
-        "repo_name": "milk-meter",
+        "repo_url": "https://raw.githubusercontent.com/mr-reeh/Milk-Meter/main/repo.json",
+        "repo_source_url": "https://github.com/mr-reeh/Milk-Meter",
+        "repo_name": "Milk-Meter",
         "plugins": [
             {
                 "Author": "MrReeh",
@@ -17582,12 +17601,12 @@
                 "Author": "naco-ff14",
                 "Name": "AltMate",
                 "InternalName": "AltMate",
-                "AssemblyVersion": "1.61.1.0",
+                "AssemblyVersion": "1.61.2.0",
                 "Description": "AltMate supports multiple FFXIV clients running on the same PC. It provides linked controls, housing tracking, Penumbra emote playback, and shared gil summaries. Data stays on the local PC. Japanese and English UI are supported.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/naco-ff14/AltMate/main/images/icon.png",
                 "RepoUrl": "https://github.com/naco-ff14/AltMate",
-                "LastUpdate": 1789005399
+                "LastUpdate": 1789071635
             }
         ]
     },
@@ -19924,12 +19943,12 @@
                 "Author": "Faye, Kage",
                 "Name": "Better Occult Crescent & Chest Helper Interface",
                 "InternalName": "BOCCHI",
-                "AssemblyVersion": "4.2.0.12",
+                "AssemblyVersion": "4.2.0.13",
                 "Description": "BOCCHI is here to smooth out your Occult Crescent experience.\n- No more of that pesky 'walking' or 'finding chests'. That's for losers.\n- A cute little Fate and CE panel that'll tell you what rewards it gives AND help you automatically path to it, wowee.\n- An extre illegal 'illegal mode' for those of you that would rather be touching grass or playing a game with worthwhile content.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/OhKannaDuh/BOCCHI/master/assets/icon.png",
                 "RepoUrl": "https://github.com/OhKannaDuh/OccultCrescentHelper",
-                "LastUpdate": 1788979525
+                "LastUpdate": 1789068031
             }
         ]
     },
@@ -19975,23 +19994,23 @@
                 "Author": "okaminico (based on ffxiv-tc-port's fork of BossMod Reborn)",
                 "Name": "Bossmod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.20.0.122",
+                "AssemblyVersion": "7.20.0.125",
                 "Description": "提供 Boss 戰雷達、自動循環、冷卻計劃與 AI 功能，幫助您輕鬆應對各種 Boss 機制。\n\n本版本新增兩個模組：E4S 泰坦(伊甸零式：光影1，OID/AID 已用遊戲內確認)、極月讀(The Wreath of Snakes Extreme，從社群國服版移植，尚未實機測試)。",
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/ffxiv-tc-port/DalamudPluginsTC/main/icons/BossModReborn.png",
                 "RepoUrl": "https://github.com/okaminico/BossmodReborn",
-                "LastUpdate": 1789040818,
+                "LastUpdate": 1789067458,
                 "is_ai_attributed": true
             },
             {
                 "Author": "okaminico (based on ffxiv-tc-port's fork of NightmareXIV/Lifestream)",
                 "Name": "Lifestream",
                 "InternalName": "Lifestream",
-                "AssemblyVersion": "7.15.0.6",
+                "AssemblyVersion": "7.15.0.7",
                 "Description": "- 一鍵傳送至任何世界或以太之光目的地\n- 點擊區域地圖上的以太之光即可傳送過去\n\n本版本修正了台服(TC)無法正確解析以太之光目的地名稱的問題。",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/okaminico/Lifestream-1",
-                "LastUpdate": 1788814346,
+                "LastUpdate": 1789071045,
                 "is_ai_attributed": true
             },
             {
@@ -20666,7 +20685,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Aether-Tools/CustomizePlus/main/Data/icon.png",
                 "RepoUrl": "https://github.com/Aether-Tools/CustomizePlus",
-                "LastUpdate": 1789004325
+                "LastUpdate": 1789072653
             },
             {
                 "Author": "NightmareXIV, AsunaTsuki",
@@ -20683,12 +20702,12 @@
                 "Author": "Ottermandias",
                 "Name": "Glamourer",
                 "InternalName": "Glamourer",
-                "AssemblyVersion": "1.7.1.0",
+                "AssemblyVersion": "1.7.1.1",
                 "Description": "Adds functionality to change and store appearance of players, customization and equip. Requires Penumbra to be installed and activated to work. Can also add preview options to the Changed Items tab for Penumbra.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Ottermandias/Glamourer/main/images/icon.png",
                 "RepoUrl": "https://github.com/Ottermandias/Glamourer",
-                "LastUpdate": 1789050537
+                "LastUpdate": 1789076561
             },
             {
                 "Author": "Anna",
@@ -20727,7 +20746,7 @@
                 "Author": "Ottermandias, Nylfae, Adam, Wintermute",
                 "Name": "Penumbra",
                 "InternalName": "Penumbra",
-                "AssemblyVersion": "1.7.1.1",
+                "AssemblyVersion": "1.7.1.2",
                 "Description": "Runtime mod loader and manager.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png",
@@ -21963,7 +21982,7 @@
                 "Author": "Asuna",
                 "Name": "SimpleMiniGames",
                 "InternalName": "SimpleMiniGames",
-                "AssemblyVersion": "1.0.2.0",
+                "AssemblyVersion": "1.0.2.1",
                 "Description": "A fun collection of bar games, Cards Against Humanity, Liar's Dice and UNO",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/141",
@@ -22116,12 +22135,12 @@
                 "Author": "the Puni.sh Quest Squad",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.756.0.1",
+                "AssemblyVersion": "15.756.1.0",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1788977850,
+                "LastUpdate": 1789064607,
                 "is_ai_attributed": true
             },
             {
@@ -22155,7 +22174,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1789032849
+                "LastUpdate": 1789067643
             },
             {
                 "Author": "daemitus, croizat",
@@ -22462,11 +22481,11 @@
                 "Author": "Knightmore",
                 "Name": "Knightshopper",
                 "InternalName": "Knightshopper",
-                "AssemblyVersion": "1.0.0.4",
+                "AssemblyVersion": "1.0.0.5",
                 "Description": "Your personal shopper who will take care of all your currency spendings!\n\nKnightshopper: because even knights deserve a squire for their shopping.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/173",
-                "LastUpdate": 1788905633
+                "LastUpdate": 1789069475
             }
         ]
     },
@@ -22485,7 +22504,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/160",
                 "RepoUrl": "https://github.com/Nainaiowo/better-deaths",
-                "LastUpdate": 1789007849,
+                "LastUpdate": 1789068070,
                 "is_ai_attributed": true
             },
             {
@@ -24037,11 +24056,11 @@
                 "Author": "Rayla Petal",
                 "Name": "Oathbound",
                 "InternalName": "Oathbound.Plugin",
-                "AssemblyVersion": "0.0.2.3",
+                "AssemblyVersion": "0.0.3.4",
                 "Description": "A consent-based collar control plugin. An Owner sends outfit, title, gesture, and follow/leash commands as ordinary in-game tells - no server, no hosting; the Sub's own client watches for them and applies them locally via Glamourer, Honorific, and Penumbra, and existing sync tooling propagates the result to everyone paired with the Sub.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/raylapetal/xiv-collar",
-                "LastUpdate": 1789048741,
+                "LastUpdate": 1789067797,
                 "is_ai_attributed": true
             }
         ]
@@ -26095,11 +26114,11 @@
                 "Author": "Sansflaire",
                 "Name": "FFXIV Miscellaneous Challenges",
                 "InternalName": "TieriChallengesFFXIV",
-                "AssemblyVersion": "0.84.42.25",
+                "AssemblyVersion": "0.84.42.41",
                 "Description": "A tracker for miscellaneous self-imposed FFXIV challenges across combat, exploration, gathering, crafting and social play. Challenges complete themselves when their conditions are met - walk a route, emote at a spot, ride a particular mount somewhere, or wear a full outfit in a given zone - and a popup celebrates each one. Progress is kept per install with the date you finished each challenge, and a separate permanent record means a reset is always recoverable. Includes a suggestion button for sending ideas straight to the developer. Commands: /tchallenges, /tchal",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Sansflaire/TieriChallengesFFXIV-Public",
-                "LastUpdate": 1789042829
+                "LastUpdate": 1789076489
             }
         ]
     },
@@ -27051,6 +27070,25 @@
         ]
     },
     {
+        "repo_developer_name": "Sinesters",
+        "repo_url": "https://raw.githubusercontent.com/Sinesters/blasttv-dist/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/Sinesters/blasttv-dist",
+        "repo_name": "blasttv-dist",
+        "plugins": [
+            {
+                "Author": "SinesterPT",
+                "Name": "BlastTV",
+                "InternalName": "BlastTV",
+                "AssemblyVersion": "0.1.3.0",
+                "Description": "Put a TV on your house wall playing video from YouTube, Twitch or Kick.\n\nEveryone announces their own TV and you pick which one to watch. Whoever tunes in sees the screen on the wall the owner chose, at the size they set.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Sinesters/blasttv-dist/main/icon.png",
+                "RepoUrl": "https://github.com/Sinesters/blasttv-dist",
+                "LastUpdate": 1789073539
+            }
+        ]
+    },
+    {
         "repo_url": "https://raw.githubusercontent.com/Skooz/Zookins/main/pluginmaster.json",
         "repo_source_url": "https://github.com/Skooz/Zookins",
         "plugins": [
@@ -27123,13 +27161,13 @@
             {
                 "Author": "Raiden Shinryu",
                 "Name": "Gleam",
-                "InternalName": "TidyUp",
-                "AssemblyVersion": "0.9.5.0",
-                "Description": "Gleam cleans and organizes your inventory, and does the walking itself.\n\nClean: it finds junk in your bags, armoury chest, saddlebag, retainers and glamour dresser and shows it in one list. You choose whether to sell on the market board, sell to vendors or discard, then press one button.\n\nOrganize: layouts move the items you keep to where you want them. For example, materia to the saddlebag, spare gear to a retainer and gear-set pieces to the armoury chest.\n\nNothing is changed until you press the button. Items that will be cleaned or moved are highlighted in the game's bag windows. Gleam then opens the saddlebag, travels to an inn for your retainers and the dresser, and visits your Grand Company when something is to be turned in.\n\nCommands: /gleam or /gl. Sub-commands: organize, history, settings, stop.\n\nPlugins Gleam needs:\nvnavmesh walks your character from place to place. Gleam needs it.\nLifestream teleports between aetherytes and into inns. Without it, start a run while you are already in an inn.\n\nOptional:\nAutoRetainer lets Gleam discard junk after each retainer's ventures.\nAllagan Tools shows retainer contents without summoning them.\nMarket prices come from Universalis and need an internet connection.",
+                "InternalName": "Gleam",
+                "AssemblyVersion": "0.11.0.0",
+                "Description": "Gleam cleans and organizes your inventory, and does the walking itself.\n\nClean: it finds junk in your bags, armoury chest, saddlebag, retainers and glamour dresser and shows it in one list. You choose whether to sell on the market board, sell to vendors or discard, then press one button.\n\nOrganize: layouts move the items you keep to where you want them. For example, materia to the saddlebag, spare gear to a retainer and gear-set pieces to the armoury chest.\n\nNothing is changed until you press the button. Items that will be cleaned or moved are highlighted in the game's bag windows. Gleam then opens the saddlebag, travels to an inn for your retainers and the dresser, and visits your Grand Company when something is to be turned in.\n\nPlease note: Gleam moves your character and clicks through the game's menus for you. Square Enix's terms of service do not allow third-party tools, and automation is what they act against most. Use it at your own risk. Organizing is still a preview and has not had a full test in game.\n\nCommands: /gleam or /gl. Sub-commands: organize, history, settings, stop, selftest, report.\n\nPlugins Gleam needs:\nvnavmesh walks your character from place to place. Gleam needs it.\nLifestream teleports between aetherytes and into inns. Without it, start a run while you are already in an inn.\n\nOptional:\nAutoRetainer lets Gleam discard junk after each retainer's ventures.\nAllagan Tools shows retainer contents without summoning them.\nMarket prices come from Universalis and need an internet connection.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/sleousis/Gleam/main/src/Gleam/images/icon.png",
                 "RepoUrl": "https://github.com/sleousis/Gleam",
-                "LastUpdate": 1789054315,
+                "LastUpdate": 1789065267,
                 "is_ai_attributed": true
             }
         ]
@@ -27438,7 +27476,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://dl.solona.info/icon.png",
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1789040219,
+                "LastUpdate": 1789076089,
                 "is_ai_attributed": true
             }
         ]
@@ -28365,12 +28403,12 @@
                 "Author": "Anmi (fork maintained by T3chnicalD3ath Inc.)",
                 "Name": "Beast Master Helper",
                 "InternalName": "BeastMasterHelper",
-                "AssemblyVersion": "0.3.9.0",
+                "AssemblyVersion": "0.3.10.0",
                 "Description": "Tracks the Beastmaster quest chain and beast-catalogue collection progress, auto-recording captures from chat and offering navigation to quest and catalogue targets. Works with vnavmesh for same-map travel and Lifestream for cross-map teleports.\n\nAn English fork of Anmi's Beastmaster plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/t3knical/DalamudPlugins/main/plugins/BeastMasterHelper/icon.png",
                 "RepoUrl": "https://github.com/t3knical/DalamudPlugins",
-                "LastUpdate": 1789048217
+                "LastUpdate": 1789067109
             },
             {
                 "Author": "T3chnicalD3ath Inc.",
@@ -28790,12 +28828,12 @@
                 "Author": "TheKHD5",
                 "Name": "Bestiary Nav",
                 "InternalName": "BestiaryNav",
-                "AssemblyVersion": "0.5.9.0",
+                "AssemblyVersion": "0.6.0.0",
                 "Description": "Click a Bestiary entry to find its capture location or duty. Highlight nearby uncaptured beasts and optionally travel to them with Lifestream and vnavmesh. /bnav opens the Bestiary; /bnav config opens settings.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://cdn.jsdelivr.net/gh/TheKHD5/Bestiary-Nav@v0.5.6/assets/icon.png",
                 "RepoUrl": "https://github.com/TheKHD5/Bestiary-Nav",
-                "LastUpdate": 1789053563
+                "LastUpdate": 1789076795
             }
         ]
     },
@@ -29336,12 +29374,12 @@
                 "Author": "Nori",
                 "Name": "MasterBaiter",
                 "InternalName": "MasterBaiter",
-                "AssemblyVersion": "0.5.7.0",
+                "AssemblyVersion": "0.6.0.0",
                 "Description": "Reads your GatherBuddy Reborn auto-gather list, works out which fishing bait and lures those fish need, and compares that against your inventory.\n\nIt shows what is missing, where to buy it and what it costs. It travels to the vendors on its own with vnavmesh and Lifestream, restocks at gil shops and scrip exchanges, plans a route across several vendors, rides to the Cosmic Exploration planets, and can fill the rest at the market board within a price per item and a total per run that you set.\n\nOpens with /masterbaiter or the shorter /mbait.\n\nRequires GatherBuddy Reborn, vnavmesh and Lifestream.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/trumph21/MasterBaiter/main/images/icon.png",
                 "RepoUrl": "https://github.com/trumph21/MasterBaiter",
-                "LastUpdate": 1788995269,
+                "LastUpdate": 1789059825,
                 "is_ai_attributed": true
             }
         ]
@@ -31392,12 +31430,12 @@
                 "Author": "XozaShadow",
                 "Name": "StatusShift",
                 "InternalName": "StatusShift",
-                "AssemblyVersion": "0.1.6.2",
+                "AssemblyVersion": "1.0.0.0",
                 "Description": "Rules change your search comment, online status, and optional commands from zone, duty, activity, job, world, and schedule.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XozaShadow/StatusShift/main/images/icon.png",
                 "RepoUrl": "https://github.com/XozaShadow/StatusShift",
-                "LastUpdate": 1788666834
+                "LastUpdate": 1789069849
             }
         ]
     },
