@@ -5559,12 +5559,12 @@
                 "Author": "fire",
                 "Name": "FireGaze",
                 "InternalName": "FireGaze",
-                "AssemblyVersion": "1.0.0.1",
+                "AssemblyVersion": "1.0.0.9",
                 "Description": "FireGaze 是给卫月（Dalamud）用的一体化工具箱，三种功能：① 插件简介汉化：内置 1500+ 条第三方插件简中词表，安装器里的插件名、一行简介、插件详情都可以独立选择「英语原版 / 中文 / 双语」呈现（默认：名字原版、简介中文、详情中英对照）；② 第三方仓库体检：一键扫描你添加的全部库（含已停用的），找出死链、内容不合规、连接失败的条目并列出，支持一键停用、一键删除（删除前自动备份、可撤回）；③ 列表自动刷新拦截：部分插件（如「每日随记」Daily Routines、XSZToolbox，以及经 OmenTools 等公共库转发的调用）会每 10 分钟反射调用卫月「重载全部仓库」，导致安装器列表自刷新、滚动位置被顶回顶部；本插件按调用来源拦截这些后台刷新，手动刷新与打开安装器不受影响。",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/DCritHitFireIV/FireGaze/main/Resources/icon.png",
+                "IconUrl": "https://raw.githubusercontent.com/DCritHitFireIV/FireGaze/main/Resources/icon.png?v=2",
                 "RepoUrl": "https://github.com/DCritHitFireIV/FireGaze",
-                "LastUpdate": 1789558244
+                "LastUpdate": 1789574341
             }
         ]
     },
@@ -7638,12 +7638,12 @@
                 "Author": "The Enceladeum",
                 "Name": "HMapSync (HMS)",
                 "InternalName": "HMSync",
-                "AssemblyVersion": "1.0.2.0",
+                "AssemblyVersion": "1.0.3.0",
                 "Description": "Load any in-game map client-side and explore it solo or with up to 20 friends, behind a packet filter that keeps the server seeing you as idle in your room. Shared weather, BGM and time; client-side mounts, emotes and minions; carpet floors for spots without collision; head-tilt and gaze sync for roleplay; and proximity say/yell passthrough. Co-op needs a relay key (closed beta); solo mode never connects to the relay.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Enceladeum/HMapSync/main/images/icon.png",
                 "RepoUrl": "https://github.com/Enceladeum/HMapSync",
-                "LastUpdate": 1789082235,
+                "LastUpdate": 1789575181,
                 "is_ai_attributed": true
             },
             {
@@ -8149,7 +8149,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1789469234
+                "LastUpdate": 1789554942
             }
         ]
     },
@@ -8608,7 +8608,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1789489885
+                "LastUpdate": 1789580842
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -9460,6 +9460,24 @@
                 "IconUrl": "https://gezimao.github.io/Plugins/plugins/NotePlugin/icon.png",
                 "RepoUrl": "https://github.com/gezimao/notePlugin",
                 "LastUpdate": 1782732667
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Ghost-Enterprises",
+        "repo_url": "https://raw.githubusercontent.com/Ghost-Enterprises/67852802dcc14bf5b0332249e5bf10c6/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/Ghost-Enterprises/67852802dcc14bf5b0332249e5bf10c6",
+        "repo_name": "67852802dcc14bf5b0332249e5bf10c6",
+        "plugins": [
+            {
+                "Author": "Ghost",
+                "Name": "Ghost",
+                "InternalName": "Ghost",
+                "AssemblyVersion": "0.1.0.2",
+                "Description": "Assist clicks quest dialogs by type and fires job priority trees when you have a target. Later modes share the same services.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Ghost-Enterprises/67852802dcc14bf5b0332249e5bf10c6",
+                "LastUpdate": 1789577111
             }
         ]
     },
@@ -10654,7 +10672,7 @@
                 "Author": "MusicManBowls, kihtli",
                 "Name": "Hunt Helper Evolved",
                 "InternalName": "HuntHelperEvolved",
-                "AssemblyVersion": "0.5.0.19",
+                "AssemblyVersion": "0.5.0.20",
                 "Description": "Hunt tracking for FFXIV. Detects marks and records a train with exact kill times, posts Discord reports sorted by the order marks actually died, draws spawn points, your detection range and SS event locations on the in-game map, counts S-rank trigger mobs, and keeps a lifetime per-mark kill tally per character.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/HuntHelperEvolved/HuntHelperEvolved/main/icon.png",
@@ -12962,12 +12980,12 @@
                 "Author": "Karriis",
                 "Name": "PVPLOGSCN",
                 "InternalName": "PVPLOGSCN",
-                "AssemblyVersion": "3.0.1.0",
+                "AssemblyVersion": "3.0.2.0",
                 "Description": "PVPLOGSCN 是面向中国大陆《最终幻想XIV》玩家的 PvP 数据记录与上传插件，支持水晶冲突、纷争前线和烈羽争锋。插件可查看本地最近战绩、管理上传日志，并为纷争前线采集地图回放数据。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://pvpdata.com/plugin-icon.png?v=4",
                 "RepoUrl": "https://github.com/Karriis/PVPLOGSCN-PluginRepo",
-                "LastUpdate": 1789529040
+                "LastUpdate": 1789576337
             }
         ]
     },
@@ -13877,7 +13895,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1789442314,
+                "LastUpdate": 1789573374,
                 "is_ai_attributed": true
             },
             {
@@ -13917,12 +13935,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.756.3.3",
+                "AssemblyVersion": "15.756.3.4",
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1789535159,
+                "LastUpdate": 1789568380,
                 "is_ai_attributed": true
             },
             {
@@ -14216,7 +14234,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/la1998/ArtyDistribution/main/images/RollTracker/icon.png?v=0.1.0.68",
                 "RepoUrl": "https://github.com/la1998/ArtyDistribution",
-                "LastUpdate": 1789475159
+                "LastUpdate": 1789574573
             }
         ]
     },
@@ -18646,12 +18664,12 @@
                 "Author": "Neprena",
                 "Name": "Eorzea Events",
                 "InternalName": "EorzeaEventsPlugin",
-                "AssemblyVersion": "2.12.0.0",
+                "AssemblyVersion": "2.13.0.0",
                 "Description": "Gérez vos sessions RP Eorzea Events directement depuis le jeu.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Neprena/eorzea-events-plugin/main/Plugin_Logo.png",
                 "RepoUrl": "https://github.com/Neprena/eorzea-events-plugin",
-                "LastUpdate": 1789331803
+                "LastUpdate": 1789564951
             }
         ]
     },
@@ -20590,26 +20608,6 @@
     },
     {
         "repo_developer_name": "okaminico",
-        "repo_url": "https://raw.githubusercontent.com/okaminico/AutoDuty-1/tw-fix/repo.json",
-        "repo_source_url": "https://github.com/okaminico/AutoDuty-1",
-        "repo_name": "AutoDuty-1",
-        "plugins": [
-            {
-                "Author": "okaminico (based on ffxiv-tc-port's fork of AutoDuty)",
-                "Name": "AutoDuty",
-                "InternalName": "AutoDuty",
-                "AssemblyVersion": "7.15.1.58",
-                "Description": "自動幫你跑副本，支援信賴的同伴、達人指引、士官兵團、多變或一般模式。需搭配 BossModReborn、vnavmesh 與一款戰鬥循環插件（WrathCombo 或 BossMod AutoRotation）使用。\n\n本版本修正了《巴哈姆特禁欲者(邂逅篇)》Turn 3 走路會卡住的問題，並修正了「打完副本不會自動離開」——結算選單重複呼叫 Show() 疑似打斷了它自己的載入流程，改成只在視窗真的不可見時才呼叫。",
-                "DalamudApiLevel": 13,
-                "IconUrl": "https://raw.githubusercontent.com/ffxiv-tc-port/DalamudPluginsTC/main/icons/AutoDuty.png",
-                "RepoUrl": "https://github.com/okaminico/AutoDuty-1",
-                "LastUpdate": 1789420748,
-                "is_ai_attributed": true
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "okaminico",
         "repo_url": "https://raw.githubusercontent.com/okaminico/DalamudPluginsTW/main/repo.json",
         "repo_source_url": "https://github.com/okaminico/DalamudPluginsTW",
         "repo_name": "DalamudPluginsTW",
@@ -20668,45 +20666,6 @@
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/okaminico/RotationSolverReborn",
                 "LastUpdate": 1789335008
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "okaminico",
-        "repo_url": "https://raw.githubusercontent.com/okaminico/Questionable-1/tw-fix/repo.json",
-        "repo_source_url": "https://github.com/okaminico/Questionable-1",
-        "repo_name": "Questionable-1",
-        "plugins": [
-            {
-                "Author": "okaminico (based on ffxiv-tc-port's fork of liza/Questionable)",
-                "Name": "Questionable",
-                "InternalName": "Questionable",
-                "AssemblyVersion": "7.20.1.2",
-                "Description": "自動接取並完成任務，使用 navmesh 自動走路到任務座標並嘗試自動完成沿路的步驟(不含副本、單人任務、戰鬥)。\n\n本版本修正了「卡住時自動重新整理任務步驟」功能，新增「連續中斷重試 3 次後主動傳送到最近的大水晶」，並把移動卡住的反應時間從寫死 5 秒改成可調、預設 2.5 秒，避免長時間原地跑步被看到。",
-                "DalamudApiLevel": 13,
-                "RepoUrl": "https://github.com/okaminico/Questionable-1",
-                "LastUpdate": 1788913655,
-                "is_ai_attributed": true
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "okaminico",
-        "repo_url": "https://raw.githubusercontent.com/okaminico/TataruPraise/tw-fix/repo.json",
-        "repo_source_url": "https://github.com/okaminico/TataruPraise",
-        "repo_name": "TataruPraise",
-        "plugins": [
-            {
-                "Author": "okaminico (based on ffxiv-tc-port's fork of TataruPraise)",
-                "Name": "塔塔露誇獎",
-                "InternalName": "TataruPraise",
-                "AssemblyVersion": "7.20.0.8",
-                "Description": "遊戲裡發生事情的時候，用塔塔露的聲音喊一句極短的提示——「完美收工！」「後面！」「排到了！」。不是要太多對話，只是要有聲音。每個情境一句、全部 8 個字以內，情境有副本完成／升等／登入／Gil 里程碑／血量低／背後有人／收到密語／副本排到／組隊邀請／交易請求等，各自獨立開關（預設全部關閉）。播的是事先合成好的語音檔，執行期完全不連網。語音來自本機的 GPT-SoVITS 橋接（預設 http://127.0.0.1:9882），沒有橋接就只是不出聲，不會卡遊戲。設定視窗可以直接編輯每個情境的短句；資訊列上有一格，點一下切換總開關。指令 /tataru 開啟設定視窗，/tataru test 試播一句。\n\n本版本修正了離開等級壓制的副本／大型任務時，明明只是恢復原本等級卻被誤判成升等而喊出語音的問題。",
-                "DalamudApiLevel": 13,
-                "IconUrl": "https://raw.githubusercontent.com/ffxiv-tc-port/DalamudPluginsTC/main/icons/TataruPraise.png",
-                "RepoUrl": "https://github.com/okaminico/TataruPraise",
-                "LastUpdate": 1788986564,
-                "is_ai_attributed": true
             }
         ]
     },
@@ -20952,12 +20911,12 @@
                 "Author": "Olympia-Guardian",
                 "Name": "Codex Olympia Synchronisation",
                 "InternalName": "CodexOlympia",
-                "AssemblyVersion": "2.9.3.0",
+                "AssemblyVersion": "2.9.5.0",
                 "Description": "Lit ce que ton personnage a debloque dans le jeu et l'envoie a Codex Olympia, a la demande. Rien n'est envoye sans que tu le demandes, et rien n'est jamais decoche a ta place : les ecarts te sont rapportes dans l'application, et c'est toi qui tranches.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Olympia-Guardian/CodexOlympia/main/icon.png",
                 "RepoUrl": "https://github.com/Olympia-Guardian/codex-olympia-dalamud",
-                "LastUpdate": 1789553559
+                "LastUpdate": 1789566895
             }
         ]
     },
@@ -20992,12 +20951,12 @@
                 "Author": "Olympia-Guardian",
                 "Name": "Codex Olympia Synchronisation",
                 "InternalName": "CodexOlympia",
-                "AssemblyVersion": "2.9.3.0",
+                "AssemblyVersion": "2.9.5.0",
                 "Description": "Reads what your character has unlocked in-game, collections, outfits and armoire included, shows it to you, and sends it to Codex Olympia when you ask. Nothing is sent without your action, and nothing is ever unchecked on your behalf: gaps are reported in the app, where you decide. Also prints a chat notice when an outfit piece lands in your bags. Exclusive to the Codex Olympia website (https://olympia-guardian.github.io/): without an account on the app, this plugin is useless.\n\nLit ce que ton personnage a debloque dans le jeu, tenues et armoire comprises, te le montre, et l'envoie a Codex Olympia quand tu le demandes. Rien n'est envoye sans ton geste, et rien n'est jamais decoche a ta place : les ecarts sont rapportes dans l'application, et c'est toi qui tranches. Previent aussi dans le journal quand une piece de tenue arrive dans tes sacs. Exclusif au site Codex Olympia : sans compte sur l'application, il ne sert a rien.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Olympia-Guardian/CodexOlympia/main/icon.png",
                 "RepoUrl": "https://github.com/Olympia-Guardian/CodexOlympia",
-                "LastUpdate": 1789553559
+                "LastUpdate": 1789566895
             }
         ]
     },
@@ -21297,7 +21256,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1789469234
+                "LastUpdate": 1789554942
             },
             {
                 "Author": "Risa and Contributors",
@@ -21336,12 +21295,12 @@
                 "Author": "Anna",
                 "Name": "Heliosphere",
                 "InternalName": "heliosphere-plugin",
-                "AssemblyVersion": "4.10.3.0",
+                "AssemblyVersion": "4.10.5.0",
                 "Description": "Heliosphere is a mod manager and platform designed to work directly with\nPenumbra. It enables efficient downloads and fast installs to let you get back\nto the fun part of mods: using them.\n\nHeliosphere supports:\n- Direct install to Penumbra\n- Compressed and deduplicated (read: small) downloads\n- Automatic updates (optional)\n- Version history\n- Mod changelogs\n- Pictures in Penumbra\n- And more\n\nGive Heliosphere a try, and see if you can't say goodbye to any old mod\nplatform you were using before.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://repo.heliosphere.app/icon.png",
                 "RepoUrl": "https://heliosphere.app/",
-                "LastUpdate": 1785858414
+                "LastUpdate": 1789577296
             },
             {
                 "Author": "Chirp, Cazzar, Bwuny, Karou, and contributors",
@@ -21374,7 +21333,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png",
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1789341142
+                "LastUpdate": 1789576401
             },
             {
                 "Author": "Caraxi",
@@ -22815,12 +22774,12 @@
                 "Author": "the Puni.sh Quest Squad",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.756.3.3",
+                "AssemblyVersion": "15.756.3.4",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1789535159
+                "LastUpdate": 1789568380
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -22926,7 +22885,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1789442314
+                "LastUpdate": 1789573374
             },
             {
                 "Author": "erdelf",
@@ -24132,11 +24091,11 @@
                 "Author": "Qmeko",
                 "Name": "PetMove",
                 "InternalName": "PetMove",
-                "AssemblyVersion": "0.0.1.1",
+                "AssemblyVersion": "0.0.2.0",
                 "Description": "自分の召喚獣・フェアリーに「移動」を出して、指定した座標へ歩かせます。/petmove x y z、here、target、follow、list、cursor。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Qmeko/PetMove",
-                "LastUpdate": 1789450630,
+                "LastUpdate": 1789561699,
                 "is_ai_attributed": true
             },
             {
@@ -24182,7 +24141,7 @@
                 "Author": "菱叶",
                 "Name": "亚拉戈终端",
                 "InternalName": "EorzeaPhone",
-                "AssemblyVersion": "0.7.77",
+                "AssemblyVersion": "0.7.108",
                 "Description": "XIVChat 的独立手机终端配套插件，提供中文聊天、好友列表、角色资料和实时背包数据。与原 XIVChat 插件分开安装，使用相同的加密端口。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/QuserH/Xivchat",
@@ -24729,22 +24688,22 @@
                 "Author": "Rayla Petal",
                 "Name": "ReactToMe",
                 "InternalName": "ReactToMe",
-                "AssemblyVersion": "0.0.0.2",
+                "AssemblyVersion": "0.0.0.3",
                 "Description": "Listens for emotes targeted at you and applies a configured Glamourer design and Moodles status in response, automatically reverting the Glamourer design after a set duration.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/RaylaPetal/ReactToMe",
-                "LastUpdate": 1789051838,
+                "LastUpdate": 1789575019,
                 "is_ai_attributed": true
             },
             {
                 "Author": "Rayla Petal",
                 "Name": "WatchAlong",
                 "InternalName": "WatchAlong",
-                "AssemblyVersion": "0.1.2.3",
+                "AssemblyVersion": "0.1.2.4",
                 "Description": "Puts a Kosmi room on a screen inside FFXIV, joining as a real Kosmi guest via a\r\nsandboxed out-of-process browser, so playback stays perfectly synced with the rest of the room.\r\n\r\nCommands:\r\n/wa - toggle the main viewer/control window\r\n/wa view - open the main window\r\n/wa join <kosmi url or WA1: invite> - join a room, or accept an invite (with confirmation)\r\n/wa settings - open Settings (identity, volume/mute, join/leave, invite, screen placement)\r\n/wa invite - copy a shareable invite for your current room and screen\r\n/wa sync <WA1P: message> - apply a shared screen position (with confirmation)\r\n/wa place - open the screen placement window\r\n/wa depth - toggle quad vs. depth-tested screen rendering\r\n/wa vol <0-150> - set volume\r\n/wa mute - toggle mute\r\n/wa snapshot - save a debug screenshot + DOM outline",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/RaylaPetal/kosmi-watch-14",
-                "LastUpdate": 1789180522,
+                "LastUpdate": 1789568755,
                 "is_ai_attributed": true
             }
         ]
@@ -24759,11 +24718,11 @@
                 "Author": "Rayla Petal",
                 "Name": "ReactToMe",
                 "InternalName": "ReactToMe",
-                "AssemblyVersion": "0.0.0.2",
+                "AssemblyVersion": "0.0.0.3",
                 "Description": "Listens for emotes targeted at you and applies a configured Glamourer design and Moodles status in response, automatically reverting the Glamourer design after a set duration.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/RaylaPetal/ReactToMe",
-                "LastUpdate": 1789051837,
+                "LastUpdate": 1789575018,
                 "is_ai_attributed": true
             }
         ]
@@ -27339,6 +27298,74 @@
         ]
     },
     {
+        "repo_developer_name": "ShadowstarIO",
+        "repo_url": "https://raw.githubusercontent.com/ShadowstarIO/LightsOn/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/ShadowstarIO/LightsOn",
+        "repo_name": "LightsOn",
+        "plugins": [
+            {
+                "Author": "XozaShadow",
+                "Name": "LightsOn",
+                "InternalName": "LightsOn",
+                "AssemblyVersion": "0.0.0.0",
+                "Description": "Occupancy for listed venues and short outdoor scenes. Reports are lanterns lit or wrapped up early, never names or counts. Optional log-book notes while the lanterns are lit.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/XozaShadow/LightsOn/main/images/icon.png",
+                "RepoUrl": "https://github.com/XozaShadow/LightsOn",
+                "LastUpdate": 1789562092
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "ShadowstarIO",
+        "repo_url": "https://raw.githubusercontent.com/ShadowstarIO/StatusShift/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/ShadowstarIO/StatusShift",
+        "repo_name": "StatusShift",
+        "plugins": [
+            {
+                "Author": "XozaShadow",
+                "Name": "StatusShift",
+                "InternalName": "StatusShift",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "Rules change your search comment, online status, and optional commands from zone, duty, activity, job, world, and schedule.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/XozaShadow/StatusShift/main/images/icon.png",
+                "RepoUrl": "https://github.com/XozaShadow/StatusShift",
+                "LastUpdate": 1789524957
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "ShadowstarIO",
+        "repo_url": "https://raw.githubusercontent.com/ShadowstarIO/XIV/main/repo.json",
+        "repo_source_url": "https://github.com/ShadowstarIO/XIV",
+        "repo_name": "XIV",
+        "plugins": [
+            {
+                "Author": "XozaShadow",
+                "Name": "LightsOn",
+                "InternalName": "LightsOn",
+                "AssemblyVersion": "0.0.0.0",
+                "Description": "Occupancy for listed venues and short outdoor scenes. Reports are lanterns lit or wrapped up early, never names or counts. Optional log-book notes while the lanterns are lit.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/XozaShadow/LightsOn/main/images/icon.png",
+                "RepoUrl": "https://github.com/XozaShadow/LightsOn",
+                "LastUpdate": 1789562092
+            },
+            {
+                "Author": "XozaShadow",
+                "Name": "StatusShift",
+                "InternalName": "StatusShift",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "Rules change your search comment, online status, and optional commands from zone, duty, activity, job, world, and schedule.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/XozaShadow/StatusShift/main/images/icon.png",
+                "RepoUrl": "https://github.com/XozaShadow/StatusShift",
+                "LastUpdate": 1789524957
+            }
+        ]
+    },
+    {
         "repo_developer_name": "shana321",
         "repo_url": "https://raw.githubusercontent.com/shana321/DalamudPlugins/main/pluginmaster.json",
         "repo_source_url": "https://github.com/shana321/DalamudPlugins",
@@ -28272,12 +28299,12 @@
                 "Author": "Solona",
                 "Name": "Proteus",
                 "InternalName": "Proteus",
-                "AssemblyVersion": "2609.446.0.0",
+                "AssemblyVersion": "2609.490.0.0",
                 "Description": "Headless overlay compositor for Penumbra. Discovers mods with a Proteus/ sidecar, composites their overlay textures in Penumbra priority order, and maintains a single managed mod at priority 999. No authoring UI — all work happens in external tools. Type /proteus to open the status window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://dl.solona.info/icon.png",
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1789514052,
+                "LastUpdate": 1789570440,
                 "is_ai_attributed": true
             }
         ]
@@ -29223,12 +29250,12 @@
                 "Author": "Anmi (fork maintained by T3chnicalD3ath Inc.)",
                 "Name": "Beast Master Helper",
                 "InternalName": "BeastMasterHelper",
-                "AssemblyVersion": "0.7.56.0",
+                "AssemblyVersion": "0.7.57.0",
                 "Description": "Tracks the Beastmaster quest chain and beast-catalogue collection progress, auto-recording captures from chat and offering navigation to quest and catalogue targets. Works with vnavmesh for same-map travel and Lifestream for cross-map teleports.\n\nAn English fork of Anmi's Beastmaster plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/t3knical/DalamudPlugins/main/plugins/BeastMasterHelper/icon.png",
                 "RepoUrl": "https://github.com/t3knical/DalamudPlugins",
-                "LastUpdate": 1789524385
+                "LastUpdate": 1789578639
             },
             {
                 "Author": "The Combat Reborn Team (fork maintained by t3knical)",
@@ -30496,12 +30523,12 @@
                 "Author": "The PlayerSync Team",
                 "Name": "PlayerSync",
                 "InternalName": "MareSempiterne",
-                "AssemblyVersion": "1.15.5.5",
+                "AssemblyVersion": "1.15.5.7",
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://maresempiterne.io/download/plugin/icon.png",
                 "RepoUrl": "https://github.com/universalconquistador/MareSynchronosClient",
-                "LastUpdate": 1789140594
+                "LastUpdate": 1789572330
             }
         ]
     },
@@ -31239,7 +31266,7 @@
                 "Author": "Voudi",
                 "Name": "AlphaChannel",
                 "InternalName": "AlphaChannel.Plugin",
-                "AssemblyVersion": "2.1.5.9",
+                "AssemblyVersion": "2.1.6.0",
                 "Description": "Renders an in-world video screen and syncs playback with other players running AlphaChannel over a self-hosted relay.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Kodie0/AlphaChannelKodie",
@@ -32382,7 +32409,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XozaShadow/LightsOn/main/images/icon.png",
                 "RepoUrl": "https://github.com/XozaShadow/LightsOn",
-                "LastUpdate": 1789528239
+                "LastUpdate": 1789562092
             }
         ]
     },
@@ -32420,7 +32447,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XozaShadow/LightsOn/main/images/icon.png",
                 "RepoUrl": "https://github.com/XozaShadow/LightsOn",
-                "LastUpdate": 1789528239
+                "LastUpdate": 1789562092
             },
             {
                 "Author": "XozaShadow",
@@ -32904,12 +32931,12 @@
                 "Author": "youdianfengbao (基于 PunishXIV/Questionable)",
                 "Name": "Questionable (国服汉化)",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.756.2.17",
+                "AssemblyVersion": "15.756.3.4",
                 "Description": "国服汉化版自动任务插件，基于 PunishXIV/Questionable。可在尽可能的情况下自动完成游戏任务。\n所需插件：vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://qstxiv.github.io/icons/Questionable.png",
                 "RepoUrl": "https://github.com/youdianfengbao/Questionable",
-                "LastUpdate": 1789443190,
+                "LastUpdate": 1789568816,
                 "is_ai_attributed": true
             },
             {
@@ -32990,19 +33017,19 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Macro%20Redirection/cursor_hr1.png",
                 "RepoUrl": "https://github.com/YouShux/DalamudPlugins/blob/main/Plugins/Macro%20Redirection/Macro%20Redirection.zip",
-                "LastUpdate": 1789533622,
+                "LastUpdate": 1789578669,
                 "is_closed_source": true
             },
             {
                 "Author": "YouShu",
                 "Name": "Omni Toolbox",
                 "InternalName": "OmniToolbox",
-                "AssemblyVersion": "1.1.3.8",
+                "AssemblyVersion": "1.1.4.1",
                 "Description": "支持物品价格查询、商店购买与兑换位置查找、库存追踪、食物/药品期望计算、物品监控预警自动补货、传送以及坐骑/宠物/发型/绘画作品的悬浮窗预览等等。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Resources/%E5%9B%BE%E6%A0%87.png",
                 "RepoUrl": "https://github.com/YouShux/DalamudPlugins/blob/main/Plugins/Omni%20Toolbox/Omni%20Toolbox.zip",
-                "LastUpdate": 1789533622,
+                "LastUpdate": 1789578669,
                 "is_closed_source": true
             }
         ]
