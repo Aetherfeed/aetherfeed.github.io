@@ -688,12 +688,12 @@
                 "Author": "Astraea, nihal_shadescale",
                 "Name": "AetherLove - AetherOS",
                 "InternalName": "AetherLovePlugin",
-                "AssemblyVersion": "2.7.1.0",
+                "AssemblyVersion": "2.7.2.0",
                 "Description": "FFXIV in-game dating and matchmaking — swipe, match, and chat with other adventurers. /al opens the phone.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/154",
                 "RepoUrl": "https://github.com/FFXIV-Aetherlove/Aetherlove",
-                "LastUpdate": 1789682960,
+                "LastUpdate": 1789751359,
                 "is_ai_attributed": true
             }
         ]
@@ -728,12 +728,12 @@
                 "Author": "DhogGPT",
                 "Name": "AI Duty Solver",
                 "InternalName": "ADS",
-                "AssemblyVersion": "0.9.3.0",
+                "AssemblyVersion": "0.9.3.1",
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/ADS/main/ADS/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1789729054,
+                "LastUpdate": 1789739739,
                 "is_ai_attributed": true
             },
             {
@@ -812,12 +812,12 @@
                 "Author": "DhogGPT",
                 "Name": "dad",
                 "InternalName": "dad",
-                "AssemblyVersion": "0.7.0.1",
+                "AssemblyVersion": "0.7.1.0",
                 "Description": "DAD is a duty planner and multibox coordinator for FFXIV. Create reusable character presets, wake or relog the right clients, prepare jobs, assemble and verify parties, queue supported duties and roulettes, and chain presets into manual or daily schedules. Live readiness checks, clear blockers, reconnect status, cancellation, and Stop All keep every run visible and recoverable.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dad/main/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/dad",
-                "LastUpdate": 1789682487,
+                "LastUpdate": 1789739747,
                 "is_ai_attributed": true
             },
             {
@@ -980,12 +980,12 @@
                 "Author": "XA",
                 "Name": "XA Slave",
                 "InternalName": "XASlave",
-                "AssemblyVersion": "0.0.0.45",
+                "AssemblyVersion": "0.0.0.46",
                 "Description": "Don't manual.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Slave/master/XASlave/images/icon.png",
                 "RepoUrl": "https://github.com/xa-io/XA-Slave",
-                "LastUpdate": 1789161127,
+                "LastUpdate": 1789742289,
                 "is_ai_attributed": true
             },
             {
@@ -2068,6 +2068,25 @@
                 "LastUpdate": 1782325992,
                 "is_closed_source": true,
                 "is_ai_attributed": true
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "anmili2022",
+        "repo_url": "https://raw.githubusercontent.com/anmili2022/ArenaPilot/main/repo.json",
+        "repo_source_url": "https://github.com/anmili2022/ArenaPilot",
+        "repo_name": "ArenaPilot",
+        "plugins": [
+            {
+                "Author": "Anmi",
+                "Name": "ArenaPilot-斗兽塔助手",
+                "InternalName": "ArenaPilot",
+                "AssemblyVersion": "0.2.4.0",
+                "Description": "自动执行已支持的斗兽奇弈流程，包括入场、编队、路线导航、战斗准备、奖励领取、休息、宝箱、商店和最终结算。",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/anmili2022/ArenaPilot/main/images/icon.png?v=1",
+                "RepoUrl": "https://github.com/anmili2022/ArenaPilot",
+                "LastUpdate": 1789747507
             }
         ]
     },
@@ -6910,11 +6929,11 @@
                 "Author": "ChatBound",
                 "Name": "ChatBound",
                 "InternalName": "ChatBound",
-                "AssemblyVersion": "0.1.3.0",
+                "AssemblyVersion": "0.1.6.0",
                 "Description": "Local, consent-oriented incoming chat profiles for FFXIV.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/EalaRende/ChatBound",
-                "LastUpdate": 1789730040
+                "LastUpdate": 1789752838
             }
         ]
     },
@@ -8215,7 +8234,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1789641910
+                "LastUpdate": 1789726836
             }
         ]
     },
@@ -8669,12 +8688,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "BossMod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.6.12",
+                "AssemblyVersion": "7.5.6.13",
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1789680634
+                "LastUpdate": 1789750461
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -11083,7 +11102,8 @@
                 "Description": "AetherTrail records player movement into a local navigation graph, renders trail guidance to map flags or quest targets, and supports opt-in party graph sync.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ImperfectRain/AetherTrail",
-                "LastUpdate": 1779560083
+                "LastUpdate": 1779560083,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -13049,12 +13069,12 @@
                 "Author": "Karriis",
                 "Name": "PVPLOGSCN",
                 "InternalName": "PVPLOGSCN",
-                "AssemblyVersion": "3.0.3.11",
+                "AssemblyVersion": "3.0.3.13",
                 "Description": "PVPLOGSCN 是面向中国大陆《最终幻想XIV》玩家的 PvP 数据记录与上传插件，支持水晶冲突、纷争前线和烈羽争锋。插件可查看本地最近战绩、管理上传日志，并为纷争前线采集地图回放数据。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://pvpdata.com/plugin-icon.png?v=4",
                 "RepoUrl": "https://github.com/Karriis/PVPLOGSCN-PluginRepo",
-                "LastUpdate": 1789683127
+                "LastUpdate": 1789751316
             }
         ]
     },
@@ -13964,19 +13984,19 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1789686699,
+                "LastUpdate": 1789749330,
                 "is_ai_attributed": false
             },
             {
                 "Author": "croizat",
                 "Name": "CBT",
                 "InternalName": "Automaton",
-                "AssemblyVersion": "69.216",
+                "AssemblyVersion": "69.218",
                 "Description": "Yet another tweaks collection plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/34",
                 "RepoUrl": "https://github.com/Jaksuhn/Automaton",
-                "LastUpdate": 1789718311
+                "LastUpdate": 1789744701
             },
             {
                 "Author": "veyn, xan_0",
@@ -14043,7 +14063,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1789730900,
+                "LastUpdate": 1789751695,
                 "is_ai_attributed": true
             }
         ]
@@ -15870,11 +15890,11 @@
                 "Author": "makuragami",
                 "Name": "MissFisher ICE Scheduler",
                 "InternalName": "MissFisherIceScheduler",
-                "AssemblyVersion": "0.1.28.0",
+                "AssemblyVersion": "0.1.30.0",
                 "Description": "在 MissFisher 钓鱼等待间隙运行 ICE，并在下一目标窗口前恢复捕鱼。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Makuragami/MissFisherIceScheduler",
-                "LastUpdate": 1789653406
+                "LastUpdate": 1789751915
             }
         ]
     },
@@ -16364,12 +16384,12 @@
                 "Author": "DhogGPT",
                 "Name": "AI Duty Solver",
                 "InternalName": "ADS",
-                "AssemblyVersion": "0.9.3.0",
+                "AssemblyVersion": "0.9.3.1",
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/ADS/main/ADS/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1789729054,
+                "LastUpdate": 1789739739,
                 "is_ai_attributed": true
             }
         ]
@@ -16444,12 +16464,12 @@
                 "Author": "DhogGPT",
                 "Name": "dad",
                 "InternalName": "dad",
-                "AssemblyVersion": "0.7.0.1",
+                "AssemblyVersion": "0.7.1.0",
                 "Description": "Private Dad duty operations shell with multiplayer status, preset planning, queue routing, and Duty Support automation.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dad/main/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/dad",
-                "LastUpdate": 1789682487,
+                "LastUpdate": 1789739747,
                 "is_ai_attributed": true
             }
         ]
@@ -18922,7 +18942,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/NeXzRo/Stuff/main/BetterTargetingSystemPvP/icon.png",
                 "RepoUrl": "https://github.com/NeXzRo/BetterTargetingSystem",
-                "LastUpdate": 1789610712
+                "LastUpdate": 1789696349
             },
             {
                 "Author": "goat, Maple",
@@ -21347,7 +21367,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1789641910
+                "LastUpdate": 1789726836
             },
             {
                 "Author": "Risa and Contributors",
@@ -21424,7 +21444,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png",
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1789576401
+                "LastUpdate": 1789743988
             },
             {
                 "Author": "Caraxi",
@@ -22903,7 +22923,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1789730900
+                "LastUpdate": 1789751695
             },
             {
                 "Author": "daemitus, croizat",
@@ -22929,12 +22949,12 @@
                 "Author": "croizat",
                 "Name": "CBT 🐎",
                 "InternalName": "Automaton",
-                "AssemblyVersion": "69.217",
+                "AssemblyVersion": "69.218",
                 "Description": "Yet another tweaks collection plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/34",
                 "RepoUrl": "https://github.com/Jaksuhn/ffxiv-bundleoftweaks",
-                "LastUpdate": 1789718311
+                "LastUpdate": 1789744701
             },
             {
                 "Author": "croizat",
@@ -22975,7 +22995,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1789686699,
+                "LastUpdate": 1789749330,
                 "is_ai_attributed": false
             },
             {
@@ -23211,11 +23231,11 @@
                 "Author": "Knightmore",
                 "Name": "Knightshopper",
                 "InternalName": "Knightshopper",
-                "AssemblyVersion": "1.0.0.7",
+                "AssemblyVersion": "1.0.0.8",
                 "Description": "Your personal shopper who will take care of all your currency spendings!\n\nKnightshopper: because even knights deserve a squire for their shopping.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/173",
-                "LastUpdate": 1789601664
+                "LastUpdate": 1789732559
             }
         ]
     },
@@ -24713,12 +24733,12 @@
                 "Author": "ThousanRaine",
                 "Name": "AuraCanAI",
                 "InternalName": "AuraCanAI.Dalamud",
-                "AssemblyVersion": "0.1.0.0",
+                "AssemblyVersion": "0.2.0.0",
                 "Description": "AuraCanAI 鍗湀鎻掍欢鐗?娓告垙鍐?AI 瑙掕壊鎵紨鍔╂墜銆傛彁渚涙湰鍦扮綉椤垫帶鍒跺彴(localhost:8051),鏀寔 DeepSeek 澶фā鍨嬭鑹叉壆婕斻€佽亰澶╄闊虫彁绀?TTS)銆佺帺瀹惰繘鍑?娉ㄨ鎻愰啋銆佽亰澶╄褰曞綊妗ｄ笌鍏ㄦ枃妫€绱€佺帺瀹跺娉ㄣ€侀檮杩戠帺瀹朵笌娲荤偣鍦板浘銆佽涓鸿缃€丮IDI 婕斿涓庡弻寮€鍚堝銆佺Щ鍔ㄥ唴鏍搞€傛寚浠?/aca",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/raine01/AuraCanAI/main/images/icon.png",
                 "RepoUrl": "https://github.com/raine01/AuraCanAI",
-                "LastUpdate": 1789646430,
+                "LastUpdate": 1789743193,
                 "is_ai_attributed": true
             }
         ]
@@ -27929,12 +27949,12 @@
                 "Author": "XSZYYS",
                 "Name": "XSZToolbox",
                 "InternalName": "XSZToolbox",
-                "AssemblyVersion": "1.7.6.3",
+                "AssemblyVersion": "1.7.6.8",
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ShoOtaku/DalamudPlugins/main/plugins/XSZToolbox/icon.png",
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins/tree/main/plugins/XSZToolbox",
-                "LastUpdate": 1789137869,
+                "LastUpdate": 1789749116,
                 "is_closed_source": true
             }
         ]
@@ -28497,12 +28517,12 @@
                 "Author": "Solona",
                 "Name": "Proteus",
                 "InternalName": "Proteus",
-                "AssemblyVersion": "2609.498.0.0",
+                "AssemblyVersion": "2609.509.0.0",
                 "Description": "Headless overlay compositor for Penumbra. Discovers mods with a Proteus/ sidecar, composites their overlay textures in Penumbra priority order, and maintains a single managed mod at priority 999. No authoring UI — all work happens in external tools. Type /proteus to open the status window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://dl.solona.info/icon.png",
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1789690746,
+                "LastUpdate": 1789752753,
                 "is_ai_attributed": true
             }
         ]
@@ -28521,7 +28541,7 @@
                 "Description": "AAA-tier custom scrolling combat text and WeakAuras-style trackers.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Soluspsism/MSBT",
-                "LastUpdate": 1788625647
+                "LastUpdate": 1788625589
             }
         ]
     },
@@ -29922,12 +29942,12 @@
                 "Author": "TheKHD5",
                 "Name": "Bestiary Nav",
                 "InternalName": "BestiaryNav",
-                "AssemblyVersion": "0.6.14.0",
+                "AssemblyVersion": "0.6.16.0",
                 "Description": "Click a Bestiary entry to find its capture location or duty. Highlight nearby uncaptured beasts and optionally travel to them with Lifestream and vnavmesh. /bnav opens the Bestiary; /bnav config opens settings.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://cdn.jsdelivr.net/gh/TheKHD5/Bestiary-Nav@v0.5.6/assets/icon.png",
                 "RepoUrl": "https://github.com/TheKHD5/Bestiary-Nav",
-                "LastUpdate": 1789728425
+                "LastUpdate": 1789745001
             }
         ]
     },
@@ -31760,12 +31780,12 @@
                 "Author": "Will Corrigan",
                 "Name": "Wayfarer",
                 "InternalName": "Wayfarer",
-                "AssemblyVersion": "0.8.0.0",
+                "AssemblyVersion": "0.10.0.0",
                 "Description": "Guides you to your quest objective with an on-screen arrow that understands teleports, building entrances and city aethernet routing. Tracks every quest-unlockable feature, mount and dungeon you can pick up right now, and routes you to the quest givers.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/will-corrigan/Wayfarer/main/images/icon.png",
                 "RepoUrl": "https://github.com/will-corrigan/Wayfarer",
-                "LastUpdate": 1789132205
+                "LastUpdate": 1789753363
             }
         ]
     },
@@ -31985,12 +32005,12 @@
                 "Author": "XA",
                 "Name": "XA Slave",
                 "InternalName": "XASlave",
-                "AssemblyVersion": "0.0.0.45",
+                "AssemblyVersion": "0.0.0.46",
                 "Description": "A Dalamud plugin for FINAL FANTASY XIV that automates repetitive multi-character workflows — relogging, world travel, chat announcements, housing checks, and more. Works alongside XA Database to collect and push character data hands-free.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Slave/master/XASlave/images/icon.png",
                 "RepoUrl": "https://github.com/xa-io/XA-Slave",
-                "LastUpdate": 1789161127
+                "LastUpdate": 1789742289
             },
             {
                 "Author": "XA",
@@ -33195,7 +33215,7 @@
                 "Author": "Anomek",
                 "Name": "AnoMech",
                 "InternalName": "AnoMech",
-                "AssemblyVersion": "0.20.2.3",
+                "AssemblyVersion": "0.20.3.2",
                 "Description": "Spawns fake party members and bosses client-side so you can practice raid mechanics without a full party.",
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/anomek/AnoMech/master/images/icon.png",
