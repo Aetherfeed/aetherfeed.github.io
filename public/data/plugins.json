@@ -740,12 +740,12 @@
                 "Author": "Aethertek",
                 "Name": "Aethertek Plugin Manager",
                 "InternalName": "AethertekPluginManager",
-                "AssemblyVersion": "0.0.0.2",
+                "AssemblyVersion": "0.0.0.3",
                 "Description": "Select an existing development plugin, copy its trusted download link, and update it with a local backup. Includes an advanced update option. Open with /apm.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xa-io/Aethertek-Plugin-Manager/main/AethertekPluginManager/images/icon.png",
                 "RepoUrl": "https://github.com/xa-io/Aethertek-Plugin-Manager",
-                "LastUpdate": 1789477329,
+                "LastUpdate": 1790020080,
                 "is_closed_source": true
             },
             {
@@ -992,12 +992,12 @@
                 "Author": "XA",
                 "Name": "XA Zod",
                 "InternalName": "XAZod",
-                "AssemblyVersion": "0.0.0.2",
+                "AssemblyVersion": "0.0.0.3",
                 "Description": "XA Zod is a private early beta testing environment for XA Slave functionality. Access may be available through Aethertek collaboration, Ko-fi support or donations. Public download provides access information only. Features may remain private for months or indefinitely.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Zod/main/XAZod/images/icon.png",
                 "RepoUrl": "https://github.com/xa-io/XA-Zod",
-                "LastUpdate": 1789477632
+                "LastUpdate": 1790019777
             }
         ]
     },
@@ -1708,12 +1708,12 @@
                 "Author": "akira0245, Ori, Kalle, Zune, 断水剑, SevenCat",
                 "Name": "midibard2-深海回响特供版",
                 "InternalName": "MidiBard2",
-                "AssemblyVersion": "3.2.5.21",
+                "AssemblyVersion": "3.2.5.24",
                 "Description": "基于midibard2的魔改版本，添加自动点歌、歌单、控制台、不同IP连接功能。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/MidiBard2-Deepsea/main/icon.png",
                 "RepoUrl": "https://github.com/Alittlerecallinglittlebrother/MidiBard2-Deepsea",
-                "LastUpdate": 1789830280
+                "LastUpdate": 1790007156
             }
         ]
     },
@@ -2112,12 +2112,12 @@
                 "Author": "Anmi",
                 "Name": "ArenaPilot-斗兽塔助手",
                 "InternalName": "ArenaPilot",
-                "AssemblyVersion": "0.2.4.5",
+                "AssemblyVersion": "0.2.4.6",
                 "Description": "自动执行已支持的斗兽奇弈流程，包括入场、编队、路线导航、战斗准备、奖励领取、休息、宝箱、商店和最终结算。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/anmili2022/ArenaPilot/main/images/icon.png?v=1",
                 "RepoUrl": "https://github.com/anmili2022/ArenaPilot",
-                "LastUpdate": 1789910194
+                "LastUpdate": 1790004755
             }
         ]
     },
@@ -2783,6 +2783,25 @@
                 "RepoUrl": "https://github.com/Aschmies/UndercutterFFXIV",
                 "LastUpdate": 1778932469,
                 "is_ai_attributed": true
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "ASCIIcat",
+        "repo_url": "https://raw.githubusercontent.com/ASCIIcat/DalamudPlugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/ASCIIcat/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "AdelaideTheBun ♥",
+                "Name": "Private Marks",
+                "InternalName": "PrivateMarks",
+                "AssemblyVersion": "1.0.2.0",
+                "Description": "Manually assign private visual marks to players, with loaded-player edge indicators and optional remembered favourites.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/ASCIIcat/DalamudPlugins/main/icons/PrivateMarks-512.png",
+                "RepoUrl": "https://github.com/ASCIIcat/PrivateMarks",
+                "LastUpdate": 1790004287
             }
         ]
     },
@@ -6149,11 +6168,11 @@
                 "Author": "FF14 Accessibility Project",
                 "Name": "FF14 Accessibility",
                 "InternalName": "FF14Accessibility",
-                "AssemblyVersion": "6.08.30.0",
+                "AssemblyVersion": "6.08.31.0",
                 "Description": "Macht FF14 für blinde Spieler zugänglich via NVDA/TOLK Integration, Audio-Navigation und vollständiger Tastatursteuerung.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/derbruedi/ff14-accessibility",
-                "LastUpdate": 1789920792,
+                "LastUpdate": 1790004858,
                 "is_ai_attributed": true
             }
         ]
@@ -6179,11 +6198,11 @@
                 "Author": "deserokk",
                 "Name": "DeserokUtils",
                 "InternalName": "DeserokUtils",
-                "AssemblyVersion": "1.29.15.0",
+                "AssemblyVersion": "1.29.16.0",
                 "Description": "Small quality-of-life utilities, one feature per tab.\n\nCastWatch: gate a macro line on whether an action actually went off. Arm a watch above the /ac, then /ifwatch runs your line only if the action was accepted -- or cancels the macro if it was not. Works for instant casts, oGCDs and usable items, none of which produce a cast bar to observe. Optional target filters (--self, --notself, --party) and a {who} token that fills in whoever actually received it, which a vanilla macro cannot do.\n\nIt never composes or sends anything on your behalf; it only runs or suppresses a line you already wrote.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/deserokk/DeserokUtils",
-                "LastUpdate": 1789645587,
+                "LastUpdate": 1790010914,
                 "is_ai_attributed": true
             },
             {
@@ -6200,11 +6219,11 @@
                 "Author": "deserokk",
                 "Name": "DesTarget",
                 "InternalName": "DesTarget",
-                "AssemblyVersion": "0.2.1.0",
+                "AssemblyVersion": "0.2.2.0",
                 "Description": "Smart targetting system using camera and range prioritization. Works in all content.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/deserokk/DesTarget",
-                "LastUpdate": 1789815536
+                "LastUpdate": 1790008895
             }
         ]
     },
@@ -6237,11 +6256,11 @@
                 "Author": "deserokk",
                 "Name": "DeserokUtils",
                 "InternalName": "DeserokUtils",
-                "AssemblyVersion": "1.29.15.0",
+                "AssemblyVersion": "1.29.16.0",
                 "Description": "Small quality-of-life utilities, one feature per tab.\n\nCastWatch: gate a macro line on whether an action actually went off. Arm a watch above the /ac, then /ifwatch runs your line only if the action was accepted -- or cancels the macro if it was not. Works for instant casts, oGCDs and usable items, none of which produce a cast bar to observe. Optional target filters (--self, --notself, --party) and a {who} token that fills in whoever actually received it, which a vanilla macro cannot do.\n\nIt never composes or sends anything on your behalf; it only runs or suppresses a line you already wrote.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/deserokk/DeserokUtils",
-                "LastUpdate": 1789645587,
+                "LastUpdate": 1790010914,
                 "is_ai_attributed": true
             }
         ]
@@ -8345,7 +8364,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1789899786
+                "LastUpdate": 1789990675
             }
         ]
     },
@@ -8804,7 +8823,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1789997549
+                "LastUpdate": 1790004540
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -9758,12 +9777,12 @@
                 "Author": "GitHixy",
                 "Name": "LootView",
                 "InternalName": "LootView",
-                "AssemblyVersion": "1.3.4.0",
+                "AssemblyVersion": "1.4.0.0",
                 "Description": "A customizable loot tracking window with item icons, rarity colors, and highlight animations. Shows who loots what and can be filtered to show only your loot.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/GitHixy/LootView/main/icon.png",
                 "RepoUrl": "https://github.com/GitHixy/LootView",
-                "LastUpdate": 1788551972,
+                "LastUpdate": 1790010796,
                 "is_ai_attributed": true
             }
         ]
@@ -10829,7 +10848,7 @@
                 "Author": "MusicManBowls, kihtli",
                 "Name": "Hunt Helper Evolved",
                 "InternalName": "HuntHelperEvolved",
-                "AssemblyVersion": "0.5.0.21",
+                "AssemblyVersion": "0.5.0.22",
                 "Description": "Hunt tracking for FFXIV. Detects marks and records a train with exact kill times, posts Discord reports sorted by the order marks actually died, draws spawn points, your detection range and SS event locations on the in-game map, counts S-rank trigger mobs, and keeps a lifetime per-mark kill tally per character.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/HuntHelperEvolved/HuntHelperEvolved/main/icon.png",
@@ -12110,11 +12129,11 @@
                 "Author": "Join-Taoist",
                 "Name": "Zhuangzi",
                 "InternalName": "Zhuangzi",
-                "AssemblyVersion": "0.1.11.29",
+                "AssemblyVersion": "0.1.11.33",
                 "Description": "/zz→打开Zhuangzi配置窗口",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Join-Taoist/Join-Taoist-Zhuangzi-Repo",
-                "LastUpdate": 1789995272
+                "LastUpdate": 1790009240
             }
         ]
     },
@@ -14014,12 +14033,12 @@
                 "Author": "Anomek",
                 "Name": "AnoMech (TC)",
                 "InternalName": "AnoMech",
-                "AssemblyVersion": "0.3.33.0",
+                "AssemblyVersion": "0.4.1.0",
                 "Description": "在你的客戶端生出假隊友與假 boss，讓你一個人也能練習高難副本機制。進旅館後打 /anomech 開始。\n\n本分支是 anomek/AnoMech 針對繁體中文版（Dalamud API 13）的非官方移植，介面已繁中化。目前提供絕歐米茄 5 個與絕神兵 1 個場景；Dancing Mad 因為是 7.51 內容，繁中版客戶端沒有資料，故不包含。屬實驗性質，詳見 repo 說明。",
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/Knucklesssss/AnoMech-TW/api13-tw/images/icon.png",
                 "RepoUrl": "https://github.com/Knucklesssss/AnoMech-TW",
-                "LastUpdate": 1789997251,
+                "LastUpdate": 1790012755,
                 "is_ai_attributed": true
             }
         ]
@@ -14040,6 +14059,25 @@
                 "RepoUrl": "https://github.com/Sebane1/AQuestReborn",
                 "LastUpdate": 1785543207,
                 "is_ai_attributed": true
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "konvarec",
+        "repo_url": "https://raw.githubusercontent.com/konvarec/HuntPadCustomRepo/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/konvarec/HuntPadCustomRepo",
+        "repo_name": "HuntPadCustomRepo",
+        "plugins": [
+            {
+                "Author": "konvarec",
+                "Name": "HuntPad",
+                "InternalName": "PlayerMapping",
+                "AssemblyVersion": "0.1.0.18",
+                "Description": "HuntPad（ハントパッド）は、モブハントのお供になる情報端末です。周囲のプレイヤー・モブ・FATEの地図表示、位置案内、Sモブトリガーカウンターで狩りを支援します。/huntpadで開閉できます（従来の/playermapも利用可能）。初回利用時に、配布元から案内された利用キーの入力が必要です。",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/konvarec/HuntPadCustomRepo/main/images/huntpad-v2.png",
+                "RepoUrl": "https://github.com/konvarec/HuntPadCustomRepo",
+                "LastUpdate": 1789999567
             }
         ]
     },
@@ -14070,13 +14108,14 @@
         "plugins": [
             {
                 "Author": "konvarec",
-                "Name": "PlayerMapping",
+                "Name": "HuntPad",
                 "InternalName": "PlayerMapping",
-                "AssemblyVersion": "0.1.0.15",
+                "AssemblyVersion": "0.1.0.18",
                 "Description": "周囲のプレイヤー・モブ・FATEを地図に表示します。初回利用時に、配布元から案内された利用キーの入力が必要です。",
                 "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/konvarec/HuntPadCustomRepo/main/images/huntpad-v2.png",
                 "RepoUrl": "https://github.com/konvarec/PlayerMappingCustomRepo",
-                "LastUpdate": 1789937329
+                "LastUpdate": 1789999567
             }
         ]
     },
@@ -15289,17 +15328,6 @@
         "plugins": [
             {
                 "Author": "Luci",
-                "Name": "Advanced Penumbra Mod Converter",
-                "InternalName": "AdvancedPenumbraModConverter",
-                "AssemblyVersion": "1.2.0.0",
-                "Description": "Convert gear, facewear, hair, face, tail and Viera-ear assets in Penumbra mods to other items, slots and races. Supports the Penumbra 1.7+ mod format, retargets game paths, model/material references and metadata, previews every change, and can revert conversions.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/link-0402/Advanced-Penumbra-Mod-Converter",
-                "LastUpdate": 1789849770,
-                "is_ai_attributed": true
-            },
-            {
-                "Author": "Luci",
                 "Name": "XIV Instant Edit",
                 "InternalName": "InstantEdit",
                 "AssemblyVersion": "1.2.4.0",
@@ -15307,6 +15335,18 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/link-0402/XIV-Instant-Edit",
                 "LastUpdate": 1789851613,
+                "is_ai_attributed": true
+            },
+            {
+                "Author": "Luci",
+                "Name": "Universal Mod Converter",
+                "InternalName": "UniversalModConverter",
+                "AssemblyVersion": "1.3.1.0",
+                "Description": "Convert gear, facewear, hair, face, tail and Viera-ear assets in Penumbra mods to other items, slots and races, swap idle and emote animations (optionally as an option group of idle slots), retarget animations to other races, and merge two modpacks into one. Supports the Penumbra 1.7+ mod format, retargets game paths, model/material references and metadata, previews every change, and can revert conversions.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/link-0402/Universal-Mod-Converter/main/images/icon.png",
+                "RepoUrl": "https://github.com/link-0402/Universal-Mod-Converter",
+                "LastUpdate": 1790020071,
                 "is_ai_attributed": true
             },
             {
@@ -15324,11 +15364,11 @@
                 "Author": "Luci",
                 "Name": "XIV Port Studio",
                 "InternalName": "XIVPortStudio",
-                "AssemblyVersion": "0.1.0.0",
+                "AssemblyVersion": "0.2.1.0",
                 "Description": "Toolkit for porting outfits from other games into FFXIV. Pick an item, then define the materials and textures it should use so the result can be exported as a Penumbra mod.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/link-0402/XIV-Port-Studio",
-                "LastUpdate": 1789781910,
+                "LastUpdate": 1790017977,
                 "is_ai_attributed": true
             }
         ]
@@ -16372,6 +16412,17 @@
             },
             {
                 "Author": "MTitan",
+                "Name": "Sentinel Relay",
+                "InternalName": "SentinelRelay",
+                "AssemblyVersion": "0.2.0.0",
+                "Description": "Sends explicitly selected FFXIV chats directly to a per-character Discord webhook, with optional locally polled, authorized /fc replies. Filters and replies default off.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/MarshalTitan/SentinelRelay/main/assets/icon.png",
+                "RepoUrl": "https://github.com/MarshalTitan/SentinelRelay",
+                "LastUpdate": 1790011368
+            },
+            {
+                "Author": "MTitan",
                 "Name": "S Rank Sentinel",
                 "InternalName": "SRankSentinel",
                 "AssemblyVersion": "0.7.38.0",
@@ -16413,12 +16464,12 @@
                 "Author": "MTitan",
                 "Name": "Sentinel Relay",
                 "InternalName": "SentinelRelay",
-                "AssemblyVersion": "0.1.0.0",
+                "AssemblyVersion": "0.2.0.0",
                 "Description": "Sends explicitly selected FFXIV chat channels directly to a per-character Discord webhook. All filters default off; no bot, paid hosting, or Discord-to-FFXIV control is required.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MarshalTitan/SentinelRelay/main/assets/icon.png",
                 "RepoUrl": "https://github.com/MarshalTitan/SentinelRelay",
-                "LastUpdate": 1789965816
+                "LastUpdate": 1790011250
             }
         ]
     },
@@ -18588,12 +18639,31 @@
                 "Author": "MusicYYin",
                 "Name": "Soumen",
                 "InternalName": "Soumen",
-                "AssemblyVersion": "0.4.2.0",
+                "AssemblyVersion": "0.4.3.0",
                 "Description": "读取小队坐标并使用 vnavmesh 自动导航。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MusicYYin/Soumen/main/icon.png",
                 "RepoUrl": "https://github.com/MusicYYin/Soumen",
-                "LastUpdate": 1789998015
+                "LastUpdate": 1790014692
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "mustafafrn",
+        "repo_url": "https://raw.githubusercontent.com/mustafafrn/FFXIVTurkce/main/repo.json",
+        "repo_source_url": "https://github.com/mustafafrn/FFXIVTurkce",
+        "repo_name": "FFXIVTurkce",
+        "plugins": [
+            {
+                "Author": "Mustafa",
+                "Name": "FFXIV Türkçe",
+                "InternalName": "FFXIVTurkce",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "Diyalogları, görev günlüğünü, menüleri ve arayüzdeki yazıları oyunun kendi kutusunun içinde Türkçe gösterir. API anahtarı gerekmez; çeviriler kalıcı önbelleğe alınır.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/mustafafrn/FFXIVTurkce",
+                "LastUpdate": 1790017759,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -21677,7 +21747,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1789899786
+                "LastUpdate": 1789990675
             },
             {
                 "Author": "Risa and Contributors",
@@ -21754,7 +21824,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png",
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1789743988
+                "LastUpdate": 1790004633
             },
             {
                 "Author": "Caraxi",
@@ -23233,12 +23303,12 @@
                 "Author": "the Puni.sh Quest Squad",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.756.3.15",
+                "AssemblyVersion": "15.756.3.16",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1789995247
+                "LastUpdate": 1790018664
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -23343,7 +23413,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1789947327,
+                "LastUpdate": 1790017808,
                 "is_ai_attributed": false
             },
             {
@@ -23554,7 +23624,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/45",
                 "RepoUrl": "https://github.com/kawaii/Hyperborea",
-                "LastUpdate": 1788862883
+                "LastUpdate": 1790015422
             }
         ]
     },
@@ -25189,22 +25259,22 @@
                 "Author": "Rayla Petal",
                 "Name": "PoseKit",
                 "InternalName": "PoseKit",
-                "AssemblyVersion": "1.0.0.1",
+                "AssemblyVersion": "1.0.0.2",
                 "Description": "Animation Assistance Plugin, offset your character's pose, save named presets and replay them, auto-discover Penumbra pose mods, and manually resync emote timing with a partner.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/RaylaPetal/PoseKit",
-                "LastUpdate": 1789762332,
+                "LastUpdate": 1790007091,
                 "is_ai_attributed": true
             },
             {
                 "Author": "Rayla Petal",
                 "Name": "ReactToMe",
                 "InternalName": "ReactToMe",
-                "AssemblyVersion": "0.0.0.4",
+                "AssemblyVersion": "0.0.0.5",
                 "Description": "Listens for emotes targeted at you and applies a configured Glamourer design and Moodles status in response, automatically reverting the Glamourer design after a set duration.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/RaylaPetal/ReactToMe",
-                "LastUpdate": 1789674663,
+                "LastUpdate": 1789999295,
                 "is_ai_attributed": true
             },
             {
@@ -25230,11 +25300,11 @@
                 "Author": "Rayla Petal",
                 "Name": "ReactToMe",
                 "InternalName": "ReactToMe",
-                "AssemblyVersion": "0.0.0.4",
+                "AssemblyVersion": "0.0.0.5",
                 "Description": "Listens for emotes targeted at you and applies a configured Glamourer design and Moodles status in response, automatically reverting the Glamourer design after a set duration.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/RaylaPetal/ReactToMe",
-                "LastUpdate": 1789674661,
+                "LastUpdate": 1789999294,
                 "is_ai_attributed": true
             }
         ]
@@ -25332,7 +25402,7 @@
                 "Description": "Bard Toolbox is an all-in-one FFXIV Dalamud plugin for bards and bands, providing all the essential functions that people would need every day.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/BardToolbox/BardToolbox-Release",
-                "LastUpdate": 1784328240,
+                "LastUpdate": 1790005912,
                 "is_closed_source": true
             }
         ]
@@ -25793,7 +25863,7 @@
                 "Description": "A compact GPose casting tool. Search visible actors, import overworld players into GPose for Brio/Ktisis, build a picked group, and hide everyone else locally for cleaner screenshots.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/reyalexffxiv/GposeCast",
-                "LastUpdate": 1785519746
+                "LastUpdate": 1790009244
             }
         ]
     },
@@ -26675,11 +26745,11 @@
                 "Author": "rude",
                 "Name": "Burst Timers",
                 "InternalName": "BurstTimers",
-                "AssemblyVersion": "1.0.3.0",
+                "AssemblyVersion": "1.0.4.0",
                 "Description": "Shows single two-minute timers for Dokumori on your target and Embolden, Starry Muse, Brotherhood, and Searing Light on you, plus your actual combat potion cooldown. Configure with /bursttimers.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/rude-jerk/burst-timers",
-                "LastUpdate": 1789972727
+                "LastUpdate": 1790005239
             },
             {
                 "Author": "rude",
@@ -28319,12 +28389,12 @@
                 "Author": "XSZYYS",
                 "Name": "XSZToolbox",
                 "InternalName": "XSZToolbox",
-                "AssemblyVersion": "1.7.6.9",
+                "AssemblyVersion": "1.7.7.0",
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ShoOtaku/DalamudPlugins/main/plugins/XSZToolbox/icon.png",
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins/tree/main/plugins/XSZToolbox",
-                "LastUpdate": 1789756805,
+                "LastUpdate": 1789999286,
                 "is_closed_source": true
             }
         ]
@@ -28585,6 +28655,25 @@
                 "IconUrl": "https://raw.githubusercontent.com/sleousis/Soundswap/main/src/Soundswap/images/icon.png",
                 "RepoUrl": "https://github.com/sleousis/Soundswap",
                 "LastUpdate": 1789309250
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "sloyth",
+        "repo_url": "https://raw.githubusercontent.com/sloyth/MechanicNotes/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/sloyth/MechanicNotes",
+        "repo_name": "MechanicNotes",
+        "plugins": [
+            {
+                "Author": "Mechanic Notes contributors; based on Raytheon Vers / Backseat Driver",
+                "Name": "机制说明 · Mechanic Notes",
+                "InternalName": "MechanicNotes",
+                "AssemblyVersion": "0.4.3.0",
+                "Description": "机制开始时显示一句灰机 Wiki 中文效果说明，覆盖程度因副本而异；批量条目结束时间未知。支持个人名称与正文、选区颜色和粗体、独立历史与复制、个人配置导入导出。使用 /mechanicnotes 调整窗口、预览、查看实际内容覆盖和导出诊断，使用 /mechanicnotes history 打开历史。地区与游戏版本严格匹配。",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/sloyth/MechanicNotes",
+                "LastUpdate": 1790019960,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -29361,14 +29450,32 @@
         "repo_name": "ALL-THE-THINGS",
         "plugins": [
             {
-                "Author": "stoni89",
-                "Name": "All The Things",
-                "InternalName": "AllTheThings",
-                "AssemblyVersion": "0.3.0.0",
-                "Description": "Zeigt an, welche Mounts, Minions, Orchestrionrollen, Bardings, Emotes, Facewear, Fashion Accessories, Triple-Triad-Karten und Framer's Kits in der aktuellen Zone noch fehlen.",
+                "Author": "Stoni",
+                "Name": "The Explorer's Codex",
+                "InternalName": "TheExplorersCodex",
+                "AssemblyVersion": "0.5.0.0",
+                "Description": "Completionist plugin per zone with automation capabilities.",
                 "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/stoni89/ALL-THE-THINGS",
-                "LastUpdate": 1789998226
+                "RepoUrl": "https://github.com/stoni89/explorers-codex",
+                "LastUpdate": 1790002043
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "stoni89",
+        "repo_url": "https://raw.githubusercontent.com/stoni89/explorers-codex/main/repo.json",
+        "repo_source_url": "https://github.com/stoni89/explorers-codex",
+        "repo_name": "explorers-codex",
+        "plugins": [
+            {
+                "Author": "Stoni",
+                "Name": "The Explorer's Codex",
+                "InternalName": "TheExplorersCodex",
+                "AssemblyVersion": "0.5.0.0",
+                "Description": "Completionist plugin per zone with automation capabilities.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/stoni89/explorers-codex",
+                "LastUpdate": 1790002043
             }
         ]
     },
@@ -29876,12 +29983,12 @@
                 "Author": "Anmi (fork maintained by T3chnicalD3ath Inc.)",
                 "Name": "Beast Master Helper",
                 "InternalName": "BeastMasterHelper",
-                "AssemblyVersion": "0.7.114.0",
+                "AssemblyVersion": "0.7.119.0",
                 "Description": "Tracks the Beastmaster quest chain and beast-catalogue collection progress, auto-recording captures from chat and offering navigation to quest and catalogue targets. Works with vnavmesh for same-map travel and Lifestream for cross-map teleports.\n\nAn English fork of Anmi's Beastmaster plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/t3knical/DalamudPlugins/main/plugins/BeastMasterHelper/icon.png",
                 "RepoUrl": "https://github.com/t3knical/DalamudPlugins",
-                "LastUpdate": 1789951550,
+                "LastUpdate": 1790016741,
                 "is_ai_attributed": true
             },
             {
@@ -32208,12 +32315,12 @@
                 "Author": "Will Corrigan",
                 "Name": "Wayfarer",
                 "InternalName": "Wayfarer",
-                "AssemblyVersion": "1.4.0.0",
+                "AssemblyVersion": "1.6.1.0",
                 "Description": "Guides you to your quest objective with an on-screen arrow that understands teleports, building entrances and city aethernet routing. Tracks every quest-unlockable feature, mount and dungeon you can pick up right now, and routes you to the quest givers.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/will-corrigan/Wayfarer/main/images/icon.png",
                 "RepoUrl": "https://github.com/will-corrigan/Wayfarer",
-                "LastUpdate": 1789965635
+                "LastUpdate": 1790016014
             }
         ]
     },
@@ -32399,12 +32506,12 @@
                 "Author": "Aethertek",
                 "Name": "Aethertek Plugin Manager",
                 "InternalName": "AethertekPluginManager",
-                "AssemblyVersion": "0.0.0.2",
+                "AssemblyVersion": "0.0.0.3",
                 "Description": "Select an existing development plugin, copy its trusted download link, and update it with a local backup. Includes an advanced update option. Open with /apm.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xa-io/Aethertek-Plugin-Manager/main/AethertekPluginManager/images/icon.png",
                 "RepoUrl": "https://github.com/xa-io/Aethertek-Plugin-Manager",
-                "LastUpdate": 1789477329,
+                "LastUpdate": 1790020080,
                 "is_closed_source": true
             },
             {
@@ -32444,12 +32551,12 @@
                 "Author": "XA",
                 "Name": "XA Zod",
                 "InternalName": "XAZod",
-                "AssemblyVersion": "0.0.0.2",
+                "AssemblyVersion": "0.0.0.3",
                 "Description": "XA Zod is a private early beta testing environment for XA Slave functionality. Access may be available through Aethertek collaboration, Ko-fi support or donations. Public download provides access information only. Features may remain private for months or indefinitely.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Zod/main/XAZod/images/icon.png",
                 "RepoUrl": "https://github.com/xa-io/XA-Zod",
-                "LastUpdate": 1789477632
+                "LastUpdate": 1790019777
             }
         ]
     },
@@ -32548,12 +32655,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Auto Daily Tribes",
                 "InternalName": "AutoDailyTribes",
-                "AssemblyVersion": "2.3.0.1",
+                "AssemblyVersion": "2.4.0.0",
                 "Description": "Auto runs all daily tribe quests for you.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoDailyTribes/master/AutoDailyTribes/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes/tree/master/AutoDailyTribes",
-                "LastUpdate": 1789492087,
+                "LastUpdate": 1790019943,
                 "is_ai_attributed": true
             },
             {
@@ -32565,30 +32672,30 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoFATEGrind/master/AutoFateGrind/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind/tree/master/AutoFateGrind",
-                "LastUpdate": 1789495884,
+                "LastUpdate": 1790002618,
                 "is_ai_attributed": true
             },
             {
                 "Author": "XeldarAlz",
                 "Name": "Auto Hunt Grinder",
                 "InternalName": "AutoHuntGrinder",
-                "AssemblyVersion": "1.1.0.0",
+                "AssemblyVersion": "1.2.0.0",
                 "Description": "Clears your hunt bills for you: tick the daily and weekly bills you want, and the plugin picks them up at the hunt board, finds every mark, and fights it until each bill is done.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoHuntGrinder/master/AutoHuntGrinder/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoHuntGrinder",
-                "LastUpdate": 1789935827
+                "LastUpdate": 1790018837
             },
             {
                 "Author": "XeldarAlz",
                 "Name": "Auto PVP Series Grind",
                 "InternalName": "AutoPvpSeriesGrind",
-                "AssemblyVersion": "2.1.0.0",
+                "AssemblyVersion": "2.3.0.0",
                 "Description": "Grinds PvP Series Malmstones for you: queues and plays Casual Matches in a loop until your goal is met.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind/master/AutoPvpSeriesGrind/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind/tree/master/AutoPvpSeriesGrind",
-                "LastUpdate": 1789997944,
+                "LastUpdate": 1790018954,
                 "is_ai_attributed": true
             },
             {
@@ -32647,12 +32754,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Auto Daily Tribes",
                 "InternalName": "AutoDailyTribes",
-                "AssemblyVersion": "2.3.0.1",
+                "AssemblyVersion": "2.4.0.0",
                 "Description": "Auto runs all daily tribe quests for you.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoDailyTribes/master/AutoDailyTribes/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes/tree/master/AutoDailyTribes",
-                "LastUpdate": 1789492087,
+                "LastUpdate": 1790019943,
                 "is_ai_attributed": true
             }
         ]
@@ -32687,12 +32794,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Auto Hunt Grinder",
                 "InternalName": "AutoHuntGrinder",
-                "AssemblyVersion": "1.1.0.0",
+                "AssemblyVersion": "1.2.0.0",
                 "Description": "Clears your hunt bills for you: tick the daily and weekly bills you want, and the plugin picks them up at the hunt board, finds every mark, and fights it until each bill is done.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoHuntGrinder/master/AutoHuntGrinder/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoHuntGrinder",
-                "LastUpdate": 1789426080
+                "LastUpdate": 1790018835
             }
         ]
     },
@@ -32746,12 +32853,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Auto PVP Series Grind",
                 "InternalName": "AutoPvpSeriesGrind",
-                "AssemblyVersion": "2.1.0.0",
+                "AssemblyVersion": "2.3.0.0",
                 "Description": "Grinds PvP Series Malmstones for you: queues and plays Casual Matches in a loop until your goal is met.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind/master/AutoPvpSeriesGrind/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind/tree/master/AutoPvpSeriesGrind",
-                "LastUpdate": 1789497864,
+                "LastUpdate": 1790018954,
                 "is_ai_attributed": true
             }
         ]
