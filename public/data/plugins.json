@@ -6305,24 +6305,6 @@
         ]
     },
     {
-        "repo_developer_name": "DetanShi",
-        "repo_url": "https://raw.githubusercontent.com/DetanShi/UselessPlayerInfo/main/repo/pluginmaster.json",
-        "repo_source_url": "https://github.com/DetanShi/UselessPlayerInfo",
-        "repo_name": "UselessPlayerInfo",
-        "plugins": [
-            {
-                "Author": "Lunarris",
-                "Name": "Useless Player Info",
-                "InternalName": "UselessPlayerInfo",
-                "AssemblyVersion": "0.0.0.8",
-                "Description": "A simple program that shows some useless info on your character's current location.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/DetanShi/UselessPlayerInfo",
-                "LastUpdate": 1789785317
-            }
-        ]
-    },
-    {
         "repo_developer_name": "devckuw",
         "repo_url": "https://raw.githubusercontent.com/devckuw/DistribPluginFFXIV/main/repo.json",
         "repo_source_url": "https://github.com/devckuw/DistribPluginFFXIV",
@@ -6753,12 +6735,12 @@
                 "Author": "Doug Luce",
                 "Name": "MSQ Title Screen",
                 "InternalName": "MsqTitleScreen",
-                "AssemblyVersion": "1.0.2.0",
+                "AssemblyVersion": "1.0.3.0",
                 "Description": "The game picks its title screen from the furthest main scenario progress on the PC, so a character partway through an older expansion still boots into the newest screen.\n\nThis pins the game's own title screen setting to the story position of the character you last played, logo and music included. No game files are touched - it writes the same setting the title screen's Movies & Title menu does.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Doug-Luce/msq-title-screen/main/images/icon.png",
                 "RepoUrl": "https://github.com/Doug-Luce/msq-title-screen",
-                "LastUpdate": 1789925723,
+                "LastUpdate": 1789937396,
                 "is_ai_attributed": true
             }
         ]
@@ -7570,12 +7552,12 @@
                 "Author": "Elpa",
                 "Name": "Plugin JP Helper",
                 "InternalName": "PluginJPHelper",
-                "AssemblyVersion": "0.4.9.0",
+                "AssemblyVersion": "0.4.10.0",
                 "Description": "Dalamudプラグインの表示文字列を日本語化する補助プラグインです。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/elpapityo/PluginJPHelper/main/images/icon.png?v=0.4.7",
                 "RepoUrl": "https://github.com/elpapityo/PluginJPHelper",
-                "LastUpdate": 1789817351
+                "LastUpdate": 1789947067
             }
         ]
     },
@@ -8814,7 +8796,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1789881665
+                "LastUpdate": 1789952858
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -12741,11 +12723,12 @@
                 "Author": "Kaerlath",
                 "Name": "DiceMaster",
                 "InternalName": "DiceMaster",
-                "AssemblyVersion": "0.5.1.0",
+                "AssemblyVersion": "0.5.2.0",
                 "Description": "Roll polyhedral dice together in a dedicated Dice Window. Configure your relay, create or join a room, and use /dicemaster to open the controls.",
                 "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/kaerlath/DiceMaster/main/images/icon.png",
                 "RepoUrl": "https://github.com/kaerlath/DiceMaster",
-                "LastUpdate": 1789882067
+                "LastUpdate": 1789945300
             }
         ]
     },
@@ -14063,11 +14046,11 @@
                 "Author": "konvarec",
                 "Name": "PlayerMapping",
                 "InternalName": "PlayerMapping",
-                "AssemblyVersion": "0.1.0.13",
+                "AssemblyVersion": "0.1.0.15",
                 "Description": "周囲のプレイヤー・モブ・FATEを地図に表示します。初回利用時に、配布元から案内された利用キーの入力が必要です。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/konvarec/PlayerMappingCustomRepo",
-                "LastUpdate": 1789931020
+                "LastUpdate": 1789937329
             }
         ]
     },
@@ -14148,7 +14131,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1789927992,
+                "LastUpdate": 1789947327,
                 "is_ai_attributed": false
             },
             {
@@ -14171,7 +14154,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1789673483
+                "LastUpdate": 1789935106
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -14199,12 +14182,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.756.3.9",
+                "AssemblyVersion": "15.756.3.10",
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1789898917,
+                "LastUpdate": 1789948714,
                 "is_ai_attributed": false
             },
             {
@@ -14222,7 +14205,7 @@
                 "Author": "Team Wrath",
                 "Name": "Wrath Combo",
                 "InternalName": "WrathCombo",
-                "AssemblyVersion": "1.0.4.25",
+                "AssemblyVersion": "1.0.4.26",
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
@@ -15397,6 +15380,25 @@
                 "IconUrl": "https://raw.githubusercontent.com/LintoWilr/My-Plugins/main/PotatoFamine2/PotatoFamine2.png",
                 "RepoUrl": "https://github.com/LintoWilr/My-Plugins",
                 "LastUpdate": 1751127952
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "linusfr",
+        "repo_url": "https://raw.githubusercontent.com/linusfr/ffxiv-minimal-meter/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/linusfr/ffxiv-minimal-meter",
+        "repo_name": "ffxiv-minimal-meter",
+        "plugins": [
+            {
+                "Author": "linusfr",
+                "Name": "Minimal Meter",
+                "InternalName": "MinimalMeter",
+                "AssemblyVersion": "1.0.1.0",
+                "Description": "Real-time damage, healing and DPS for you and your party, drawn as a transparent overlay with no window chrome. Derived from Sansflaire's Damage Meter.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/linusfr/ffxiv-minimal-meter/main/images/icon.png",
+                "RepoUrl": "https://github.com/linusfr/ffxiv-minimal-meter",
+                "LastUpdate": 1789935145
             }
         ]
     },
@@ -19014,6 +19016,25 @@
     },
     {
         "repo_developer_name": "NeoGriever",
+        "repo_url": "https://raw.githubusercontent.com/NeoGriever/Saru/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/NeoGriever/Saru",
+        "repo_name": "Saru",
+        "plugins": [
+            {
+                "Author": "Valenth",
+                "Name": "Saru",
+                "InternalName": "Saru",
+                "AssemblyVersion": "1.0.3.1",
+                "Description": "/saru opens the Saru workspace. /saru start <scriptname> starts a script and /saru stop stops all running scripts.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/NeoGriever/Saru/main/plugins/Saru/icon.png",
+                "RepoUrl": "https://github.com/NeoGriever/Saru",
+                "LastUpdate": 1789941428
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "NeoGriever",
         "repo_url": "https://raw.githubusercontent.com/NeoGriever/ShoutRunner/main/pluginmaster.json",
         "repo_source_url": "https://github.com/NeoGriever/ShoutRunner",
         "repo_name": "ShoutRunner",
@@ -19060,12 +19081,12 @@
                 "Author": "Neprena",
                 "Name": "Eorzea Events",
                 "InternalName": "EorzeaEventsPlugin",
-                "AssemblyVersion": "2.13.0.0",
+                "AssemblyVersion": "2.14.0.0",
                 "Description": "Gérez vos sessions RP Eorzea Events directement depuis le jeu.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Neprena/eorzea-events-plugin/main/Plugin_Logo.png",
                 "RepoUrl": "https://github.com/Neprena/eorzea-events-plugin",
-                "LastUpdate": 1789564959
+                "LastUpdate": 1789946192
             }
         ]
     },
@@ -19165,7 +19186,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/NeXzRo/Stuff/main/BetterTargetingSystemPvP/icon.png",
                 "RepoUrl": "https://github.com/NeXzRo/BetterTargetingSystem",
-                "LastUpdate": 1789783042
+                "LastUpdate": 1789869621
             },
             {
                 "Author": "goat, Maple",
@@ -20061,11 +20082,11 @@
                 "Author": "Nilah Valoryn",
                 "Name": "DRT-C",
                 "InternalName": "DRTC",
-                "AssemblyVersion": "2.5.0.0",
+                "AssemblyVersion": "2.6.0.0",
                 "Description": "Death Roll Tournament - Challonge-Integrated",
                 "IconUrl": "https://raw.githubusercontent.com/nilah-xiv/DRT-C/main/icon.ico",
                 "RepoUrl": "https://github.com/nilah-xiv/DRT-C",
-                "LastUpdate": 1789327209
+                "LastUpdate": 1789933974
             }
         ]
     },
@@ -20916,12 +20937,12 @@
                 "Author": "ofnature",
                 "Name": "Charon",
                 "InternalName": "Charon",
-                "AssemblyVersion": "0.1.39",
+                "AssemblyVersion": "0.1.40",
                 "Description": "Auto pillion with smart seat scanning and whitelisted auto group invite. Companion to Daedalus.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ofnature/Charon/main/images/icon.png",
                 "RepoUrl": "https://github.com/ofnature/Charon",
-                "LastUpdate": 1789861654,
+                "LastUpdate": 1789940250,
                 "is_ai_attributed": true
             }
         ]
@@ -20981,7 +21002,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ofnature/Theseus/main/images/icon.png",
                 "RepoUrl": "https://github.com/ofnature/Theseus",
-                "LastUpdate": 1785883495,
+                "LastUpdate": 1789950975,
                 "is_ai_attributed": true
             }
         ]
@@ -21550,11 +21571,11 @@
                 "Author": "Frey",
                 "Name": "John Finalfantasy",
                 "InternalName": "JohnFinalfantasy",
-                "AssemblyVersion": "1.0.3.11",
+                "AssemblyVersion": "1.0.3.12",
                 "Description": "A plugin that replaces the names of players in your party with preset names. Based on Nomina Occulta by anna.lgbt.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/OTCompa/john-finalfantasy",
-                "LastUpdate": 1788665035
+                "LastUpdate": 1789934841
             },
             {
                 "Author": "Frey",
@@ -23167,12 +23188,12 @@
                 "Author": "the Puni.sh Quest Squad",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.756.3.9",
+                "AssemblyVersion": "15.756.3.10",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1789898917
+                "LastUpdate": 1789948714
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -23272,12 +23293,12 @@
                 "Author": "erdelf, Herculezz",
                 "Name": "AutoDuty",
                 "InternalName": "AutoDuty",
-                "AssemblyVersion": "0.0.0.347",
+                "AssemblyVersion": "0.0.0.348",
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1789927992,
+                "LastUpdate": 1789947327,
                 "is_ai_attributed": false
             },
             {
@@ -23844,6 +23865,17 @@
                 "RepoUrl": "https://github.com/NeoGriever/IAmReady",
                 "LastUpdate": 1778900332,
                 "is_ai_attributed": true
+            },
+            {
+                "Author": "Valenth Siveria",
+                "Name": "Saru",
+                "InternalName": "Saru",
+                "AssemblyVersion": "1.0.3.1",
+                "Description": "/saru opens the Saru workspace. /saru start <scriptname> starts a script and /saru stop stops all running scripts.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/179",
+                "RepoUrl": "https://github.com/NeoGriever/Saru",
+                "LastUpdate": 1789941680
             }
         ]
     },
@@ -23958,7 +23990,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1789673483
+                "LastUpdate": 1789935106
             },
             {
                 "Author": "veyn, croizat",
@@ -25840,18 +25872,18 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Ricimon/FFXIV-RaidsRewritten/main/images/icon.png",
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-RaidsRewritten",
-                "LastUpdate": 1788714232
+                "LastUpdate": 1789798932
             },
             {
                 "Author": "Ricimon",
                 "Name": "SmartPings",
                 "InternalName": "SmartPings",
-                "AssemblyVersion": "0.3.12.0",
+                "AssemblyVersion": "0.3.13.0",
                 "Description": "Send other players ground pings and UI information.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Ricimon/FFXIV-SmartPings/main/images/icon.png",
                 "RepoUrl": "https://github.com/Ricimon/FFXIV-SmartPings",
-                "LastUpdate": 1786075940
+                "LastUpdate": 1789933064
             }
         ]
     },
@@ -25959,12 +25991,12 @@
                 "Author": "RoarkGit",
                 "Name": "XIVMit",
                 "InternalName": "XIVMit",
-                "AssemblyVersion": "0.1.0.0",
+                "AssemblyVersion": "0.1.2.0",
                 "Description": "Loads a plan from xivmit.app and shows your upcoming mitigations on a live fight clock. Starts automatically on combat and stays synced from boss casts and phase transitions. Use /xivmit to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/RoarkGit/XIVMit-Dalamud/main/images/icon.png",
                 "RepoUrl": "https://github.com/RoarkGit/XIVMit-Dalamud",
-                "LastUpdate": 1789524938,
+                "LastUpdate": 1789950442,
                 "is_ai_attributed": true
             },
             {
@@ -27956,19 +27988,19 @@
                 "Description": "自动隐藏怪物，避免干扰选中和战斗",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Shieldhelder/DalamudPlugins",
-                "LastUpdate": 1788882769,
+                "LastUpdate": 1789935245,
                 "is_closed_source": true
             },
             {
                 "Author": "croizat",
                 "Name": "Glamour Log",
                 "InternalName": "GlamourLog",
-                "AssemblyVersion": "15.67.13.0",
+                "AssemblyVersion": "15.69.1.0",
                 "Description": "A log for all your glamours and other glam-related tweaks",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/136",
                 "RepoUrl": "https://github.com/Jaksuhn/ffxiv_glamourlog",
-                "LastUpdate": 1788935080
+                "LastUpdate": 1789808857
             },
             {
                 "Author": "Jukkales",
@@ -27978,7 +28010,7 @@
                 "Description": "此插件在国际服确认会导致账号封禁\n请考虑清楚后决定是否使用\n下载后请于24小时内删除，因使用本资源造成的任何法律纠纷或损失，均由使用者自行承担\n\n\nPlugin to help farming DeepDungeon Hoards (...for you)",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Shieldhelder/DalamudPlugins",
-                "LastUpdate": 1788882769,
+                "LastUpdate": 1789935245,
                 "is_closed_source": true
             },
             {
@@ -28805,7 +28837,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://dl.solona.info/icon.png",
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1789924110,
+                "LastUpdate": 1789949586,
                 "is_ai_attributed": true
             }
         ]
@@ -29186,12 +29218,12 @@
                 "Author": "Stack",
                 "Name": "Ultimate Combo",
                 "InternalName": "UltimateCombo",
-                "AssemblyVersion": "1.0.1.33",
+                "AssemblyVersion": "1.0.1.34",
                 "Description": "Brand new combos like never before - 1 button mode included! Features extra functionality not in other combo plugins like PvP, Blue Mage, Eureka, and Bozja!",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/StackBLU/UltimateCombo/main/images/logo.png",
                 "RepoUrl": "https://github.com/StackBLU/UltimateCombo",
-                "LastUpdate": 1789801024
+                "LastUpdate": 1789940789
             }
         ]
     },
@@ -29771,18 +29803,18 @@
                 "Author": "Anmi (fork maintained by T3chnicalD3ath Inc.)",
                 "Name": "Beast Master Helper",
                 "InternalName": "BeastMasterHelper",
-                "AssemblyVersion": "0.7.108.0",
+                "AssemblyVersion": "0.7.114.0",
                 "Description": "Tracks the Beastmaster quest chain and beast-catalogue collection progress, auto-recording captures from chat and offering navigation to quest and catalogue targets. Works with vnavmesh for same-map travel and Lifestream for cross-map teleports.\n\nAn English fork of Anmi's Beastmaster plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/t3knical/DalamudPlugins/main/plugins/BeastMasterHelper/icon.png",
                 "RepoUrl": "https://github.com/t3knical/DalamudPlugins",
-                "LastUpdate": 1789885151
+                "LastUpdate": 1789951550
             },
             {
                 "Author": "The Combat Reborn Team (fork maintained by t3knical)",
                 "Name": "BossmodReborn (Tekz Fork)",
                 "InternalName": "BossModRebornTekz",
-                "AssemblyVersion": "1.0.29.0",
+                "AssemblyVersion": "1.0.33.0",
                 "Description": "UNOFFICIAL FORK of BossMod Reborn by the Combat Reborn Team - install the original from their own repository if you want the real thing (https://github.com/FFXIV-CombatReborn/BossmodReborn).\n\nThis build tracks upstream and adds extra work on the Occult Crescent critical engagements and FATEs, and on the Beastmaster Crucible of the Unbroken boards, tuned against recorded replays. Bugs here are this fork's, not upstream's - report them at https://github.com/t3knical/BossmodReborn rather than to the Combat Reborn Team.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/t3knical/DalamudPlugins/main/plugins/BossModRebornTekz/icon.png",
@@ -32471,7 +32503,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoHuntGrinder/master/AutoHuntGrinder/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoHuntGrinder",
-                "LastUpdate": 1789426080
+                "LastUpdate": 1789935827
             },
             {
                 "Author": "XeldarAlz",
@@ -32878,12 +32910,12 @@
                 "Author": "hOst1k",
                 "Name": "XIV Rus Auto Update",
                 "InternalName": "XIVRusUpdater",
-                "AssemblyVersion": "1.0.3.0",
+                "AssemblyVersion": "1.9.9.2",
                 "Description": "Maintains the latest compatible version of XIVRus by checking for updates, downloading releases, and installing them through Penumbra. Includes update channels, patch compatibility warnings, and manual update controls.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xivrus/XIVRusUpdater/master/Data/icon.png",
                 "RepoUrl": "https://github.com/hOst1k-Top/XIVRusUpdater",
-                "LastUpdate": 1788303670
+                "LastUpdate": 1789936459
             }
         ]
     },
