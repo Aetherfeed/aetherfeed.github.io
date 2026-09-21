@@ -944,12 +944,12 @@
                 "Author": "DhogGPT",
                 "Name": "Vermaxion",
                 "InternalName": "VERMAXION",
-                "AssemblyVersion": "0.4.0.14",
+                "AssemblyVersion": "0.4.0.15",
                 "Description": "Automates weekly and daily tasks triggered by AutoRetainer post-processing. Configurable per character: Verminion queue, Cactpot, Chocobo Racing, FC buff refill, and Henchman management.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1789930790,
+                "LastUpdate": 1789984569,
                 "is_ai_attributed": true
             },
             {
@@ -2131,12 +2131,12 @@
                 "Author": "Anmi",
                 "Name": "驯兽师助手",
                 "InternalName": "Beastmaster",
-                "AssemblyVersion": "0.1.37.0",
+                "AssemblyVersion": "0.1.39.0",
                 "Description": "追踪驯兽师任务链和魔兽图鉴收集进度，支持捕获消息自动记录、任务与图鉴目标导航，并可配合 vnavmesh 和 Lifestream 完成同地图移动及跨地图传送。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/anmili2022/Beastmaster/main/images/icon.png?v=2",
                 "RepoUrl": "https://github.com/anmili2022/Beastmaster",
-                "LastUpdate": 1789821354
+                "LastUpdate": 1789992474
             }
         ]
     },
@@ -5264,6 +5264,24 @@
         ]
     },
     {
+        "repo_developer_name": "CT4560",
+        "repo_url": "https://raw.githubusercontent.com/CT4560/TC-Market-Supplement/main/repo.json",
+        "repo_source_url": "https://github.com/CT4560/TC-Market-Supplement",
+        "repo_name": "TC-Market-Supplement",
+        "plugins": [
+            {
+                "Author": "CT4560",
+                "Name": "TC-Market Supplement",
+                "InternalName": "MarketBoardCollector",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "當你自己打開市場板查看物品時，把 Universalis 沒有資料的物品（例如繁中服的舊染劑）的掛單與成交紀錄，匿名回報給社群伺服器（不需要金鑰或帳號，預設開啟，可在 /mbcollector 關閉）。不會操作遊戲、不會記錄你自己的角色資訊；成交紀錄的買家名稱與雇員名稱（市場板上本來就公開顯示）會一併回報。",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/CT4560/TC-Market-Supplement",
+                "LastUpdate": 1789988241
+            }
+        ]
+    },
+    {
         "repo_developer_name": "Cthulhu252",
         "repo_url": "https://raw.githubusercontent.com/Cthulhu252/TestCthulu252/main/repo.json",
         "repo_source_url": "https://github.com/Cthulhu252/TestCthulu252",
@@ -8224,11 +8242,11 @@
                 "Author": "Errer",
                 "Name": "FFXIVPVPAuto",
                 "InternalName": "FFXIVPVPAuto",
-                "AssemblyVersion": "1.0.0.5",
+                "AssemblyVersion": "1.0.0.7",
                 "Description": "一个简单的绿色插件。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
-                "LastUpdate": 1789623752
+                "LastUpdate": 1789976244
             },
             {
                 "Author": "moewcorp",
@@ -8241,16 +8259,6 @@
                 "RepoUrl": "https://github.com/Errerer/DalamudPlugins/tree/main/Plugins/neko",
                 "LastUpdate": 1789462235,
                 "is_closed_source": true
-            },
-            {
-                "Author": "Errer",
-                "Name": "FFXIVPVPAuto",
-                "InternalName": "pvpauto",
-                "AssemblyVersion": "7.1.1.2",
-                "Description": "一个简单的绿色插件。",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/Errerer/DalamudPlugins",
-                "LastUpdate": 1789623752
             },
             {
                 "Author": "veyn, AtmoOmen",
@@ -8318,7 +8326,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1789899786
+                "LastUpdate": 1789990675
             }
         ]
     },
@@ -8791,12 +8799,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "BossMod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.6.15",
+                "AssemblyVersion": "7.5.6.16",
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1789955231
+                "LastUpdate": 1789997549
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -10821,7 +10829,7 @@
                 "Author": "MusicManBowls, kihtli",
                 "Name": "Hunt Helper Evolved",
                 "InternalName": "HuntHelperEvolved",
-                "AssemblyVersion": "0.5.0.20",
+                "AssemblyVersion": "0.5.0.21",
                 "Description": "Hunt tracking for FFXIV. Detects marks and records a train with exact kill times, posts Discord reports sorted by the order marks actually died, draws spawn points, your detection range and SS event locations on the in-game map, counts S-rank trigger mobs, and keeps a lifetime per-mark kill tally per character.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/HuntHelperEvolved/HuntHelperEvolved/main/icon.png",
@@ -11629,12 +11637,12 @@
                 "Author": "raynording",
                 "Name": "Dalamud ACT Compat",
                 "InternalName": "DalamudActCompat",
-                "AssemblyVersion": "0.4.4.6",
+                "AssemblyVersion": "0.4.5.0",
                 "Description": "Dalamud-side UI, storage, parser abstraction, and compatibility-host bridge for an ACT-compatible FFXIV parsing platform. This early build does not yet load FFXIV_ACT_Plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/JackyWilliam/DalamudActCompat/main/src/DalamudActCompat/Assets/act-logo.jpg",
                 "RepoUrl": "https://github.com/JackyWilliam/DalamudActCompat",
-                "LastUpdate": 1789898599,
+                "LastUpdate": 1789982477,
                 "is_ai_attributed": true
             },
             {
@@ -11660,12 +11668,12 @@
                 "Author": "raynording",
                 "Name": "Dalamud ACT Compat",
                 "InternalName": "DalamudActCompat",
-                "AssemblyVersion": "0.4.4.6",
+                "AssemblyVersion": "0.4.5.0",
                 "Description": "Dalamud-side UI, storage, parser abstraction, and compatibility-host bridge for an ACT-compatible FFXIV parsing platform. This early build does not yet load FFXIV_ACT_Plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/JackyWilliam/DalamudActCompatRepo/main/act-logo-512.png",
                 "RepoUrl": "https://github.com/JackyWilliam/DalamudActCompat",
-                "LastUpdate": 1789899233,
+                "LastUpdate": 1789983024,
                 "is_ai_attributed": true
             },
             {
@@ -11677,7 +11685,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/JackyWilliam/DalamudActCompat/main/src/DalamudActCompat/Assets/act-logo.jpg",
                 "RepoUrl": "https://github.com/JackyWilliam/DalamudActCompat",
-                "LastUpdate": 1789899233
+                "LastUpdate": 1789983024
             }
         ]
     },
@@ -12102,11 +12110,11 @@
                 "Author": "Join-Taoist",
                 "Name": "Zhuangzi",
                 "InternalName": "Zhuangzi",
-                "AssemblyVersion": "0.1.11.14",
+                "AssemblyVersion": "0.1.11.29",
                 "Description": "/zz→打开Zhuangzi配置窗口",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Join-Taoist/Join-Taoist-Zhuangzi-Repo",
-                "LastUpdate": 1789922397
+                "LastUpdate": 1789995272
             }
         ]
     },
@@ -14006,12 +14014,12 @@
                 "Author": "Anomek",
                 "Name": "AnoMech (TC)",
                 "InternalName": "AnoMech",
-                "AssemblyVersion": "0.3.32.0",
+                "AssemblyVersion": "0.3.33.0",
                 "Description": "在你的客戶端生出假隊友與假 boss，讓你一個人也能練習高難副本機制。進旅館後打 /anomech 開始。\n\n本分支是 anomek/AnoMech 針對繁體中文版（Dalamud API 13）的非官方移植，介面已繁中化。目前提供絕歐米茄 5 個與絕神兵 1 個場景；Dancing Mad 因為是 7.51 內容，繁中版客戶端沒有資料，故不包含。屬實驗性質，詳見 repo 說明。",
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/Knucklesssss/AnoMech-TW/api13-tw/images/icon.png",
                 "RepoUrl": "https://github.com/Knucklesssss/AnoMech-TW",
-                "LastUpdate": 1789967779,
+                "LastUpdate": 1789997251,
                 "is_ai_attributed": true
             }
         ]
@@ -14200,12 +14208,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.756.3.10",
+                "AssemblyVersion": "15.756.3.14",
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1789970321,
+                "LastUpdate": 1789995247,
                 "is_ai_attributed": false
             },
             {
@@ -15411,12 +15419,12 @@
                 "Author": "linusfr",
                 "Name": "Minimal Meter",
                 "InternalName": "MinimalMeter",
-                "AssemblyVersion": "1.2.0.0",
+                "AssemblyVersion": "1.2.1.0",
                 "Description": "Real-time damage, healing and DPS for you and your party, drawn as a transparent overlay with no window chrome. Derived from Sansflaire's Damage Meter.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/linusfr/ffxiv-minimal-meter/main/images/icon.png",
                 "RepoUrl": "https://github.com/linusfr/ffxiv-minimal-meter",
-                "LastUpdate": 1789974846
+                "LastUpdate": 1789998066
             }
         ]
     },
@@ -17156,12 +17164,12 @@
                 "Author": "DhogGPT",
                 "Name": "Vermaxion",
                 "InternalName": "VERMAXION",
-                "AssemblyVersion": "0.4.0.13",
+                "AssemblyVersion": "0.4.0.15",
                 "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1789862382,
+                "LastUpdate": 1789984569,
                 "is_ai_attributed": true
             },
             {
@@ -17241,12 +17249,12 @@
                 "Author": "DhogGPT",
                 "Name": "VerMAXion",
                 "InternalName": "VERMAXION",
-                "AssemblyVersion": "0.4.0.14",
+                "AssemblyVersion": "0.4.0.15",
                 "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1789930790,
+                "LastUpdate": 1789984569,
                 "is_ai_attributed": true
             }
         ]
@@ -18580,12 +18588,12 @@
                 "Author": "MusicYYin",
                 "Name": "Soumen",
                 "InternalName": "Soumen",
-                "AssemblyVersion": "0.3.4.0",
+                "AssemblyVersion": "0.4.2.0",
                 "Description": "读取小队坐标并使用 vnavmesh 自动导航。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MusicYYin/Soumen/main/icon.png",
                 "RepoUrl": "https://github.com/MusicYYin/Soumen",
-                "LastUpdate": 1789923720
+                "LastUpdate": 1789998015
             }
         ]
     },
@@ -19223,7 +19231,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/NeXzRo/Stuff/main/BetterTargetingSystemPvP/icon.png",
                 "RepoUrl": "https://github.com/NeXzRo/BetterTargetingSystem",
-                "LastUpdate": 1789869621
+                "LastUpdate": 1789956097
             },
             {
                 "Author": "goat, Maple",
@@ -21073,12 +21081,12 @@
                 "Author": "Faye, Kage",
                 "Name": "Better Occult Crescent & Chest Helper Interface",
                 "InternalName": "BOCCHI",
-                "AssemblyVersion": "4.2.0.13",
+                "AssemblyVersion": "4.2.0.14",
                 "Description": "BOCCHI is here to smooth out your Occult Crescent experience.\n- No more of that pesky 'walking' or 'finding chests'. That's for losers.\n- A cute little Fate and CE panel that'll tell you what rewards it gives AND help you automatically path to it, wowee.\n- An extre illegal 'illegal mode' for those of you that would rather be touching grass or playing a game with worthwhile content.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/OhKannaDuh/BOCCHI/master/assets/icon.png",
                 "RepoUrl": "https://github.com/OhKannaDuh/OccultCrescentHelper",
-                "LastUpdate": 1789068031
+                "LastUpdate": 1789983907
             }
         ]
     },
@@ -23225,12 +23233,12 @@
                 "Author": "the Puni.sh Quest Squad",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.756.3.12",
+                "AssemblyVersion": "15.756.3.15",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1789970321
+                "LastUpdate": 1789995247
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -23403,7 +23411,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/68",
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/ChilledLeves",
-                "LastUpdate": 1789706841
+                "LastUpdate": 1789994539
             },
             {
                 "Author": "Ice",
@@ -28884,7 +28892,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://dl.solona.info/icon.png",
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1789949586,
+                "LastUpdate": 1789996019,
                 "is_ai_attributed": true
             }
         ]
@@ -29343,6 +29351,24 @@
                 "Description": "Assign animations to a button and view them in a catalogue.",
                 "RepoUrl": "https://github.com/Stitch-26/Animation-Wardrobe",
                 "LastUpdate": 1777548148
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "stoni89",
+        "repo_url": "https://raw.githubusercontent.com/stoni89/ALL-THE-THINGS/main/repo.json",
+        "repo_source_url": "https://github.com/stoni89/ALL-THE-THINGS",
+        "repo_name": "ALL-THE-THINGS",
+        "plugins": [
+            {
+                "Author": "stoni89",
+                "Name": "All The Things",
+                "InternalName": "AllTheThings",
+                "AssemblyVersion": "0.3.0.0",
+                "Description": "Zeigt an, welche Mounts, Minions, Orchestrionrollen, Bardings, Emotes, Facewear, Fashion Accessories, Triple-Triad-Karten und Framer's Kits in der aktuellen Zone noch fehlen.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/stoni89/ALL-THE-THINGS",
+                "LastUpdate": 1789998226
             }
         ]
     },
@@ -29855,13 +29881,14 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/t3knical/DalamudPlugins/main/plugins/BeastMasterHelper/icon.png",
                 "RepoUrl": "https://github.com/t3knical/DalamudPlugins",
-                "LastUpdate": 1789951550
+                "LastUpdate": 1789951550,
+                "is_ai_attributed": true
             },
             {
                 "Author": "The Combat Reborn Team (fork maintained by t3knical)",
                 "Name": "BossmodReborn (Tekz Fork)",
                 "InternalName": "BossModRebornTekz",
-                "AssemblyVersion": "1.0.33.0",
+                "AssemblyVersion": "1.0.34.0",
                 "Description": "UNOFFICIAL FORK of BossMod Reborn by the Combat Reborn Team - install the original from their own repository if you want the real thing (https://github.com/FFXIV-CombatReborn/BossmodReborn).\n\nThis build tracks upstream and adds extra work on the Occult Crescent critical engagements and FATEs, and on the Beastmaster Crucible of the Unbroken boards, tuned against recorded replays. Bugs here are this fork's, not upstream's - report them at https://github.com/t3knical/BossmodReborn rather than to the Combat Reborn Team.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/t3knical/DalamudPlugins/main/plugins/BossModRebornTekz/icon.png",
@@ -30215,7 +30242,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ThatKwistine/WardrobePlugin/main/images/icon.png",
                 "RepoUrl": "https://github.com/ThatKwistine/WardrobePlugin",
-                "LastUpdate": 1789508303,
+                "LastUpdate": 1789992295,
                 "is_ai_attributed": true
             }
         ]
@@ -31453,7 +31480,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Valiice/SpotifyHonorific/master/images/icon.png",
                 "RepoUrl": "https://github.com/Valiice/SpotifyHonorific",
-                "LastUpdate": 1789378247,
+                "LastUpdate": 1789983031,
                 "is_ai_attributed": true
             }
         ]
@@ -32561,7 +32588,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind/master/AutoPvpSeriesGrind/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind/tree/master/AutoPvpSeriesGrind",
-                "LastUpdate": 1789497864,
+                "LastUpdate": 1789997944,
                 "is_ai_attributed": true
             },
             {
@@ -32645,7 +32672,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoFATEGrind/master/AutoFateGrind/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind/tree/master/AutoFateGrind",
-                "LastUpdate": 1789495884
+                "LastUpdate": 1789495884,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -32723,7 +32751,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind/master/AutoPvpSeriesGrind/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind/tree/master/AutoPvpSeriesGrind",
-                "LastUpdate": 1789497864
+                "LastUpdate": 1789497864,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -32881,6 +32910,17 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XivHub/Gardener",
                 "LastUpdate": 1788722464
+            },
+            {
+                "Author": "XivHub",
+                "Name": "GlamourLink",
+                "InternalName": "GlamourLink",
+                "AssemblyVersion": "0.2.3.0",
+                "Description": "Requires Glamourer. Paste an Eorzea Collection glamour URL or id and GlamourLink reads its gear list from Eorzea Collection's undocumented JSON endpoint, resolves it against the game's own item and dye sheets, and applies the result to your character through Glamourer's IPC. Unmatched items are reported rather than guessed silently, and every fuzzy-matched item is labelled as a guess. Optionally saves the result as a named Glamourer design. Saved outfits keep their resolved gear, so applying one needs no call to Eorzea Collection; open /glink library to browse them. Open /glink in game to import.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/XivHub/GlamourLink/main/images/icon.png",
+                "RepoUrl": "https://github.com/XivHub/GlamourLink",
+                "LastUpdate": 1789988269
             },
             {
                 "Author": "XivHub",
@@ -33436,11 +33476,11 @@
                 "Author": "youdianfengbao (基于 Herculezz, erdelf)",
                 "Name": "AutoDuty (国服汉化)",
                 "InternalName": "AutoDuty",
-                "AssemblyVersion": "0.0.0.339",
+                "AssemblyVersion": "0.0.0.348",
                 "Description": "自动运行副本循环：支持亲信战友、剧情辅助、冒险者分队、异闻与常规副本，可自动开宝箱、修理、上缴、循环间整理等。\n所需插件：BossMod, vnavmesh, 输出循环插件（Wrath Combo / BossMod AutoRotation / Rotation Solver Reborn）。\n国服中文汉化版。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/youdianfengbao/AutoDuty",
-                "LastUpdate": 1789770758
+                "LastUpdate": 1789986052
             },
             {
                 "Author": "youdianfengbao (基于 PunishXIV/AutoRetainer)",
@@ -33501,12 +33541,12 @@
                 "Author": "youdianfengbao (基于 PunishXIV/Questionable)",
                 "Name": "Questionable (国服汉化)",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.756.3.6",
+                "AssemblyVersion": "15.756.3.14",
                 "Description": "国服汉化版自动任务插件，基于 PunishXIV/Questionable。可在尽可能的情况下自动完成游戏任务。\n所需插件：vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://qstxiv.github.io/icons/Questionable.png",
                 "RepoUrl": "https://github.com/youdianfengbao/Questionable",
-                "LastUpdate": 1789795505,
+                "LastUpdate": 1789984747,
                 "is_ai_attributed": true
             },
             {
@@ -33587,19 +33627,19 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Macro%20Redirection/cursor_hr1.png",
                 "RepoUrl": "https://github.com/YouShux/DalamudPlugins/blob/main/Plugins/Macro%20Redirection/Macro%20Redirection.zip",
-                "LastUpdate": 1789824187,
+                "LastUpdate": 1789995886,
                 "is_closed_source": true
             },
             {
                 "Author": "YouShu",
                 "Name": "Omni Toolbox",
                 "InternalName": "OmniToolbox",
-                "AssemblyVersion": "1.1.4.6",
+                "AssemblyVersion": "1.1.5.2",
                 "Description": "支持物品价格查询、商店购买与兑换位置查找、库存追踪、食物/药品期望计算、物品监控预警自动补货、传送以及坐骑/宠物/发型/绘画作品的悬浮窗预览等等。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Resources/%E5%9B%BE%E6%A0%87.png",
                 "RepoUrl": "https://github.com/YouShux/DalamudPlugins/blob/main/Plugins/Omni%20Toolbox/Omni%20Toolbox.zip",
-                "LastUpdate": 1789824187,
+                "LastUpdate": 1789995886,
                 "is_closed_source": true
             }
         ]
