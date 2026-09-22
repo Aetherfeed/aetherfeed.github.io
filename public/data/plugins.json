@@ -1478,6 +1478,18 @@
         "plugins": [
             {
                 "Author": "Aleqsd",
+                "Name": "Aether Compass",
+                "InternalName": "AetherCompass",
+                "AssemblyVersion": "0.2.0.0",
+                "Description": "Une boussole de progression au niveau 100 : objectifs expliqués selon le job, les quêtes, les déblocages, l'équipement et les activités hebdomadaires. Catalogue 7.56. Données locales, états inconnus explicites. Version expérimentale à valider en jeu. Version expérimentale ; essais en jeu encore à confirmer.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Aleqsd/dalamud-plugins/main/icons/AetherCompass.png",
+                "RepoUrl": "https://github.com/Aleqsd/aether-compass",
+                "LastUpdate": 1789937594,
+                "is_ai_attributed": true
+            },
+            {
+                "Author": "Aleqsd",
                 "Name": "Codex Monitor",
                 "InternalName": "CodexMonitor",
                 "AssemblyVersion": "0.11.2.0",
@@ -2369,12 +2381,12 @@
                 "Author": "Anomek",
                 "Name": "AnoMech",
                 "InternalName": "AnoMech",
-                "AssemblyVersion": "0.4.0.0",
+                "AssemblyVersion": "0.4.1.0",
                 "Description": "Spawns fake party members and bosses client-side so you can practice raid mechanics without a full party.\n\nThis plugin is in beta and is unstable. You won't crash during your training sessions, but you will crash after it.\n\nIf you are doing any serious content: **RESTART YOUR GAME AFTER USING PLUGIN**. You **WILL CRASH** in the middle of pull.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/anomek/AnoMech/master/images/icon.png",
                 "RepoUrl": "https://github.com/anomek/AnoMech",
-                "LastUpdate": 1789970827,
+                "LastUpdate": 1790047592,
                 "is_ai_attributed": true
             },
             {
@@ -3840,14 +3852,14 @@
             {
                 "Author": "Herculezz, erdelf, blackappleD",
                 "Name": "AutoDuty（国服维护版）",
-                "InternalName": "AutoDuty",
-                "AssemblyVersion": "0.0.0.33501",
+                "InternalName": "AutoDuty-bld",
+                "AssemblyVersion": "0.0.0.34803",
                 "Description": "自动跑本插件，支持亲信战友、副本协助、冒险者分队、异闻副本与常规副本，需要 BossMod、vnavmesh 及循环插件（Wrath Combo、BossMod 自动循环或 RSR）。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
-                "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1789573374,
-                "is_ai_attributed": false
+                "RepoUrl": "https://github.com/blackappleD/AutoDuty",
+                "LastUpdate": 1790046137,
+                "is_ai_attributed": true
             },
             {
                 "Author": "The Combat Reborn Team, blackappleD",
@@ -4897,12 +4909,12 @@
                 "Author": "CheesyChiz",
                 "Name": "Positional Cue",
                 "InternalName": "PositionalCue",
-                "AssemblyVersion": "0.4.0.0",
+                "AssemblyVersion": "0.5.0.0",
                 "Description": "Displays upcoming rear/flank attacks from Wrath Combo through IPC, with an action icon, approximate GCD countdown, sector indicator and optional sound cue. Requires Wrath Combo. Settings: /pcue.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/CheesyChiz/PositionalCue/main/assets/icon.png",
                 "RepoUrl": "https://github.com/CheesyChiz/PositionalCue",
-                "LastUpdate": 1789816028
+                "LastUpdate": 1790059798
             },
             {
                 "Author": "CheesyChiz",
@@ -4927,12 +4939,12 @@
                 "Author": "CheesyChiz",
                 "Name": "Positional Cue",
                 "InternalName": "PositionalCue",
-                "AssemblyVersion": "0.4.0.0",
+                "AssemblyVersion": "0.5.0.0",
                 "Description": "Displays upcoming rear/flank attacks from Wrath Combo through IPC, with an action icon, approximate GCD countdown, sector indicator and optional sound cue. Requires Wrath Combo. Settings: /pcue.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/CheesyChiz/PositionalCue/main/assets/icon.png",
                 "RepoUrl": "https://github.com/CheesyChiz/PositionalCue",
-                "LastUpdate": 1789815961
+                "LastUpdate": 1790059596
             }
         ]
     },
@@ -6757,11 +6769,11 @@
                 "Author": "Rikun",
                 "Name": "Pizza Referee",
                 "InternalName": "PizzaReferee",
-                "AssemblyVersion": "0.8.0.0",
+                "AssemblyVersion": "0.8.3.0",
                 "Description": "In-game referee for the Pizza Challenge. Announces each round, judges every /random against the threshold, moves through each player's pies and the queue, and keeps the night's stats and Hall of Fame. Made for the Bassment; announces in chat on your behalf, so it lives in this custom repository rather than the official list.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/donovangst/pizza-challenge",
-                "LastUpdate": 1789888949
+                "LastUpdate": 1790052101
             }
         ]
     },
@@ -8928,12 +8940,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.6.10",
+                "AssemblyVersion": "7.5.6.11",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1789859024
+                "LastUpdate": 1790044331
             },
             {
                 "Author": "Churin",
@@ -14115,13 +14127,13 @@
             {
                 "Author": "konvarec",
                 "Name": "HuntPad",
-                "InternalName": "PlayerMapping",
-                "AssemblyVersion": "0.1.0.18",
-                "Description": "HuntPad（ハントパッド）は、モブハントのお供になる情報端末です。周囲のプレイヤー・モブ・FATEの地図表示、位置案内、Sモブトリガーカウンターで狩りを支援します。/huntpadで開閉できます（従来の/playermapも利用可能）。初回利用時に、配布元から案内された利用キーの入力が必要です。",
+                "InternalName": "HuntPad",
+                "AssemblyVersion": "0.2.0.1",
+                "Description": "HuntPad is a companion for FFXIV hunt activity. It maps nearby players, mobs, and FATEs; records risky-mob spawn points; and provides S-rank trigger counters. Open it with /huntpad. A distribution access key is required before first use.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/konvarec/HuntPadCustomRepo/main/images/huntpad-v2.png",
                 "RepoUrl": "https://github.com/konvarec/HuntPadCustomRepo",
-                "LastUpdate": 1789999567
+                "LastUpdate": 1790051802
             }
         ]
     },
@@ -14153,13 +14165,13 @@
             {
                 "Author": "konvarec",
                 "Name": "HuntPad",
-                "InternalName": "PlayerMapping",
-                "AssemblyVersion": "0.1.0.18",
-                "Description": "周囲のプレイヤー・モブ・FATEを地図に表示します。初回利用時に、配布元から案内された利用キーの入力が必要です。",
+                "InternalName": "HuntPad",
+                "AssemblyVersion": "0.2.0.1",
+                "Description": "HuntPad is a companion for FFXIV hunt activity. It maps nearby players, mobs, and FATEs; records risky-mob spawn points; and provides S-rank trigger counters. Open it with /huntpad. A distribution access key is required before first use.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/konvarec/HuntPadCustomRepo/main/images/huntpad-v2.png",
-                "RepoUrl": "https://github.com/konvarec/PlayerMappingCustomRepo",
-                "LastUpdate": 1789999567
+                "RepoUrl": "https://github.com/konvarec/HuntPadCustomRepo",
+                "LastUpdate": 1790051824
             }
         ]
     },
@@ -14240,7 +14252,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1790017808,
+                "LastUpdate": 1790062274,
                 "is_ai_attributed": false
             },
             {
@@ -14291,24 +14303,24 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.756.3.16",
+                "AssemblyVersion": "15.756.3.17",
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1790018664,
+                "LastUpdate": 1790050135,
                 "is_ai_attributed": false
             },
             {
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "756.10.0.7",
+                "AssemblyVersion": "756.11.0.1",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1789859024
+                "LastUpdate": 1790044331
             },
             {
                 "Author": "Team Wrath",
@@ -15587,6 +15599,25 @@
         ]
     },
     {
+        "repo_developer_name": "llcat11",
+        "repo_url": "https://raw.githubusercontent.com/llcat11/DalamudPlugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/llcat11/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "pinapelz",
+                "Name": "PVP通行证计算器",
+                "InternalName": "MalmstoneCN",
+                "AssemblyVersion": "1.0.8.3",
+                "Description": "计算在达成目标系列赛等级前，各 PVP 模式所需的胜/负场数\n- 比赛结束后推送距离下一等级进度的通知\n- 追踪并显示 30 级以上的真实系列赛等级\n- 计算纷争前线的报酬补正\n\n使用 /pmalm 打开",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/llcat11/DalamudPlugins/main/plugins/MalmstoneCN/icon.png",
+                "RepoUrl": "https://github.com/llcat11/ffxiv-malmstone-cn",
+                "LastUpdate": 1790046111
+            }
+        ]
+    },
+    {
         "repo_developer_name": "llllinkz",
         "repo_url": "https://raw.githubusercontent.com/llllinkz/LinkzTP/main/repo.json",
         "repo_source_url": "https://github.com/llllinkz/LinkzTP",
@@ -16458,12 +16489,12 @@
                 "Author": "MTitan",
                 "Name": "Sentinel Relay",
                 "InternalName": "SentinelRelay",
-                "AssemblyVersion": "0.3.0.0",
+                "AssemblyVersion": "0.3.0.1",
                 "Description": "Sends explicitly selected FFXIV chats directly to a per-character Discord webhook, with optional locally polled, authorized /fc replies. Filters and replies default off.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MarshalTitan/SentinelRelay/main/assets/icon.png",
                 "RepoUrl": "https://github.com/MarshalTitan/SentinelRelay",
-                "LastUpdate": 1790042322
+                "LastUpdate": 1790043718
             },
             {
                 "Author": "MTitan",
@@ -16508,12 +16539,12 @@
                 "Author": "MTitan",
                 "Name": "Sentinel Relay",
                 "InternalName": "SentinelRelay",
-                "AssemblyVersion": "0.3.0.0",
+                "AssemblyVersion": "0.3.0.1",
                 "Description": "Sends explicitly selected FFXIV chat channels directly to a per-character Discord webhook. All filters default off; no bot, paid hosting, or Discord-to-FFXIV control is required.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MarshalTitan/SentinelRelay/main/assets/icon.png",
                 "RepoUrl": "https://github.com/MarshalTitan/SentinelRelay",
-                "LastUpdate": 1790041615
+                "LastUpdate": 1790043231
             }
         ]
     },
@@ -18272,7 +18303,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/mr-reeh/Alias/main/Alias/images/icon.png",
                 "RepoUrl": "https://github.com/mr-reeh/Alias",
-                "LastUpdate": 1788631949
+                "LastUpdate": 1788631949,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -18374,9 +18406,9 @@
     },
     {
         "repo_developer_name": "mr-reeh",
-        "repo_url": "https://raw.githubusercontent.com/mr-reeh/Milk-Meter/main/repo.json",
-        "repo_source_url": "https://github.com/mr-reeh/Milk-Meter",
-        "repo_name": "Milk-Meter",
+        "repo_url": "https://raw.githubusercontent.com/mr-reeh/milk-meter/main/repo.json",
+        "repo_source_url": "https://github.com/mr-reeh/milk-meter",
+        "repo_name": "milk-meter",
         "plugins": [
             {
                 "Author": "MrReeh",
@@ -18393,9 +18425,9 @@
     },
     {
         "repo_developer_name": "mr-reeh",
-        "repo_url": "https://raw.githubusercontent.com/mr-reeh/milk-meter/main/repo.json",
-        "repo_source_url": "https://github.com/mr-reeh/milk-meter",
-        "repo_name": "milk-meter",
+        "repo_url": "https://raw.githubusercontent.com/mr-reeh/Milk-Meter/main/repo.json",
+        "repo_source_url": "https://github.com/mr-reeh/Milk-Meter",
+        "repo_name": "Milk-Meter",
         "plugins": [
             {
                 "Author": "MrReeh",
@@ -18702,11 +18734,11 @@
                 "Author": "Mustafa",
                 "Name": "FFXIV Türkçe",
                 "InternalName": "FFXIVTurkce",
-                "AssemblyVersion": "0.1.0.0",
+                "AssemblyVersion": "0.1.1.0",
                 "Description": "Diyalogları, görev günlüğünü, menüleri ve arayüzdeki yazıları oyunun kendi kutusunun içinde Türkçe gösterir. API anahtarı gerekmez; çeviriler kalıcı önbelleğe alınır.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/mustafafrn/FFXIVTurkce",
-                "LastUpdate": 1790017759,
+                "LastUpdate": 1790064474,
                 "is_ai_attributed": true
             }
         ]
@@ -23347,12 +23379,12 @@
                 "Author": "the Puni.sh Quest Squad",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.756.3.16",
+                "AssemblyVersion": "15.756.3.17",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1790018664
+                "LastUpdate": 1790050135
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -23374,7 +23406,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/10",
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1789929216
+                "LastUpdate": 1790058029
             },
             {
                 "Author": "Team Wrath",
@@ -23452,12 +23484,12 @@
                 "Author": "erdelf, Herculezz",
                 "Name": "AutoDuty",
                 "InternalName": "AutoDuty",
-                "AssemblyVersion": "0.0.0.348",
+                "AssemblyVersion": "0.0.0.349",
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1790017808,
+                "LastUpdate": 1790062274,
                 "is_ai_attributed": false
             },
             {
@@ -28703,25 +28735,6 @@
         ]
     },
     {
-        "repo_developer_name": "sloyth",
-        "repo_url": "https://raw.githubusercontent.com/sloyth/MechanicNotes/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/sloyth/MechanicNotes",
-        "repo_name": "MechanicNotes",
-        "plugins": [
-            {
-                "Author": "Mechanic Notes contributors; based on Raytheon Vers / Backseat Driver",
-                "Name": "机制说明 · Mechanic Notes",
-                "InternalName": "MechanicNotes",
-                "AssemblyVersion": "0.4.3.0",
-                "Description": "机制开始时显示一句灰机 Wiki 中文效果说明，覆盖程度因副本而异；批量条目结束时间未知。支持个人名称与正文、选区颜色和粗体、独立历史与复制、个人配置导入导出。使用 /mechanicnotes 调整窗口、预览、查看实际内容覆盖和导出诊断，使用 /mechanicnotes history 打开历史。地区与游戏版本严格匹配。",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/sloyth/MechanicNotes",
-                "LastUpdate": 1790019960,
-                "is_ai_attributed": true
-            }
-        ]
-    },
-    {
         "repo_developer_name": "sm0kez",
         "repo_url": "https://raw.githubusercontent.com/sm0kez/MyDalamudPlugins/main/pluginmaster.json",
         "repo_source_url": "https://github.com/sm0kez/MyDalamudPlugins",
@@ -30047,12 +30060,12 @@
                 "Author": "Anmi (fork maintained by T3chnicalD3ath Inc.)",
                 "Name": "Beast Master Helper",
                 "InternalName": "BeastMasterHelper",
-                "AssemblyVersion": "0.8.36.0",
+                "AssemblyVersion": "0.8.41.0",
                 "Description": "Tracks the Beastmaster quest chain and beast-catalogue collection progress, auto-recording captures from chat and offering navigation to quest and catalogue targets. Works with vnavmesh for same-map travel and Lifestream for cross-map teleports.\n\nAn English fork of Anmi's Beastmaster plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/t3knical/DalamudPlugins/main/plugins/BeastMasterHelper/icon.png",
                 "RepoUrl": "https://github.com/t3knical/DalamudPlugins",
-                "LastUpdate": 1790040608,
+                "LastUpdate": 1790058272,
                 "is_ai_attributed": true
             },
             {
@@ -32103,7 +32116,7 @@
                 "Author": "Voudi",
                 "Name": "AlphaChannel",
                 "InternalName": "AlphaChannel.Plugin",
-                "AssemblyVersion": "2.1.6.3",
+                "AssemblyVersion": "2.1.6.5",
                 "Description": "Renders an in-world video screen and syncs playback with other players running AlphaChannel over a self-hosted relay.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Kodie0/AlphaChannelKodie",
@@ -32163,7 +32176,17 @@
                 "Description": "Use any eligible friendly-targeted spell or ability on the unit under your cursor in the native party, alliance, or other unit frames. Automatically reads action targeting rules; no spell lists or macros. Keeps your selected target and native action queue.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/wallawallaslytherin/dalamud-plugins",
-                "LastUpdate": 1789348206
+                "LastUpdate": 1789348116
+            },
+            {
+                "Author": "wallawallaslytherin",
+                "Name": "Gearset Organizer",
+                "InternalName": "GearsetOrganizer",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "Preview and organize existing gearsets by role and job, with guarded sorting and undo. Works independently without companion plugins.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/wallawallaslytherin/dalamud-plugins",
+                "LastUpdate": 1790044948
             }
         ]
     },
@@ -32754,12 +32777,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Auto PVP Series Grind",
                 "InternalName": "AutoPvpSeriesGrind",
-                "AssemblyVersion": "2.3.0.0",
+                "AssemblyVersion": "2.3.1.0",
                 "Description": "Grinds PvP Series Malmstones for you: queues and plays Casual Matches in a loop until your goal is met.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind/master/AutoPvpSeriesGrind/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind/tree/master/AutoPvpSeriesGrind",
-                "LastUpdate": 1790018954,
+                "LastUpdate": 1790061631,
                 "is_ai_attributed": true
             },
             {
@@ -32928,12 +32951,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Auto PVP Series Grind",
                 "InternalName": "AutoPvpSeriesGrind",
-                "AssemblyVersion": "2.3.0.0",
+                "AssemblyVersion": "2.3.1.0",
                 "Description": "Grinds PvP Series Malmstones for you: queues and plays Casual Matches in a loop until your goal is met.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind/master/AutoPvpSeriesGrind/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind/tree/master/AutoPvpSeriesGrind",
-                "LastUpdate": 1790018954,
+                "LastUpdate": 1790061631,
                 "is_ai_attributed": true
             }
         ]
@@ -34171,12 +34194,12 @@
                 "Author": "zlatan-mt",
                 "Name": "XIV Mini Util",
                 "InternalName": "XivMiniUtil",
-                "AssemblyVersion": "0.4.3.0",
+                "AssemblyVersion": "0.4.4.0",
                 "Description": "マテリア精製とアイテム分解、NPC販売場所検索を支援するミニユーティリティです。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/zlatan-mt/XIV-Mini-Util/main/images/icon.png",
                 "RepoUrl": "https://github.com/zlatan-mt/XIV-Mini-Util",
-                "LastUpdate": 1789295406
+                "LastUpdate": 1790055801
             }
         ]
     },
