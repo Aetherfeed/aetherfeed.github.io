@@ -88,7 +88,18 @@
                 "Description": "Discord Activity Honorific with Spotify Web API fallback for Spotify local files.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/420Dasher/DAH-LocalTrackSupport",
-                "LastUpdate": 1789853677
+                "LastUpdate": 1790039669
+            },
+            {
+                "Author": "Dash + AI",
+                "Name": "Retainer Undercut",
+                "InternalName": "RetainerUndercut",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "Preview and apply retainer market repricing with strict HQ/NQ separation, multi-retainer runs, Matchlist protection, per-item rules, safety guards, Price Recovery, and run history.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/420Dasher/DAH-LocalTrackSupport/main/plugins/RetainerUndercut/icon.png",
+                "RepoUrl": "https://github.com/420Dasher/DAH-LocalTrackSupport",
+                "LastUpdate": 1790039669
             },
             {
                 "Author": "Dash + AI",
@@ -99,7 +110,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/420Dasher/DAH-LocalTrackSupport/main/SpotifyTrackHonorific/images/icon.png",
                 "RepoUrl": "https://github.com/420Dasher/DAH-LocalTrackSupport",
-                "LastUpdate": 1789853677
+                "LastUpdate": 1790039669
             }
         ]
     },
@@ -728,12 +739,12 @@
                 "Author": "DhogGPT",
                 "Name": "AI Duty Solver",
                 "InternalName": "ADS",
-                "AssemblyVersion": "0.9.3.2",
+                "AssemblyVersion": "0.9.3.3",
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/ADS/main/ADS/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1789843394,
+                "LastUpdate": 1790022558,
                 "is_ai_attributed": true
             },
             {
@@ -845,6 +856,17 @@
                 "is_ai_attributed": true
             },
             {
+                "Author": "McVaxius",
+                "Name": "DhogNav",
+                "InternalName": "DhogNav",
+                "AssemblyVersion": "0.0.0.1",
+                "Description": "The free public DhogNav plugin provides information and loads authorized DhogNav modules. Module access is arranged privately with McVaxius through the community Discord.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/McVaxius/dhognav-public/main/icon.png",
+                "RepoUrl": "https://github.com/McVaxius/dhognav-public",
+                "LastUpdate": 1789684259
+            },
+            {
                 "Author": "DhogGPT",
                 "Name": "Dhog Potato System",
                 "InternalName": "DPS",
@@ -927,6 +949,17 @@
                 "RepoUrl": "https://github.com/McVaxius/MOGTOME",
                 "LastUpdate": 1789728992,
                 "is_ai_attributed": true
+            },
+            {
+                "Author": "DhogGPT",
+                "Name": "mom",
+                "InternalName": "mom",
+                "AssemblyVersion": "0.0.0.1",
+                "Description": "MOM is a free public front end. Additional functionality is available through privately granted access. Visit the community for access availability and support.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/McVaxius/mom-public/main/icon.png",
+                "RepoUrl": "https://github.com/McVaxius/mom-public",
+                "LastUpdate": 1789684267
             },
             {
                 "Author": "DhogGPT",
@@ -1553,12 +1586,12 @@
                 "Author": "Alex Vallière",
                 "Name": "Submarine ETA Planner",
                 "InternalName": "SubmarineEtaPlanner",
-                "AssemblyVersion": "1.0.2.0",
+                "AssemblyVersion": "1.1.2.0",
                 "Description": "Read-only ETA planner for tracked FC submarines using SubmarineTracker-compatible voyage, build, EXP, and unlock calculations.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://alexvalliere.github.io/submarineEtaPlanner/images/icon.png",
                 "RepoUrl": "https://github.com/AlexValliere/submarineEtaPlanner",
-                "LastUpdate": 1789298350,
+                "LastUpdate": 1790031432,
                 "is_ai_attributed": true
             }
         ]
@@ -4075,12 +4108,12 @@
                 "Author": "Anmi",
                 "Name": "Beastmaster",
                 "InternalName": "Beastmaster",
-                "AssemblyVersion": "0.1.37.0",
+                "AssemblyVersion": "0.1.39.0",
                 "Description": "魔獣使いのジョブクエストおよび魔獣図鑑の収集進捗を管理し、捕獲情報の自動記録やクエスト・図鑑対象へのナビゲーションを提供します（vnavmesh / Lifestream 連携対応）。コマンド：/魔獣使い 出力、で自動出力と一時停止を切り替えます。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/anmili2022/Beastmaster/main/images/icon.png?v=2",
                 "RepoUrl": "https://github.com/BOCXIV/Beastmaster-JP",
-                "LastUpdate": 1789876645
+                "LastUpdate": 1790041265
             }
         ]
     },
@@ -5178,7 +5211,7 @@
                 "Author": "The Sundouleia Team",
                 "Name": "Sundouleia",
                 "InternalName": "Sundouleia",
-                "AssemblyVersion": "1.1.6.2",
+                "AssemblyVersion": "1.1.6.3",
                 "Description": "Yet another Mare fork",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Sundouleia/repo/main/Images/icon.png",
@@ -7589,12 +7622,12 @@
                 "Author": "Elpa",
                 "Name": "Plugin JP Helper",
                 "InternalName": "PluginJPHelper",
-                "AssemblyVersion": "0.4.11.0",
+                "AssemblyVersion": "0.4.12.0",
                 "Description": "Dalamudプラグインの表示文字列を日本語化する補助プラグインです。",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/elpapityo/PluginJPHelper/main/images/icon.png?v=0.4.11",
+                "IconUrl": "https://raw.githubusercontent.com/elpapityo/PluginJPHelper/main/images/icon.png?v=0.4.12",
                 "RepoUrl": "https://github.com/elpapityo/PluginJPHelper",
-                "LastUpdate": 1789971694
+                "LastUpdate": 1790034238
             }
         ]
     },
@@ -8463,6 +8496,16 @@
         "repo_name": "DalamudPlugins",
         "plugins": [
             {
+                "Author": "Anomek",
+                "Name": "AnoMech Testing",
+                "InternalName": "AnoMechTesting",
+                "AssemblyVersion": "0.4.0.3",
+                "Description": "Unstable build of the multiplayer work in progress on Evernow/AnoMech's multiplayer-support branch. Spawns fake party members and bosses client-side so you can practice raid mechanics, with several people sharing one simulation. Installs alongside the normal AnoMech and keeps its own settings.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Evernow/Anomech-testing",
+                "LastUpdate": 1790038208
+            },
+            {
                 "Author": "Evernow",
                 "Name": "Emptor",
                 "InternalName": "Emptor",
@@ -8736,7 +8779,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/feral-src/jeblock/main/JEBlock/JEBlock.png",
                 "RepoUrl": "https://github.com/feral-src/jeblock",
-                "LastUpdate": 1789129990
+                "LastUpdate": 1789129990,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -12129,11 +12173,11 @@
                 "Author": "Join-Taoist",
                 "Name": "Zhuangzi",
                 "InternalName": "Zhuangzi",
-                "AssemblyVersion": "0.1.11.33",
+                "AssemblyVersion": "0.1.11.39",
                 "Description": "/zz→打开Zhuangzi配置窗口",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Join-Taoist/Join-Taoist-Zhuangzi-Repo",
-                "LastUpdate": 1790009240
+                "LastUpdate": 1790026969
             }
         ]
     },
@@ -14191,12 +14235,12 @@
                 "Author": "erdelf, Herculezz",
                 "Name": "AutoDuty",
                 "InternalName": "AutoDuty",
-                "AssemblyVersion": "0.347.0.1",
+                "AssemblyVersion": "0.348.0.2",
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1789947327,
+                "LastUpdate": 1790017808,
                 "is_ai_attributed": false
             },
             {
@@ -14214,12 +14258,12 @@
                 "Author": "veyn, xan_0",
                 "Name": "Boss Mod",
                 "InternalName": "BossMod",
-                "AssemblyVersion": "7.5.6.6",
+                "AssemblyVersion": "7.5.6.8",
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1789935106
+                "LastUpdate": 1790025313
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -14247,19 +14291,19 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.756.3.14",
+                "AssemblyVersion": "15.756.3.16",
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1789995247,
+                "LastUpdate": 1790018664,
                 "is_ai_attributed": false
             },
             {
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "756.10.0.4",
+                "AssemblyVersion": "756.10.0.7",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
@@ -14419,12 +14463,12 @@
                 "Author": "Kussie ",
                 "Name": "Aetherfit",
                 "InternalName": "Aetherfit",
-                "AssemblyVersion": "1.5.2609.439",
+                "AssemblyVersion": "1.5.2609.442",
                 "Description": "A custom simple frontend for applying designs from Glamourer. Lets you browse and apply designs, and optionally upload your own images to more easily be able to decide on which design to wear.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Kussie/Aetherfit/master/Data/icon-square.png",
                 "RepoUrl": "https://github.com/Kussie/Aetherfit",
-                "LastUpdate": 1789791966,
+                "LastUpdate": 1790037545,
                 "is_ai_attributed": true
             },
             {
@@ -15341,12 +15385,12 @@
                 "Author": "Luci",
                 "Name": "Universal Mod Converter",
                 "InternalName": "UniversalModConverter",
-                "AssemblyVersion": "1.3.1.0",
+                "AssemblyVersion": "1.4.0.0",
                 "Description": "Convert gear, facewear, hair, face, tail and Viera-ear assets in Penumbra mods to other items, slots and races, swap idle and emote animations (optionally as an option group of idle slots), retarget animations to other races, and merge two modpacks into one. Supports the Penumbra 1.7+ mod format, retargets game paths, model/material references and metadata, previews every change, and can revert conversions.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/link-0402/Universal-Mod-Converter/main/images/icon.png",
                 "RepoUrl": "https://github.com/link-0402/Universal-Mod-Converter",
-                "LastUpdate": 1790020071,
+                "LastUpdate": 1790026649,
                 "is_ai_attributed": true
             },
             {
@@ -15459,12 +15503,12 @@
                 "Author": "linusfr",
                 "Name": "Minimal Meter",
                 "InternalName": "MinimalMeter",
-                "AssemblyVersion": "1.2.1.0",
+                "AssemblyVersion": "1.2.3.0",
                 "Description": "Real-time damage, healing and DPS for you and your party, drawn as a transparent overlay with no window chrome. Derived from Sansflaire's Damage Meter.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/linusfr/ffxiv-minimal-meter/main/images/icon.png",
                 "RepoUrl": "https://github.com/linusfr/ffxiv-minimal-meter",
-                "LastUpdate": 1789998066
+                "LastUpdate": 1790024149
             }
         ]
     },
@@ -16414,12 +16458,12 @@
                 "Author": "MTitan",
                 "Name": "Sentinel Relay",
                 "InternalName": "SentinelRelay",
-                "AssemblyVersion": "0.2.0.0",
+                "AssemblyVersion": "0.3.0.0",
                 "Description": "Sends explicitly selected FFXIV chats directly to a per-character Discord webhook, with optional locally polled, authorized /fc replies. Filters and replies default off.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MarshalTitan/SentinelRelay/main/assets/icon.png",
                 "RepoUrl": "https://github.com/MarshalTitan/SentinelRelay",
-                "LastUpdate": 1790011368
+                "LastUpdate": 1790042322
             },
             {
                 "Author": "MTitan",
@@ -16464,12 +16508,12 @@
                 "Author": "MTitan",
                 "Name": "Sentinel Relay",
                 "InternalName": "SentinelRelay",
-                "AssemblyVersion": "0.2.0.0",
+                "AssemblyVersion": "0.3.0.0",
                 "Description": "Sends explicitly selected FFXIV chat channels directly to a per-character Discord webhook. All filters default off; no bot, paid hosting, or Discord-to-FFXIV control is required.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MarshalTitan/SentinelRelay/main/assets/icon.png",
                 "RepoUrl": "https://github.com/MarshalTitan/SentinelRelay",
-                "LastUpdate": 1790011250
+                "LastUpdate": 1790041615
             }
         ]
     },
@@ -16686,12 +16730,12 @@
                 "Author": "DhogGPT",
                 "Name": "AI Duty Solver",
                 "InternalName": "ADS",
-                "AssemblyVersion": "0.9.3.2",
+                "AssemblyVersion": "0.9.3.3",
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/ADS/main/ADS/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1789843394,
+                "LastUpdate": 1790022558,
                 "is_ai_attributed": true
             }
         ]
@@ -18330,9 +18374,9 @@
     },
     {
         "repo_developer_name": "mr-reeh",
-        "repo_url": "https://raw.githubusercontent.com/mr-reeh/milk-meter/main/repo.json",
-        "repo_source_url": "https://github.com/mr-reeh/milk-meter",
-        "repo_name": "milk-meter",
+        "repo_url": "https://raw.githubusercontent.com/mr-reeh/Milk-Meter/main/repo.json",
+        "repo_source_url": "https://github.com/mr-reeh/Milk-Meter",
+        "repo_name": "Milk-Meter",
         "plugins": [
             {
                 "Author": "MrReeh",
@@ -18349,9 +18393,9 @@
     },
     {
         "repo_developer_name": "mr-reeh",
-        "repo_url": "https://raw.githubusercontent.com/mr-reeh/Milk-Meter/main/repo.json",
-        "repo_source_url": "https://github.com/mr-reeh/Milk-Meter",
-        "repo_name": "Milk-Meter",
+        "repo_url": "https://raw.githubusercontent.com/mr-reeh/milk-meter/main/repo.json",
+        "repo_source_url": "https://github.com/mr-reeh/milk-meter",
+        "repo_name": "milk-meter",
         "plugins": [
             {
                 "Author": "MrReeh",
@@ -19301,7 +19345,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/NeXzRo/Stuff/main/BetterTargetingSystemPvP/icon.png",
                 "RepoUrl": "https://github.com/NeXzRo/BetterTargetingSystem",
-                "LastUpdate": 1789956097
+                "LastUpdate": 1790042872
             },
             {
                 "Author": "goat, Maple",
@@ -24100,12 +24144,12 @@
                 "Author": "veyn, xan_0",
                 "Name": "Boss Mod",
                 "InternalName": "BossMod",
-                "AssemblyVersion": "7.5.6.5",
+                "AssemblyVersion": "7.5.6.8",
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1789935106
+                "LastUpdate": 1790025313
             },
             {
                 "Author": "veyn, croizat",
@@ -25248,11 +25292,11 @@
                 "Author": "Rayla Petal",
                 "Name": "Oathbound",
                 "InternalName": "Oathbound.Plugin",
-                "AssemblyVersion": "0.0.4.5",
+                "AssemblyVersion": "0.0.4.8",
                 "Description": "A consent-based collar control plugin. Gameplay commands use ordinary in-game tells; relay-assisted pairing and encrypted catalog synchronization use the Oathbound Cloudflare service, while gameplay actions remain local to the Sub's client.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/raylapetal/xiv-collar",
-                "LastUpdate": 1789831253,
+                "LastUpdate": 1790028141,
                 "is_ai_attributed": true
             },
             {
@@ -25319,11 +25363,11 @@
                 "Author": "Rayla Petal",
                 "Name": "Oathbound",
                 "InternalName": "Oathbound.Plugin",
-                "AssemblyVersion": "0.0.4.5",
+                "AssemblyVersion": "0.0.4.8",
                 "Description": "A consent-based collar control plugin. An Owner sends outfit, title, gesture, and follow/leash commands as ordinary in-game tells - no server, no hosting; the Sub's own client watches for them and applies them locally via Glamourer, Honorific, and Penumbra, and existing sync tooling propagates the result to everyone paired with the Sub.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/raylapetal/xiv-collar",
-                "LastUpdate": 1789831251,
+                "LastUpdate": 1790028138,
                 "is_ai_attributed": true
             }
         ]
@@ -25402,7 +25446,7 @@
                 "Description": "Bard Toolbox is an all-in-one FFXIV Dalamud plugin for bards and bands, providing all the essential functions that people would need every day.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/BardToolbox/BardToolbox-Release",
-                "LastUpdate": 1790005912,
+                "LastUpdate": 1790042542,
                 "is_closed_source": true
             }
         ]
@@ -26745,11 +26789,11 @@
                 "Author": "rude",
                 "Name": "Burst Timers",
                 "InternalName": "BurstTimers",
-                "AssemblyVersion": "1.0.4.0",
+                "AssemblyVersion": "1.0.5.0",
                 "Description": "Shows single two-minute timers for Dokumori on your target and Embolden, Starry Muse, Brotherhood, and Searing Light on you, plus your actual combat potion cooldown. Configure with /bursttimers.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/rude-jerk/burst-timers",
-                "LastUpdate": 1790005239
+                "LastUpdate": 1790032216
             },
             {
                 "Author": "rude",
@@ -28981,7 +29025,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://dl.solona.info/icon.png",
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1789996019,
+                "LastUpdate": 1790026446,
                 "is_ai_attributed": true
             }
         ]
@@ -29499,6 +29543,26 @@
         ]
     },
     {
+        "repo_developer_name": "STRNDV",
+        "repo_url": "https://raw.githubusercontent.com/STRNDV/Design-Bulk-Editor/master/repo.json",
+        "repo_source_url": "https://github.com/STRNDV/Design-Bulk-Editor",
+        "repo_name": "Design-Bulk-Editor",
+        "plugins": [
+            {
+                "Author": "STRNDV",
+                "Name": "Design Bulk Editor",
+                "InternalName": "DesignBulkEditor",
+                "AssemblyVersion": "0.1.2.0",
+                "Description": "Group Glamourer designs by character, edit names/folders/properties across many designs at once, and preview a staged edit on your logged-in character before saving. Unofficial, community-built, not affiliated with Glamourer/Ottermandias.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/STRNDV/Design-Bulk-Editor/master/images/icon.png",
+                "RepoUrl": "https://github.com/STRNDV/Design-Bulk-Editor",
+                "LastUpdate": 1790032146,
+                "is_ai_attributed": true
+            }
+        ]
+    },
+    {
         "repo_developer_name": "SubPlay",
         "repo_url": "https://raw.githubusercontent.com/SubPlay/GatherBuddyRebornFixesRelease/main/pluginmaster.json",
         "repo_source_url": "https://github.com/SubPlay/GatherBuddyRebornFixesRelease",
@@ -29983,19 +30047,19 @@
                 "Author": "Anmi (fork maintained by T3chnicalD3ath Inc.)",
                 "Name": "Beast Master Helper",
                 "InternalName": "BeastMasterHelper",
-                "AssemblyVersion": "0.7.119.0",
+                "AssemblyVersion": "0.8.36.0",
                 "Description": "Tracks the Beastmaster quest chain and beast-catalogue collection progress, auto-recording captures from chat and offering navigation to quest and catalogue targets. Works with vnavmesh for same-map travel and Lifestream for cross-map teleports.\n\nAn English fork of Anmi's Beastmaster plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/t3knical/DalamudPlugins/main/plugins/BeastMasterHelper/icon.png",
                 "RepoUrl": "https://github.com/t3knical/DalamudPlugins",
-                "LastUpdate": 1790016741,
+                "LastUpdate": 1790040608,
                 "is_ai_attributed": true
             },
             {
                 "Author": "The Combat Reborn Team (fork maintained by t3knical)",
                 "Name": "BossmodReborn (Tekz Fork)",
                 "InternalName": "BossModRebornTekz",
-                "AssemblyVersion": "1.0.34.0",
+                "AssemblyVersion": "1.0.38.0",
                 "Description": "UNOFFICIAL FORK of BossMod Reborn by the Combat Reborn Team - install the original from their own repository if you want the real thing (https://github.com/FFXIV-CombatReborn/BossmodReborn).\n\nThis build tracks upstream and adds extra work on the Occult Crescent critical engagements and FATEs, and on the Beastmaster Crucible of the Unbroken boards, tuned against recorded replays. Bugs here are this fork's, not upstream's - report them at https://github.com/t3knical/BossmodReborn rather than to the Combat Reborn Team.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/t3knical/DalamudPlugins/main/plugins/BossModRebornTekz/icon.png",
@@ -32655,24 +32719,24 @@
                 "Author": "XeldarAlz",
                 "Name": "Auto Daily Tribes",
                 "InternalName": "AutoDailyTribes",
-                "AssemblyVersion": "2.4.0.0",
+                "AssemblyVersion": "2.5.0.0",
                 "Description": "Auto runs all daily tribe quests for you.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoDailyTribes/master/AutoDailyTribes/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes/tree/master/AutoDailyTribes",
-                "LastUpdate": 1790019943,
+                "LastUpdate": 1790026889,
                 "is_ai_attributed": true
             },
             {
                 "Author": "XeldarAlz",
                 "Name": "Auto FATE Grind",
                 "InternalName": "AutoFateGrind",
-                "AssemblyVersion": "2.9.0.0",
+                "AssemblyVersion": "2.10.0.0",
                 "Description": "Farms Shared FATEs for you: tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoFATEGrind/master/AutoFateGrind/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind/tree/master/AutoFateGrind",
-                "LastUpdate": 1790002618,
+                "LastUpdate": 1790031354,
                 "is_ai_attributed": true
             },
             {
@@ -32697,6 +32761,17 @@
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind/tree/master/AutoPvpSeriesGrind",
                 "LastUpdate": 1790018954,
                 "is_ai_attributed": true
+            },
+            {
+                "Author": "XeldarAlz",
+                "Name": "Auto Sightseeing Log",
+                "InternalName": "AutoSightseeingLog",
+                "AssemblyVersion": "1.1.0.0",
+                "Description": "Fills in your Sightseeing Log for you: tick the vistas you want, and the plugin travels to each one, waits for its hour and weather, performs the emote the log asks for, and moves on until every vista is logged.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoSightseeingLog/master/AutoSightseeingLog/Images/Icon.png",
+                "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoSightseeingLog",
+                "LastUpdate": 1790028554
             },
             {
                 "Author": "XeldarAlz",
@@ -32754,12 +32829,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Auto Daily Tribes",
                 "InternalName": "AutoDailyTribes",
-                "AssemblyVersion": "2.4.0.0",
+                "AssemblyVersion": "2.5.0.0",
                 "Description": "Auto runs all daily tribe quests for you.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoDailyTribes/master/AutoDailyTribes/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoDailyTribes/tree/master/AutoDailyTribes",
-                "LastUpdate": 1790019943,
+                "LastUpdate": 1790026889,
                 "is_ai_attributed": true
             }
         ]
@@ -32774,12 +32849,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Auto FATE Grind",
                 "InternalName": "AutoFateGrind",
-                "AssemblyVersion": "2.9.0.0",
+                "AssemblyVersion": "2.10.0.0",
                 "Description": "Tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoFATEGrind/master/AutoFateGrind/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind/tree/master/AutoFateGrind",
-                "LastUpdate": 1789495884,
+                "LastUpdate": 1790031354,
                 "is_ai_attributed": true
             }
         ]
@@ -32873,12 +32948,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Auto Sightseeing Log",
                 "InternalName": "AutoSightseeingLog",
-                "AssemblyVersion": "0.1.0.0",
+                "AssemblyVersion": "1.1.0.0",
                 "Description": "Fills in your Sightseeing Log for you: tick the vistas you want, and the plugin travels to each one, waits for its hour and weather, performs the emote the log asks for, and moves on until every vista is logged.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoSightseeingLog/master/AutoSightseeingLog/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoSightseeingLog",
-                "LastUpdate": 1789508277
+                "LastUpdate": 1790028552
             }
         ]
     },
@@ -33022,12 +33097,12 @@
                 "Author": "XivHub",
                 "Name": "GlamourLink",
                 "InternalName": "GlamourLink",
-                "AssemblyVersion": "0.2.3.0",
+                "AssemblyVersion": "0.2.4.0",
                 "Description": "Requires Glamourer. Paste an Eorzea Collection glamour URL or id and GlamourLink reads its gear list from Eorzea Collection's undocumented JSON endpoint, resolves it against the game's own item and dye sheets, and applies the result to your character through Glamourer's IPC. Unmatched items are reported rather than guessed silently, and every fuzzy-matched item is labelled as a guess. Optionally saves the result as a named Glamourer design. Saved outfits keep their resolved gear, so applying one needs no call to Eorzea Collection; open /glink library to browse them. Open /glink in game to import.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XivHub/GlamourLink/main/images/icon.png",
                 "RepoUrl": "https://github.com/XivHub/GlamourLink",
-                "LastUpdate": 1789988269
+                "LastUpdate": 1790025021
             },
             {
                 "Author": "XivHub",
@@ -34175,11 +34250,11 @@
                 "Author": "akira0245, Ori, Kalle, Zune",
                 "Name": "MidiBard 2 (BETA)",
                 "InternalName": "ZuneBard",
-                "AssemblyVersion": "1.15.0.158",
+                "AssemblyVersion": "1.15.0.159",
                 "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zunetrix/MidiBard2",
-                "LastUpdate": 1788910422,
+                "LastUpdate": 1790032274,
                 "is_closed_source": true,
                 "is_ai_attributed": true
             },
@@ -34187,7 +34262,7 @@
                 "Author": "akira0245, Ori, Kalle, Zune",
                 "Name": "MidiBard 2 (ALPHA)",
                 "InternalName": "ZuneBardAlpha",
-                "AssemblyVersion": "1.15.0.158",
+                "AssemblyVersion": "1.15.0.159",
                 "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://midibard.org",
