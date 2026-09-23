@@ -2139,12 +2139,12 @@
                 "Author": "Anmi",
                 "Name": "ArenaPilot-斗兽塔助手",
                 "InternalName": "ArenaPilot",
-                "AssemblyVersion": "0.2.4.8",
+                "AssemblyVersion": "0.2.4.9",
                 "Description": "自动执行已支持的斗兽奇弈流程，包括入场、编队、路线导航、战斗准备、奖励领取、休息、宝箱、商店和最终结算。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/anmili2022/ArenaPilot/main/images/icon.png?v=1",
                 "RepoUrl": "https://github.com/anmili2022/ArenaPilot",
-                "LastUpdate": 1790078820
+                "LastUpdate": 1790135202
             }
         ]
     },
@@ -4614,12 +4614,12 @@
                 "Author": "CateDesu",
                 "Name": "NyaaTriggers",
                 "InternalName": "NyaaTriggers",
-                "AssemblyVersion": "0.2.0.26",
+                "AssemblyVersion": "0.2.0.28",
                 "Description": "Companion plugin for the NyaaTriggers program.\n\n/nyaa -> Open plugin settings. /nyaa lock -> Toggles the overlay lock.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/CateDesu/NyaaTriggers-Overlay/main/images/icon.png",
                 "RepoUrl": "https://github.com/CateDesu/NyaaTriggers-Overlay",
-                "LastUpdate": 1789887903,
+                "LastUpdate": 1790143339,
                 "is_ai_attributed": true
             }
         ]
@@ -5781,7 +5781,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/DCritHitFireIV/FireGaze/main/Resources/icon.png?v=2",
                 "RepoUrl": "https://github.com/DCritHitFireIV/FireGaze",
-                "LastUpdate": 1790097641
+                "LastUpdate": 1790097736
             }
         ]
     },
@@ -7875,12 +7875,12 @@
                 "Author": "The Enceladeum",
                 "Name": "HMapSync (HMS)",
                 "InternalName": "HMSync",
-                "AssemblyVersion": "1.0.3.0",
+                "AssemblyVersion": "1.0.4.0",
                 "Description": "Load any in-game map client-side and explore it solo or with up to 20 friends, behind a packet filter that keeps the server seeing you as idle in your room. Shared weather, BGM and time; client-side mounts, emotes and minions; carpet floors for spots without collision; head-tilt and gaze sync for roleplay; and proximity say/yell passthrough. Co-op needs a relay key (closed beta); solo mode never connects to the relay.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Enceladeum/HMapSync/main/images/icon.png",
                 "RepoUrl": "https://github.com/Enceladeum/HMapSync",
-                "LastUpdate": 1789575181,
+                "LastUpdate": 1790137863,
                 "is_ai_attributed": true
             },
             {
@@ -12955,6 +12955,24 @@
         ]
     },
     {
+        "repo_developer_name": "Kamishiroex",
+        "repo_url": "https://raw.githubusercontent.com/Kamishiroex/FFXIV-AutoMahjongSolver-CN/main/repo.json",
+        "repo_source_url": "https://github.com/Kamishiroex/FFXIV-AutoMahjongSolver-CN",
+        "repo_name": "FFXIV-AutoMahjongSolver-CN",
+        "plugins": [
+            {
+                "Author": "XeldarAlz; CN adaptation contributors",
+                "Name": "多玛方城助手 CN（手动与自动）",
+                "InternalName": "Mahjong.Plugin.CN",
+                "AssemblyVersion": "0.2.0.1",
+                "Description": "实验移植版：/mjcn manual 手动提醒，/mjcn auto 自动打牌，/mjcn stop 立即停止。提供推荐弃牌、备选与理由，接入出牌、吃碰杠、立直、和牌、自摸和下一局流程。采用上游布局与回调，完整国服自动行为仍待实机验证。保留本地诊断、版本检查及停止入口。固定国服构建与限制见说明。上游：XeldarAlz/FFXIV-AutoMahjongSolver，AGPL-3.0-or-later。",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Kamishiroex/FFXIV-AutoMahjongSolver-CN",
+                "LastUpdate": 1790153590
+            }
+        ]
+    },
+    {
         "repo_url": "https://raw.githubusercontent.com/KangasZ/DalamudPluginRepository/main/plugin_repository.json",
         "repo_source_url": "https://github.com/KangasZ/DalamudPluginRepository",
         "repo_name": "DalamudPluginRepository",
@@ -14096,7 +14114,7 @@
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/Knucklesssss/AnoMech-TW/api13-tw/images/icon.png",
                 "RepoUrl": "https://github.com/Knucklesssss/AnoMech-TW",
-                "LastUpdate": 1790074173,
+                "LastUpdate": 1790148606,
                 "is_ai_attributed": true
             }
         ]
@@ -14249,7 +14267,7 @@
                 "Author": "erdelf, Herculezz",
                 "Name": "AutoDuty",
                 "InternalName": "AutoDuty",
-                "AssemblyVersion": "0.350.0.1",
+                "AssemblyVersion": "0.352.0.1",
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
@@ -14281,6 +14299,17 @@
             },
             {
                 "Author": "The Combat Reborn Team",
+                "Name": "BossMod RebornCN",
+                "InternalName": "BossModRebornCN",
+                "AssemblyVersion": "7.5.6.12",
+                "Description": "A bunch of utilities to simplify boss mechanics",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
+                "RepoUrl": "https://raw.githubusercontent.com/KouGithub2022/plugins/main/pluginmaster.json",
+                "LastUpdate": 1790152583
+            },
+            {
+                "Author": "The Combat Reborn Team",
                 "Name": "EasyZoom Reborn",
                 "InternalName": "EasyZoomReborn",
                 "AssemblyVersion": "7.5.0.3",
@@ -14305,12 +14334,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.756.3.17",
+                "AssemblyVersion": "15.756.3.18",
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1790077315,
+                "LastUpdate": 1790142862,
                 "is_ai_attributed": false
             },
             {
@@ -19373,7 +19402,7 @@
                 "Description": "This plugin shows the destination zone's concept art while loading.\nNOTE: ONLY LOOKS RIGHT ON 16:9 SCREENS! The concept art is not any bigger, and we can't expand/fix it. Sorry!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NeXzRo/Dalamud.LoadingImage",
-                "LastUpdate": 1789789683
+                "LastUpdate": 1790135784
             }
         ]
     },
@@ -21552,11 +21581,11 @@
                 "Author": "OmegaJackie",
                 "Name": "CineSync",
                 "InternalName": "CineSync",
-                "AssemblyVersion": "0.1.2.0",
+                "AssemblyVersion": "0.2.0.0",
                 "Description": "Host a small server; paired friends connect and automatically see the in-world screens (TVs) you create, all playing the same media. Move/resize/rotate gizmo, LibVLC video, auto-reconnect. Pairs with a self-hosted Owncast stream.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/OmegaJackie/CineSync",
-                "LastUpdate": 1788121942,
+                "LastUpdate": 1790135188,
                 "is_ai_attributed": true
             }
         ]
@@ -23091,12 +23120,12 @@
                 "Author": "psenxiv",
                 "Name": "Vista",
                 "InternalName": "Vista",
-                "AssemblyVersion": "0.3.0.0",
+                "AssemblyVersion": "0.4.0.0",
                 "Description": "Create smooth, cinematic camera paths in FFXIV, organise them into scenes, and play them back live.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/psenxiv/vista/main/images/icon.png",
                 "RepoUrl": "https://github.com/psenxiv/vista",
-                "LastUpdate": 1790088255,
+                "LastUpdate": 1790143524,
                 "is_ai_attributed": true
             }
         ]
@@ -23310,7 +23339,7 @@
                 "Author": "kawaii, NightmareXIV",
                 "Name": "AutoRetainer",
                 "InternalName": "AutoRetainer",
-                "AssemblyVersion": "4.6.1.34",
+                "AssemblyVersion": "4.6.2.7",
                 "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/24",
@@ -23386,12 +23415,12 @@
                 "Author": "the Puni.sh Quest Squad",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.756.3.17",
+                "AssemblyVersion": "15.756.3.18",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1790077315
+                "LastUpdate": 1790142862
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -26345,12 +26374,12 @@
                 "Author": "RoseOfficial",
                 "Name": "Moirai",
                 "InternalName": "Moirai",
-                "AssemblyVersion": "0.4.3.0",
+                "AssemblyVersion": "0.4.4.0",
                 "Description": "Automated FATE farming with a pure, unit-tested decision core: picks the best FATE in the zone, travels there, syncs, fights it to completion, handles collect and escort FATEs, and recovers from death and stuck states.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/RoseOfficial/Moirai/main/src/Moirai/images/icon.png",
                 "RepoUrl": "https://github.com/RoseOfficial/Moirai",
-                "LastUpdate": 1788655122
+                "LastUpdate": 1790154063
             },
             {
                 "Author": "Rose",
@@ -26360,7 +26389,7 @@
                 "Description": "WHM bot that handles healing, damage, defensive cooldowns. MADE BY THE SAME GUY THAT MADE ECHOVAULT & MEMORIA. TAKE CAUTION.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/RoseOfficial/Olympus",
-                "LastUpdate": 1788655157,
+                "LastUpdate": 1790154107,
                 "is_ai_attributed": true
             }
         ]
@@ -28932,12 +28961,12 @@
                 "Author": "Soda Ohoh",
                 "Name": "Cast Bar Translator",
                 "InternalName": "CastBarTranslator",
-                "AssemblyVersion": "0.0.0.1",
+                "AssemblyVersion": "0.0.0.3",
                 "Description": "Displays bilingual action names on cast bars. Select any two languages (English, Japanese, German, French, Traditional Chinese) to show on target cast bars - perfect for learning skill names in another language.",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/sodaohoh/ff14-duolingo/master/data/goat.png",
                 "RepoUrl": "https://github.com/sodaohoh/ff14-duolingo",
-                "LastUpdate": 1788875936,
+                "LastUpdate": 1790153531,
                 "is_ai_attributed": true
             }
         ]
@@ -30072,7 +30101,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/t3knical/DalamudPlugins/main/plugins/BeastMasterHelper/icon.png",
                 "RepoUrl": "https://github.com/t3knical/DalamudPlugins",
-                "LastUpdate": 1790130984,
+                "LastUpdate": 1790135630,
                 "is_ai_attributed": true
             },
             {
@@ -32176,6 +32205,16 @@
         "repo_name": "dalamud-plugins",
         "plugins": [
             {
+                "Author": "Airwave contributors",
+                "Name": "Airwave",
+                "InternalName": "Airwave",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "Broadcast live rekordbox audio or listen to a broadcast using continuous Opus audio. Open /airwave to connect. Capture and playback start only when you choose them.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/wallawallaslytherin/dalamud-plugins",
+                "LastUpdate": 1790138988
+            },
+            {
                 "Author": "Hovercast contributors",
                 "Name": "Hovercast",
                 "InternalName": "FrameMouseover",
@@ -32319,14 +32358,14 @@
         "plugins": [
             {
                 "Author": "Anomek / wenwen-ff14",
-                "Name": "絕龍詩模擬器",
-                "InternalName": "AnoMech",
-                "AssemblyVersion": "0.4.0.34",
-                "Description": "API 13 繁中版。於旅館內模擬七名隊友，練習 P2 聖仗與 P3 Easthogg 數字龍。P3 目前包含三輪跳躍、分攤、內外圈、踩塔、直線與龍槍，四人數塔與雙連線尚未加入。使用 /anomech 或 /ano 開啟；視窗可收合。",
+                "Name": "dsrsim-tc｜絕龍詩模擬器",
+                "InternalName": "dsrsim-tc",
+                "AssemblyVersion": "0.4.0.51",
+                "Description": "API 13 繁中版。依 tuuf／Elemental 分工模擬七名隊友，練習 P2 聖仗、P3 尼德霍格、P4 雙眼與 P5 風槍與死刻。P3 可指定自己的麻將與箭頭。P5 包含旋風、八方劍、綠標龍衝、地火、雷光鏈與月環；死刻包含死亡宣告、PS 標記、擊退斷鏈、白圈解除及 D4 隕石 LB2 練習。使用 /dsrsim 或 /dsrsim-tc 開啟；視窗可收合。",
                 "DalamudApiLevel": 13,
-                "IconUrl": "https://raw.githubusercontent.com/wenwen-ff14/test/main/images/icon.png",
+                "IconUrl": "https://raw.githubusercontent.com/wenwen-ff14/test/main/images/dsrsim-tc.png",
                 "RepoUrl": "https://github.com/wenwen-ff14/test",
-                "LastUpdate": 1790112608,
+                "LastUpdate": 1790153613,
                 "is_ai_attributed": true
             }
         ]
@@ -33908,12 +33947,12 @@
                 "Author": "Anomek",
                 "Name": "AnoMech",
                 "InternalName": "AnoMech",
-                "AssemblyVersion": "0.20.5.15",
+                "AssemblyVersion": "0.20.6.1",
                 "Description": "Spawns fake party members and bosses client-side so you can practice raid mechanics without a full party.",
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/anomek/AnoMech/master/images/icon.png",
                 "RepoUrl": "https://github.com/anomek/AnoMech",
-                "LastUpdate": 1783890714,
+                "LastUpdate": 1790047592,
                 "is_ai_attributed": true
             }
         ]
@@ -34062,12 +34101,12 @@
                 "Author": "Zeffuro",
                 "Name": "NativeMeters",
                 "InternalName": "NativeMeters",
-                "AssemblyVersion": "1.0.3.6",
+                "AssemblyVersion": "1.0.3.7",
                 "Description": "Native DPS Meters for Final Fantasy XIV, still in beta and may be subject to change.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Zeffuro/NativeMeters/master/Media/icon.png",
                 "RepoUrl": "https://github.com/Zeffuro/NativeMeters",
-                "LastUpdate": 1790132077
+                "LastUpdate": 1790132247
             }
         ]
     },
