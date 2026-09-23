@@ -876,12 +876,12 @@
                 "Author": "DhogGPT",
                 "Name": "Fren Rider",
                 "InternalName": "FrenRider",
-                "AssemblyVersion": "1.3.1.6",
+                "AssemblyVersion": "1.3.1.7",
                 "Description": "Native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider or /fr to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1790119927,
+                "LastUpdate": 1790196288,
                 "is_ai_attributed": true
             },
             {
@@ -912,24 +912,24 @@
                 "Author": "DhogGPT",
                 "Name": "Loot Goblin",
                 "InternalName": "LootGoblin",
-                "AssemblyVersion": "0.6.0.5",
+                "AssemblyVersion": "0.6.0.6",
                 "Description": "LootGoblin automates treasure map hunting by opening maps, reading local map flags, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/LootGoblin/master/LootGoblin/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1790119770,
+                "LastUpdate": 1790196282,
                 "is_ai_attributed": true
             },
             {
                 "Author": "DhogGPT",
                 "Name": "M.O.G.T.O.M.E.",
                 "InternalName": "MOGTOME",
-                "AssemblyVersion": "1.1.1.7",
+                "AssemblyVersion": "1.1.1.8",
                 "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open. M.O.G.T.O.M.E. = Management Of Grand Tome Operations & Management Engine",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/MOGTOME/master/MOGTOME/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/MOGTOME",
-                "LastUpdate": 1790119759,
+                "LastUpdate": 1790196286,
                 "is_ai_attributed": true
             },
             {
@@ -4493,11 +4493,11 @@
                 "Author": "CakeAndBanana",
                 "Name": "ScreenShare",
                 "InternalName": "ScreenShare.Plugin",
-                "AssemblyVersion": "0.2.5.0",
+                "AssemblyVersion": "0.3.0.0",
                 "Description": "Create or join a public or private room (optionally password protected) to share a monitor or a specific window - plus system or per-application audio - with other players, rendered directly in-game.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/CakeAndBanana/Screenshare",
-                "LastUpdate": 1790112201,
+                "LastUpdate": 1790194419,
                 "is_ai_attributed": true
             }
         ]
@@ -5292,12 +5292,12 @@
                 "Author": "CorkedFever",
                 "Name": "Aetherstream",
                 "InternalName": "Aetherstream",
-                "AssemblyVersion": "0.3.1.0",
+                "AssemblyVersion": "0.4.0.0",
                 "Description": "Puts a live stream on a screen anchored in the world: place it on a wall, size it, and watch while you play. Plays Twitch, YouTube, Plex and direct streams, painted onto a real in-game surface so the game lights and occludes it properly. Party groups let a room watch the same thing together from a six-character code.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/CorkedFever/Aetherstream/main/src/Aetherstream.Plugin/images/icon.png",
                 "RepoUrl": "https://github.com/CorkedFever/Aetherstream",
-                "LastUpdate": 1789494549,
+                "LastUpdate": 1790177103,
                 "is_ai_attributed": true
             }
         ]
@@ -12217,11 +12217,11 @@
                 "Author": "Join-Taoist",
                 "Name": "Zhuangzi",
                 "InternalName": "Zhuangzi",
-                "AssemblyVersion": "0.1.11.65",
+                "AssemblyVersion": "0.1.11.118",
                 "Description": "/zz→打开Zhuangzi配置窗口",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Join-Taoist/Join-Taoist-Zhuangzi-Repo",
-                "LastUpdate": 1790086369
+                "LastUpdate": 1790195479
             }
         ]
     },
@@ -12540,12 +12540,12 @@
                 "Author": "Juiposa",
                 "Name": "Simple Character Select",
                 "InternalName": "SimpleCharacterSelectPlugin",
-                "AssemblyVersion": "0.1.3.0",
+                "AssemblyVersion": "0.1.4.0",
                 "Description": "Character Select Simplified",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/juiposa/Simple-Character-Select/refs/heads/main/SimpleCharacterSelectPlugin/Assets/Icon.png",
                 "RepoUrl": "https://github.com/Juiposa/Simple-Character-Select",
-                "LastUpdate": 1788132561
+                "LastUpdate": 1790188684
             }
         ]
     },
@@ -12998,7 +12998,8 @@
                 "Description": "实验移植版：/mjcn manual 手动提醒，/mjcn auto 自动打牌，/mjcn stop 立即停止。提供推荐弃牌、备选与理由，接入出牌、吃碰杠、立直、和牌、自摸和下一局流程。采用上游布局与回调，完整国服自动行为仍待实机验证。保留本地诊断、版本检查及停止入口。固定国服构建与限制见说明。上游：XeldarAlz/FFXIV-AutoMahjongSolver，AGPL-3.0-or-later。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Kamishiroex/FFXIV-AutoMahjongSolver-CN",
-                "LastUpdate": 1790155939
+                "LastUpdate": 1790155939,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -14982,12 +14983,12 @@
                 "Author": "Legends of the Game",
                 "Name": "Time Memoria",
                 "InternalName": "TimeMemoriaV3",
-                "AssemblyVersion": "3.7.0.15",
+                "AssemblyVersion": "3.7.1.15",
                 "Description": "Quest progression and pacing — a reflective notebook for your story journey, not a scoreboard.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/LegendsOfTheGame/TimeMemoriaV3/main/assets/icon.png",
                 "RepoUrl": "https://github.com/LegendsOfTheGame/TimeMemoriaV3",
-                "LastUpdate": 1789327805,
+                "LastUpdate": 1790188738,
                 "is_ai_attributed": true
             }
         ]
@@ -15506,14 +15507,14 @@
         "plugins": [
             {
                 "Author": "Neprena",
-                "Name": "Linkpearl",
-                "InternalName": "Linkpearl",
-                "AssemblyVersion": "0.1.3.0",
+                "Name": "Linkpearl Sync",
+                "InternalName": "LinkpearlSync",
+                "AssemblyVersion": "0.2.2.0",
                 "Description": "Synchronise votre apparence moddée avec les personnes que vous avez explicitement appairées, en pair à pair. Les fichiers passent directement d'un joueur à l'autre, chiffrés de bout en bout : aucun serveur ne les stocke ni ne les redistribue.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/LinkPearl-Sync/linkpearl/main/Plugin_Logo.png",
                 "RepoUrl": "https://github.com/LinkPearl-Sync/linkpearl",
-                "LastUpdate": 1790117416,
+                "LastUpdate": 1790188970,
                 "is_ai_attributed": true
             }
         ]
@@ -15572,6 +15573,25 @@
                 "IconUrl": "https://raw.githubusercontent.com/linusfr/ffxiv-minimal-meter/main/images/icon.png",
                 "RepoUrl": "https://github.com/linusfr/ffxiv-minimal-meter",
                 "LastUpdate": 1790024149
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "linusfr",
+        "repo_url": "https://raw.githubusercontent.com/linusfr/ffxiv-ready-check/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/linusfr/ffxiv-ready-check",
+        "repo_name": "ffxiv-ready-check",
+        "plugins": [
+            {
+                "Author": "linusfr",
+                "Name": "Ready Check",
+                "InternalName": "ReadyCheck",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "Hooks the game's own ready check so that clicking Ready Check — or typing /readycheck — first posts the duty you have selected in the Duty Finder to party chat. Announcement only: it never answers a ready check for you.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/linusfr/ffxiv-ready-check/main/images/icon.png",
+                "RepoUrl": "https://github.com/linusfr/ffxiv-ready-check",
+                "LastUpdate": 1790182697
             }
         ]
     },
@@ -16904,6 +16924,25 @@
     },
     {
         "repo_developer_name": "McVaxius",
+        "repo_url": "https://raw.githubusercontent.com/McVaxius/dduck-public/master/repo.json",
+        "repo_source_url": "https://github.com/McVaxius/dduck-public",
+        "repo_name": "dduck-public",
+        "plugins": [
+            {
+                "Author": "DhogGPT",
+                "Name": "Deep Ducking",
+                "InternalName": "DDuck",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "The Deep Ducking public host provides the introduction, community links and authenticated loading of separately supplied DDuck modules. Open with /dduck or /dd.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/McVaxius/dduck-public/master/icon.png",
+                "RepoUrl": "https://github.com/McVaxius/dduck-public",
+                "LastUpdate": 1790196122
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "McVaxius",
         "repo_url": "https://raw.githubusercontent.com/McVaxius/dheacon/main/repo.json",
         "repo_source_url": "https://github.com/McVaxius/dheacon",
         "repo_name": "dheacon",
@@ -17011,12 +17050,12 @@
                 "Author": "DhogGPT",
                 "Name": "Fren Rider",
                 "InternalName": "FrenRider",
-                "AssemblyVersion": "1.3.1.6",
+                "AssemblyVersion": "1.3.1.7",
                 "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1790119927,
+                "LastUpdate": 1790196288,
                 "is_ai_attributed": true
             }
         ]
@@ -17091,12 +17130,12 @@
                 "Author": "DhogGPT",
                 "Name": "Loot Goblin",
                 "InternalName": "LootGoblin",
-                "AssemblyVersion": "0.6.0.5",
+                "AssemblyVersion": "0.6.0.6",
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/LootGoblin/master/LootGoblin/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1790119770,
+                "LastUpdate": 1790196282,
                 "is_ai_attributed": true
             }
         ]
@@ -17111,12 +17150,12 @@
                 "Author": "DhogGPT",
                 "Name": "M.O.G.T.O.M.E.",
                 "InternalName": "MOGTOME",
-                "AssemblyVersion": "1.1.1.7",
+                "AssemblyVersion": "1.1.1.8",
                 "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/MOGTOME/master/MOGTOME/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/MOGTOME",
-                "LastUpdate": 1790119759,
+                "LastUpdate": 1790196286,
                 "is_ai_attributed": true
             }
         ]
@@ -18498,9 +18537,9 @@
     },
     {
         "repo_developer_name": "mr-reeh",
-        "repo_url": "https://raw.githubusercontent.com/mr-reeh/milk-meter/main/repo.json",
-        "repo_source_url": "https://github.com/mr-reeh/milk-meter",
-        "repo_name": "milk-meter",
+        "repo_url": "https://raw.githubusercontent.com/mr-reeh/Milk-Meter/main/repo.json",
+        "repo_source_url": "https://github.com/mr-reeh/Milk-Meter",
+        "repo_name": "Milk-Meter",
         "plugins": [
             {
                 "Author": "MrReeh",
@@ -18517,9 +18556,9 @@
     },
     {
         "repo_developer_name": "mr-reeh",
-        "repo_url": "https://raw.githubusercontent.com/mr-reeh/Milk-Meter/main/repo.json",
-        "repo_source_url": "https://github.com/mr-reeh/Milk-Meter",
-        "repo_name": "Milk-Meter",
+        "repo_url": "https://raw.githubusercontent.com/mr-reeh/milk-meter/main/repo.json",
+        "repo_source_url": "https://github.com/mr-reeh/milk-meter",
+        "repo_name": "milk-meter",
         "plugins": [
             {
                 "Author": "MrReeh",
@@ -20335,6 +20374,25 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/nikgohn/BossModInjector",
                 "LastUpdate": 1789146650
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "niku-0",
+        "repo_url": "https://raw.githubusercontent.com/niku-0/ffxiv-ime-bridge/main/repo.json",
+        "repo_source_url": "https://github.com/niku-0/ffxiv-ime-bridge",
+        "repo_name": "ffxiv-ime-bridge",
+        "plugins": [
+            {
+                "Author": "niku-0",
+                "Name": "FFXIV IME Bridge",
+                "InternalName": "FfxivImeBridge",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "Lets you type Japanese in the FFXIV chat box on Linux. Instead of going through Wine's IME support, the plugin talks to fcitx5 directly and shows what you are composing, candidate list included, right in the chat box.\n\nRequires fcitx5 with a Japanese input method such as Mozc. On Windows the plugin does nothing.\n\nType /imebridge to open the settings.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/niku-0/ffxiv-ime-bridge",
+                "LastUpdate": 1790198493,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -23197,12 +23255,12 @@
                 "Author": "psenxiv",
                 "Name": "Vista",
                 "InternalName": "Vista",
-                "AssemblyVersion": "0.6.0.1",
+                "AssemblyVersion": "0.7.0.1",
                 "Description": "Create smooth, cinematic camera paths in FFXIV, organise them into scenes, and play them back live.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/psenxiv/vista/main/images/icon.png",
                 "RepoUrl": "https://github.com/psenxiv/vista",
-                "LastUpdate": 1790173736,
+                "LastUpdate": 1790176631,
                 "is_ai_attributed": true
             }
         ]
@@ -23405,12 +23463,12 @@
                 "Author": "Det, croizat",
                 "Name": "AutoHook",
                 "InternalName": "AutoHook",
-                "AssemblyVersion": "6.0.0.99",
+                "AssemblyVersion": "6.0.2.0",
                 "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/47",
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1790087774
+                "LastUpdate": 1790190935
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -23602,7 +23660,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1790126748,
+                "LastUpdate": 1790179530,
                 "is_ai_attributed": false
             },
             {
@@ -24294,7 +24352,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1790091011
+                "LastUpdate": 1790178226
             },
             {
                 "Author": "veyn, croizat",
@@ -25437,22 +25495,22 @@
                 "Author": "Rayla Petal",
                 "Name": "Oathbound",
                 "InternalName": "Oathbound.Plugin",
-                "AssemblyVersion": "0.0.4.8",
+                "AssemblyVersion": "0.0.5.1",
                 "Description": "A consent-based collar control plugin. Gameplay commands use ordinary in-game tells; relay-assisted pairing and encrypted catalog synchronization use the Oathbound Cloudflare service, while gameplay actions remain local to the Sub's client.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/raylapetal/xiv-collar",
-                "LastUpdate": 1790028141,
+                "LastUpdate": 1790197644,
                 "is_ai_attributed": true
             },
             {
                 "Author": "Rayla Petal",
                 "Name": "PoseKit",
                 "InternalName": "PoseKit",
-                "AssemblyVersion": "1.0.0.6",
+                "AssemblyVersion": "1.0.0.7",
                 "Description": "Animation Assistance Plugin, offset your character's pose, save named presets and replay them, auto-discover Penumbra pose mods, and manually resync emote timing with a partner.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/RaylaPetal/PoseKit",
-                "LastUpdate": 1790121410,
+                "LastUpdate": 1790194912,
                 "is_ai_attributed": true
             },
             {
@@ -25508,11 +25566,11 @@
                 "Author": "Rayla Petal",
                 "Name": "Oathbound",
                 "InternalName": "Oathbound.Plugin",
-                "AssemblyVersion": "0.0.4.8",
+                "AssemblyVersion": "0.0.5.1",
                 "Description": "A consent-based collar control plugin. An Owner sends outfit, title, gesture, and follow/leash commands as ordinary in-game tells - no server, no hosting; the Sub's own client watches for them and applies them locally via Glamourer, Honorific, and Penumbra, and existing sync tooling propagates the result to everyone paired with the Sub.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/raylapetal/xiv-collar",
-                "LastUpdate": 1790028138,
+                "LastUpdate": 1790197641,
                 "is_ai_attributed": true
             }
         ]
@@ -27087,6 +27145,24 @@
                 "RepoUrl": "https://github.com/ruminabottle/dungeonmasterxiv",
                 "LastUpdate": 1788116470,
                 "is_ai_attributed": true
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "runte3221",
+        "repo_url": "https://raw.githubusercontent.com/runte3221/HousingToStagehand-/main/repo.json",
+        "repo_source_url": "https://github.com/runte3221/HousingToStagehand-",
+        "repo_name": "HousingToStagehand-",
+        "plugins": [
+            {
+                "Author": "runte3221",
+                "Name": "HoToSta",
+                "InternalName": "HoToSta",
+                "AssemblyVersion": "1.0.12.0",
+                "Description": "",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/runte3221/HousingToStagehand-",
+                "LastUpdate": 1790184523
             }
         ]
     },
@@ -29161,7 +29237,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://dl.solona.info/icon.png",
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1790171130,
+                "LastUpdate": 1790189809,
                 "is_ai_attributed": true
             }
         ]
@@ -30185,19 +30261,19 @@
                 "Author": "Anmi (fork maintained by T3chnicalD3ath Inc.)",
                 "Name": "Beast Master Helper",
                 "InternalName": "BeastMasterHelper",
-                "AssemblyVersion": "0.9.5.0",
+                "AssemblyVersion": "0.9.25.0",
                 "Description": "Tracks the Beastmaster quest chain and beast-catalogue collection progress, auto-recording captures from chat and offering navigation to quest and catalogue targets. Works with vnavmesh for same-map travel and Lifestream for cross-map teleports.\n\nAn English fork of Anmi's Beastmaster plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/t3knical/DalamudPlugins/main/plugins/BeastMasterHelper/icon.png",
                 "RepoUrl": "https://github.com/t3knical/DalamudPlugins",
-                "LastUpdate": 1790175736,
+                "LastUpdate": 1790189603,
                 "is_ai_attributed": true
             },
             {
                 "Author": "The Combat Reborn Team (fork maintained by t3knical)",
                 "Name": "BossmodReborn (Tekz Fork)",
                 "InternalName": "BossModRebornTekz",
-                "AssemblyVersion": "1.0.54.0",
+                "AssemblyVersion": "1.0.59.0",
                 "Description": "UNOFFICIAL FORK of BossMod Reborn by the Combat Reborn Team - install the original from their own repository if you want the real thing (https://github.com/FFXIV-CombatReborn/BossmodReborn).\n\nThis build tracks upstream and adds extra work on the Occult Crescent critical engagements and FATEs, and on the Beastmaster Crucible of the Unbroken boards, tuned against recorded replays. Bugs here are this fork's, not upstream's - report them at https://github.com/t3knical/BossmodReborn rather than to the Combat Reborn Team.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/t3knical/DalamudPlugins/main/plugins/BossModRebornTekz/icon.png",
@@ -32866,12 +32942,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone Beta",
                 "InternalName": "AetherphoneBeta",
-                "AssemblyVersion": "1.0.3.18",
+                "AssemblyVersion": "1.0.3.21",
                 "Description": "The beta channel for Aetherphone: builds straight off the development branch, installed side by side with the stable plugin so you can test what is coming next without giving up the phone you use every day.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/Aetherphone-Beta",
-                "LastUpdate": 1790118879
+                "LastUpdate": 1790186327
             }
         ]
     },
@@ -32885,12 +32961,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "1.0.3.3",
+                "AssemblyVersion": "1.0.3.4",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1789723128,
+                "LastUpdate": 1790186020,
                 "is_ai_attributed": true
             },
             {
@@ -32914,19 +32990,19 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoFATEGrind/master/AutoFateGrind/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind/tree/master/AutoFateGrind",
-                "LastUpdate": 1790108825,
+                "LastUpdate": 1790193189,
                 "is_ai_attributed": true
             },
             {
                 "Author": "XeldarAlz",
                 "Name": "Auto Hunt Grinder",
                 "InternalName": "AutoHuntGrinder",
-                "AssemblyVersion": "1.4.0.0",
+                "AssemblyVersion": "1.5.0.0",
                 "Description": "Clears your hunt bills for you: tick the daily and weekly bills you want, and the plugin picks them up at the hunt board, finds every mark, and fights it until each bill is done.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoHuntGrinder/master/AutoHuntGrinder/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoHuntGrinder",
-                "LastUpdate": 1790106645,
+                "LastUpdate": 1790197645,
                 "is_ai_attributed": true
             },
             {
@@ -32945,12 +33021,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Auto Sightseeing Log",
                 "InternalName": "AutoSightseeingLog",
-                "AssemblyVersion": "1.5.0.0",
+                "AssemblyVersion": "1.6.0.0",
                 "Description": "Fills in your Sightseeing Log for you: tick the vistas you want, and the plugin travels to each one, waits for its hour and weather, performs the emote the log asks for, and moves on until every vista is logged.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoSightseeingLog/master/AutoSightseeingLog/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoSightseeingLog",
-                "LastUpdate": 1790112699,
+                "LastUpdate": 1790195827,
                 "is_ai_attributed": true
             },
             {
@@ -32989,12 +33065,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "1.0.3.3",
+                "AssemblyVersion": "1.0.3.4",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1789723128,
+                "LastUpdate": 1790186020,
                 "is_ai_attributed": true
             }
         ]
@@ -33049,12 +33125,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Auto Hunt Grinder",
                 "InternalName": "AutoHuntGrinder",
-                "AssemblyVersion": "1.4.0.0",
+                "AssemblyVersion": "1.5.0.0",
                 "Description": "Clears your hunt bills for you: tick the daily and weekly bills you want, and the plugin picks them up at the hunt board, finds every mark, and fights it until each bill is done.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoHuntGrinder/master/AutoHuntGrinder/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoHuntGrinder",
-                "LastUpdate": 1790106644,
+                "LastUpdate": 1790197643,
                 "is_ai_attributed": true
             }
         ]
@@ -33129,12 +33205,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Auto Sightseeing Log",
                 "InternalName": "AutoSightseeingLog",
-                "AssemblyVersion": "1.5.0.0",
+                "AssemblyVersion": "1.6.0.0",
                 "Description": "Fills in your Sightseeing Log for you: tick the vistas you want, and the plugin travels to each one, waits for its hour and weather, performs the emote the log asks for, and moves on until every vista is logged.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoSightseeingLog/master/AutoSightseeingLog/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoSightseeingLog",
-                "LastUpdate": 1790112697,
+                "LastUpdate": 1790195825,
                 "is_ai_attributed": true
             }
         ]
@@ -33227,7 +33303,7 @@
                 "Author": "xivhub",
                 "Name": "Artisan (XivHub fork)",
                 "InternalName": "Artisan",
-                "AssemblyVersion": "4.0.5.36",
+                "AssemblyVersion": "4.0.5.37",
                 "Description": "The all-in-one crafting plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png",
@@ -33269,22 +33345,22 @@
                 "Author": "XivHub",
                 "Name": "Gardener",
                 "InternalName": "Gardener",
-                "AssemblyVersion": "0.14.13.0",
+                "AssemblyVersion": "0.14.14.0",
                 "Description": "Keeps a persistent journal of every outdoor garden bed you own — personal, FC and shared estates — and reminds you when a crop needs tending, fertilizing or harvesting no matter where you are in the world. While standing at the plot, runs a guarded tend-all, fertilize-all, harvest-all or plant-a-plan sweep across the patch, and plans crossbreed layouts from a bundled dataset. Never travels, mounts or pathfinds on your behalf. This automates gameplay, which violates the FFXIV User Agreement and can get your account penalized or banned; use entirely at your own risk.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XivHub/Gardener",
-                "LastUpdate": 1788722464
+                "LastUpdate": 1790192033
             },
             {
                 "Author": "XivHub",
                 "Name": "GlamourLink",
                 "InternalName": "GlamourLink",
-                "AssemblyVersion": "0.2.4.0",
+                "AssemblyVersion": "0.2.6.0",
                 "Description": "Requires Glamourer. Paste an Eorzea Collection glamour URL or id and GlamourLink reads its gear list from Eorzea Collection's undocumented JSON endpoint, resolves it against the game's own item and dye sheets, and applies the result to your character through Glamourer's IPC. Unmatched items are reported rather than guessed silently, and every fuzzy-matched item is labelled as a guess. Optionally saves the result as a named Glamourer design. Saved outfits keep their resolved gear, so applying one needs no call to Eorzea Collection; open /glink library to browse them. Open /glink in game to import.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XivHub/GlamourLink/main/images/icon.png",
                 "RepoUrl": "https://github.com/XivHub/GlamourLink",
-                "LastUpdate": 1790025021
+                "LastUpdate": 1790191967
             },
             {
                 "Author": "XivHub",
@@ -33840,11 +33916,11 @@
                 "Author": "yomo1024",
                 "Name": "Mod Bridge",
                 "InternalName": "ModBridge",
-                "AssemblyVersion": "0.2.12.0",
+                "AssemblyVersion": "0.2.13.0",
                 "Description": "配合本地「FFXIV XMA Manager」使用：管理器点「安装到游戏」→ 游戏内弹窗确认 → 调 Penumbra IPC 解包装入并启用、触发重绘，mod 立刻生效（并可选写入/绘制预览封面）。\n服务只监听 127.0.0.1，带 token 鉴权；用 /modbridge 打开设置窗口查看端口、token 与最近安装记录。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/yomo1024/FFXIV_XMA_Manager",
-                "LastUpdate": 1790176333
+                "LastUpdate": 1790177211
             }
         ]
     },
@@ -34036,7 +34112,7 @@
                 "Author": "Anomek",
                 "Name": "AnoMech",
                 "InternalName": "AnoMech",
-                "AssemblyVersion": "0.20.6.1",
+                "AssemblyVersion": "0.20.6.2",
                 "Description": "Spawns fake party members and bosses client-side so you can practice raid mechanics without a full party.",
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/anomek/AnoMech/master/images/icon.png",
