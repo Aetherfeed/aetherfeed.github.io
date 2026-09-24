@@ -2150,12 +2150,12 @@
                 "Author": "Anmi",
                 "Name": "ArenaPilot-斗兽塔助手",
                 "InternalName": "ArenaPilot",
-                "AssemblyVersion": "0.2.4.11",
+                "AssemblyVersion": "0.2.4.12",
                 "Description": "自动执行已支持的斗兽奇弈流程，包括入场、编队、路线导航、战斗准备、奖励领取、休息、宝箱、商店和最终结算。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/anmili2022/ArenaPilot/main/images/icon.png?v=1",
                 "RepoUrl": "https://github.com/anmili2022/ArenaPilot",
-                "LastUpdate": 1790165510
+                "LastUpdate": 1790241375
             }
         ]
     },
@@ -2298,12 +2298,12 @@
                 "Author": "Anmi",
                 "Name": "肝武助手",
                 "InternalName": "Phantom",
-                "AssemblyVersion": "0.1.37.0",
+                "AssemblyVersion": "0.1.38.0",
                 "Description": "统一追踪幻武、深层迷宫武器、旧肝武、特殊工具、绝武与妖表收藏。支持全系列按角色持有同步、秘影与 FATE 导航、妖表奖励扫描和雇员库存缓存读取。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/anmili2022/Phantom/main/images/icon.png",
                 "RepoUrl": "https://github.com/anmili2022/Phantom",
-                "LastUpdate": 1790069138
+                "LastUpdate": 1790239152
             }
         ]
     },
@@ -8767,6 +8767,25 @@
         ]
     },
     {
+        "repo_developer_name": "EY4O",
+        "repo_url": "https://raw.githubusercontent.com/EY4O/XIV-Plugins/main/docs/repo.json",
+        "repo_source_url": "https://github.com/EY4O/XIV-Plugins",
+        "repo_name": "XIV-Plugins",
+        "plugins": [
+            {
+                "Author": "Looneth",
+                "Name": "AutoTataru",
+                "InternalName": "MarketPilot",
+                "AssemblyVersion": "0.9.0.0",
+                "Description": "Tataru sells for your retainers and shops for your crafts. Sell All prices every listing from recent sales, never below the minimum you set, and reprices anything undercut, one retainer after another or during AutoRetainer's visits. The Buy List imports Teamcraft lists, counts what you already hold, and buys across your data centre within the price ceilings and budgets you choose; cross-world buying needs Lifestream and vnavmesh. Every decision is logged, and /taru stop halts at once. Buying currently needs the English game client.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://ey4o.github.io/XIV-Plugins/assets/autotataru-icon.png",
+                "RepoUrl": "https://github.com/EY4O/AutoTataru",
+                "LastUpdate": 1790241687
+            }
+        ]
+    },
+    {
         "repo_developer_name": "felpssantarosa",
         "repo_url": "https://raw.githubusercontent.com/felpssantarosa/bloom-bell/master/repo.json",
         "repo_source_url": "https://github.com/felpssantarosa/bloom-bell",
@@ -8916,12 +8935,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "BossMod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.6.18",
+                "AssemblyVersion": "7.5.6.19",
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1790210740
+                "LastUpdate": 1790221960
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -10511,7 +10530,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/main/HaselTweaks/Assets/Icon.png",
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1789649909
+                "LastUpdate": 1790201203
             },
             {
                 "Author": "Haselnussbomber",
@@ -11297,6 +11316,25 @@
                 "IconUrl": "https://raw.githubusercontent.com/IkHmTeJ/Wondrous-Tails-Solver/refs/heads/main/icon.png",
                 "RepoUrl": "https://github.com/IkHmTeJ/Wondrous-Tails-Solver",
                 "LastUpdate": 1783786013
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Iluay0",
+        "repo_url": "https://raw.githubusercontent.com/Iluay0/studium/master/repo.json",
+        "repo_source_url": "https://github.com/Iluay0/studium",
+        "repo_name": "studium",
+        "plugins": [
+            {
+                "Author": "Iluay",
+                "Name": "Studium",
+                "InternalName": "Studium",
+                "AssemblyVersion": "0.1.1.0",
+                "Description": "Live DPS/tank/heal meter with persistent, browsable fight history. /studium or /dps to open.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Iluay0/studium",
+                "LastUpdate": 1790228698,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -12228,11 +12266,11 @@
                 "Author": "Join-Taoist",
                 "Name": "Zhuangzi",
                 "InternalName": "Zhuangzi",
-                "AssemblyVersion": "0.1.11.118",
+                "AssemblyVersion": "0.1.11.120",
                 "Description": "/zz→打开Zhuangzi配置窗口",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Join-Taoist/Join-Taoist-Zhuangzi-Repo",
-                "LastUpdate": 1790195479
+                "LastUpdate": 1790225649
             }
         ]
     },
@@ -13003,13 +13041,13 @@
         "plugins": [
             {
                 "Author": "XeldarAlz; CN adaptation contributors",
-                "Name": "多玛方城助手 CN（手动与自动）",
+                "Name": "多玛方城助手 CN（公开牌局 / 手动与自动）",
                 "InternalName": "Mahjong.Plugin.CN",
-                "AssemblyVersion": "0.2.0.3",
+                "AssemblyVersion": "0.4.0.0",
                 "Description": "实验移植版：/mjcn manual 手动提醒，/mjcn auto 自动打牌，/mjcn stop 立即停止。提供推荐弃牌、备选与理由，接入出牌、吃碰杠、立直、和牌、自摸和下一局流程。采用上游布局与回调，完整国服自动行为仍待实机验证。保留本地诊断、版本检查及停止入口。固定国服构建与限制见说明。上游：XeldarAlz/FFXIV-AutoMahjongSolver，AGPL-3.0-or-later。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Kamishiroex/FFXIV-AutoMahjongSolver-CN",
-                "LastUpdate": 1790155939,
+                "LastUpdate": 1790233905,
                 "is_ai_attributed": true
             }
         ]
@@ -14346,12 +14384,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.756.3.18",
+                "AssemblyVersion": "15.756.3.19",
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1790142862,
+                "LastUpdate": 1790243430,
                 "is_ai_attributed": false
             },
             {
@@ -15523,8 +15561,28 @@
                 "AssemblyVersion": "0.2.2.0",
                 "Description": "Synchronise votre apparence moddée avec les personnes que vous avez explicitement appairées, en pair à pair. Les fichiers passent directement d'un joueur à l'autre, chiffrés de bout en bout : aucun serveur ne les stocke ni ne les redistribue.",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/LinkPearl-Sync/linkpearl/main/Plugin_Logo.png",
+                "IconUrl": "https://raw.githubusercontent.com/LinkPearl-Sync/linkpearl-sync-plugin/main/Plugin_Logo.png",
                 "RepoUrl": "https://github.com/LinkPearl-Sync/linkpearl",
+                "LastUpdate": 1790188970,
+                "is_ai_attributed": true
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "LinkPearl-Sync",
+        "repo_url": "https://raw.githubusercontent.com/LinkPearl-Sync/linkpearl-sync-plugin/main/repo.json",
+        "repo_source_url": "https://github.com/LinkPearl-Sync/linkpearl-sync-plugin",
+        "repo_name": "linkpearl-sync-plugin",
+        "plugins": [
+            {
+                "Author": "Neprena",
+                "Name": "Linkpearl Sync",
+                "InternalName": "LinkpearlSync",
+                "AssemblyVersion": "0.2.2.0",
+                "Description": "Syncs your modded appearance with the people you explicitly paired with, peer to peer. Files go straight from one player to another, end-to-end encrypted: no server stores or redistributes them. The interface is in French for now.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/LinkPearl-Sync/linkpearl-sync-plugin/main/Plugin_Logo.png",
+                "RepoUrl": "https://github.com/LinkPearl-Sync/linkpearl-sync-plugin",
                 "LastUpdate": 1790188970,
                 "is_ai_attributed": true
             }
@@ -15603,6 +15661,25 @@
                 "IconUrl": "https://raw.githubusercontent.com/linusfr/ffxiv-ready-check/main/images/icon.png",
                 "RepoUrl": "https://github.com/linusfr/ffxiv-ready-check",
                 "LastUpdate": 1790182697
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "linusfr",
+        "repo_url": "https://raw.githubusercontent.com/linusfr/ffxiv-wayfinder/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/linusfr/ffxiv-wayfinder",
+        "repo_name": "ffxiv-wayfinder",
+        "plugins": [
+            {
+                "Author": "linusfr",
+                "Name": "Wayfinder",
+                "InternalName": "Wayfinder",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "Docks a search field under the game's own Duty Finder and Teleport windows. Type part of a name — \"aurum\", \"arum\", \"vale\", \"alex\", \"radz\" — and pick from ranked results; the game's own window then does the selecting, queueing and teleporting exactly as if you had clicked the row yourself. Search and filter only: no automation, no queueing for you, no bypassing unlocks, level requirements or gil costs.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/linusfr/ffxiv-wayfinder/main/images/icon.png",
+                "RepoUrl": "https://github.com/linusfr/ffxiv-wayfinder",
+                "LastUpdate": 1790243124
             }
         ]
     },
@@ -18470,26 +18547,6 @@
     },
     {
         "repo_developer_name": "mr-reeh",
-        "repo_url": "https://raw.githubusercontent.com/mr-reeh/Flash/main/repo.json",
-        "repo_source_url": "https://github.com/mr-reeh/Flash",
-        "repo_name": "Flash",
-        "plugins": [
-            {
-                "Author": "MrReeh",
-                "Name": "Flash",
-                "InternalName": "Flash",
-                "AssemblyVersion": "0.4.0.0",
-                "Description": "Automatically changes a character's gear via Glamourer to Smallclothes or the Emperor's New Set when specified emotes or combat actions are used, with per-slot control, delay, and duration options, then reverts back to normal gear.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/mr-reeh/flash/main/images/icon.png",
-                "RepoUrl": "https://github.com/mr-reeh/flash",
-                "LastUpdate": 1788360370,
-                "is_ai_attributed": true
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "mr-reeh",
         "repo_url": "https://raw.githubusercontent.com/mr-reeh/flash/main/repo.json",
         "repo_source_url": "https://github.com/mr-reeh/flash",
         "repo_name": "flash",
@@ -18500,6 +18557,26 @@
                 "InternalName": "Flash",
                 "AssemblyVersion": "0.4.0.0",
                 "Description": "Watches for configured emotes and swaps your outfit via Glamourer while (and optionally only while) you're performing them, then reverts back to your normal gear afterward.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/mr-reeh/flash/main/images/icon.png",
+                "RepoUrl": "https://github.com/mr-reeh/flash",
+                "LastUpdate": 1788360370,
+                "is_ai_attributed": true
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "mr-reeh",
+        "repo_url": "https://raw.githubusercontent.com/mr-reeh/Flash/main/repo.json",
+        "repo_source_url": "https://github.com/mr-reeh/Flash",
+        "repo_name": "Flash",
+        "plugins": [
+            {
+                "Author": "MrReeh",
+                "Name": "Flash",
+                "InternalName": "Flash",
+                "AssemblyVersion": "0.4.0.0",
+                "Description": "Automatically changes a character's gear via Glamourer to Smallclothes or the Emperor's New Set when specified emotes or combat actions are used, with per-slot control, delay, and duration options, then reverts back to normal gear.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/mr-reeh/flash/main/images/icon.png",
                 "RepoUrl": "https://github.com/mr-reeh/flash",
@@ -19357,12 +19434,12 @@
                 "Author": "Valenth",
                 "Name": "Saru",
                 "InternalName": "Saru",
-                "AssemblyVersion": "1.0.3.3",
+                "AssemblyVersion": "1.0.3.4",
                 "Description": "/saru opens the Saru workspace. /saru start <scriptname> starts a script and /saru stop stops all running scripts.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/NeoGriever/Saru/main/plugins/Saru/icon.png",
                 "RepoUrl": "https://github.com/NeoGriever/Saru",
-                "LastUpdate": 1790111222
+                "LastUpdate": 1790243209
             }
         ]
     },
@@ -23561,12 +23638,12 @@
                 "Author": "the Puni.sh Quest Squad",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.756.3.18",
+                "AssemblyVersion": "15.756.3.20",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1790142862
+                "LastUpdate": 1790243430
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -24243,12 +24320,12 @@
                 "Author": "Valenth Siveria",
                 "Name": "Saru",
                 "InternalName": "Saru",
-                "AssemblyVersion": "1.0.3.3",
+                "AssemblyVersion": "1.0.3.4",
                 "Description": "/saru opens the Saru workspace. /saru start <scriptname> starts a script and /saru stop stops all running scripts.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/179",
                 "RepoUrl": "https://github.com/NeoGriever/Saru",
-                "LastUpdate": 1790111223
+                "LastUpdate": 1790243211
             }
         ]
     },
@@ -28822,6 +28899,24 @@
         ]
     },
     {
+        "repo_developer_name": "SirenBrink",
+        "repo_url": "https://raw.githubusercontent.com/SirenBrink/FFXIV-NativeDoF/main/repo.json",
+        "repo_source_url": "https://github.com/SirenBrink/FFXIV-NativeDoF",
+        "repo_name": "FFXIV-NativeDoF",
+        "plugins": [
+            {
+                "Author": "Comfy",
+                "Name": "Native DoF Prototype",
+                "InternalName": "NativeDof",
+                "AssemblyVersion": "0.1.6.0",
+                "Description": "Experimental native gameplay depth of field, with native camera focus or manual focus and aperture controls. Locked to the verified September 15, 2026 game executable. Optional saved activation and separate combat profiles. Use /nativedof.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/SirenBrink/FFXIV-NativeDoF",
+                "LastUpdate": 1790234959
+            }
+        ]
+    },
+    {
         "repo_url": "https://raw.githubusercontent.com/Skooz/Zookins/main/pluginmaster.json",
         "repo_source_url": "https://github.com/Skooz/Zookins",
         "plugins": [
@@ -29462,6 +29557,91 @@
         ]
     },
     {
+        "repo_developer_name": "Spaceghost",
+        "repo_url": "https://raw.githubusercontent.com/Spaceghost/ghostty-vote/master/public/mods/ffxiv/plugins.json",
+        "repo_source_url": "https://github.com/Spaceghost/ghostty-vote",
+        "repo_name": "ghostty-vote",
+        "plugins": [
+            {
+                "Author": "Johnneylee Jack Rollins",
+                "Name": "Almanac",
+                "InternalName": "Almanac",
+                "AssemblyVersion": "0.2.1.5",
+                "Description": "Connects a model running on your own PC (Ollama, LM Studio, llama.cpp or any OpenAI-compatible server) to the game through XivMcp. Setup wizard with GPU-aware model recommendations, an in-game chat with threads and streaming, and a benchmark you can share with the community leaderboard. No cloud, no Python. Requires the XivMcp plugin for game tools.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://spacegho.st/mods/ffxiv/plugins/icons/almanac.png",
+                "RepoUrl": "https://github.com/Spaceghost/almanac-dalamud",
+                "LastUpdate": 1790230929
+            },
+            {
+                "Author": "Johnneylee Jack Rollins",
+                "Name": "Ghostty",
+                "InternalName": "GhosttyDalamud",
+                "AssemblyVersion": "0.3.0.2",
+                "Description": "Quake-style dropdown, floating windows and terminals pinned in the world, connected to shells on your own machine through ghostty-agent. /term to toggle. Works with or without Umbra; with Umbra, the Ghostty toolbar widget shows its status and a popup terminal.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://spacegho.st/mods/ffxiv/plugins/icons/ghostty.png",
+                "RepoUrl": "https://github.com/Spaceghost/ghostty-dalamud",
+                "LastUpdate": 1790241660
+            },
+            {
+                "Author": "Johnneylee Jack Rollins",
+                "Name": "XivArcade",
+                "InternalName": "XivArcade",
+                "AssemblyVersion": "0.2.0.0",
+                "Description": "A library for the classic games you own, for FINAL FANTASY XIV running under Wine on Linux. /arcade lists the game files in folders you choose, starts them in RetroArch on the Linux host, and shows them as world panels through Ghostty when it is installed. Every save and save state lives in one folder that Syncthing copies between your machines. It downloads no games, BIOS files or artwork.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://spacegho.st/mods/ffxiv/plugins/icons/xivarcade.png",
+                "RepoUrl": "https://github.com/Spaceghost/xivarcade-dalamud",
+                "LastUpdate": 1790229242
+            },
+            {
+                "Author": "Johnneylee Jack Rollins",
+                "Name": "XivDesktop",
+                "InternalName": "XivDesktop",
+                "AssemblyVersion": "1.0.2.4",
+                "Description": "An app launcher for FINAL FANTASY XIV running under Wine on Linux. Lists the host's freedesktop applications and opens them as world panels through Ghostty's remote windows. Optional Umbra toolbar widget.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://spacegho.st/mods/ffxiv/plugins/icons/xivdesktop.png",
+                "RepoUrl": "https://github.com/Spaceghost/xivdesktop-dalamud",
+                "LastUpdate": 1790230908
+            },
+            {
+                "Author": "Johnneylee Jack Rollins",
+                "Name": "XivLantern",
+                "InternalName": "XivLantern",
+                "AssemblyVersion": "0.1.0.3",
+                "Description": "Friends light a lantern to say they are here. Add friends with a one-time invite, see whose lantern is lit, chat 1:1 and in channels you make, and hear from the mod's author in a channel only they can post to. Peer to peer over iroh: no Lantern server, and nothing from the game is ever sent — not your character's name, world or chat; your friends see the name you type. Off until you turn it on in settings, where it says exactly who can see what (including that relays see your IP address, and how to turn them off). Blocking, rate limits and no auto-accept.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://spacegho.st/mods/ffxiv/plugins/icons/xivlantern.png",
+                "RepoUrl": "https://github.com/Spaceghost/xivlantern-dalamud",
+                "LastUpdate": 1790230902
+            },
+            {
+                "Author": "Johnneylee Jack Rollins",
+                "Name": "XivMcp",
+                "InternalName": "XivMcp",
+                "AssemblyVersion": "0.1.1.4",
+                "Description": "Exposes game state, game data and opt-in actions to MCP clients over loopback Streamable HTTP. Anything that changes your game is approved in game first. Optional Umbra toolbar widget.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://spacegho.st/mods/ffxiv/plugins/icons/xivmcp.png",
+                "RepoUrl": "https://github.com/Spaceghost/xivmcp-dalamud",
+                "LastUpdate": 1790230924
+            },
+            {
+                "Author": "Johnneylee Jack Rollins",
+                "Name": "XivWayfinder",
+                "InternalName": "XivWayfinder",
+                "AssemblyVersion": "0.1.0.2",
+                "Description": "XivWayfinder points the way in FINAL FANTASY XIV: a softly pulsing bead floats a couple of yalms ahead of you in the direction to go, and the game's own white pointing glove points there too, sliding to the edge of the screen when the way is behind you. It follows, in order, a target you set with /wayfinder X Y or another plugin sets over IPC, your map flag, and your tracked quest's next step; in another zone it names the nearest aetheryte instead. With vnavmesh installed it points along the walkable path. It only points and never moves your character.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://spacegho.st/mods/ffxiv/plugins/icons/xivwayfinder.png",
+                "RepoUrl": "https://github.com/Spaceghost/xivwayfinder-dalamud",
+                "LastUpdate": 1790231002
+            }
+        ]
+    },
+    {
         "repo_developer_name": "SpecialAgentSkye",
         "repo_url": "https://raw.githubusercontent.com/SpecialAgentSkye/SkyeMeter-2.0/main/pluginmaster.json",
         "repo_source_url": "https://github.com/SpecialAgentSkye/SkyeMeter-2.0",
@@ -29886,12 +30066,12 @@
                 "Author": "Sunnie Sunday",
                 "Name": "Acoustic Kitty",
                 "InternalName": "AcousticKitty",
-                "AssemblyVersion": "0.2.0.0",
+                "AssemblyVersion": "0.2.1.0",
                 "Description": "Cross-references nearby in-game characters against their Lodestone profile, and builds an audit queue against EchoVault's registration to see if they're already verified sightings contributors. Echo's API used to find stalkers can optionally be routed through a SOCKS5 proxy.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/sunnie-sunday/AcousticKitty/main/images/icon.png",
                 "RepoUrl": "https://github.com/sunnie-sunday/AcousticKitty",
-                "LastUpdate": 1789871627,
+                "LastUpdate": 1790223227,
                 "is_ai_attributed": true
             }
         ]
@@ -30272,19 +30452,19 @@
                 "Author": "Anmi (fork maintained by T3chnicalD3ath Inc.)",
                 "Name": "Beast Master Helper",
                 "InternalName": "BeastMasterHelper",
-                "AssemblyVersion": "0.9.25.0",
+                "AssemblyVersion": "0.9.47.0",
                 "Description": "Tracks the Beastmaster quest chain and beast-catalogue collection progress, auto-recording captures from chat and offering navigation to quest and catalogue targets. Works with vnavmesh for same-map travel and Lifestream for cross-map teleports.\n\nAn English fork of Anmi's Beastmaster plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/t3knical/DalamudPlugins/main/plugins/BeastMasterHelper/icon.png",
                 "RepoUrl": "https://github.com/t3knical/DalamudPlugins",
-                "LastUpdate": 1790189603,
+                "LastUpdate": 1790238123,
                 "is_ai_attributed": true
             },
             {
                 "Author": "The Combat Reborn Team (fork maintained by t3knical)",
                 "Name": "BossmodReborn (Tekz Fork)",
                 "InternalName": "BossModRebornTekz",
-                "AssemblyVersion": "1.0.61.0",
+                "AssemblyVersion": "1.0.65.0",
                 "Description": "UNOFFICIAL FORK of BossMod Reborn by the Combat Reborn Team - install the original from their own repository if you want the real thing (https://github.com/FFXIV-CombatReborn/BossmodReborn).\n\nThis build tracks upstream and adds extra work on the Occult Crescent critical engagements and FATEs, and on the Beastmaster Crucible of the Unbroken boards, tuned against recorded replays. Bugs here are this fork's, not upstream's - report them at https://github.com/t3knical/BossmodReborn rather than to the Combat Reborn Team.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/t3knical/DalamudPlugins/main/plugins/BossModRebornTekz/icon.png",
@@ -31057,7 +31237,7 @@
                 "Description": "Doman Mahjong (Emj) solver — best-discard advisor, win-probability display, full han+fu scoring engine for FFXIV Gold Saucer.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Tihlyn/MahjongHater",
-                "LastUpdate": 1790170569,
+                "LastUpdate": 1790236465,
                 "is_ai_attributed": true
             }
         ]
@@ -31091,12 +31271,12 @@
                 "Author": "Tildemancer",
                 "Name": "TildeTools",
                 "InternalName": "TildeTools",
-                "AssemblyVersion": "0.4.3.0",
+                "AssemblyVersion": "0.4.4.0",
                 "Description": "A collection of tools under one window, each with its own tab and master switch. Includes Emote Splitter, which raises the chat box's length limit and sends long messages as paced chunks so the server does not drop them.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Tildemancer/TildeTools/master/TildeTools/images/icon.png",
                 "RepoUrl": "https://github.com/Tildemancer/TildeTools",
-                "LastUpdate": 1789957541
+                "LastUpdate": 1790239143
             }
         ]
     },
