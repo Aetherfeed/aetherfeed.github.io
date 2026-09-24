@@ -721,12 +721,12 @@
                 "Author": "DhogGPT",
                 "Name": "AI Duty Solver",
                 "InternalName": "ADS",
-                "AssemblyVersion": "0.9.3.4",
+                "AssemblyVersion": "0.9.3.5",
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/ADS/main/ADS/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1790119025,
+                "LastUpdate": 1790209898,
                 "is_ai_attributed": true
             },
             {
@@ -815,6 +815,17 @@
             },
             {
                 "Author": "DhogGPT",
+                "Name": "Deep Ducking",
+                "InternalName": "DDuck",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "The Deep Ducking public host provides the introduction, community links and authenticated loading of separately supplied DDuck modules. Open with /dduck or /dd.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/McVaxius/dduck-public/master/icon.png",
+                "RepoUrl": "https://github.com/McVaxius/dduck-public",
+                "LastUpdate": 1790196122
+            },
+            {
+                "Author": "DhogGPT",
                 "Name": "Dheacon",
                 "InternalName": "dheacon",
                 "AssemblyVersion": "2.1.0.3",
@@ -876,12 +887,12 @@
                 "Author": "DhogGPT",
                 "Name": "Fren Rider",
                 "InternalName": "FrenRider",
-                "AssemblyVersion": "1.3.1.7",
+                "AssemblyVersion": "1.3.1.8",
                 "Description": "Native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider or /fr to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1790196288,
+                "LastUpdate": 1790209890,
                 "is_ai_attributed": true
             },
             {
@@ -924,12 +935,12 @@
                 "Author": "DhogGPT",
                 "Name": "M.O.G.T.O.M.E.",
                 "InternalName": "MOGTOME",
-                "AssemblyVersion": "1.1.1.8",
+                "AssemblyVersion": "1.1.1.9",
                 "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open. M.O.G.T.O.M.E. = Management Of Grand Tome Operations & Management Engine",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/MOGTOME/master/MOGTOME/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/MOGTOME",
-                "LastUpdate": 1790196286,
+                "LastUpdate": 1790209901,
                 "is_ai_attributed": true
             },
             {
@@ -959,12 +970,12 @@
                 "Author": "DhogGPT",
                 "Name": "Vermaxion",
                 "InternalName": "VERMAXION",
-                "AssemblyVersion": "0.5.0.1",
+                "AssemblyVersion": "0.5.0.2",
                 "Description": "Automates weekly and daily tasks triggered by AutoRetainer post-processing. Configurable per character: Verminion queue, Cactpot, Chocobo Racing, FC buff refill, and Henchman management.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1790122063,
+                "LastUpdate": 1790208799,
                 "is_ai_attributed": true
             },
             {
@@ -3446,11 +3457,11 @@
                 "Author": "Badstupid6",
                 "Name": "MassGlamour",
                 "InternalName": "MassGlamour",
-                "AssemblyVersion": "1.0.3.0",
+                "AssemblyVersion": "1.1.1.0",
                 "Description": "Automatically applies Glamourer, Customize+, and Penumbra profiles to drawn characters based on filters.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/badstupid6/MassGlamourPlugin",
-                "LastUpdate": 1790106307,
+                "LastUpdate": 1790210734,
                 "is_ai_attributed": true
             }
         ]
@@ -5254,7 +5265,7 @@
                 "Author": "The Sundouleia Team",
                 "Name": "Sundouleia",
                 "InternalName": "Sundouleia",
-                "AssemblyVersion": "1.1.6.3",
+                "AssemblyVersion": "1.1.7.0",
                 "Description": "Yet another Mare fork",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Sundouleia/repo/main/Images/icon.png",
@@ -8542,11 +8553,11 @@
                 "Author": "Anomek",
                 "Name": "AnoMech Testing",
                 "InternalName": "AnoMechTesting",
-                "AssemblyVersion": "0.4.0.4",
+                "AssemblyVersion": "0.4.0.15",
                 "Description": "Unstable build of the multiplayer work in progress on Evernow/AnoMech's multiplayer-support branch. Spawns fake party members and bosses client-side so you can practice raid mechanics, with several people sharing one simulation. Installs alongside the normal AnoMech and keeps its own settings.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Evernow/Anomech-testing",
-                "LastUpdate": 1790056194
+                "LastUpdate": 1790205293
             },
             {
                 "Author": "Evernow",
@@ -8905,12 +8916,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "BossMod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.6.17",
+                "AssemblyVersion": "7.5.6.18",
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1790158048
+                "LastUpdate": 1790210740
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -9864,12 +9875,12 @@
                 "Author": "GitHixy",
                 "Name": "LootView",
                 "InternalName": "LootView",
-                "AssemblyVersion": "1.4.0.0",
+                "AssemblyVersion": "1.5.0.0",
                 "Description": "A customizable loot tracking window with item icons, rarity colors, and highlight animations. Shows who loots what and can be filtered to show only your loot.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/GitHixy/LootView/main/icon.png",
                 "RepoUrl": "https://github.com/GitHixy/LootView",
-                "LastUpdate": 1790010796,
+                "LastUpdate": 1790214293,
                 "is_ai_attributed": true
             }
         ]
@@ -12838,12 +12849,12 @@
                 "Author": "Kaerlath",
                 "Name": "DiceMaster",
                 "InternalName": "DiceMaster",
-                "AssemblyVersion": "0.5.2.0",
+                "AssemblyVersion": "0.5.3.0",
                 "Description": "Roll polyhedral dice together in a dedicated Dice Window. Configure your relay, create or join a room, and use /dicemaster to open the controls.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/kaerlath/DiceMaster/main/images/icon.png",
                 "RepoUrl": "https://github.com/kaerlath/DiceMaster",
-                "LastUpdate": 1789945300
+                "LastUpdate": 1790212595
             }
         ]
     },
@@ -12877,11 +12888,11 @@
                 "Author": "Sceneweaver contributors",
                 "Name": "Sceneweaver",
                 "InternalName": "Sceneweaver",
-                "AssemblyVersion": "0.7.0.0",
+                "AssemblyVersion": "0.8.0.0",
                 "Description": "Development preview: shared scene editor for Intoner and Stagehand, with dual-save, conversion reports and base-color asset previews. Open with /sceneweaver. In-game validation is pending.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kaerlath/Sceneweaver",
-                "LastUpdate": 1789866011
+                "LastUpdate": 1790211200
             }
         ]
     },
@@ -14279,12 +14290,12 @@
                 "Author": "erdelf, Herculezz",
                 "Name": "AutoDuty",
                 "InternalName": "AutoDuty",
-                "AssemblyVersion": "0.352.0.1",
+                "AssemblyVersion": "0.353.0.1",
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1790126748,
+                "LastUpdate": 1790210849,
                 "is_ai_attributed": false
             },
             {
@@ -14307,7 +14318,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1790091011
+                "LastUpdate": 1790178226
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -16832,12 +16843,12 @@
                 "Author": "DhogGPT",
                 "Name": "AI Duty Solver",
                 "InternalName": "ADS",
-                "AssemblyVersion": "0.9.3.4",
+                "AssemblyVersion": "0.9.3.5",
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/ADS/main/ADS/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1790119025,
+                "LastUpdate": 1790209898,
                 "is_ai_attributed": true
             }
         ]
@@ -17050,12 +17061,12 @@
                 "Author": "DhogGPT",
                 "Name": "Fren Rider",
                 "InternalName": "FrenRider",
-                "AssemblyVersion": "1.3.1.7",
+                "AssemblyVersion": "1.3.1.8",
                 "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1790196288,
+                "LastUpdate": 1790209890,
                 "is_ai_attributed": true
             }
         ]
@@ -17150,12 +17161,12 @@
                 "Author": "DhogGPT",
                 "Name": "M.O.G.T.O.M.E.",
                 "InternalName": "MOGTOME",
-                "AssemblyVersion": "1.1.1.8",
+                "AssemblyVersion": "1.1.1.9",
                 "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/MOGTOME/master/MOGTOME/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/MOGTOME",
-                "LastUpdate": 1790196286,
+                "LastUpdate": 1790209901,
                 "is_ai_attributed": true
             }
         ]
@@ -17506,12 +17517,12 @@
                 "Author": "DhogGPT",
                 "Name": "VerMAXion",
                 "InternalName": "VERMAXION",
-                "AssemblyVersion": "0.5.0.1",
+                "AssemblyVersion": "0.5.0.2",
                 "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1790122063,
+                "LastUpdate": 1790208799,
                 "is_ai_attributed": true
             }
         ]
@@ -18846,12 +18857,12 @@
                 "Author": "MusicYYin",
                 "Name": "Soumen",
                 "InternalName": "Soumen",
-                "AssemblyVersion": "0.4.6.2",
+                "AssemblyVersion": "0.4.6.3",
                 "Description": "读取小队坐标并使用 vnavmesh 自动导航。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MusicYYin/Soumen/main/icon.png",
                 "RepoUrl": "https://github.com/MusicYYin/Soumen",
-                "LastUpdate": 1790170185
+                "LastUpdate": 1790210562
             }
         ]
     },
@@ -19508,7 +19519,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/NeXzRo/Stuff/main/BetterTargetingSystemPvP/icon.png",
                 "RepoUrl": "https://github.com/NeXzRo/BetterTargetingSystem",
-                "LastUpdate": 1790042872
+                "LastUpdate": 1790214879
             },
             {
                 "Author": "goat, Maple",
@@ -23255,12 +23266,12 @@
                 "Author": "psenxiv",
                 "Name": "Vista",
                 "InternalName": "Vista",
-                "AssemblyVersion": "0.7.0.1",
+                "AssemblyVersion": "0.8.0.1",
                 "Description": "Create smooth, cinematic camera paths in FFXIV, organise them into scenes, and play them back live.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/psenxiv/vista/main/images/icon.png",
                 "RepoUrl": "https://github.com/psenxiv/vista",
-                "LastUpdate": 1790176631,
+                "LastUpdate": 1790216372,
                 "is_ai_attributed": true
             }
         ]
@@ -23655,12 +23666,12 @@
                 "Author": "erdelf, Herculezz",
                 "Name": "AutoDuty",
                 "InternalName": "AutoDuty",
-                "AssemblyVersion": "0.0.0.352",
+                "AssemblyVersion": "0.0.0.353",
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1790179530,
+                "LastUpdate": 1790210849,
                 "is_ai_attributed": false
             },
             {
@@ -23885,7 +23896,7 @@
                 "Author": "Knightmore",
                 "Name": "Henchman",
                 "InternalName": "Henchman",
-                "AssemblyVersion": "3.0.1.28",
+                "AssemblyVersion": "3.0.1.29",
                 "Description": "Your personal Henchman doing all the heavy lifting for you!\n\n- Hunt Logs\n- Hunt Bills\n- Retainer Creation\nand more to come.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/85",
@@ -27158,11 +27169,11 @@
                 "Author": "runte3221",
                 "Name": "HoToSta",
                 "InternalName": "HoToSta",
-                "AssemblyVersion": "1.0.12.0",
+                "AssemblyVersion": "1.0.14.0",
                 "Description": "",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/runte3221/HousingToStagehand-",
-                "LastUpdate": 1790184523
+                "LastUpdate": 1790209010
             }
         ]
     },
@@ -29237,7 +29248,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://dl.solona.info/icon.png",
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1790189809,
+                "LastUpdate": 1790214374,
                 "is_ai_attributed": true
             }
         ]
@@ -30273,7 +30284,7 @@
                 "Author": "The Combat Reborn Team (fork maintained by t3knical)",
                 "Name": "BossmodReborn (Tekz Fork)",
                 "InternalName": "BossModRebornTekz",
-                "AssemblyVersion": "1.0.59.0",
+                "AssemblyVersion": "1.0.61.0",
                 "Description": "UNOFFICIAL FORK of BossMod Reborn by the Combat Reborn Team - install the original from their own repository if you want the real thing (https://github.com/FFXIV-CombatReborn/BossmodReborn).\n\nThis build tracks upstream and adds extra work on the Occult Crescent critical engagements and FATEs, and on the Beastmaster Crucible of the Unbroken boards, tuned against recorded replays. Bugs here are this fork's, not upstream's - report them at https://github.com/t3knical/BossmodReborn rather than to the Combat Reborn Team.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/t3knical/DalamudPlugins/main/plugins/BossModRebornTekz/icon.png",
@@ -31753,6 +31764,26 @@
         ]
     },
     {
+        "repo_developer_name": "V1B3Gaming",
+        "repo_url": "https://raw.githubusercontent.com/V1B3Gaming/SellWise/main/repo.json",
+        "repo_source_url": "https://github.com/V1B3Gaming/SellWise",
+        "repo_name": "SellWise",
+        "plugins": [
+            {
+                "Author": "VIB3",
+                "Name": "SellWise",
+                "InternalName": "SellWise",
+                "AssemblyVersion": "0.3.0.0",
+                "Description": "Scans your bags, saddlebags and retainers, pulls live prices from Universalis, and recommends what to list, relist, vendor or hold, with suggested prices. Finds profitable crafts you can make and hands them to GatherBuddy Reborn or Artisan to gather and craft.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/V1B3Gaming/SellWise/main/SellWise/images/icon.png",
+                "RepoUrl": "https://github.com/V1B3Gaming/SellWise",
+                "LastUpdate": 1790219849,
+                "is_ai_attributed": true
+            }
+        ]
+    },
+    {
         "repo_developer_name": "Valiice",
         "repo_url": "https://raw.githubusercontent.com/Valiice/DalamudPluginRepo/master/repo.json",
         "repo_source_url": "https://github.com/Valiice/DalamudPluginRepo",
@@ -32517,6 +32548,26 @@
     },
     {
         "repo_developer_name": "wenwen-ff14",
+        "repo_url": "https://raw.githubusercontent.com/wenwen-ff14/dsrsim-tc/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/wenwen-ff14/dsrsim-tc",
+        "repo_name": "dsrsim-tc",
+        "plugins": [
+            {
+                "Author": "Anomek / wenwen-ff14",
+                "Name": "dsrsim-tc｜絕龍詩模擬器",
+                "InternalName": "dsrsim-tc",
+                "AssemblyVersion": "1.0.0.2",
+                "Description": "API 13 繁中版，參考 AnoMech 與 tuuf／Elemental，模擬七名隊友。提供 P2 聖仗、P3 尼德霍格、P4 雙眼、P5 風槍／死刻、P6 雙龍與 P7 龍威騎神。P6 可選機制範圍及十字火頭標方式；P7 包含冰火劍、三劍一體、地火、踩塔、十億火光、最後犧牲塔及挑釁／退避換坦練習。使用 /dsrsim 或 /dsrsim-tc 開啟；視窗可收合。各階段支援範圍見專案攻略文件。",
+                "DalamudApiLevel": 13,
+                "IconUrl": "https://raw.githubusercontent.com/wenwen-ff14/dsrsim-tc/main/images/dsrsim-tc.png",
+                "RepoUrl": "https://github.com/wenwen-ff14/dsrsim-tc",
+                "LastUpdate": 1790210126,
+                "is_ai_attributed": true
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "wenwen-ff14",
         "repo_url": "https://raw.githubusercontent.com/wenwen-ff14/test/main/pluginmaster.json",
         "repo_source_url": "https://github.com/wenwen-ff14/test",
         "repo_name": "test",
@@ -32525,12 +32576,12 @@
                 "Author": "Anomek / wenwen-ff14",
                 "Name": "dsrsim-tc｜絕龍詩模擬器",
                 "InternalName": "dsrsim-tc",
-                "AssemblyVersion": "1.0.0.0",
+                "AssemblyVersion": "1.0.0.2",
                 "Description": "API 13 繁中版。依 tuuf／Elemental 分工模擬七名隊友，練習 P2 聖仗、P3 尼德霍格、P4 雙眼與 P5 風槍與死刻。P3 可指定自己的麻將與箭頭。P5 包含旋風、八方劍、綠標龍衝、地火、雷光鏈與月環；死刻包含死亡宣告、PS 標記、擊退斷鏈、白圈解除及 D4 隕石 LB2 練習。使用 /dsrsim 或 /dsrsim-tc 開啟；視窗可收合。",
                 "DalamudApiLevel": 13,
-                "IconUrl": "https://raw.githubusercontent.com/wenwen-ff14/test/main/images/dsrsim-tc.png",
+                "IconUrl": "https://raw.githubusercontent.com/wenwen-ff14/dsrsim-tc/main/images/dsrsim-tc.png",
                 "RepoUrl": "https://github.com/wenwen-ff14/test",
-                "LastUpdate": 1790170799,
+                "LastUpdate": 1790210126,
                 "is_ai_attributed": true
             }
         ]
@@ -32638,7 +32689,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/will-corrigan/Wayfarer/main/images/icon.png",
                 "RepoUrl": "https://github.com/will-corrigan/Wayfarer",
-                "LastUpdate": 1790130315
+                "LastUpdate": 1790210819
             }
         ]
     },
@@ -34552,11 +34603,11 @@
                 "Author": "Zune",
                 "Name": "Master Of Puppets",
                 "InternalName": "MasterOfPuppets",
-                "AssemblyVersion": "1.15.0.237",
+                "AssemblyVersion": "1.15.0.238",
                 "Description": "Plugin to send macro actions",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1790125533,
+                "LastUpdate": 1790209266,
                 "is_ai_attributed": true
             },
             {
