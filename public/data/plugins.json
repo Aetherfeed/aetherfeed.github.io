@@ -2351,12 +2351,12 @@
                 "Author": "Anmi",
                 "Name": "肝武助手",
                 "InternalName": "Phantom",
-                "AssemblyVersion": "0.1.41.0",
+                "AssemblyVersion": "0.1.42.0",
                 "Description": "统一追踪幻武、深层迷宫武器、旧肝武、特殊工具、绝武与妖表收藏。支持全系列按角色持有同步、秘影与 FATE 导航、妖表奖励扫描和雇员库存缓存读取。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/anmili2022/Phantom/main/images/icon.png",
                 "RepoUrl": "https://github.com/anmili2022/Phantom",
-                "LastUpdate": 1790352104
+                "LastUpdate": 1790394412
             }
         ]
     },
@@ -3924,6 +3924,18 @@
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/blackappleD/AutoDuty",
                 "LastUpdate": 1790288828,
+                "is_ai_attributed": true
+            },
+            {
+                "Author": "Infi, Sl0nderman, harbingerftw, blackappleD",
+                "Name": "Blue Mage & Beastmaster Helper（国服维护版）",
+                "InternalName": "BlueMageHelper-bld",
+                "AssemblyVersion": "3.6.1.2001",
+                "Description": "青魔法师与驯兽师（Beastmaster）收集助手：列出尚未学会的青魔法与尚未收服的宠物，按地图或名称搜索，一键传送到最近的以太之光或打开副本查找器，并在需要的怪物头顶显示标记。国服维护版增加界面多语言支持（默认跟随 Dalamud 语言，也可在设置中手动切换）。",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/blackappleD/BlueMageHelper/master/BlueMageHelper/images/icon.png",
+                "RepoUrl": "https://github.com/blackappleD/BlueMageHelper",
+                "LastUpdate": 1790398220,
                 "is_ai_attributed": true
             },
             {
@@ -6882,11 +6894,11 @@
                 "Author": "Rikun",
                 "Name": "Pizza Referee",
                 "InternalName": "PizzaReferee",
-                "AssemblyVersion": "0.8.3.0",
+                "AssemblyVersion": "0.8.5.0",
                 "Description": "In-game referee for the Pizza Challenge. Announces each round, judges every /random against the threshold, moves through each player's pies and the queue, and keeps the night's stats and Hall of Fame. Made for the Bassment; announces in chat on your behalf, so it lives in this custom repository rather than the official list.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/donovangst/pizza-challenge",
-                "LastUpdate": 1790052101
+                "LastUpdate": 1790387807
             }
         ]
     },
@@ -8856,25 +8868,14 @@
             },
             {
                 "Author": "Looneth",
-                "Name": "AutoTataru",
-                "InternalName": "MarketPilot",
-                "AssemblyVersion": "0.9.0.0",
-                "Description": "Tataru sells for your retainers and shops for your crafts. Sell All prices every listing from recent sales, never below the minimum you set, and reprices anything undercut, one retainer after another or during AutoRetainer's visits. The Buy List imports Teamcraft lists, counts what you already hold, and buys across your data centre within the price ceilings and budgets you choose; cross-world buying needs Lifestream and vnavmesh. Every decision is logged, and /taru stop halts at once. Buying currently needs the English game client.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://ey4o.github.io/XIV-Plugins/assets/autotataru-icon.png",
-                "RepoUrl": "https://github.com/EY4O/AutoTataru",
-                "LastUpdate": 1790241687
-            },
-            {
-                "Author": "Looneth",
                 "Name": "RePlate",
                 "InternalName": "RePlate",
-                "AssemblyVersion": "0.6.1.0",
+                "AssemblyVersion": "0.6.1.3",
                 "Description": "Save your adventurer plate's portrait and design, and put them back in one click.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://ey4o.github.io/XIV-Plugins/assets/replate-icon.png",
                 "RepoUrl": "https://github.com/EY4O/RePlate",
-                "LastUpdate": 1790370817
+                "LastUpdate": 1790390073
             }
         ]
     },
@@ -9028,12 +9029,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "BossMod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.6.19",
+                "AssemblyVersion": "7.5.6.20",
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1790284877
+                "LastUpdate": 1790394653
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -12455,12 +12456,12 @@
                 "Author": "joshua88wa",
                 "Name": "Nearby Player List",
                 "InternalName": "NearbyPlayerList",
-                "AssemblyVersion": "0.5.2.1",
+                "AssemblyVersion": "0.5.3.3",
                 "Description": "Shows a compact, clickable list of player characters you can actually target, so you can heal or raise people in The Hunt, Diadem, Eureka, Bozja and the Occult Crescent without fighting the mouse.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/joshua88wa/FFXIV-Dalamud-NearbyPlayerList/main/images/icon.png",
                 "RepoUrl": "https://github.com/joshua88wa/FFXIV-Dalamud-NearbyPlayerList",
-                "LastUpdate": 1790313395,
+                "LastUpdate": 1790391086,
                 "is_ai_attributed": true
             },
             {
@@ -13493,12 +13494,12 @@
                 "Author": "Karriis",
                 "Name": "PVPLOGSCN",
                 "InternalName": "PVPLOGSCN",
-                "AssemblyVersion": "3.0.3.27",
+                "AssemblyVersion": "3.0.3.29",
                 "Description": "PVPLOGSCN 是面向中国大陆《最终幻想XIV》玩家的 PvP 数据记录与上传插件，支持水晶冲突、纷争前线和烈羽争锋。插件可查看本地最近战绩、管理上传日志，并为纷争前线采集地图回放数据。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://pvpdata.com/plugin-icon.png?v=4",
                 "RepoUrl": "https://github.com/Karriis/PVPLOGSCN-PluginRepo",
-                "LastUpdate": 1790287414
+                "LastUpdate": 1790384791
             }
         ]
     },
@@ -14427,23 +14428,23 @@
                 "Author": "Taurenkey, kawaii, NightmareXIV",
                 "Name": "Artisan",
                 "InternalName": "Artisan",
-                "AssemblyVersion": "4.0.5.20",
+                "AssemblyVersion": "4.0.5.21",
                 "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/6",
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1789304060
+                "LastUpdate": 1790362739
             },
             {
                 "Author": "erdelf, Herculezz",
                 "Name": "AutoDuty",
                 "InternalName": "AutoDuty",
-                "AssemblyVersion": "0.358.0.1",
+                "AssemblyVersion": "0.360.0.1",
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1790328522,
+                "LastUpdate": 1790382315,
                 "is_ai_attributed": false
             },
             {
@@ -14466,7 +14467,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1790178226
+                "LastUpdate": 1790388568
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -21256,11 +21257,11 @@
                 "Author": "Nonu",
                 "Name": "Nonuglon",
                 "InternalName": "Nonuglon",
-                "AssemblyVersion": "0.0.3.0",
+                "AssemblyVersion": "0.0.5.0",
                 "Description": "Little grab-bag of personal tweaks.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nonunon/Nonuglon",
-                "LastUpdate": 1790376973
+                "LastUpdate": 1790395385
             }
         ]
     },
@@ -21573,12 +21574,12 @@
                 "Author": "ofnature",
                 "Name": "Charon",
                 "InternalName": "Charon",
-                "AssemblyVersion": "0.1.40",
+                "AssemblyVersion": "0.1.41",
                 "Description": "Auto pillion with smart seat scanning and whitelisted auto group invite. Companion to Daedalus.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ofnature/Charon/main/images/icon.png",
                 "RepoUrl": "https://github.com/ofnature/Charon",
-                "LastUpdate": 1789940250,
+                "LastUpdate": 1790380425,
                 "is_ai_attributed": true
             }
         ]
@@ -22577,11 +22578,11 @@
                 "Author": "ViewInFFXIV",
                 "Name": "ViewInFFXIV",
                 "InternalName": "ViewInFFXIV",
-                "AssemblyVersion": "1.2.0.0",
+                "AssemblyVersion": "1.2.1.0",
                 "Description": "Hosts WatchTogether.watch in a helper process and draws the video on a 16:9 screen in FFXIV housing. Chat stays in /say.\n\nThe install zip includes the local WebView2 helper — no separate server setup. Open with /viewin. Requires WebView2 Runtime (usually already installed via Edge).",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/PayneZA/ViewInFFXIV",
-                "LastUpdate": 1790353672,
+                "LastUpdate": 1790379639,
                 "is_ai_attributed": true
             }
         ]
@@ -22829,6 +22830,24 @@
                 "RepoUrl": "https://github.com/pgtruong/TurboController",
                 "LastUpdate": 1789081306,
                 "is_ai_attributed": true
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "phamjordan",
+        "repo_url": "https://raw.githubusercontent.com/phamjordan/ffxiv-stage-manager-plugin/main/repo.json",
+        "repo_source_url": "https://github.com/phamjordan/ffxiv-stage-manager-plugin",
+        "repo_name": "ffxiv-stage-manager-plugin",
+        "plugins": [
+            {
+                "Author": "Stage Manager",
+                "Name": "Stage Manager",
+                "InternalName": "StageManager",
+                "AssemblyVersion": "0.1.3.0",
+                "Description": "Connect FFXIV Stage Manager to local rehearsal ghosts. Windows prototype; native ghosts await in-game validation.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/phamjordan/ffxiv-stage-manager-plugin",
+                "LastUpdate": 1790396012
             }
         ]
     },
@@ -23580,12 +23599,12 @@
                 "Author": "psenxiv",
                 "Name": "Vista",
                 "InternalName": "Vista",
-                "AssemblyVersion": "0.10.0.1",
+                "AssemblyVersion": "0.11.0.1",
                 "Description": "Create smooth, cinematic camera paths in FFXIV, organise them into scenes, and play them back live.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/psenxiv/vista/main/images/icon.png",
                 "RepoUrl": "https://github.com/psenxiv/vista",
-                "LastUpdate": 1790316060,
+                "LastUpdate": 1790377989,
                 "is_ai_attributed": true
             }
         ]
@@ -23980,12 +23999,12 @@
                 "Author": "erdelf, Herculezz",
                 "Name": "AutoDuty",
                 "InternalName": "AutoDuty",
-                "AssemblyVersion": "0.0.0.359",
+                "AssemblyVersion": "0.0.0.360",
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1790376369,
+                "LastUpdate": 1790382315,
                 "is_ai_attributed": false
             },
             {
@@ -24677,7 +24696,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1790358778
+                "LastUpdate": 1790388568
             },
             {
                 "Author": "veyn, croizat",
@@ -25002,11 +25021,11 @@
                 "Author": "liza, qstxiv, & various contributors & QianChang",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.756.3.1701",
+                "AssemblyVersion": "15.756.3.2201",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/QianChangUwU/Questionable",
-                "LastUpdate": 1790090957,
+                "LastUpdate": 1790384709,
                 "is_ai_attributed": true
             },
             {
@@ -25831,11 +25850,11 @@
                 "Author": "Rayla Petal",
                 "Name": "PoseKit",
                 "InternalName": "PoseKit",
-                "AssemblyVersion": "1.0.0.9",
+                "AssemblyVersion": "1.0.0.10",
                 "Description": "Animation Assistance Plugin, offset your character's pose, save named presets and replay them, auto-discover Penumbra pose mods, and manually resync emote timing with a partner.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/RaylaPetal/PoseKit",
-                "LastUpdate": 1790362130,
+                "LastUpdate": 1790378609,
                 "is_ai_attributed": true
             },
             {
@@ -28555,7 +28574,7 @@
                 "Author": "Xoza",
                 "Name": "LightsOn",
                 "InternalName": "LightsOn",
-                "AssemblyVersion": "0.1.0.4",
+                "AssemblyVersion": "0.1.1.0",
                 "Description": "Occupancy for listed venues and short outdoor scenes. Reports are lanterns lit or wrapped up early, never names or counts. Optional log-book notes while the lanterns are lit.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ShadowstarIO/LightsOn/main/images/icon.png",
@@ -28593,7 +28612,7 @@
                 "Author": "Xoza",
                 "Name": "LightsOn",
                 "InternalName": "LightsOn",
-                "AssemblyVersion": "0.1.0.4",
+                "AssemblyVersion": "0.1.1.0",
                 "Description": "Occupancy for listed venues and short outdoor scenes. Reports are lanterns lit or wrapped up early, never names or counts. Optional log-book notes while the lanterns are lit.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ShadowstarIO/LightsOn/main/images/icon.png",
@@ -28902,12 +28921,12 @@
                 "Author": "白泉澈",
                 "Name": "AutoHunt",
                 "InternalName": "AutoHunt",
-                "AssemblyVersion": "2.4.0.8",
+                "AssemblyVersion": "2.4.0.9",
                 "Description": "自动狩猎（狩猎车）助手：右键聊天玩家名设为车头；自动解析车头在任何频道发送的坐标，自动打开地图插旗；跨图或远距离自动传送到最近水晶；上坐骑后执行 /vnav flyflag 飞向旗标（可选 IPC 直接寻路）；到达后自动选中狩猎怪（基于 NotoriousMonster 数据表识别 A/S 级），血量低于阈值自动下坐骑并 /rotation Manual 输出，目标死亡自动关闭；每击杀 N 只怪自动切换副本区。依赖：vnavmesh、RotationSolver、Lifestream、Teleporter。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ShiraisumiKiyoshi/AutoHunt/main/dist/images/icon.png",
                 "RepoUrl": "https://github.com/ShiraisumiKiyoshi/AutoHunt",
-                "LastUpdate": 1790340213
+                "LastUpdate": 1790399655
             }
         ]
     },
@@ -29599,7 +29618,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://dl.solona.info/icon.png",
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1790373139,
+                "LastUpdate": 1790388272,
                 "is_ai_attributed": true
             }
         ]
@@ -30156,11 +30175,11 @@
                 "Author": "Stoni",
                 "Name": "The Explorer's Codex",
                 "InternalName": "TheExplorersCodex",
-                "AssemblyVersion": "0.9.0.0",
+                "AssemblyVersion": "1.0.0.0",
                 "Description": "Completionist plugin per zone with automation capabilities.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/stoni89/explorers-codex",
-                "LastUpdate": 1790275857,
+                "LastUpdate": 1790380980,
                 "is_ai_attributed": true
             }
         ]
@@ -30175,22 +30194,22 @@
                 "Author": "Stoni",
                 "Name": "Big Fish Helper",
                 "InternalName": "BigFishHelper",
-                "AssemblyVersion": "0.2.0.0",
+                "AssemblyVersion": "0.4.0.0",
                 "Description": "Helps you catch Big Fish, working together with AutoHook.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/stoni89/big-fish-helper",
-                "LastUpdate": 1790284722,
+                "LastUpdate": 1790381323,
                 "is_ai_attributed": true
             },
             {
                 "Author": "Stoni",
                 "Name": "The Explorer's Codex",
                 "InternalName": "TheExplorersCodex",
-                "AssemblyVersion": "0.9.0.0",
+                "AssemblyVersion": "1.0.0.0",
                 "Description": "Completionist plugin per zone with automation capabilities.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/stoni89/explorers-codex",
-                "LastUpdate": 1790275857,
+                "LastUpdate": 1790380980,
                 "is_ai_attributed": true
             }
         ]
@@ -30205,11 +30224,11 @@
                 "Author": "Stoni",
                 "Name": "The Explorer's Codex",
                 "InternalName": "TheExplorersCodex",
-                "AssemblyVersion": "0.9.0.0",
+                "AssemblyVersion": "1.0.0.0",
                 "Description": "Completionist plugin per zone with automation capabilities.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/stoni89/explorers-codex",
-                "LastUpdate": 1790275857,
+                "LastUpdate": 1790380980,
                 "is_ai_attributed": true
             }
         ]
@@ -30738,12 +30757,12 @@
                 "Author": "Anmi (fork maintained by T3chnicalD3ath Inc.)",
                 "Name": "Beast Master Helper",
                 "InternalName": "BeastMasterHelper",
-                "AssemblyVersion": "0.9.74.2",
+                "AssemblyVersion": "0.9.74.5",
                 "Description": "Tracks the Beastmaster quest chain and beast-catalogue collection progress, auto-recording captures from chat and offering navigation to quest and catalogue targets. Works with vnavmesh for same-map travel and Lifestream for cross-map teleports.\n\nAn English fork of Anmi's Beastmaster plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/t3knical/DalamudPlugins/main/plugins/BeastMasterHelper/icon.png",
                 "RepoUrl": "https://github.com/t3knical/DalamudPlugins",
-                "LastUpdate": 1790348405,
+                "LastUpdate": 1790393162,
                 "is_ai_attributed": true
             },
             {
@@ -31869,7 +31888,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/twelvehouse/Brio-Anchor",
-                "LastUpdate": 1789383836,
+                "LastUpdate": 1789989226,
                 "is_ai_attributed": true
             },
             {
@@ -31892,7 +31911,7 @@
                 "Description": "Soft-wraps the chat input box, growing it to fit.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/twelvehouse/DalamudPlugins",
-                "LastUpdate": 1789352501,
+                "LastUpdate": 1790381687,
                 "is_ai_attributed": true
             },
             {
@@ -31905,6 +31924,16 @@
                 "RepoUrl": "https://github.com/twelvehouse/FootIK",
                 "LastUpdate": 1774318084,
                 "is_ai_attributed": true
+            },
+            {
+                "Author": "twelvehouse",
+                "Name": "MixArmoireIntoDresser",
+                "InternalName": "MixArmoireIntoDresser",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "Lists your armoire items in the glamour dresser while editing glamour plates, so you can build plates without switching to the armoire.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/twelvehouse/DalamudPlugins",
+                "LastUpdate": 1790381687
             }
         ]
     },
