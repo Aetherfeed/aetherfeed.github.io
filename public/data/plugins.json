@@ -817,12 +817,12 @@
                 "Author": "DhogGPT",
                 "Name": "Deep Ducking",
                 "InternalName": "DDuck",
-                "AssemblyVersion": "0.2.1.0",
+                "AssemblyVersion": "0.2.2.0",
                 "Description": "The Deep Ducking public host provides the introduction, community links and authenticated loading of separately supplied DDuck modules. Open with /dduck or /dd.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dduck-public/master/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/dduck-public",
-                "LastUpdate": 1790473395
+                "LastUpdate": 1790519433
             },
             {
                 "Author": "DhogGPT",
@@ -2222,12 +2222,12 @@
                 "Author": "Anmi",
                 "Name": "驯兽师助手",
                 "InternalName": "Beastmaster",
-                "AssemblyVersion": "0.1.46.0",
+                "AssemblyVersion": "0.1.47.0",
                 "Description": "追踪驯兽师任务链和魔兽图鉴收集进度，支持捕获消息自动记录、任务与图鉴目标导航，并可配合 vnavmesh 和 Lifestream 完成同地图移动及跨地图传送。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/anmili2022/Beastmaster/main/images/icon.png?v=2",
                 "RepoUrl": "https://github.com/anmili2022/Beastmaster",
-                "LastUpdate": 1790502413
+                "LastUpdate": 1790510885
             }
         ]
     },
@@ -2986,12 +2986,12 @@
                 "Author": "Aspher0",
                 "Name": "Bypass Emote",
                 "InternalName": "BypassEmote",
-                "AssemblyVersion": "2.4.0.1",
+                "AssemblyVersion": "2.4.0.2",
                 "Description": "A simple plugin that lets you play any game emote, whether you unlocked it or not.\nClient side only.\nJust type the emote command as you would normally.\nWorks with custom animations and syncable over Mare.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Aspher0/BypassEmote/main/Data/BypassEmote_LOGO.png",
                 "RepoUrl": "https://github.com/Aspher0/BypassEmote",
-                "LastUpdate": 1790442353
+                "LastUpdate": 1790514184
             }
         ]
     },
@@ -5394,12 +5394,12 @@
                 "Author": "CorkedFever",
                 "Name": "Aetherstream",
                 "InternalName": "Aetherstream",
-                "AssemblyVersion": "0.4.0.0",
+                "AssemblyVersion": "0.4.1.0",
                 "Description": "Puts a live stream on a screen anchored in the world: place it on a wall, size it, and watch while you play. Plays Twitch, YouTube, Plex and direct streams, painted onto a real in-game surface so the game lights and occludes it properly. Party groups let a room watch the same thing together from a six-character code.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/CorkedFever/Aetherstream/main/src/Aetherstream.Plugin/images/icon.png",
                 "RepoUrl": "https://github.com/CorkedFever/Aetherstream",
-                "LastUpdate": 1790177103,
+                "LastUpdate": 1790528874,
                 "is_ai_attributed": true
             }
         ]
@@ -8560,7 +8560,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1790453212
+                "LastUpdate": 1790507297
             }
         ]
     },
@@ -11086,7 +11086,7 @@
                 "Author": "MusicManBowls, kihtli",
                 "Name": "Hunt Helper Evolved",
                 "InternalName": "HuntHelperEvolved",
-                "AssemblyVersion": "0.6.0.1",
+                "AssemblyVersion": "0.6.0.2",
                 "Description": "Hunt tracking for FFXIV. Detects marks and records a train with exact kill times, posts Discord reports sorted by the order marks actually died, draws spawn points, your detection range and SS event locations on the in-game map, counts S-rank trigger mobs, and keeps a lifetime per-mark kill tally per character.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/HuntHelperEvolved/HuntHelperEvolved/main/icon.png",
@@ -11246,11 +11246,21 @@
                 "Author": "RifleJock",
                 "Name": "Shout Calendar",
                 "InternalName": "ShoutCalendar",
-                "AssemblyVersion": "0.1.17.0",
+                "AssemblyVersion": "0.1.18.0",
                 "Description": "Shout Calendar listens to the chats you choose and keeps event invites on a month calendar until you accept them. Nothing is accepted for you, and nothing is sent to other players.\n\nIt understands clocks, dates, today, tonight, tomorrow, next Tuesday, the Tuesday after next, every Tuesday, every other week, and the 1st and last Wednesday of a month. Places include wards, plots such as W3P26, coordinates, worlds, and names from the game's own data. A ward heard in a city guesses that city's housing district.\n\nSave accepts a pending invite. Click a block to edit it under the month, or click the day number for that day's full list. Coordinates open the map with a flag. Known quest givers do the same, and quest names drop a quest link into chat.\n\nThe Resets tab adds Jumbo Cactpot, the weekly reset, and limited events such as A Nocturne for Heroes. Resets that share a clock share one line. Alarms play a chat sound from se.1 to se.16, or a WAV you choose. Colors are yours to set.\n\n/shoutcalendar opens the calendar. /shoutcalendar test checks a line on your machine and does not send chat.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ibigsnet/shout-calendar",
-                "LastUpdate": 1790505556
+                "LastUpdate": 1790511266
+            },
+            {
+                "Author": "RifleJock",
+                "Name": "Shout Calendar Sync",
+                "InternalName": "ShoutCalendar.Sync",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "Shout Calendar Sync attaches to Shout Calendar and shares public Shout and Yell invites. Say, tells, party, alliance, free company, linkshells, and novice network are not shared.\n\nThe list at the top right starts on your current world. Check another world to fetch it in the background, then select it to see that world's events.\n\nSync runs on its own. You can limit connections, speed, stored size, items per tick, and memory. Removing this plugin removes shared events and leaves the invites you heard yourself.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/ibigsnet/shout-calendar-sync",
+                "LastUpdate": 1790511310
             }
         ]
     },
@@ -12003,6 +12013,24 @@
         ]
     },
     {
+        "repo_developer_name": "Jacob5800",
+        "repo_url": "https://raw.githubusercontent.com/Jacob5800/Workshoppa-API15/main/repo.json",
+        "repo_source_url": "https://github.com/Jacob5800/Workshoppa-API15",
+        "repo_name": "Workshoppa-API15",
+        "plugins": [
+            {
+                "Author": "Liza Carvelli",
+                "Name": "Workshoppa",
+                "InternalName": "Workshoppa",
+                "AssemblyVersion": "9.3.1.0",
+                "Description": "API 15 continuation of Workshoppa. Automates workshop material turn-ins and can skip cutscenes between production phases.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Jacob5800/Workshoppa-API15",
+                "LastUpdate": 1790527690
+            }
+        ]
+    },
+    {
         "repo_developer_name": "jango921",
         "repo_url": "https://raw.githubusercontent.com/jango921/StreamerMode/main/repo.json",
         "repo_source_url": "https://github.com/jango921/StreamerMode",
@@ -12423,11 +12451,11 @@
                 "Author": "Join-Taoist",
                 "Name": "Zhuangzi",
                 "InternalName": "Zhuangzi",
-                "AssemblyVersion": "0.1.12.30",
+                "AssemblyVersion": "0.1.12.32",
                 "Description": "/zz→打开Zhuangzi配置窗口",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Join-Taoist/Join-Taoist-Zhuangzi-Repo",
-                "LastUpdate": 1790509946
+                "LastUpdate": 1790522487
             }
         ]
     },
@@ -13234,7 +13262,7 @@
                 "Description": "MahjongSolver，多玛方城战求解器（国服优化版）。使用 /mjcn 打开完整主界面，标准功能无需测试验证。提供手动提醒、自动打牌、任务暂停与继续、整场场数/时长/截止停止规则、自动排队和进桌开打，以及本人资料页评分、本地记录、诊断与恢复核对。评分目标因整场刷新证据尚缺而暂未开放。自动操作默认关闭，保留版本、读牌与动作检查。另提供测试版功能，验证后可用，仍需主动选择和启动。只使用正常可见信息，不补造缺失历史，不保证获胜或上分。基于 XeldarAlz/FFXIV-AutoMahjongSolver，遵循 AGPL-3.0-or-later；第三方组件的许可与来源见 NOTICE。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Kamishiroex/MahjongSolver-CN",
-                "LastUpdate": 1790507763
+                "LastUpdate": 1790512255
             }
         ]
     },
@@ -14531,12 +14559,12 @@
                 "Author": "konvarec",
                 "Name": "HuntVoidWatcher",
                 "InternalName": "HuntVoidWatcher",
-                "AssemblyVersion": "0.5.0.66",
+                "AssemblyVersion": "0.5.0.67",
                 "Description": "Synchronizes active character world/area status to a shared spreadsheet for S-rank hunt observation.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/konvarec/HuntVoidWatcherCustomRepo/main/HuntVoidWatcher/images/icon_64.png",
                 "RepoUrl": "https://github.com/konvarec/HuntVoidWatcherCustomRepo",
-                "LastUpdate": 1790163281
+                "LastUpdate": 1790524474
             }
         ]
     },
@@ -14631,12 +14659,12 @@
                 "Author": "erdelf, Herculezz",
                 "Name": "AutoDuty",
                 "InternalName": "AutoDuty",
-                "AssemblyVersion": "0.363.0.2",
+                "AssemblyVersion": "0.364.0.1",
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1790464593,
+                "LastUpdate": 1790524968,
                 "is_ai_attributed": false
             },
             {
@@ -15385,12 +15413,12 @@
                 "Author": "Legends of the Game",
                 "Name": "Time Memoria",
                 "InternalName": "TimeMemoriaV3",
-                "AssemblyVersion": "3.7.1.15",
+                "AssemblyVersion": "3.7.2.15",
                 "Description": "Quest progression and pacing — a reflective notebook for your story journey, not a scoreboard.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/LegendsOfTheGame/TimeMemoriaV3/main/assets/icon.png",
                 "RepoUrl": "https://github.com/LegendsOfTheGame/TimeMemoriaV3",
-                "LastUpdate": 1790188738,
+                "LastUpdate": 1790515934,
                 "is_ai_attributed": true
             }
         ]
@@ -16027,12 +16055,12 @@
                 "Author": "linusfr",
                 "Name": "Venture Bell",
                 "InternalName": "VentureBell",
-                "AssemblyVersion": "2.8.3.0",
+                "AssemblyVersion": "2.9.0.0",
                 "Description": "Sends your retainers' venture completion times to a small self-hosted server, which holds the countdown and pushes a notification when they finish — including when the game is shut down. Reads the timers the game already has; it never assigns, collects or interacts with a retainer. Nothing is sent anywhere until you configure your own server address.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/linusfr/ffxiv-venture-bell/main/images/icon.png",
                 "RepoUrl": "https://github.com/linusfr/ffxiv-venture-bell",
-                "LastUpdate": 1790462705
+                "LastUpdate": 1790528903
             }
         ]
     },
@@ -16719,24 +16747,6 @@
                 "IconUrl": "https://raw.githubusercontent.com/MakorVihar/Inviter/main/images/icon.png",
                 "RepoUrl": "https://github.com/MakorVihar/Inviter",
                 "LastUpdate": 1785879616
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "Makuragami",
-        "repo_url": "https://raw.githubusercontent.com/Makuragami/combat_assist/main/repo.json",
-        "repo_source_url": "https://github.com/Makuragami/combat_assist",
-        "repo_name": "combat_assist",
-        "plugins": [
-            {
-                "Author": "makuragami",
-                "Name": "Combat Assist Scheduler",
-                "InternalName": "CombatAssistScheduler",
-                "AssemblyVersion": "0.1.2.0",
-                "Description": "手动移动时使用 RotationSolver 自动循环，并使用 BossMod 动态躲避。",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/Makuragami/combat_assist",
-                "LastUpdate": 1789231574
             }
         ]
     },
@@ -17440,12 +17450,12 @@
                 "Author": "DhogGPT",
                 "Name": "Deep Ducking",
                 "InternalName": "DDuck",
-                "AssemblyVersion": "0.2.1.0",
+                "AssemblyVersion": "0.2.2.0",
                 "Description": "The Deep Ducking public host provides the introduction, community links and authenticated loading of separately supplied DDuck modules. Open with /dduck or /dd.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dduck-public/master/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/dduck-public",
-                "LastUpdate": 1790473395
+                "LastUpdate": 1790519433
             }
         ]
     },
@@ -18302,11 +18312,11 @@
                 "Author": "Midona",
                 "Name": "Poser",
                 "InternalName": "Poser",
-                "AssemblyVersion": "0.9.11.0",
+                "AssemblyVersion": "0.9.12.0",
                 "Description": "Poser is a posing and scene tool for FINAL FANTASY XIV's group pose.\n\n- Pose actors bone by bone: overlay handles, a graphical body map, and numeric transforms\n- IK on any bone with a parent, plus mirror, link and named bone-visibility presets\n- Spawn actors and objects, or click a world handle to bring what is already there into the scene\n- Borrow the map's own objects by reference and give them back untouched on release\n- Save and restore the whole shot — actors, objects, lights, camera and environment — with load options\n- Custom lights, camera control and a free camera; snapping, group pivot and group moves\n- Gaze control and one-click expressions\n- A pose library with tags, authors and search; import and export poses, and MCDF appearance files\n- Time, weather and festival control\n- On-screen dialogue panels, chat bubbles and status lines drawn with the game's own UI\n- Reference pictures as floating, aspect-locked windows\n- Twenty-five rebindable actions with Poser, Brio and Ktisis presets\n\nThis is a beta. It is not stable and it is not finished. Poser is derivative of Anamnesis, Ktisis and Brio, and those three are the mature tools.\n\nPoser was coded with the use of artificial intelligence. The plugin says so on first launch and asks you to confirm before the workspace opens.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/midona-rhel/Poser",
-                "LastUpdate": 1790461932,
+                "LastUpdate": 1790531581,
                 "is_ai_attributed": true
             }
         ]
@@ -19398,12 +19408,12 @@
                 "Author": "MusicYYin",
                 "Name": "Soumen",
                 "InternalName": "Soumen",
-                "AssemblyVersion": "0.5.7.8",
+                "AssemblyVersion": "0.5.7.11",
                 "Description": "读取小队坐标并使用 vnavmesh 自动导航。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MusicYYin/Soumen/main/icon.png",
                 "RepoUrl": "https://github.com/MusicYYin/Soumen",
-                "LastUpdate": 1790442162
+                "LastUpdate": 1790520404
             }
         ]
     },
@@ -19475,11 +19485,11 @@
                 "Author": "n0way02",
                 "Name": "FateFrenzy",
                 "InternalName": "FateFrenzy",
-                "AssemblyVersion": "1.8.2.0",
+                "AssemblyVersion": "1.8.3.0",
                 "Description": "Farms FATEs for you: tick the zones, and the plugin teleports in, finds active FATEs, and runs them in a loop, with Lifestream support for instance, world, and local crystal navigation.",
                 "IconUrl": "https://raw.githubusercontent.com/n0way02/FateFrenzy/main/FateFrenzy/Images/Icon.png",
                 "RepoUrl": "https://github.com/n0way02/FateFrenzy",
-                "LastUpdate": 1790174800
+                "LastUpdate": 1790526086
             }
         ]
     },
@@ -22572,7 +22582,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1790453212
+                "LastUpdate": 1790507297
             },
             {
                 "Author": "Risa and Contributors",
@@ -23892,12 +23902,12 @@
                 "Author": "psenxiv",
                 "Name": "Vista",
                 "InternalName": "Vista",
-                "AssemblyVersion": "0.11.0.1",
+                "AssemblyVersion": "0.12.0.1",
                 "Description": "Create smooth, cinematic camera paths in FFXIV, organise them into scenes, and play them back live.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/psenxiv/vista/main/images/icon.png",
                 "RepoUrl": "https://github.com/psenxiv/vista",
-                "LastUpdate": 1790377989,
+                "LastUpdate": 1790518817,
                 "is_ai_attributed": true
             }
         ]
@@ -24231,12 +24241,12 @@
                 "Author": "daemitus, croizat",
                 "Name": "Yes Already",
                 "InternalName": "YesAlready",
-                "AssemblyVersion": "1.15.7.0",
+                "AssemblyVersion": "1.15.7.1",
                 "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/26",
                 "RepoUrl": "https://github.com/PunishXIV/YesAlready",
-                "LastUpdate": 1790459544
+                "LastUpdate": 1790520601
             }
         ],
         "repo_developer_name": "Puni.sh"
@@ -24292,12 +24302,12 @@
                 "Author": "erdelf, Herculezz",
                 "Name": "AutoDuty",
                 "InternalName": "AutoDuty",
-                "AssemblyVersion": "0.0.0.363",
+                "AssemblyVersion": "0.0.0.365",
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1790501780,
+                "LastUpdate": 1790524968,
                 "is_ai_attributed": false
             },
             {
@@ -26132,11 +26142,11 @@
                 "Author": "Rayla Petal",
                 "Name": "CoPose",
                 "InternalName": "CoPose",
-                "AssemblyVersion": "0.2.1.0",
+                "AssemblyVersion": "0.2.2.0",
                 "Description": "Shared-control GPose scenes for Ktisis. Pair with someone nearby through Player Sync or Lightless (via SimpleHeels tags);\r\nbone edits made by either player on either character reach the other about a second later. Requires Ktisis and SimpleHeels.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/RaylaPetal/gpose-couple",
-                "LastUpdate": 1790480150,
+                "LastUpdate": 1790525871,
                 "is_ai_attributed": true
             }
         ]
@@ -26151,11 +26161,11 @@
                 "Author": "Rayla Petal",
                 "Name": "Oathbound",
                 "InternalName": "Oathbound.Plugin",
-                "AssemblyVersion": "0.1.1.0",
+                "AssemblyVersion": "0.1.2.0",
                 "Description": "A consent-based collar control plugin. Gameplay commands use ordinary in-game tells; relay-assisted pairing and encrypted catalog synchronization use the Oathbound Cloudflare service, while gameplay actions remain local to the Sub's client.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/raylapetal/xiv-collar",
-                "LastUpdate": 1790476377,
+                "LastUpdate": 1790533012,
                 "is_ai_attributed": true
             },
             {
@@ -26166,18 +26176,7 @@
                 "Description": "Animation Assistance Plugin, offset your character's pose, save named presets and replay them, auto-discover Penumbra pose mods, and manually resync emote timing with a partner.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/RaylaPetal/PoseKit",
-                "LastUpdate": 1790378609,
-                "is_ai_attributed": true
-            },
-            {
-                "Author": "Rayla Petal",
-                "Name": "ReactToMe",
-                "InternalName": "ReactToMe",
-                "AssemblyVersion": "0.0.0.5",
-                "Description": "Listens for emotes targeted at you and applies a configured Glamourer design and Moodles status in response, automatically reverting the Glamourer design after a set duration.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/RaylaPetal/ReactToMe",
-                "LastUpdate": 1789999295,
+                "LastUpdate": 1790528251,
                 "is_ai_attributed": true
             },
             {
@@ -26222,11 +26221,11 @@
                 "Author": "Rayla Petal",
                 "Name": "Oathbound",
                 "InternalName": "Oathbound.Plugin",
-                "AssemblyVersion": "0.1.1.0",
+                "AssemblyVersion": "0.1.2.0",
                 "Description": "A consent-based collar control plugin. An Owner sends outfit, title, gesture, and follow/leash commands as ordinary in-game tells - no server, no hosting; the Sub's own client watches for them and applies them locally via Glamourer, Honorific, and Penumbra, and existing sync tooling propagates the result to everyone paired with the Sub.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/raylapetal/xiv-collar",
-                "LastUpdate": 1790476375,
+                "LastUpdate": 1790533009,
                 "is_ai_attributed": true
             }
         ]
@@ -29271,12 +29270,12 @@
                 "Author": "白泉澈",
                 "Name": "AutoHunt",
                 "InternalName": "AutoHunt",
-                "AssemblyVersion": "2.4.0.12",
+                "AssemblyVersion": "2.4.0.18",
                 "Description": "自动狩猎（狩猎车）助手：右键聊天玩家名设为车头；自动解析车头在任何频道发送的坐标，自动打开地图插旗；跨图或远距离自动传送到最近水晶；上坐骑后执行 /vnav flyflag 飞向旗标（可选 IPC 直接寻路）；到达后自动选中狩猎怪（基于 NotoriousMonster 数据表识别 A/S 级），血量低于阈值自动下坐骑并 /rotation Manual 输出，目标死亡自动关闭；每击杀 N 只怪自动切换副本区。依赖：vnavmesh、RotationSolver、Lifestream、Teleporter。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ShiraisumiKiyoshi/AutoHunt/main/dist/images/icon.png",
                 "RepoUrl": "https://github.com/ShiraisumiKiyoshi/AutoHunt",
-                "LastUpdate": 1790508786
+                "LastUpdate": 1790520485
             }
         ]
     },
@@ -29982,12 +29981,12 @@
                 "Author": "Solona",
                 "Name": "Proteus",
                 "InternalName": "Proteus",
-                "AssemblyVersion": "2609.623.0.0",
+                "AssemblyVersion": "2609.624.0.0",
                 "Description": "Headless overlay compositor for Penumbra. Discovers mods with a Proteus/ sidecar, composites their overlay textures in Penumbra priority order, and maintains a single managed mod at priority 999. No authoring UI — all work happens in external tools. Type /proteus to open the status window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://dl.solona.info/icon.png",
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1790479700,
+                "LastUpdate": 1790530091,
                 "is_ai_attributed": true
             }
         ]
@@ -31126,19 +31125,19 @@
                 "Author": "Anmi (fork maintained by T3chnicalD3ath Inc.)",
                 "Name": "Beast Master Helper",
                 "InternalName": "BeastMasterHelper",
-                "AssemblyVersion": "0.9.80.1",
+                "AssemblyVersion": "0.9.82.0",
                 "Description": "Tracks the Beastmaster quest chain and beast-catalogue collection progress, auto-recording captures from chat and offering navigation to quest and catalogue targets. Works with vnavmesh for same-map travel and Lifestream for cross-map teleports.\n\nAn English fork of Anmi's Beastmaster plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/t3knical/DalamudPlugins/main/plugins/BeastMasterHelper/icon.png",
                 "RepoUrl": "https://github.com/t3knical/DalamudPlugins",
-                "LastUpdate": 1790470739,
+                "LastUpdate": 1790532334,
                 "is_ai_attributed": true
             },
             {
                 "Author": "The Combat Reborn Team (fork maintained by t3knical)",
                 "Name": "BossmodReborn (Tekz Fork)",
                 "InternalName": "BossModRebornTekz",
-                "AssemblyVersion": "1.0.66.1",
+                "AssemblyVersion": "1.0.66.3",
                 "Description": "UNOFFICIAL FORK of BossMod Reborn by the Combat Reborn Team - install the original from their own repository if you want the real thing (https://github.com/FFXIV-CombatReborn/BossmodReborn).\n\nThis build tracks upstream and adds extra work on the Occult Crescent critical engagements and FATEs, and on the Beastmaster Crucible of the Unbroken boards, tuned against recorded replays. Bugs here are this fork's, not upstream's - report them at https://github.com/t3knical/BossmodReborn rather than to the Combat Reborn Team.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/t3knical/DalamudPlugins/main/plugins/BossModRebornTekz/icon.png",
@@ -31172,12 +31171,12 @@
                 "Author": "T3chnicalD3ath Inc.",
                 "Name": "Party Monitor",
                 "InternalName": "PartyMonitor",
-                "AssemblyVersion": "1.1.4.0",
+                "AssemblyVersion": "1.1.6.0",
                 "Description": "Monitors your party and reports changes. Tracks members joining and leaving, can look up encounter logs, and optionally relays party activity to a Discord channel.\n\nDiscord and FFLogs integration are optional and require you to supply your own credentials in the plugin settings. No credentials are bundled with the plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/t3knical/DalamudPlugins/main/plugins/PartyMonitor/icon.png",
                 "RepoUrl": "https://github.com/t3knical/DalamudPlugins/tree/main/plugins/PartyMonitor",
-                "LastUpdate": 1789819173,
+                "LastUpdate": 1790512999,
                 "is_ai_attributed": true
             },
             {
@@ -31208,12 +31207,12 @@
                 "Author": "T3chnicalD3ath Inc.",
                 "Name": "Reaction Helper",
                 "InternalName": "ReactionHelper",
-                "AssemblyVersion": "0.10.15.0",
+                "AssemblyVersion": "0.10.22.1",
                 "Description": "Load a fight timeline (cactbot format) or a per-job profile, and attach reactions to mechanics: conditions on you, your target and your party, and actions that press a skill, flip a MachinistHelper or BeastMasterHelper toggle, hold an action, or show an alert.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/t3knical/DalamudPlugins/main/plugins/ReactionHelper/icon.png",
                 "RepoUrl": "https://github.com/t3knical/DalamudPlugins",
-                "LastUpdate": 1790506969
+                "LastUpdate": 1790524117
             }
         ]
     },
@@ -33912,12 +33911,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone Beta",
                 "InternalName": "AetherphoneBeta",
-                "AssemblyVersion": "1.0.3.24",
+                "AssemblyVersion": "1.0.3.25",
                 "Description": "The beta channel for Aetherphone: builds straight off the development branch, installed side by side with the stable plugin so you can test what is coming next without giving up the phone you use every day.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/Aetherphone-Beta",
-                "LastUpdate": 1790483378
+                "LastUpdate": 1790512193
             }
         ]
     },
@@ -33931,12 +33930,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "1.0.3.4",
+                "AssemblyVersion": "1.0.3.7",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1790186020,
+                "LastUpdate": 1790530170,
                 "is_ai_attributed": true
             },
             {
@@ -33955,12 +33954,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Auto FATE Grind",
                 "InternalName": "AutoFateGrind",
-                "AssemblyVersion": "2.13.0.0",
+                "AssemblyVersion": "2.15.0.0",
                 "Description": "Farms Shared FATEs for you: tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoFATEGrind/master/AutoFateGrind/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind/tree/master/AutoFateGrind",
-                "LastUpdate": 1790274367,
+                "LastUpdate": 1790530286,
                 "is_ai_attributed": true
             },
             {
@@ -34047,12 +34046,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "1.0.3.4",
+                "AssemblyVersion": "1.0.3.7",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1790186020,
+                "LastUpdate": 1790530170,
                 "is_ai_attributed": true
             }
         ]
@@ -34087,12 +34086,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Auto FATE Grind",
                 "InternalName": "AutoFateGrind",
-                "AssemblyVersion": "2.13.0.0",
+                "AssemblyVersion": "2.15.0.0",
                 "Description": "Tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoFATEGrind/master/AutoFateGrind/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind/tree/master/AutoFateGrind",
-                "LastUpdate": 1790274367,
+                "LastUpdate": 1790530286,
                 "is_ai_attributed": true
             }
         ]
@@ -34113,6 +34112,26 @@
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoHuntGrinder/master/AutoHuntGrinder/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoHuntGrinder",
                 "LastUpdate": 1790280017,
+                "is_ai_attributed": true
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "XeldarAlz",
+        "repo_url": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoHuntTrain/master/repo.json",
+        "repo_source_url": "https://github.com/XeldarAlz/FFXIV-AutoHuntTrain",
+        "repo_name": "FFXIV-AutoHuntTrain",
+        "plugins": [
+            {
+                "Author": "XeldarAlz",
+                "Name": "Auto Hunt Train",
+                "InternalName": "AutoHuntTrain",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "Rides hunt trains for you: hears a train being called anywhere in your region, travels to the start aetheryte on that world, follows the conductor's flags from mark to mark, and lands a hit on every A rank before the crowd deletes it.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoHuntTrain/master/AutoHuntTrain/Images/Icon.png",
+                "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoHuntTrain",
+                "LastUpdate": 1790524287,
                 "is_ai_attributed": true
             }
         ]
@@ -34214,6 +34233,24 @@
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoTripleTriadGrind",
                 "LastUpdate": 1790281058,
                 "is_ai_attributed": true
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "xenofei",
+        "repo_url": "https://raw.githubusercontent.com/xenofei/bub-dist/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/xenofei/bub-dist",
+        "repo_name": "bub-dist",
+        "plugins": [
+            {
+                "Author": "Bibi",
+                "Name": "Bibi's Update Buddy",
+                "InternalName": "BibisUpdateBuddy",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "Lists every plugin with an available update and installs them one at a time, with safety gates and a debug log. Command: /bub",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/xenofei/bub-dist/main/plugins/BibisUpdateBuddy/icon.png",
+                "RepoUrl": "https://github.com/xenofei/BibisUpdateBuddy"
             }
         ]
     },
@@ -34680,12 +34717,12 @@
                 "Author": "Yesanith",
                 "Name": "Regions of XIV",
                 "InternalName": "RegionsOfXIV",
-                "AssemblyVersion": "1.0.0.1",
+                "AssemblyVersion": "1.0.0.2",
                 "Description": "Announces the region, zone, area and sub-area you walk into with a styled, animated on-screen notification.\n\nInspired by Nekres' \"Regions of Tyria\" for Guild Wars 2.\n\nOpen settings with /regions.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Yesanith/RegionsOfXIV/master/assets/images/icon.png",
                 "RepoUrl": "https://github.com/Yesanith/RegionsOfXIV",
-                "LastUpdate": 1790452415,
+                "LastUpdate": 1790523152,
                 "is_ai_attributed": true
             }
         ]
