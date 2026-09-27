@@ -143,12 +143,12 @@
                 "Author": "RyougiS",
                 "Name": "Pawprint",
                 "InternalName": "Pawprint",
-                "AssemblyVersion": "0.5.13.0",
+                "AssemblyVersion": "0.5.14.0",
                 "Description": "驯兽师自动化捕获魔物",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/a16239438/DalamudPlugins/main/plugins/Pawprint/icon.png",
                 "RepoUrl": "https://github.com/a16239438/DalamudPlugins",
-                "LastUpdate": 1789908955
+                "LastUpdate": 1790490449
             }
         ]
     },
@@ -2005,12 +2005,12 @@
                 "Author": "pokeda",
                 "Name": "Harmonia",
                 "InternalName": "HarmoniaEngine",
-                "AssemblyVersion": "0.1.1.2",
+                "AssemblyVersion": "0.1.1.3",
                 "Description": "Shows Final Fantasy XIV in another language using community translations. Add a translation from the link or file its author gives you, turn it on, and restart the game. Translations update themselves. Characters the game's own fonts don't have, such as Cyrillic in window titles, need Penumbra.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/AngelicaProject/Harmonia/main/Harmonia/Assets/Icon/harmonia_icon.png",
                 "RepoUrl": "https://github.com/AngelicaProject/Harmonia",
-                "LastUpdate": 1790453444,
+                "LastUpdate": 1790506313,
                 "is_ai_attributed": true
             }
         ]
@@ -2222,12 +2222,12 @@
                 "Author": "Anmi",
                 "Name": "驯兽师助手",
                 "InternalName": "Beastmaster",
-                "AssemblyVersion": "0.1.44.0",
+                "AssemblyVersion": "0.1.46.0",
                 "Description": "追踪驯兽师任务链和魔兽图鉴收集进度，支持捕获消息自动记录、任务与图鉴目标导航，并可配合 vnavmesh 和 Lifestream 完成同地图移动及跨地图传送。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/anmili2022/Beastmaster/main/images/icon.png?v=2",
                 "RepoUrl": "https://github.com/anmili2022/Beastmaster",
-                "LastUpdate": 1790416269
+                "LastUpdate": 1790502413
             }
         ]
     },
@@ -2432,7 +2432,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/anomek/AnoMech/master/images/icon.png",
                 "RepoUrl": "https://github.com/anomek/AnoMech",
-                "LastUpdate": 1790386613,
+                "LastUpdate": 1790499237,
                 "is_ai_attributed": true
             },
             {
@@ -8541,7 +8541,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1790453212
+                "LastUpdate": 1790507297
             }
         ]
     },
@@ -8796,12 +8796,12 @@
                 "Author": "Siren",
                 "Name": "AutoTriadC",
                 "InternalName": "AutoTriadC",
-                "AssemblyVersion": "0.0.0.2",
+                "AssemblyVersion": "0.0.0.3",
                 "Description": "提供幻卡图鉴快速检索，提供检索未获取幻卡的获取信息。以及提供自动幻卡对局方案，和推荐卡组注入功能。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/extrant/I-Ching/refs/heads/main/%E5%8F%91%E5%8C%85%E5%B9%BB%E5%8D%A1.png",
                 "RepoUrl": "https://github.com/extrant/I-Ching",
-                "LastUpdate": 1789119397
+                "LastUpdate": 1790509876
             },
             {
                 "Author": "Siren",
@@ -11086,7 +11086,7 @@
                 "Author": "MusicManBowls, kihtli",
                 "Name": "Hunt Helper Evolved",
                 "InternalName": "HuntHelperEvolved",
-                "AssemblyVersion": "0.6.0.0",
+                "AssemblyVersion": "0.6.0.1",
                 "Description": "Hunt tracking for FFXIV. Detects marks and records a train with exact kill times, posts Discord reports sorted by the order marks actually died, draws spawn points, your detection range and SS event locations on the in-game map, counts S-rank trigger mobs, and keeps a lifetime per-mark kill tally per character.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/HuntHelperEvolved/HuntHelperEvolved/main/icon.png",
@@ -11233,6 +11233,24 @@
                 "RepoUrl": "https://github.com/iarcanar/MBB_Dalamud",
                 "LastUpdate": 1782746754,
                 "is_ai_attributed": true
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "ibigsnet",
+        "repo_url": "https://raw.githubusercontent.com/ibigsnet/shout-calendar/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/ibigsnet/shout-calendar",
+        "repo_name": "shout-calendar",
+        "plugins": [
+            {
+                "Author": "RifleJock",
+                "Name": "Shout Calendar",
+                "InternalName": "ShoutCalendar",
+                "AssemblyVersion": "0.1.17.0",
+                "Description": "Shout Calendar listens to the chats you choose and keeps event invites on a month calendar until you accept them. Nothing is accepted for you, and nothing is sent to other players.\n\nIt understands clocks, dates, today, tonight, tomorrow, next Tuesday, the Tuesday after next, every Tuesday, every other week, and the 1st and last Wednesday of a month. Places include wards, plots such as W3P26, coordinates, worlds, and names from the game's own data. A ward heard in a city guesses that city's housing district.\n\nSave accepts a pending invite. Click a block to edit it under the month, or click the day number for that day's full list. Coordinates open the map with a flag. Known quest givers do the same, and quest names drop a quest link into chat.\n\nThe Resets tab adds Jumbo Cactpot, the weekly reset, and limited events such as A Nocturne for Heroes. Resets that share a clock share one line. Alarms play a chat sound from se.1 to se.16, or a WAV you choose. Colors are yours to set.\n\n/shoutcalendar opens the calendar. /shoutcalendar test checks a line on your machine and does not send chat.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/ibigsnet/shout-calendar",
+                "LastUpdate": 1790505556
             }
         ]
     },
@@ -11932,12 +11950,12 @@
                 "Author": "raynording",
                 "Name": "Dalamud ACT Compat",
                 "InternalName": "DalamudActCompat",
-                "AssemblyVersion": "0.4.5.1",
+                "AssemblyVersion": "0.4.5.3",
                 "Description": "Dalamud-side UI, storage, parser abstraction, and compatibility-host bridge for an ACT-compatible FFXIV parsing platform. This early build does not yet load FFXIV_ACT_Plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/JackyWilliam/DalamudActCompat/main/src/DalamudActCompat/Assets/act-logo.jpg",
                 "RepoUrl": "https://github.com/JackyWilliam/DalamudActCompat",
-                "LastUpdate": 1790328032,
+                "LastUpdate": 1790505049,
                 "is_ai_attributed": true
             },
             {
@@ -11963,12 +11981,12 @@
                 "Author": "raynording",
                 "Name": "Dalamud ACT Compat",
                 "InternalName": "DalamudActCompat",
-                "AssemblyVersion": "0.4.5.1",
+                "AssemblyVersion": "0.4.5.3",
                 "Description": "Dalamud-side UI, storage, parser abstraction, and compatibility-host bridge for an ACT-compatible FFXIV parsing platform. This early build does not yet load FFXIV_ACT_Plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/JackyWilliam/DalamudActCompatRepo/main/act-logo-512.png",
                 "RepoUrl": "https://github.com/JackyWilliam/DalamudActCompat",
-                "LastUpdate": 1790328517,
+                "LastUpdate": 1790505908,
                 "is_ai_attributed": true
             },
             {
@@ -11980,7 +11998,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/JackyWilliam/DalamudActCompat/main/src/DalamudActCompat/Assets/act-logo.jpg",
                 "RepoUrl": "https://github.com/JackyWilliam/DalamudActCompat",
-                "LastUpdate": 1790328517
+                "LastUpdate": 1790505908
             }
         ]
     },
@@ -12405,11 +12423,11 @@
                 "Author": "Join-Taoist",
                 "Name": "Zhuangzi",
                 "InternalName": "Zhuangzi",
-                "AssemblyVersion": "0.1.12.23",
+                "AssemblyVersion": "0.1.12.30",
                 "Description": "/zz→打开Zhuangzi配置窗口",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Join-Taoist/Join-Taoist-Zhuangzi-Repo",
-                "LastUpdate": 1790471437
+                "LastUpdate": 1790509946
             }
         ]
     },
@@ -13216,7 +13234,7 @@
                 "Description": "MahjongSolver，多玛方城战求解器（国服优化版）。使用 /mjcn 打开完整主界面，标准功能无需测试验证。提供手动提醒、自动打牌、任务暂停与继续、整场场数/时长/截止停止规则、自动排队和进桌开打，以及本人资料页评分、本地记录、诊断与恢复核对。评分目标因整场刷新证据尚缺而暂未开放。自动操作默认关闭，保留版本、读牌与动作检查。另提供测试版功能，验证后可用，仍需主动选择和启动。只使用正常可见信息，不补造缺失历史，不保证获胜或上分。基于 XeldarAlz/FFXIV-AutoMahjongSolver，遵循 AGPL-3.0-or-later；第三方组件的许可与来源见 NOTICE。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Kamishiroex/MahjongSolver-CN",
-                "LastUpdate": 1790488270
+                "LastUpdate": 1790507763
             }
         ]
     },
@@ -13664,12 +13682,12 @@
                 "Author": "keifufu",
                 "Name": "XivVoices",
                 "InternalName": "XivVoices",
-                "AssemblyVersion": "1.6.0.1",
+                "AssemblyVersion": "1.6.0.2",
                 "Description": "A plugin that enhances your gaming experience by adding voice to every NPC dialogue, battle interaction, and more. /xivv",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/keifufu/XivVoices/main/XivVoices/assets/logo.png",
                 "RepoUrl": "https://github.com/keifufu/XivVoices",
-                "LastUpdate": 1790076472
+                "LastUpdate": 1790509083
             }
         ]
     },
@@ -13867,11 +13885,11 @@
                 "Author": "kihtli",
                 "Name": "Relic Atlas",
                 "InternalName": "RelicAtlas",
-                "AssemblyVersion": "0.1.0.20",
+                "AssemblyVersion": "0.1.0.23",
                 "Description": "In-game relic progression from Zodiac to Phantom. Overview shows every eligible job and expansion, completion totals and next stages. Open a relic's checklist, track objectives and materials, and keep separate character profiles. Automatic detection plus manual corrections. Open with /relicatlas. Shopping list compares carried stock with optional Allagan Tools storage. /relicatlas atma shows an experimental ST farming schedule with optional Teleporter travel; automatic travel is opt-in for each session.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kihtli/RelicAtlas",
-                "LastUpdate": 1790275228
+                "LastUpdate": 1790502609
             }
         ]
     },
@@ -14455,12 +14473,12 @@
                 "Author": "Anomek",
                 "Name": "AnoMech (TC)",
                 "InternalName": "AnoMech",
-                "AssemblyVersion": "0.4.3.1",
+                "AssemblyVersion": "0.4.4.0",
                 "Description": "在你的客戶端生出假隊友與假 boss，讓你一個人也能練習高難副本機制。進旅館後打 /anomech 開始。\n\n本分支是 anomek/AnoMech 針對繁體中文版（Dalamud API 13）的非官方移植，介面已繁中化。目前提供絕歐米茄 5 個與絕神兵 1 個場景；Dancing Mad 因為是 7.51 內容，繁中版客戶端沒有資料，故不包含。屬實驗性質，詳見 repo 說明。",
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/Knucklesssss/AnoMech-TW/api13-tw/images/icon.png",
                 "RepoUrl": "https://github.com/Knucklesssss/AnoMech-TW",
-                "LastUpdate": 1790250825,
+                "LastUpdate": 1790490536,
                 "is_ai_attributed": true
             }
         ]
@@ -14494,12 +14512,12 @@
                 "Author": "konvarec",
                 "Name": "HuntPad",
                 "InternalName": "HuntPad",
-                "AssemblyVersion": "0.2.0.8",
+                "AssemblyVersion": "0.2.0.9",
                 "Description": "HuntPad is a companion for FFXIV hunt activity. It maps nearby players, mobs, and FATEs; records risky-mob spawn points; and provides S-rank trigger counters. Open it with /huntpad. A distribution access key is required before first use.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/konvarec/HuntPadCustomRepo/main/images/huntpad-v2.png",
                 "RepoUrl": "https://github.com/konvarec/HuntPadCustomRepo",
-                "LastUpdate": 1790445382
+                "LastUpdate": 1790509193
             }
         ]
     },
@@ -14532,12 +14550,12 @@
                 "Author": "konvarec",
                 "Name": "HuntPad",
                 "InternalName": "HuntPad",
-                "AssemblyVersion": "0.2.0.8",
+                "AssemblyVersion": "0.2.0.9",
                 "Description": "HuntPad is a companion for FFXIV hunt activity. It maps nearby players, mobs, and FATEs; records risky-mob spawn points; and provides S-rank trigger counters. Open it with /huntpad. A distribution access key is required before first use.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/konvarec/HuntPadCustomRepo/main/images/huntpad-v2.png",
                 "RepoUrl": "https://github.com/konvarec/HuntPadCustomRepo",
-                "LastUpdate": 1790445394
+                "LastUpdate": 1790509204
             }
         ]
     },
@@ -16968,12 +16986,12 @@
                 "Author": "MarshalTitan",
                 "Name": "PvP Sentinel",
                 "InternalName": "PvPSentinel",
-                "AssemblyVersion": "0.3.0.0",
+                "AssemblyVersion": "0.3.0.1",
                 "Description": "Testing-exclusive Frontline development plugin with fail-closed player classification, friendly-force clustering, stable target and group commitment, vnavmesh navigation integration, an opt-in MCH combat controller, and detailed diagnostics.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MarshalTitan/PvPSentinel/main/assets/icon_clean.png",
                 "RepoUrl": "https://github.com/MarshalTitan/PvPSentinel",
-                "LastUpdate": 1790479554
+                "LastUpdate": 1790489608
             },
             {
                 "Author": "MTitan",
@@ -17759,23 +17777,23 @@
                 "Author": "DhogGPT",
                 "Name": "dad",
                 "InternalName": "dad",
-                "AssemblyVersion": "0.7.1.0",
+                "AssemblyVersion": "0.7.1.1",
                 "Description": "DAD is a duty planner and multibox coordinator for FFXIV. Create reusable character presets, wake or relog the right clients, prepare jobs, assemble and verify parties, queue supported duties and roulettes, and chain presets into manual or daily schedules. Live readiness checks, clear blockers, reconnect status, cancellation, and Stop All keep every run visible and recoverable.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dad/main/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/dad",
-                "LastUpdate": 1789739747
+                "LastUpdate": 1790479035
             },
             {
                 "Author": "DhogGPT",
                 "Name": "Deep Ducking",
                 "InternalName": "DDuck",
-                "AssemblyVersion": "0.2.0.0",
+                "AssemblyVersion": "0.2.1.0",
                 "Description": "The Deep Ducking public host provides the introduction, community links and authenticated loading of separately supplied DDuck modules. Open with /dduck or /dd.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dduck-public/master/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/dduck-public",
-                "LastUpdate": 1790371350
+                "LastUpdate": 1790473395
             },
             {
                 "Author": "DhogGPT",
@@ -17839,12 +17857,12 @@
                 "Author": "DhogGPT",
                 "Name": "Fren Rider",
                 "InternalName": "FrenRider",
-                "AssemblyVersion": "1.3.1.9",
+                "AssemblyVersion": "1.3.1.10",
                 "Description": "Native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider or /fr to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1790278336,
+                "LastUpdate": 1790479034,
                 "is_ai_attributed": true
             },
             {
@@ -17956,12 +17974,12 @@
                 "Author": "WigglyMuffin, CryoTechnic",
                 "Name": "Questionable",
                 "InternalName": "WigglyQuest",
-                "AssemblyVersion": "7.5.26",
+                "AssemblyVersion": "7.5.27",
                 "Description": "Automates quests from accept to turn-in - main scenario, class and job, allied society and side quests.\n\nSmart navigation plans the route across zones using aetherytes, aethernet and transports, then walks you to each objective. Dialogue, interactions and turn-ins are handled for you.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/WigglyCorp/DalamudPlugins/main/icons/Questionable.png",
                 "RepoUrl": "https://github.com/WigglyMuffin/Questionable",
-                "LastUpdate": 1790355267
+                "LastUpdate": 1790448825
             },
             {
                 "Author": "XA",
@@ -18000,7 +18018,7 @@
                 "Author": "XA",
                 "Name": "XA Zod",
                 "InternalName": "XAZod",
-                "AssemblyVersion": "0.0.0.3",
+                "AssemblyVersion": "0.0.0.5",
                 "Description": "XA Zod is Aethertek's private early beta testing environment for experimental features. Participation is arranged through the Aethertek community. Downloading the plugin does not grant private access, and features may remain private indefinitely.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Zod/main/XAZod/images/icon.png",
@@ -20061,7 +20079,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/NeXzRo/Stuff/main/BetterTargetingSystemPvP/icon.png",
                 "RepoUrl": "https://github.com/NeXzRo/BetterTargetingSystem",
-                "LastUpdate": 1790214879
+                "LastUpdate": 1790475067
             },
             {
                 "Author": "goat, Maple",
@@ -20433,7 +20451,7 @@
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1790420830,
+                "LastUpdate": 1790507139,
                 "is_closed_source": true
             },
             {
@@ -20445,19 +20463,19 @@
                 "DalamudApiLevel": 14,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1790420830,
+                "LastUpdate": 1790507139,
                 "is_closed_source": true
             },
             {
                 "Author": "The Combat Reborn Team / NiGuangOwO（本地化&适配）",
                 "Name": "BossMod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.6.20",
+                "AssemblyVersion": "7.5.6.22",
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1790420830,
+                "LastUpdate": 1790507139,
                 "is_closed_source": true
             },
             {
@@ -21948,12 +21966,12 @@
                 "Author": "Faye, Kage",
                 "Name": "Better Occult Crescent & Chest Helper Interface",
                 "InternalName": "BOCCHI",
-                "AssemblyVersion": "4.2.0.15",
+                "AssemblyVersion": "4.2.0.16",
                 "Description": "BOCCHI is here to smooth out your Occult Crescent experience.\n- No more of that pesky 'walking' or 'finding chests'. That's for losers.\n- A cute little Fate and CE panel that'll tell you what rewards it gives AND help you automatically path to it, wowee.\n- An extre illegal 'illegal mode' for those of you that would rather be touching grass or playing a game with worthwhile content.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/OhKannaDuh/BOCCHI/master/assets/icon.png",
                 "RepoUrl": "https://github.com/OhKannaDuh/OccultCrescentHelper",
-                "LastUpdate": 1790174338
+                "LastUpdate": 1790505436
             }
         ]
     },
@@ -24279,7 +24297,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1790464593,
+                "LastUpdate": 1790501780,
                 "is_ai_attributed": false
             },
             {
@@ -29253,12 +29271,12 @@
                 "Author": "白泉澈",
                 "Name": "AutoHunt",
                 "InternalName": "AutoHunt",
-                "AssemblyVersion": "2.4.0.11",
+                "AssemblyVersion": "2.4.0.12",
                 "Description": "自动狩猎（狩猎车）助手：右键聊天玩家名设为车头；自动解析车头在任何频道发送的坐标，自动打开地图插旗；跨图或远距离自动传送到最近水晶；上坐骑后执行 /vnav flyflag 飞向旗标（可选 IPC 直接寻路）；到达后自动选中狩猎怪（基于 NotoriousMonster 数据表识别 A/S 级），血量低于阈值自动下坐骑并 /rotation Manual 输出，目标死亡自动关闭；每击杀 N 只怪自动切换副本区。依赖：vnavmesh、RotationSolver、Lifestream、Teleporter。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ShiraisumiKiyoshi/AutoHunt/main/dist/images/icon.png",
                 "RepoUrl": "https://github.com/ShiraisumiKiyoshi/AutoHunt",
-                "LastUpdate": 1790483460
+                "LastUpdate": 1790508786
             }
         ]
     },
@@ -29520,6 +29538,25 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/SirenBrink/FFXIV-NativeDoF",
                 "LastUpdate": 1790234959
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "SirenBrink",
+        "repo_url": "https://raw.githubusercontent.com/SirenBrink/FFXIV-OptiScaler-Companion/main/repo.json",
+        "repo_source_url": "https://github.com/SirenBrink/FFXIV-OptiScaler-Companion",
+        "repo_name": "FFXIV-OptiScaler-Companion",
+        "plugins": [
+            {
+                "Author": "SirenBrink",
+                "Name": "FFXIV OptiScaler Companion",
+                "InternalName": "FFXIVOptiScalerCompanion",
+                "AssemblyVersion": "0.1.3.0",
+                "Description": "Supplies native nameplate positions and gameplay readiness to a matching OptiScaler build. Supports persistent HUD replacement and optional 2x position interpolation with OptiFG DLSS-G or XeFG. Update both components together. /opticompanion opens connection status.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/SirenBrink/FFXIV-OptiScaler-Companion",
+                "LastUpdate": 1790502532,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -30507,11 +30544,11 @@
                 "Author": "Stoni",
                 "Name": "The Explorer's Codex",
                 "InternalName": "TheExplorersCodex",
-                "AssemblyVersion": "1.3.0.0",
+                "AssemblyVersion": "1.4.0.0",
                 "Description": "Completionist plugin per zone with automation capabilities.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/stoni89/explorers-codex",
-                "LastUpdate": 1790432720,
+                "LastUpdate": 1790503734,
                 "is_ai_attributed": true
             }
         ]
@@ -30537,11 +30574,11 @@
                 "Author": "Stoni",
                 "Name": "The Explorer's Codex",
                 "InternalName": "TheExplorersCodex",
-                "AssemblyVersion": "1.3.0.0",
+                "AssemblyVersion": "1.4.0.0",
                 "Description": "Completionist plugin per zone with automation capabilities.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/stoni89/explorers-codex",
-                "LastUpdate": 1790432720,
+                "LastUpdate": 1790503734,
                 "is_ai_attributed": true
             }
         ]
@@ -30556,11 +30593,11 @@
                 "Author": "Stoni",
                 "Name": "The Explorer's Codex",
                 "InternalName": "TheExplorersCodex",
-                "AssemblyVersion": "1.3.0.0",
+                "AssemblyVersion": "1.4.0.0",
                 "Description": "Completionist plugin per zone with automation capabilities.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/stoni89/explorers-codex",
-                "LastUpdate": 1790432720,
+                "LastUpdate": 1790503734,
                 "is_ai_attributed": true
             }
         ]
@@ -31171,12 +31208,12 @@
                 "Author": "T3chnicalD3ath Inc.",
                 "Name": "Reaction Helper",
                 "InternalName": "ReactionHelper",
-                "AssemblyVersion": "0.10.13.1",
+                "AssemblyVersion": "0.10.15.0",
                 "Description": "Load a fight timeline (cactbot format) or a per-job profile, and attach reactions to mechanics: conditions on you, your target and your party, and actions that press a skill, flip a MachinistHelper or BeastMasterHelper toggle, hold an action, or show an alert.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/t3knical/DalamudPlugins/main/plugins/ReactionHelper/icon.png",
                 "RepoUrl": "https://github.com/t3knical/DalamudPlugins",
-                "LastUpdate": 1790471908
+                "LastUpdate": 1790506969
             }
         ]
     },
@@ -31869,12 +31906,12 @@
                 "Author": "Avaflow, Ars Magna, Kelvin, A Fox, Lucille",
                 "Name": "OopsAllNudist",
                 "InternalName": "OopsAllNudist",
-                "AssemblyVersion": "2.3.3.2",
+                "AssemblyVersion": "2.3.3.3",
                 "Description": "Turn everyone around you into a nudist.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/tigurand/OopsAllNudist/refs/heads/main/image/icon.png",
                 "RepoUrl": "https://github.com/tigurand/OopsAllNudist",
-                "LastUpdate": 1789154592
+                "LastUpdate": 1790501183
             },
             {
                 "Author": "Lucille",
@@ -31899,12 +31936,12 @@
                 "Author": "Tihlyn",
                 "Name": "MahjongHater",
                 "InternalName": "MahjongHater",
-                "AssemblyVersion": "3.0.0.0",
+                "AssemblyVersion": "3.2.0.0",
                 "Description": "Doman Mahjong (Emj) solver — best-discard advisor, win-probability display, full han+fu scoring engine for FFXIV Gold Saucer.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Tihlyn/MahjongHater/main/Data/icon.png",
                 "RepoUrl": "https://github.com/Tihlyn/MahjongHater",
-                "LastUpdate": 1790282286,
+                "LastUpdate": 1790503444,
                 "is_ai_attributed": true
             }
         ]
@@ -35064,6 +35101,25 @@
                 "RepoUrl": "https://github.com/YouShux/DalamudPlugins/blob/main/Plugins/Omni%20Toolbox/Omni%20Toolbox.zip",
                 "LastUpdate": 1790278352,
                 "is_closed_source": true
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "YozoraCho",
+        "repo_url": "https://raw.githubusercontent.com/YozoraCho/placard/master/repo.json",
+        "repo_source_url": "https://github.com/YozoraCho/placard",
+        "repo_name": "placard",
+        "plugins": [
+            {
+                "Author": "YozoraCho",
+                "Name": "Placard",
+                "InternalName": "Placard",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "Placard shows every open housing plot on the in-game district maps for Mist, The Lavender Beds, The Goblet, Shirogane and Empyreum, on any world.\n\nSwitch between the district map and a list of every open plot across the whole world at once. Markers carry size, lottery phase, price and eligibility. Filter by size, phase, eligibility, division and entry count, sort by fewest entries or scan age, keep a watchlist, and get reminded before a lottery phase closes.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/YozoraCho/Placard/master/docs/icon.png",
+                "RepoUrl": "https://github.com/YozoraCho/Placard",
+                "LastUpdate": 1790492120
             }
         ]
     },
