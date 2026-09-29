@@ -3664,11 +3664,11 @@
                 "Author": "Anna, beerpsi",
                 "Name": "ExtraChatFork",
                 "InternalName": "ExtraChatFork",
-                "AssemblyVersion": "1.4.8.0",
+                "AssemblyVersion": "1.4.9.0",
                 "Description": "ExtraChat adds end-to-end encrypted, cross-data-centre, unlimited linkshells\nto the game. (Fork of official plugin with features and some fixes)",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/beer-psi/ExtraChat",
-                "LastUpdate": 1787990127
+                "LastUpdate": 1790707247
             },
             {
                 "Author": "beerpsi",
@@ -3969,12 +3969,12 @@
                 "Author": "Herculezz, erdelf, blackappleD",
                 "Name": "AutoDuty（国服维护版）",
                 "InternalName": "AutoDuty",
-                "AssemblyVersion": "0.0.0.37001",
+                "AssemblyVersion": "0.0.0.37005",
                 "Description": "自动跑本插件，支持亲信战友、副本协助、冒险者分队、异闻副本与常规副本，需要 BossMod、vnavmesh 及循环插件（Wrath Combo、BossMod 自动循环或 RSR）。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/blackappleD/AutoDuty",
-                "LastUpdate": 1790644916
+                "LastUpdate": 1790707958
             },
             {
                 "Author": "Infi, Sl0nderman, harbingerftw, blackappleD",
@@ -6443,11 +6443,11 @@
                 "Author": "deserokk",
                 "Name": "DeserokUtils",
                 "InternalName": "DeserokUtils",
-                "AssemblyVersion": "1.29.16.0",
+                "AssemblyVersion": "1.29.17.0",
                 "Description": "Small quality-of-life utilities, one feature per tab.\n\nCastWatch: gate a macro line on whether an action actually went off. Arm a watch above the /ac, then /ifwatch runs your line only if the action was accepted -- or cancels the macro if it was not. Works for instant casts, oGCDs and usable items, none of which produce a cast bar to observe. Optional target filters (--self, --notself, --party) and a {who} token that fills in whoever actually received it, which a vanilla macro cannot do.\n\nIt never composes or sends anything on your behalf; it only runs or suppresses a line you already wrote.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/deserokk/DeserokUtils",
-                "LastUpdate": 1790010914,
+                "LastUpdate": 1790702584,
                 "is_ai_attributed": true
             },
             {
@@ -6501,11 +6501,11 @@
                 "Author": "deserokk",
                 "Name": "DeserokUtils",
                 "InternalName": "DeserokUtils",
-                "AssemblyVersion": "1.29.16.0",
+                "AssemblyVersion": "1.29.17.0",
                 "Description": "Small quality-of-life utilities, one feature per tab.\n\nCastWatch: gate a macro line on whether an action actually went off. Arm a watch above the /ac, then /ifwatch runs your line only if the action was accepted -- or cancels the macro if it was not. Works for instant casts, oGCDs and usable items, none of which produce a cast bar to observe. Optional target filters (--self, --notself, --party) and a {who} token that fills in whoever actually received it, which a vanilla macro cannot do.\n\nIt never composes or sends anything on your behalf; it only runs or suppresses a line you already wrote.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/deserokk/DeserokUtils",
-                "LastUpdate": 1790010914,
+                "LastUpdate": 1790702584,
                 "is_ai_attributed": true
             }
         ]
@@ -8782,12 +8782,12 @@
                 "Author": "mirage",
                 "Name": "Enhanced Quick Panel",
                 "InternalName": "EnhancedQuickPanel",
-                "AssemblyVersion": "1.0.13.0",
+                "AssemblyVersion": "1.0.14.0",
                 "Description": "A customizable quick panel overlay for actions, items, macros, and text commands, with multiple pages and style presets.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/exatrines/EnhancedQuickPanel/master/EnhancedQuickPanel/Data/plugin-icon.png",
                 "RepoUrl": "https://github.com/exatrines/EnhancedQuickPanel",
-                "LastUpdate": 1790685264
+                "LastUpdate": 1790701288
             },
             {
                 "Author": "mirage",
@@ -10710,7 +10710,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/LeveHelper/refs/heads/main/LeveHelper/Assets/Icon.png",
                 "RepoUrl": "https://github.com/Haselnussbomber/LeveHelper",
-                "LastUpdate": 1790609853
+                "LastUpdate": 1790706238
             }
         ]
     },
@@ -11295,21 +11295,23 @@
                 "Author": "RifleJock",
                 "Name": "Shout Calendar",
                 "InternalName": "ShoutCalendar",
-                "AssemblyVersion": "0.1.27.0",
+                "AssemblyVersion": "0.1.32.0",
                 "Description": "Shout Calendar listens to the chats you choose and keeps event invites on a month calendar until you accept them. Nothing is accepted for you, and nothing is sent to other players.\n\nIt understands clocks, dates, today, tonight, tomorrow, next Tuesday, the Tuesday after next, every Tuesday, every other week, and the 1st and last Wednesday of a month. Places include wards, plots such as W3P26, coordinates, worlds, and names from the game's own data. A ward heard in a city guesses that city's housing district.\n\nSave accepts a pending invite. Click a block to edit it under the month, or click the day number for that day's full list. Coordinates open the map with a flag. Known quest givers do the same, and quest names drop a quest link into chat.\n\nThe Resets tab adds Jumbo Cactpot, the weekly reset, and limited events such as A Nocturne for Heroes. Resets that share a clock share one line. Alarms play a chat sound from se.1 to se.16, or a WAV you choose. Colors are yours to set.\n\n/shoutcalendar opens the calendar. /shoutcalendar test checks a line on your machine and does not send chat.",
                 "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/ibigsnet/shout-calendar/v0.1.32/images/icon.png",
                 "RepoUrl": "https://github.com/ibigsnet/shout-calendar",
-                "LastUpdate": 1790655157
+                "LastUpdate": 1790708365
             },
             {
                 "Author": "RifleJock",
                 "Name": "Shout Calendar Sync",
                 "InternalName": "ShoutCalendar.Sync",
-                "AssemblyVersion": "0.2.3.0",
+                "AssemblyVersion": "0.2.8.0",
                 "Description": "Shout Calendar Sync attaches to Shout Calendar and shares public Shout and Yell invites. Say, tells, party, alliance, free company, linkshells, and novice network are not shared.\n\nThe list at the top right starts on your current world. Check another world to fetch it in the background, then select it to see that world's events.\n\nSync runs on its own. You can limit connections, speed, stored size, items per tick, and memory. Removing this plugin removes shared events and leaves the invites you heard yourself.",
                 "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/ibigsnet/shout-calendar-sync/v0.2.8/images/icon.png",
                 "RepoUrl": "https://github.com/ibigsnet/shout-calendar-sync",
-                "LastUpdate": 1790655264
+                "LastUpdate": 1790709734
             }
         ]
     },
@@ -12530,11 +12532,11 @@
                 "Author": "Join-Taoist",
                 "Name": "Zhuangzi",
                 "InternalName": "Zhuangzi",
-                "AssemblyVersion": "0.1.12.41",
+                "AssemblyVersion": "0.1.12.43",
                 "Description": "/zz→打开Zhuangzi配置窗口",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Join-Taoist/Join-Taoist-Zhuangzi-Repo",
-                "LastUpdate": 1790662506
+                "LastUpdate": 1790710841
             }
         ]
     },
@@ -13894,12 +13896,12 @@
                 "Author": "VenueOS",
                 "Name": "VenueOS",
                 "InternalName": "VenueOS",
-                "AssemblyVersion": "0.3.8.0",
+                "AssemblyVersion": "0.3.9.0",
                 "Description": "Venue-scoped operations, promotion, and backend-compatible venue games. Working modules: Attendance, Greeter, VIP, ShoutRunner, Party Finder, Mair's Trivia, Mair's Editor. Raffle, Bingo, and TournamentControl are included but disabled by default — see the README for status.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/KeiJoi/venueos/main/assets/icon-512.png",
                 "RepoUrl": "https://github.com/KeiJoi/venueos",
-                "LastUpdate": 1789972273,
+                "LastUpdate": 1790709142,
                 "is_ai_attributed": true
             }
         ]
@@ -14392,11 +14394,11 @@
                 "Author": "aki",
                 "Name": "Enemy Dots Melee Ring",
                 "InternalName": "EnemyDotsMeleeRing",
-                "AssemblyVersion": "1.0.0.0",
+                "AssemblyVersion": "1.0.1.0",
                 "Description": "Draws a ring at your feet and a circle around each enemy's hitbox, green when your circle or cone AoE would hit that enemy and red when it would not. Drawn under other plugin windows.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/KittyXIV/mreow",
-                "LastUpdate": 1790471907
+                "LastUpdate": 1790711133
             },
             {
                 "Author": "aki",
@@ -14412,21 +14414,21 @@
                 "Author": "aki",
                 "Name": "Hover Hotbars",
                 "InternalName": "HoverHotbars",
-                "AssemblyVersion": "1.0.0.0",
+                "AssemblyVersion": "1.0.1.0",
                 "Description": "Chosen hotbars (default 4, 7 and 10) and the Main Menu bar are shown only while the mouse is over them. Keybinds keep working while they are hidden.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/KittyXIV/mreow",
-                "LastUpdate": 1790471922
+                "LastUpdate": 1790711142
             },
             {
                 "Author": "aki",
                 "Name": "Keep Mouse On Screen",
                 "InternalName": "KeepMouseOnScreen",
-                "AssemblyVersion": "1.0.0.0",
+                "AssemblyVersion": "1.0.1.0",
                 "Description": "While a mouse button turns the camera the game hides the cursor. This draws a copy of your current cursor, custom cursors included, at the spot you pressed until you let go. On Windows the cursor also comes back to exactly that spot.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/KittyXIV/mreow",
-                "LastUpdate": 1790471929
+                "LastUpdate": 1790711147
             },
             {
                 "Author": "aki",
@@ -14472,11 +14474,11 @@
                 "Author": "aki",
                 "Name": "Screen Note",
                 "InternalName": "ScreenNote",
-                "AssemblyVersion": "1.0.0.0",
+                "AssemblyVersion": "1.0.1.0",
                 "Description": "Shows a short note at the top left of the screen. Click it to edit, Ctrl+Enter or click away to save, Esc to cancel; the lock in its corner makes it click-through. Uses NaowhUI's Naowh font when you provide the file.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/KittyXIV/mreow",
-                "LastUpdate": 1790471958
+                "LastUpdate": 1790711162
             },
             {
                 "Author": "aki",
@@ -15966,23 +15968,24 @@
                 "Author": "Luci",
                 "Name": "XIV Instant Edit",
                 "InternalName": "InstantEdit",
-                "AssemblyVersion": "1.2.4.0",
+                "AssemblyVersion": "2.0.0.0",
                 "Description": "Enables easy importing of Penumbra model files in Blender and exporting them back to the game with just a single click. Provides various utilities and settings to make mod creation and editing easier and faster.",
                 "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/link-0402/XIV-Instant-Edit/main/Dalamud-Plugin/images/icon.png",
                 "RepoUrl": "https://github.com/link-0402/XIV-Instant-Edit",
-                "LastUpdate": 1789851613,
+                "LastUpdate": 1790692998,
                 "is_ai_attributed": true
             },
             {
                 "Author": "Luci",
                 "Name": "Universal Mod Converter",
                 "InternalName": "UniversalModConverter",
-                "AssemblyVersion": "1.4.0.0",
+                "AssemblyVersion": "1.5.0.0",
                 "Description": "Convert gear, facewear, hair, face, tail and Viera-ear assets in Penumbra mods to other items, slots and races, swap idle and emote animations (optionally as an option group of idle slots), retarget animations to other races, and merge two modpacks into one. Supports the Penumbra 1.7+ mod format, retargets game paths, model/material references and metadata, previews every change, and can revert conversions.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/link-0402/Universal-Mod-Converter/main/images/icon.png",
                 "RepoUrl": "https://github.com/link-0402/Universal-Mod-Converter",
-                "LastUpdate": 1790026649,
+                "LastUpdate": 1790695625,
                 "is_ai_attributed": true
             },
             {
@@ -16016,14 +16019,15 @@
         "repo_name": "Instant-Edit",
         "plugins": [
             {
-                "Author": "Luci",
+                "Author": "Luci_xiv",
                 "Name": "XIV Instant Edit",
                 "InternalName": "InstantEdit",
-                "AssemblyVersion": "1.2.4.0",
+                "AssemblyVersion": "2.0.0.0",
                 "Description": "Lists models currently on screen and sends them to Blender through the XIV Instant Edit add-on. Quick Export writes edited models back to their original Penumbra mod path.",
                 "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/link-0402/XIV-Instant-Edit/main/Dalamud-Plugin/images/icon.png",
                 "RepoUrl": "https://github.com/link-0402/Instant-Edit",
-                "LastUpdate": 1789851613,
+                "LastUpdate": 1790692998,
                 "is_ai_attributed": true
             }
         ]
@@ -16035,14 +16039,15 @@
         "repo_name": "XIV-Instant-Edit",
         "plugins": [
             {
-                "Author": "Luci",
+                "Author": "Luci_xiv",
                 "Name": "XIV Instant Edit",
                 "InternalName": "InstantEdit",
-                "AssemblyVersion": "1.2.4.0",
+                "AssemblyVersion": "2.0.0.0",
                 "Description": "Enables easy importing of Penumbra model files in Blender and exporting them back to the game with just a single click. Provides various utilities and settings to make mod creation and editing easier and faster.",
                 "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/link-0402/XIV-Instant-Edit/main/Dalamud-Plugin/images/icon.png",
                 "RepoUrl": "https://github.com/link-0402/XIV-Instant-Edit",
-                "LastUpdate": 1789851613,
+                "LastUpdate": 1790692998,
                 "is_ai_attributed": true
             }
         ]
@@ -17491,6 +17496,62 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Mbobchin/MacroVault",
                 "LastUpdate": 1775360061,
+                "is_ai_attributed": true
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "mcbro12345",
+        "repo_url": "https://raw.githubusercontent.com/mcbro12345/DalamudPlugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/mcbro12345/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "mcbro",
+                "Name": "Fishing Clues",
+                "InternalName": "FishingClues",
+                "AssemblyVersion": "1.7.1.0",
+                "Description": "A better Fishing Log: spoiler-conscious, and packed with the info you actually need to find and catch fish.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/mcbro12345/FishingClues/main/images/icon.png",
+                "RepoUrl": "https://github.com/mcbro12345/FishingClues",
+                "LastUpdate": 1790697497,
+                "is_ai_attributed": true
+            },
+            {
+                "Author": "mcbro",
+                "Name": "Gear Guide",
+                "InternalName": "GearGuide",
+                "AssemblyVersion": "1.0.2.0",
+                "Description": "A native character-window-style panel showing the best gear for your current class and level, filtered by what you own, what's on the market board, vendor gear, crafted gear and more. Every slot has the game's own item tooltip and context menu, and the Recommended Gear button equips the picks you own.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/mcbro12345/GearGuide/main/images/icon.png",
+                "RepoUrl": "https://github.com/mcbro12345/GearGuide",
+                "LastUpdate": 1790703747,
+                "is_ai_attributed": true
+            },
+            {
+                "Author": "mcbro",
+                "Name": "Tell Messenger",
+                "InternalName": "TellMessenger",
+                "AssemblyVersion": "1.0.1.0",
+                "Description": "Puts every tell in one messenger window. Each person gets their own conversation with saved history, unread badges, online status and location, replies and drafts. Linkshell chat (and optionally party, alliance and Free Company chat) goes in a Linkshells tab, and tells from strangers can wait in a Requests tab. Based on the WoW addon WhisperMessenger.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/mcbro12345/TellMessenger/main/images/icon.png",
+                "RepoUrl": "https://github.com/mcbro12345/TellMessenger",
+                "LastUpdate": 1790701284,
+                "is_ai_attributed": true
+            },
+            {
+                "Author": "mcbro",
+                "Name": "Wares",
+                "InternalName": "Wares",
+                "AssemblyVersion": "1.0.1.0",
+                "Description": "Mark inventory items as vendor wares or market listings with native badges, multi-select with Ctrl+click, and sell every marked ware in one click at vendors and retainers.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/mcbro12345/Wares/main/images/icon.png",
+                "RepoUrl": "https://github.com/mcbro12345/Wares",
+                "LastUpdate": 1790698678,
                 "is_ai_attributed": true
             }
         ]
@@ -19622,7 +19683,7 @@
                 "Author": "MusicYYin",
                 "Name": "Soumen",
                 "InternalName": "Soumen",
-                "AssemblyVersion": "0.6.0.1",
+                "AssemblyVersion": "0.6.1.1",
                 "Description": "读取小队坐标并使用 vnavmesh 自动导航。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MusicYYin/DalamudPlugins/main/icon.png",
@@ -22796,7 +22857,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1790598774
+                "LastUpdate": 1790682864
             },
             {
                 "Author": "Risa and Contributors",
@@ -22851,7 +22912,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ktisis-tools/Ktisis/main/icon.png",
                 "RepoUrl": "https://github.com/ktisis-tools/Ktisis",
-                "LastUpdate": 1789754958
+                "LastUpdate": 1790630955
             },
             {
                 "Author": "kawaii, Glyceri, Minmoose",
@@ -22873,7 +22934,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xivdev/Penumbra/master/images/icon.png",
                 "RepoUrl": "https://github.com/xivdev/Penumbra",
-                "LastUpdate": 1790453392
+                "LastUpdate": 1790630430
             },
             {
                 "Author": "Caraxi",
@@ -24324,12 +24385,12 @@
                 "Author": "Det, croizat",
                 "Name": "AutoHook",
                 "InternalName": "AutoHook",
-                "AssemblyVersion": "6.0.2.2",
+                "AssemblyVersion": "6.0.2.3",
                 "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/47",
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1790671575
+                "LastUpdate": 1790709891
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -24427,7 +24488,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/7",
                 "RepoUrl": "https://github.com/PunishXIV/Saucy",
-                "LastUpdate": 1788197664
+                "LastUpdate": 1790696274
             },
             {
                 "Author": "NightmareXIV",
@@ -24606,12 +24667,12 @@
                 "Author": "Ice",
                 "Name": "Ice's Cosmic Exploration (ICE)",
                 "InternalName": "ICE",
-                "AssemblyVersion": "1.0.0.2",
+                "AssemblyVersion": "1.0.0.3",
                 "Description": "Plugin to automate Cosmic Exploration",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/70",
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1787363550
+                "LastUpdate": 1790691077
             }
         ]
     },
@@ -25777,6 +25838,26 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Qmeko/SmartRecipeRestock",
                 "LastUpdate": 1786920339,
+                "is_ai_attributed": true
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "QuietFoxLabs",
+        "repo_url": "https://raw.githubusercontent.com/QuietFoxLabs/AetherFrame/master/distribution/dry-run/pluginmaster.json",
+        "repo_source_url": "https://github.com/QuietFoxLabs/AetherFrame",
+        "repo_name": "AetherFrame",
+        "plugins": [
+            {
+                "Author": "richhiiee",
+                "Name": "AetherFrame",
+                "InternalName": "AetherFrame",
+                "AssemblyVersion": "0.1.6.0",
+                "Description": "Design character Plates: start from an Adventure Plate-style layout in the Basic Editor, or build freeform layouts with text, images and decorative Components in the Advanced Editor. The plugin icon is AI-generated, and the bundled Celestial Dream and Celestial Sakura Components use AI-assisted artwork.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/QuietFoxLabs/AetherFrame/8b716efece4a3077ed3345dfcf491ddcfcab52db/AetherFrame/images/icon.png",
+                "RepoUrl": "https://github.com/QuietFoxLabs/AetherFrame",
+                "LastUpdate": 1790539242,
                 "is_ai_attributed": true
             }
         ]
@@ -27071,7 +27152,7 @@
                 "AssemblyVersion": "0.1.6.0",
                 "Description": "Design character Plates: start from an Adventure Plate-style layout in the Basic Editor, or build freeform layouts with text, images and decorative Components in the Advanced Editor. The plugin icon is AI-generated, and the bundled Celestial Dream and Celestial Sakura Components use AI-assisted artwork.",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/richhiiee/AetherFrameAssets/master/images/icon.png",
+                "IconUrl": "https://raw.githubusercontent.com/QuietFoxLabs/AetherFrame/8b716efece4a3077ed3345dfcf491ddcfcab52db/AetherFrame/images/icon.png",
                 "RepoUrl": "https://github.com/richhiiee/AetherFrame",
                 "LastUpdate": 1790539242,
                 "is_ai_attributed": true
@@ -34167,12 +34248,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Auto FATE Grind",
                 "InternalName": "AutoFateGrind",
-                "AssemblyVersion": "2.16.0.0",
+                "AssemblyVersion": "2.17.0.0",
                 "Description": "Farms Shared FATEs for you: tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoFATEGrind/master/AutoFateGrind/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind/tree/master/AutoFateGrind",
-                "LastUpdate": 1790673913,
+                "LastUpdate": 1790709044,
                 "is_ai_attributed": true
             },
             {
@@ -34220,7 +34301,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoSightseeingLog/master/AutoSightseeingLog/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoSightseeingLog",
-                "LastUpdate": 1790674056,
+                "LastUpdate": 1790702800,
                 "is_ai_attributed": true
             },
             {
@@ -34311,12 +34392,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Auto FATE Grind",
                 "InternalName": "AutoFateGrind",
-                "AssemblyVersion": "2.16.0.0",
+                "AssemblyVersion": "2.17.0.0",
                 "Description": "Tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoFATEGrind/master/AutoFateGrind/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind/tree/master/AutoFateGrind",
-                "LastUpdate": 1790673913,
+                "LastUpdate": 1790709044,
                 "is_ai_attributed": true
             }
         ]
@@ -35369,19 +35450,19 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Macro%20Redirection/cursor_hr1.png",
                 "RepoUrl": "https://github.com/YouShux/DalamudPlugins/blob/main/Plugins/Macro%20Redirection/Macro%20Redirection.zip",
-                "LastUpdate": 1790640144,
+                "LastUpdate": 1790693161,
                 "is_closed_source": true
             },
             {
                 "Author": "YouShu",
                 "Name": "Omni Toolbox",
                 "InternalName": "OmniToolbox",
-                "AssemblyVersion": "1.1.5.9",
+                "AssemblyVersion": "1.1.6.0",
                 "Description": "支持物品价格查询、商店购买与兑换位置查找、库存追踪、食物/药品期望计算、物品监控预警自动补货、传送以及坐骑/宠物/发型/绘画作品的悬浮窗预览等等。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Resources/%E5%9B%BE%E6%A0%87.png",
                 "RepoUrl": "https://github.com/YouShux/DalamudPlugins/blob/main/Plugins/Omni%20Toolbox/Omni%20Toolbox.zip",
-                "LastUpdate": 1790640144,
+                "LastUpdate": 1790693161,
                 "is_closed_source": true
             }
         ]
