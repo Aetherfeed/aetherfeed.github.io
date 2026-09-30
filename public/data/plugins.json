@@ -1015,12 +1015,12 @@
                 "Author": "XA",
                 "Name": "XA Database",
                 "InternalName": "XADatabase",
-                "AssemblyVersion": "0.0.0.43",
+                "AssemblyVersion": "0.0.0.44",
                 "Description": "Parser of all databases.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Database/master/XADatabase/images/icon.png",
                 "RepoUrl": "https://github.com/xa-io/XA-Database",
-                "LastUpdate": 1790562976,
+                "LastUpdate": 1790775124,
                 "is_ai_attributed": true
             },
             {
@@ -1039,12 +1039,12 @@
                 "Author": "XA",
                 "Name": "XA Slave",
                 "InternalName": "XASlave",
-                "AssemblyVersion": "0.0.0.48",
+                "AssemblyVersion": "0.0.0.49",
                 "Description": "Don't manual.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Slave/master/XASlave/images/icon.png",
                 "RepoUrl": "https://github.com/xa-io/XA-Slave",
-                "LastUpdate": 1790555942,
+                "LastUpdate": 1790775302,
                 "is_ai_attributed": true
             },
             {
@@ -1819,14 +1819,14 @@
         "plugins": [
             {
                 "Author": "akira0245, Ori, Kalle, Zune, 断水剑, SevenCat",
-                "Name": "midibard2-深海回响特供版",
+                "Name": "midibard2-深海回响改",
                 "InternalName": "MidiBard2",
-                "AssemblyVersion": "3.2.5.24",
+                "AssemblyVersion": "3.2.5.33",
                 "Description": "基于midibard2的魔改版本，添加自动点歌、歌单、控制台、不同IP连接功能。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Alittlerecallinglittlebrother/MidiBard2-Deepsea/main/icon.png",
                 "RepoUrl": "https://github.com/Alittlerecallinglittlebrother/MidiBard2-Deepsea",
-                "LastUpdate": 1790007156
+                "LastUpdate": 1790773447
             }
         ]
     },
@@ -2474,7 +2474,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/anomek/AnoMech/master/images/icon.png",
                 "RepoUrl": "https://github.com/anomek/AnoMech",
-                "LastUpdate": 1790538897,
+                "LastUpdate": 1790755562,
                 "is_ai_attributed": true
             },
             {
@@ -2824,7 +2824,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Arzhaell/AutoStanceXIV/main/AutoStanceXIV/images/icon.png",
                 "RepoUrl": "https://github.com/Arzhaell/AutoStanceXIV",
-                "LastUpdate": 1790639877
+                "LastUpdate": 1790765982
             }
         ]
     },
@@ -8678,7 +8678,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1790720602
+                "LastUpdate": 1790768518
             }
         ]
     },
@@ -8799,11 +8799,11 @@
                 "Author": "Anomek",
                 "Name": "AnoMech Testing",
                 "InternalName": "AnoMechTesting",
-                "AssemblyVersion": "0.4.2.39",
+                "AssemblyVersion": "0.4.2.50",
                 "Description": "Unstable build of the multiplayer work in progress on Evernow/AnoMech's multiplayer-support branch. Spawns fake party members and bosses client-side so you can practice raid mechanics, with several people sharing one simulation. Installs alongside the normal AnoMech and keeps its own settings.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Evernow/Anomech-testing",
-                "LastUpdate": 1790545837
+                "LastUpdate": 1790770875
             },
             {
                 "Author": "Evernow",
@@ -14062,7 +14062,7 @@
                 "Author": "Yu",
                 "Name": "Viet Translator",
                 "InternalName": "VietTranslator",
-                "AssemblyVersion": "1.6.1.0",
+                "AssemblyVersion": "1.7.0.0",
                 "Description": "Phu de tieng Viet cho thoai FFXIV: overlay ImGui render chu co dau chuan (font BeVietnam Pro), giu nguyen ten rieng tieng Anh. Ban v1 phu tron A Realm Reborn - cot truyen chinh (2.0) + hau-ARR (2.1-2.55), nhiem vu Nghe & Job, mo khoa tinh nang (nha o, chocobo, retainer...) va Duty (dungeon/trial/raid). Hoat dong cho thoai thuong, cutscene, caption va menu lua chon.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/kennabi83/VietTranslator/main/Resources/icon.png?v=2",
@@ -14947,19 +14947,19 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1790683294,
+                "LastUpdate": 1790736563,
                 "is_ai_attributed": false
             },
             {
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "756.12.0.1",
+                "AssemblyVersion": "756.13.0.1",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1790614125
+                "LastUpdate": 1790771538
             },
             {
                 "Author": "Team Wrath",
@@ -14970,7 +14970,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1790321072,
+                "LastUpdate": 1790760809,
                 "is_ai_attributed": true
             }
         ]
@@ -15073,6 +15073,17 @@
                 "IconUrl": "https://raw.githubusercontent.com/kuchris/moremacros/0.3.2.0/images/icon.png",
                 "RepoUrl": "https://github.com/kuchris/moremacros",
                 "LastUpdate": 1790416760
+            },
+            {
+                "Author": "kuchris",
+                "Name": "OCBFR",
+                "InternalName": "OCNFarmer",
+                "AssemblyVersion": "2.3.0.15",
+                "Description": "OCBFR 是新月島尋寶自動化插件，提供寶箱掃描、內外環尋寶、錢幣兌換、退本重入及戰利品記錄。支援繁體中文／English 介面。需要 Daily Routines、vnavmesh 與 BOCCHI。\n\nOCBFR automates Occult Crescent coffer scanning, treasure routes, currency purchases and re-entry, with loot tracking and a Traditional Chinese / English interface. Requires Daily Routines, vnavmesh and BOCCHI.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/kuchris/DalamudPlugins/main/plugins/OCNFarmer/icon.png",
+                "RepoUrl": "https://github.com/kuchris/OCBFR",
+                "LastUpdate": 1790770276
             },
             {
                 "Author": "kuchris",
@@ -15754,12 +15765,12 @@
                 "Author": "Galderia",
                 "Name": "BLUnion",
                 "InternalName": "BLUnion",
-                "AssemblyVersion": "0.8.0.0",
+                "AssemblyVersion": "0.9.0.0",
                 "Description": "Compares learned Blue Mage spells across a party, shows where to find missing ones, and helps plan what to learn next together - multilingual (DE/EN/FR/JA), syncs via export/import codes, no gameplay automation.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/letsI-MA/BLUnion/main/images/icon.png",
                 "RepoUrl": "https://github.com/letsI-MA/BLUnion",
-                "LastUpdate": 1789841929,
+                "LastUpdate": 1790775150,
                 "is_ai_attributed": true
             }
         ]
@@ -18081,12 +18092,12 @@
                 "Author": "DhogGPT",
                 "Name": "AI Duty Solver",
                 "InternalName": "ADS",
-                "AssemblyVersion": "0.9.4.2",
+                "AssemblyVersion": "0.9.4.4",
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/ADS/main/ADS/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1790282132
+                "LastUpdate": 1790738896
             },
             {
                 "Author": "Aethertek",
@@ -18218,24 +18229,24 @@
                 "Author": "DhogGPT",
                 "Name": "Dhog Potato System",
                 "InternalName": "DPS",
-                "AssemblyVersion": "0.1.1.3",
+                "AssemblyVersion": "1.0.0.0",
                 "Description": "A potato-mode Dalamud plugin for weak machines: suppress non-party players, pets, chocobos, and minions so the client spends less effort rendering garbage you do not need.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/DPS/master/DPS/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/DPS",
-                "LastUpdate": 1790285548,
+                "LastUpdate": 1790715364,
                 "is_ai_attributed": true
             },
             {
                 "Author": "DhogGPT",
                 "Name": "Footballer",
                 "InternalName": "footballer",
-                "AssemblyVersion": "0.0.1.2",
+                "AssemblyVersion": "0.0.1.3",
                 "Description": "Footballer is a private privacy-respecting foot showcase plugin with a saved main-window krangle toggle, cached Lodestone face gating, preview-only barefoot mode.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/footballer/main/footballer/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/footballer",
-                "LastUpdate": 1789684409
+                "LastUpdate": 1790714196
             },
             {
                 "Author": "DhogGPT",
@@ -18288,24 +18299,24 @@
                 "Author": "DhogGPT",
                 "Name": "Loot Goblin",
                 "InternalName": "LootGoblin",
-                "AssemblyVersion": "0.6.0.6",
+                "AssemblyVersion": "0.6.0.7",
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/LootGoblin/master/LootGoblin/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1790196282,
+                "LastUpdate": 1790714218,
                 "is_ai_attributed": true
             },
             {
                 "Author": "DhogGPT",
                 "Name": "M.O.G.T.O.M.E.",
                 "InternalName": "MOGTOME",
-                "AssemblyVersion": "1.1.1.10",
+                "AssemblyVersion": "1.2.0.1",
                 "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open. M.O.G.T.O.M.E. = Management Of Grand Tome Operations & Management Engine",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/MOGTOME/master/MOGTOME/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/MOGTOME",
-                "LastUpdate": 1790260593,
+                "LastUpdate": 1790713267,
                 "is_ai_attributed": true
             },
             {
@@ -18346,12 +18357,12 @@
                 "Author": "DhogGPT",
                 "Name": "Vermaxion",
                 "InternalName": "VERMAXION",
-                "AssemblyVersion": "0.5.0.2",
+                "AssemblyVersion": "0.6.0.0",
                 "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1790208799,
+                "LastUpdate": 1790738888,
                 "is_ai_attributed": true
             },
             {
@@ -18374,7 +18385,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Database/master/XADatabase/images/icon.png",
                 "RepoUrl": "https://github.com/xa-io/XA-Database",
-                "LastUpdate": 1790562976
+                "LastUpdate": 1790775124
             },
             {
                 "Author": "XA",
@@ -18396,7 +18407,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Slave/master/XASlave/images/icon.png",
                 "RepoUrl": "https://github.com/xa-io/XA-Slave",
-                "LastUpdate": 1790555942
+                "LastUpdate": 1790775302
             },
             {
                 "Author": "XA",
@@ -19602,7 +19613,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MTVirux/Kaleidoscope/main/images/icon.png",
                 "RepoUrl": "https://github.com/MTVirux/Kaleidoscope",
-                "LastUpdate": 1786662719,
+                "LastUpdate": 1790770331,
                 "is_ai_attributed": true
             }
         ]
@@ -19802,7 +19813,7 @@
                 "Author": "MusicYYin",
                 "Name": "Soumen",
                 "InternalName": "Soumen",
-                "AssemblyVersion": "0.6.2.1",
+                "AssemblyVersion": "0.6.2.4",
                 "Description": "读取小队坐标并使用 vnavmesh 自动导航。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MusicYYin/DalamudPlugins/main/icon.png",
@@ -23108,12 +23119,12 @@
                 "Author": "Paissa Heavy Industries",
                 "Name": "Lemegeton",
                 "InternalName": "Lemegeton",
-                "AssemblyVersion": "1.0.8.6",
+                "AssemblyVersion": "1.0.8.7",
                 "Description": "Your ultimate ingame companion; spells and enchantments to make your gameplay experience a little more magical.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/paissaheavyindustries/Dalamud-Repo/main/icons/lemegeton.png",
                 "RepoUrl": "https://github.com/paissaheavyindustries/Lemegeton",
-                "LastUpdate": 1784327643
+                "LastUpdate": 1790775762
             },
             {
                 "Author": "Paissa Heavy Industries",
@@ -24515,7 +24526,7 @@
                 "Author": "kawaii, NightmareXIV",
                 "Name": "AutoRetainer",
                 "InternalName": "AutoRetainer",
-                "AssemblyVersion": "4.6.2.7",
+                "AssemblyVersion": "4.6.2.11",
                 "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/24",
@@ -24629,7 +24640,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1790321072
+                "LastUpdate": 1790760809
             },
             {
                 "Author": "daemitus, croizat",
@@ -29645,12 +29656,12 @@
                 "Author": "SHIGYL",
                 "Name": "Briosis",
                 "InternalName": "Briosis",
-                "AssemblyVersion": "0.1.0.3",
+                "AssemblyVersion": "0.1.0.4",
                 "Description": "A community GPose posing toolkit based on Brio, with expanded facial-expression controls, facial presets, and advanced tongue posing tools adapted from and inspired by Ktisis.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/SHIGYL/Briosis/main/Resources/Images/BriosisIcon.png",
                 "RepoUrl": "https://github.com/SHIGYL/Briosis",
-                "LastUpdate": 1790288367
+                "LastUpdate": 1790772169
             }
         ]
     },
@@ -30425,12 +30436,12 @@
                 "Author": "Solona",
                 "Name": "Proteus",
                 "InternalName": "Proteus",
-                "AssemblyVersion": "2609.631.0.0",
+                "AssemblyVersion": "2609.641.0.0",
                 "Description": "Headless overlay compositor for Penumbra. Discovers mods with a Proteus/ sidecar, composites their overlay textures in Penumbra priority order, and maintains a single managed mod at priority 999. No authoring UI — all work happens in external tools. Type /proteus to open the status window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://dl.solona.info/icon.png",
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1790718669,
+                "LastUpdate": 1790772662,
                 "is_ai_attributed": true
             }
         ]
@@ -33688,16 +33699,6 @@
         "repo_name": "dalamud-plugins",
         "plugins": [
             {
-                "Author": "Airwave contributors",
-                "Name": "Airwave",
-                "InternalName": "Airwave",
-                "AssemblyVersion": "0.1.0.0",
-                "Description": "Broadcast live rekordbox audio or listen to a broadcast using continuous Opus audio. Open /airwave to connect. Capture and playback start only when you choose them.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/wallawallaslytherin/dalamud-plugins",
-                "LastUpdate": 1790138988
-            },
-            {
                 "Author": "Hovercast contributors",
                 "Name": "Hovercast",
                 "InternalName": "FrameMouseover",
@@ -34181,12 +34182,12 @@
                 "Author": "XA",
                 "Name": "XA Database",
                 "InternalName": "XADatabase",
-                "AssemblyVersion": "0.0.0.43",
+                "AssemblyVersion": "0.0.0.44",
                 "Description": "Parser of all databases.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Database/master/XADatabase/images/icon.png",
                 "RepoUrl": "https://github.com/xa-io/XA-Database",
-                "LastUpdate": 1790562976
+                "LastUpdate": 1790775124
             },
             {
                 "Author": "XA",
@@ -34203,12 +34204,12 @@
                 "Author": "XA",
                 "Name": "XA Slave",
                 "InternalName": "XASlave",
-                "AssemblyVersion": "0.0.0.48",
+                "AssemblyVersion": "0.0.0.49",
                 "Description": "A Dalamud plugin for FINAL FANTASY XIV that automates repetitive multi-character workflows — relogging, world travel, chat announcements, housing checks, and more. Works alongside XA Database to collect and push character data hands-free.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Slave/master/XASlave/images/icon.png",
                 "RepoUrl": "https://github.com/xa-io/XA-Slave",
-                "LastUpdate": 1790555942
+                "LastUpdate": 1790775302
             },
             {
                 "Author": "XA",
@@ -34305,12 +34306,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone Beta",
                 "InternalName": "AetherphoneBeta",
-                "AssemblyVersion": "1.0.3.25",
+                "AssemblyVersion": "1.0.3.27",
                 "Description": "The beta channel for Aetherphone: builds straight off the development branch, installed side by side with the stable plugin so you can test what is coming next without giving up the phone you use every day.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/Aetherphone-Beta",
-                "LastUpdate": 1790512193
+                "LastUpdate": 1790761903
             }
         ]
     },
@@ -34670,12 +34671,12 @@
                 "Author": "Michiru Tsukikage",
                 "Name": "Tsukimichi",
                 "InternalName": "Tsukimichi",
-                "AssemblyVersion": "0.9.0.0",
+                "AssemblyVersion": "1.1.0.0",
                 "Description": "A quest catalog for every journal type, with completed and available filters and a per-requirement breakdown of what still blocks a quest.\nMoonlit treasures collects quests with unique rewards, and per-character snapshots keep the whole account in view.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xenofei/Tsukimichi/main/assets/icon.png",
                 "RepoUrl": "https://github.com/xenofei/Tsukimichi",
-                "LastUpdate": 1790747909,
+                "LastUpdate": 1790765359,
                 "is_ai_attributed": true
             }
         ]
