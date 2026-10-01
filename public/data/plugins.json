@@ -4053,6 +4053,17 @@
                 "is_ai_attributed": true
             },
             {
+                "Author": "croizat, blackappleD",
+                "Name": "Glamour Log（国服维护版）",
+                "InternalName": "GlamourLog",
+                "AssemblyVersion": "15.69.0.2002",
+                "Description": "幻化图鉴：以游戏内图鉴风格的窗口记录所有幻化套装（金曦之遗辉引入的“套装”）的收集情况，显示是否已存入投影台或收藏柜，并列出每件套装的获取途径。附带聊天栏收集进度提示、战利品窗口徽章、一键收纳、投影台/收藏柜筛选等幻化相关功能。国服维护版增加界面多语言支持与简体中文翻译（跟随 Dalamud 界面语言）。",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://puni.sh/api/plugins/icon/136",
+                "RepoUrl": "https://github.com/blackappleD/glamourlog",
+                "LastUpdate": 1790839860
+            },
+            {
                 "Author": "Ice, QiongHHHZZZ, blackappleD",
                 "Name": "Ice's Cosmic Exploration (ICE)",
                 "InternalName": "ICE-bld",
@@ -7270,12 +7281,12 @@
                 "Author": "Drakos Team",
                 "Name": "Drakos",
                 "InternalName": "Drakos",
-                "AssemblyVersion": "1.0.0.0",
+                "AssemblyVersion": "1.0.1.0",
                 "Description": "A plugin to automate crafting, gathering, and market board functions. Drakos allows you to construct orders and automate gathering, crafting, and undercutting on the market board.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/drakos-gg/drakos/main/icon.png",
                 "RepoUrl": "https://github.com/drakos-gg/drakos",
-                "LastUpdate": 1790738258
+                "LastUpdate": 1790839538
             }
         ]
     },
@@ -9221,12 +9232,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "BossMod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.6.25",
+                "AssemblyVersion": "7.5.6.27",
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1790788466
+                "LastUpdate": 1790842719
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -9270,7 +9281,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/PCR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn",
-                "LastUpdate": 1790649385
+                "LastUpdate": 1790844996
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -9292,7 +9303,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1790771538
+                "LastUpdate": 1790835585
             },
             {
                 "Author": "Churin",
@@ -9803,7 +9814,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/G-Yoka/DalamudPluginsCN/main/plugins/CrescentCompass/images/icon.png",
                 "RepoUrl": "https://github.com/G-Yoka/DalamudPluginsCN",
-                "LastUpdate": 1790678584
+                "LastUpdate": 1790844797
             }
         ]
     },
@@ -9875,12 +9886,12 @@
                 "Author": "GaugeMage",
                 "Name": "BGM Separator",
                 "InternalName": "BgmSeparator",
-                "AssemblyVersion": "0.3.4.0",
+                "AssemblyVersion": "0.4.2.0",
                 "Description": "Detects the currently playing FFXIV BGM, decodes the game's own music file, and plays it out through an audio device you choose (e.g. a virtual audio cable). Combined with muting the game's built-in BGM, this lets OBS capture the music on a separate source that you can include in recordings but leave off the stream track. See the README for OBS routing.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/GaugeMage/BGMSeparator/main/BgmSeparator/images/icon.png",
                 "RepoUrl": "https://github.com/GaugeMage/BGMSeparator",
-                "LastUpdate": 1785716481,
+                "LastUpdate": 1790843904,
                 "is_ai_attributed": true
             }
         ]
@@ -13798,12 +13809,12 @@
                 "Author": "Karlin",
                 "Name": "KodakkuAssist",
                 "InternalName": "KodakkuAssist",
-                "AssemblyVersion": "0.6.0.0",
+                "AssemblyVersion": "0.6.0.1",
                 "Description": "Chinese Splatoon equivalent with in-game vfx. Requires Discord verification.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Karlin-Z/DalamudPlugins/main/plugins/KodakkuAssist/icon.png",
                 "RepoUrl": "https://github.com/Karlin-Z/DalamudPlugins/tree/main/plugins/KodakkuAssist",
-                "LastUpdate": 1790820294,
+                "LastUpdate": 1790832089,
                 "is_closed_source": true
             },
             {
@@ -14933,12 +14944,12 @@
                 "Author": "erdelf, Herculezz",
                 "Name": "AutoDuty",
                 "InternalName": "AutoDuty",
-                "AssemblyVersion": "0.373.0.1",
+                "AssemblyVersion": "0.373.0.2",
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1790810908,
+                "LastUpdate": 1790833331,
                 "is_ai_attributed": false
             },
             {
@@ -15006,7 +15017,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1790771538
+                "LastUpdate": 1790835585
             },
             {
                 "Author": "Team Wrath",
@@ -15017,7 +15028,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1790760809,
+                "LastUpdate": 1790836382,
                 "is_ai_attributed": true
             }
         ]
@@ -17439,12 +17450,12 @@
                 "Author": "MarshalTitan",
                 "Name": "PvP Sentinel",
                 "InternalName": "PvPSentinel",
-                "AssemblyVersion": "0.3.1.8",
+                "AssemblyVersion": "0.3.1.9",
                 "Description": "Testing-exclusive Frontline development plugin with fail-closed player classification, friendly-force clustering, stable target and group commitment, vnavmesh navigation integration, an opt-in MCH combat controller, and detailed diagnostics.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MarshalTitan/PvPSentinel/main/assets/icon_clean.png",
                 "RepoUrl": "https://github.com/MarshalTitan/PvPSentinel",
-                "LastUpdate": 1790818711
+                "LastUpdate": 1790826992
             },
             {
                 "Author": "MTitan",
@@ -21220,7 +21231,7 @@
                 "DalamudApiLevel": 12,
                 "IconUrl": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/plugins/NyaDraw/NyaDraw.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1790349368,
+                "LastUpdate": 1790826059,
                 "is_closed_source": true
             },
             {
@@ -21232,7 +21243,7 @@
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/plugins/NyaDraw/NyaDraw.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1790349368,
+                "LastUpdate": 1790826059,
                 "is_closed_source": true
             },
             {
@@ -21244,19 +21255,19 @@
                 "DalamudApiLevel": 14,
                 "IconUrl": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/plugins/NyaDraw/NyaDraw.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1790349368,
+                "LastUpdate": 1790826059,
                 "is_closed_source": true
             },
             {
                 "Author": "NiGuangOwO / Small_Miao",
                 "Name": "NyaDraw",
                 "InternalName": "NyaDraw",
-                "AssemblyVersion": "1.15.1.7",
+                "AssemblyVersion": "1.15.1.8",
                 "Description": "Chinese Splatoon equivalent using in-game vfx (Requires registration on their discord server)",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/NiGuangOwO/DalamudPlugins/main/plugins/NyaDraw/NyaDraw.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/NyaDraw",
-                "LastUpdate": 1790349368,
+                "LastUpdate": 1790826059,
                 "is_closed_source": true
             },
             {
@@ -21628,12 +21639,12 @@
                 "Author": "Exora",
                 "Name": "ExCombo",
                 "InternalName": "ExCombo",
-                "AssemblyVersion": "1.23.5.0",
+                "AssemblyVersion": "1.24.0.0",
                 "Description": "Design your job rotation as a visual node graph. Flows replace hotbar actions in-game as you build them. Use /excombo to open the editor.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/nixglacie/ExCombo-dist/main/icon.png",
                 "RepoUrl": "https://github.com/nixglacie/ExCombo-dist",
-                "LastUpdate": 1790808973
+                "LastUpdate": 1790842504
             }
         ]
     },
@@ -24766,7 +24777,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1790760809
+                "LastUpdate": 1790836382
             },
             {
                 "Author": "daemitus, croizat",
@@ -24838,7 +24849,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1790810908,
+                "LastUpdate": 1790833331,
                 "is_ai_attributed": false
             },
             {
@@ -26723,11 +26734,11 @@
                 "Author": "Rayla Petal",
                 "Name": "PoseKit",
                 "InternalName": "PoseKit",
-                "AssemblyVersion": "2.2.0.5",
+                "AssemblyVersion": "2.2.0.6",
                 "Description": "Animation Assistance Plugin, offset your character's pose, save named presets and replay them, auto-discover Penumbra pose mods, and manually resync emote timing with a partner.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/RaylaPetal/PoseKit",
-                "LastUpdate": 1790805639,
+                "LastUpdate": 1790823773,
                 "is_ai_attributed": true
             },
             {
@@ -29417,12 +29428,12 @@
                 "Author": "ShaalaXIV",
                 "Name": "AetherPress",
                 "InternalName": "AetherPress",
-                "AssemblyVersion": "1.3.7.0",
+                "AssemblyVersion": "1.3.8.0",
                 "Description": "Detects completed Penumbra mod installations and offers configurable Base, Normal, and Mask texture compression. Use /aetherpress to open settings.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://shaalaxiv.github.io/AetherPress/images/icon.png",
                 "RepoUrl": "https://github.com/ShaalaXIV/AetherPress",
-                "LastUpdate": 1790637285,
+                "LastUpdate": 1790843366,
                 "is_ai_attributed": true
             }
         ]
@@ -32497,6 +32508,25 @@
         ]
     },
     {
+        "repo_developer_name": "Tildemancer",
+        "repo_url": "https://raw.githubusercontent.com/Tildemancer/TildeTools/master/repo.json",
+        "repo_source_url": "https://github.com/Tildemancer/TildeTools",
+        "repo_name": "TildeTools",
+        "plugins": [
+            {
+                "Author": "Tildemancer",
+                "Name": "TildeTools",
+                "InternalName": "TildeTools",
+                "AssemblyVersion": "0.5.2.0",
+                "Description": "A collection of tools under one window, each with its own tab and master switch. Includes Emote Splitter, which raises the chat box's length limit and sends long messages as paced parts so the server does not drop them, and spellcheck.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Tildemancer/TildeTools/master/TildeTools/images/icon.png",
+                "RepoUrl": "https://github.com/Tildemancer/TildeTools",
+                "LastUpdate": 1790827106
+            }
+        ]
+    },
+    {
         "repo_developer_name": "timcade-stuff",
         "repo_url": "https://raw.githubusercontent.com/timcade-stuff/healbot-reborn/master/repo.json",
         "repo_source_url": "https://github.com/timcade-stuff/healbot-reborn",
@@ -33782,7 +33812,7 @@
                 "Author": "Voudi",
                 "Name": "AlphaChannel",
                 "InternalName": "AlphaChannel.Plugin",
-                "AssemblyVersion": "2.1.7.3",
+                "AssemblyVersion": "2.1.7.4",
                 "Description": "Renders an in-world video screen and syncs playback with other players running AlphaChannel over a self-hosted relay.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Kodie0/AlphaChannelKodie",
@@ -33835,6 +33865,16 @@
         "repo_name": "dalamud-plugins",
         "plugins": [
             {
+                "Author": "Cam Control contributors",
+                "Name": "Cam Control",
+                "InternalName": "CameraControl",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "Adjust zoom distance, field of view, camera height and collision strictly inside houses. Automatically restores the camera outside housing, during combat and in duties. Open with /cam.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/wallawallaslytherin/dalamud-plugins",
+                "LastUpdate": 1790843782
+            },
+            {
                 "Author": "Hovercast contributors",
                 "Name": "Hovercast",
                 "InternalName": "FrameMouseover",
@@ -33853,6 +33893,16 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/wallawallaslytherin/dalamud-plugins",
                 "LastUpdate": 1790044948
+            },
+            {
+                "Author": "Z-Lock contributors",
+                "Name": "Z-Lock",
+                "InternalName": "HouseHeightLock",
+                "AssemblyVersion": "1.1.0.0",
+                "Description": "One button to lift you 1 cm and stay in place inside player housing. Movement is blocked while locked. Unlocks automatically when the housing session ends.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/wallawallaslytherin/dalamud-plugins",
+                "LastUpdate": 1790838306
             }
         ]
     },
@@ -33989,11 +34039,11 @@
                 "Author": "CrescentCompass contributors",
                 "Name": "CrescentCompass｜新月島尋寶羅盤",
                 "InternalName": "CrescentCompass",
-                "AssemblyVersion": "0.6.0.0",
+                "AssemblyVersion": "0.7.1.0",
                 "Description": "南部野外 68 個寶箱依使用者提供的圖表固定編號排序，可任選起點、暫停／繼續／終止，依角色儲存上次開箱編號。地圖支援 Ctrl＋滾輪縮放與拖曳平移。圖表順序不被地形導航重排；可另選地形最短順序模式，12 站內求此路程模型下的最短順序，更多點近似最佳化。同島同分流傳送保留路線與手動暫停。含島上 12 處未探索筆記篩選、魔法罐自動提示旗標、北罐／南罐座標、FATE 通知與預估倒數、其他玩家模型隱藏開關。固定候選點不代表個人可開權限；開箱紀錄依本機讀條與物件狀態判定或手動確認。指令 /crescent。",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/wenwen-ff14/Occult_Crescent_guide_TC",
-                "LastUpdate": 1790804933
+                "LastUpdate": 1790833549
             }
         ]
     },
