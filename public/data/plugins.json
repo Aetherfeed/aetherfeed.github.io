@@ -805,12 +805,12 @@
                 "Author": "DhogGPT",
                 "Name": "dad",
                 "InternalName": "dad",
-                "AssemblyVersion": "0.7.1.1",
+                "AssemblyVersion": "0.7.1.2",
                 "Description": "DAD is a duty planner and multibox coordinator for FFXIV. Create reusable character presets, wake or relog the right clients, prepare jobs, assemble and verify parties, queue supported duties and roulettes, and chain presets into manual or daily schedules. Live readiness checks, clear blockers, reconnect status, cancellation, and Stop All keep every run visible and recoverable.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dad/main/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/dad",
-                "LastUpdate": 1790479035,
+                "LastUpdate": 1790804352,
                 "is_ai_attributed": true
             },
             {
@@ -887,12 +887,12 @@
                 "Author": "DhogGPT",
                 "Name": "Fren Rider",
                 "InternalName": "FrenRider",
-                "AssemblyVersion": "1.3.1.10",
+                "AssemblyVersion": "1.3.1.11",
                 "Description": "Native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider or /fr to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1790479034,
+                "LastUpdate": 1790804309,
                 "is_ai_attributed": true
             },
             {
@@ -969,7 +969,7 @@
                 "Author": "MacaronDream, DhogGPT, XA",
                 "Name": "Questionable Companion",
                 "InternalName": "QSTCompanion",
-                "AssemblyVersion": "1.1.23.0",
+                "AssemblyVersion": "1.1.25.0",
                 "Description": "Automated character rotation and quest sequence execution for Questionable.\n\nAutomates multi-character MSQ progression by intelligently switching between characters based on quest completion and level requirements. Features include:\n- Automatic character switching and quest tracking\n- MSQ progression monitoring across all characters\n- Allied Society quest rotation and prioritization\n- Event quest automation with prerequisite checking\n- Chauffeur Mode for following main character through quests\n- Data Center travel automation\n- Stop point configuration for controlled progression\n\nRequired Plugins: Questionable, AutoRetainer",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MacaronDream/QSTCompanion/main/icon.png",
@@ -992,12 +992,12 @@
                 "Author": "DhogGPT",
                 "Name": "Vermaxion",
                 "InternalName": "VERMAXION",
-                "AssemblyVersion": "0.7.0.0",
+                "AssemblyVersion": "0.8.0.0",
                 "Description": "Automates weekly and daily tasks triggered by AutoRetainer post-processing. Configurable per character: Verminion queue, Cactpot, Chocobo Racing, FC buff refill, and Henchman management.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1790779112,
+                "LastUpdate": 1790821878,
                 "is_ai_attributed": true
             },
             {
@@ -1874,6 +1874,16 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AlmerisBE/Befriender",
                 "LastUpdate": 1789381359
+            },
+            {
+                "Author": "Almeris",
+                "Name": "Marketeer",
+                "InternalName": "Marketeer",
+                "AssemblyVersion": "1.0.1.0",
+                "Description": "An all-in-one market board, inventory, and retainer management plugin. Features market watch, automated competitor undercutting, comprehensive sales history, cross-character inventory management, and a crafting profit evaluator.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/AlmerisBE/Marketeer",
+                "LastUpdate": 1790812963
             },
             {
                 "Author": "Almeris",
@@ -2829,6 +2839,25 @@
         ]
     },
     {
+        "repo_developer_name": "Arzhaell",
+        "repo_url": "https://raw.githubusercontent.com/Arzhaell/LootFinderXIV/main/repo.json",
+        "repo_source_url": "https://github.com/Arzhaell/LootFinderXIV",
+        "repo_name": "LootFinderXIV",
+        "plugins": [
+            {
+                "Author": "Arzhael",
+                "Name": "LootFinderXIV",
+                "InternalName": "LootFinderXIV",
+                "AssemblyVersion": "1.2.1.0",
+                "Description": "Shows a database-style loot sheet for each duty: rare rewards (minions, mounts, orchestrion rolls) obtained or not, tomestones and gil per boss, and the content of every coffer with what you already own. Opens next to the Duty Finder or from the server info bar. Interface in English and French.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Arzhaell/LootFinderXIV/main/images/icon.png",
+                "RepoUrl": "https://github.com/Arzhaell/LootFinderXIV",
+                "LastUpdate": 1790817382
+            }
+        ]
+    },
+    {
         "repo_developer_name": "arzolath",
         "repo_url": "https://raw.githubusercontent.com/arzolath/FFXIV_BigBody/main/pluginmaster.json",
         "repo_source_url": "https://github.com/arzolath/FFXIV_BigBody",
@@ -2985,12 +3014,12 @@
                 "Author": "ashdam",
                 "Name": "Gubal Library",
                 "InternalName": "GubalLibrary",
-                "AssemblyVersion": "0.5.12.0",
+                "AssemblyVersion": "0.5.13.0",
                 "Description": "Community language localizer. Needs a language pack",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ashdam/gubal-library/main/images/icon.png",
                 "RepoUrl": "https://github.com/ashdam/gubal-library",
-                "LastUpdate": 1790453814,
+                "LastUpdate": 1790803295,
                 "is_ai_attributed": true
             }
         ]
@@ -3980,12 +4009,12 @@
                 "Author": "Herculezz, erdelf, blackappleD",
                 "Name": "AutoDuty（国服维护版）",
                 "InternalName": "AutoDuty",
-                "AssemblyVersion": "0.0.0.37201",
+                "AssemblyVersion": "0.0.0.37301",
                 "Description": "自动跑本插件，支持亲信战友、副本协助、冒险者分队、异闻副本与常规副本，需要 BossMod、vnavmesh 及循环插件（Wrath Combo、BossMod 自动循环或 RSR）。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/blackappleD/AutoDuty",
-                "LastUpdate": 1790731626
+                "LastUpdate": 1790817595
             },
             {
                 "Author": "Infi, Sl0nderman, harbingerftw, blackappleD",
@@ -4572,12 +4601,12 @@
                 "Author": "BSoD38",
                 "Name": "Inverse Kinematics",
                 "InternalName": "FootIk",
-                "AssemblyVersion": "0.4.1.0",
+                "AssemblyVersion": "1.0.0.0",
                 "Description": "Real-time inverse kinematics for your character. Bends the legs against the game's collision so the feet rest on slopes and steps instead of clipping through or floating, adjusts the body height to match, and leans into slopes while running.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/BSoD38/dalamud-plugins/main/plugins/FootIk/icon.png",
                 "RepoUrl": "https://github.com/BSoD38/ffxiv-real-time-ik",
-                "LastUpdate": 1789777548,
+                "LastUpdate": 1790816965,
                 "is_ai_attributed": true
             },
             {
@@ -8174,12 +8203,12 @@
                 "Author": "The Enceladeum",
                 "Name": "HOutfits",
                 "InternalName": "HOutfits",
-                "AssemblyVersion": "0.3.0.0",
+                "AssemblyVersion": "0.4.2.0",
                 "Description": "Lists the game's complete named sets and applies a whole set or any single piece to your character through Glamourer, instead of picking each item from a dropdown.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Enceladeum/HOutfits/main/images/icon.png",
                 "RepoUrl": "https://github.com/Enceladeum/HOutfits",
-                "LastUpdate": 1785442437,
+                "LastUpdate": 1790814348,
                 "is_ai_attributed": true
             }
         ]
@@ -8234,12 +8263,12 @@
                 "Author": "The Enceladeum",
                 "Name": "HOutfits",
                 "InternalName": "HOutfits",
-                "AssemblyVersion": "0.3.0.0",
+                "AssemblyVersion": "0.4.2.0",
                 "Description": "Lists the game's complete named sets and applies a whole set or any single piece to your character through Glamourer, instead of picking each item from a dropdown.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Enceladeum/HOutfits/main/images/icon.png",
                 "RepoUrl": "https://github.com/Enceladeum/HOutfits",
-                "LastUpdate": 1785442437,
+                "LastUpdate": 1790814335,
                 "is_ai_attributed": true
             }
         ]
@@ -12202,6 +12231,24 @@
     },
     {
         "repo_developer_name": "Jacob5800",
+        "repo_url": "https://raw.githubusercontent.com/Jacob5800/PortraitAtelier/main/repo.json",
+        "repo_source_url": "https://github.com/Jacob5800/PortraitAtelier",
+        "repo_name": "PortraitAtelier",
+        "plugins": [
+            {
+                "Author": "Jacob5800",
+                "Name": "Portrait Atelier",
+                "InternalName": "PortraitAtelier",
+                "AssemblyVersion": "0.1.2.0",
+                "Description": "Find curated portrait looks, generate variations from your own portrait, and preview them in the game's editor.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Jacob5800/PortraitAtelier",
+                "LastUpdate": 1790816328
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Jacob5800",
         "repo_url": "https://raw.githubusercontent.com/Jacob5800/Workshoppa-API15/main/repo.json",
         "repo_source_url": "https://github.com/Jacob5800/Workshoppa-API15",
         "repo_name": "Workshoppa-API15",
@@ -13318,11 +13365,11 @@
                 "Author": "Sceneweaver contributors",
                 "Name": "Sceneweaver",
                 "InternalName": "Sceneweaver",
-                "AssemblyVersion": "0.8.0.0",
+                "AssemblyVersion": "0.9.0.0",
                 "Description": "Development preview: shared scene editor for Intoner and Stagehand, with dual-save, conversion reports and base-color asset previews. Open with /sceneweaver. In-game validation is pending.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kaerlath/Sceneweaver",
-                "LastUpdate": 1790211200
+                "LastUpdate": 1790816058
             }
         ]
     },
@@ -13751,12 +13798,12 @@
                 "Author": "Karlin",
                 "Name": "KodakkuAssist",
                 "InternalName": "KodakkuAssist",
-                "AssemblyVersion": "0.5.3.1",
+                "AssemblyVersion": "0.6.0.0",
                 "Description": "Chinese Splatoon equivalent with in-game vfx. Requires Discord verification.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Karlin-Z/DalamudPlugins/main/plugins/KodakkuAssist/icon.png",
                 "RepoUrl": "https://github.com/Karlin-Z/DalamudPlugins/tree/main/plugins/KodakkuAssist",
-                "LastUpdate": 1789477389,
+                "LastUpdate": 1790820294,
                 "is_closed_source": true
             },
             {
@@ -14501,11 +14548,11 @@
                 "Author": "aki",
                 "Name": "Enemy Dots Melee Ring",
                 "InternalName": "EnemyDotsMeleeRing",
-                "AssemblyVersion": "1.0.3.0",
+                "AssemblyVersion": "1.0.4.0",
                 "Description": "Draws a ring at your feet and a circle around each enemy's hitbox, green when your circle or cone AoE would hit that enemy and red when it would not. Drawn under other plugin windows.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/KittyXIV/mreow",
-                "LastUpdate": 1790722669
+                "LastUpdate": 1790817239
             },
             {
                 "Author": "aki",
@@ -14886,12 +14933,12 @@
                 "Author": "erdelf, Herculezz",
                 "Name": "AutoDuty",
                 "InternalName": "AutoDuty",
-                "AssemblyVersion": "0.372.0.1",
+                "AssemblyVersion": "0.373.0.1",
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1790714320,
+                "LastUpdate": 1790810908,
                 "is_ai_attributed": false
             },
             {
@@ -14914,7 +14961,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1790729023
+                "LastUpdate": 1790783316
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -15249,6 +15296,26 @@
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/Kyuraa/invi",
                 "LastUpdate": 1758639790
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Kyuros1",
+        "repo_url": "https://raw.githubusercontent.com/Kyuros1/BeastKeeper/main/repo.json",
+        "repo_source_url": "https://github.com/Kyuros1/BeastKeeper",
+        "repo_name": "BeastKeeper",
+        "plugins": [
+            {
+                "Author": "Kyuros1",
+                "Name": "Beast Keeper",
+                "InternalName": "BeastKeeper",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "picks the first 3 beasts / remembers your beast selection and sets it by default, as it should have been",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Kyuros1/BeastKeeper/main/images/icon.png",
+                "RepoUrl": "https://github.com/Kyuros1/BeastKeeper",
+                "LastUpdate": 1790810537,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -17372,12 +17439,12 @@
                 "Author": "MarshalTitan",
                 "Name": "PvP Sentinel",
                 "InternalName": "PvPSentinel",
-                "AssemblyVersion": "0.3.1.7",
+                "AssemblyVersion": "0.3.1.8",
                 "Description": "Testing-exclusive Frontline development plugin with fail-closed player classification, friendly-force clustering, stable target and group commitment, vnavmesh navigation integration, an opt-in MCH combat controller, and detailed diagnostics.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MarshalTitan/PvPSentinel/main/assets/icon_clean.png",
                 "RepoUrl": "https://github.com/MarshalTitan/PvPSentinel",
-                "LastUpdate": 1790751697
+                "LastUpdate": 1790818711
             },
             {
                 "Author": "MTitan",
@@ -17874,12 +17941,12 @@
                 "Author": "DhogGPT",
                 "Name": "dad",
                 "InternalName": "dad",
-                "AssemblyVersion": "0.7.1.1",
+                "AssemblyVersion": "0.7.1.2",
                 "Description": "Private Dad duty operations shell with multiplayer status, preset planning, queue routing, and Duty Support automation.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dad/main/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/dad",
-                "LastUpdate": 1790479035,
+                "LastUpdate": 1790804352,
                 "is_ai_attributed": true
             }
         ]
@@ -18012,12 +18079,12 @@
                 "Author": "DhogGPT",
                 "Name": "Fren Rider",
                 "InternalName": "FrenRider",
-                "AssemblyVersion": "1.3.1.10",
+                "AssemblyVersion": "1.3.1.11",
                 "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1790479034,
+                "LastUpdate": 1790804309,
                 "is_ai_attributed": true
             }
         ]
@@ -18512,12 +18579,12 @@
                 "Author": "DhogGPT",
                 "Name": "VerMAXion",
                 "InternalName": "VERMAXION",
-                "AssemblyVersion": "0.7.0.0",
+                "AssemblyVersion": "0.8.0.0",
                 "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1790779112,
+                "LastUpdate": 1790821878,
                 "is_ai_attributed": true
             }
         ]
@@ -19259,12 +19326,12 @@
                 "Author": "monkdim",
                 "Name": "One Two Punch",
                 "InternalName": "OneTwoPunch",
-                "AssemblyVersion": "1.0.77.0",
+                "AssemblyVersion": "1.0.80.0",
                 "Description": "Collapses each supported DPS job into a single-target button and an AoE button. The button shows the action that is correct right now given your cooldowns, gauge, buffs, target count and whether you are moving. It never presses anything for you: one keypress is always exactly one action.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/monkdim/beepboop/main/assets/icon.png",
                 "RepoUrl": "https://github.com/monkdim/beepboop",
-                "LastUpdate": 1790732613,
+                "LastUpdate": 1790818034,
                 "is_ai_attributed": true
             }
         ]
@@ -21561,12 +21628,12 @@
                 "Author": "Exora",
                 "Name": "ExCombo",
                 "InternalName": "ExCombo",
-                "AssemblyVersion": "1.23.4.0",
+                "AssemblyVersion": "1.23.5.0",
                 "Description": "Design your job rotation as a visual node graph. Flows replace hotbar actions in-game as you build them. Use /excombo to open the editor.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/nixglacie/ExCombo-dist/main/icon.png",
                 "RepoUrl": "https://github.com/nixglacie/ExCombo-dist",
-                "LastUpdate": 1784112617
+                "LastUpdate": 1790808973
             }
         ]
     },
@@ -22361,12 +22428,12 @@
                 "Author": "ofnature",
                 "Name": "Odysseus",
                 "InternalName": "Odysseus",
-                "AssemblyVersion": "0.2.11.0",
+                "AssemblyVersion": "0.2.12.0",
                 "Description": "Automated Main Scenario questing. Walks each quest from accept to complete, travels between zones, resolves dialogue, and hands solo instances to BossMod Reborn and dungeons to Theseus. Progress is read back from the game's own quest state, so a crash, logout or reload resumes exactly where it stopped. Every character quests independently; a fleet dashboard shows where each one is. Companion to Daedalus and Theseus.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ofnature/Odysseus/main/images/icon.png",
                 "RepoUrl": "https://github.com/ofnature/Odysseus",
-                "LastUpdate": 1790562704,
+                "LastUpdate": 1790819849,
                 "is_ai_attributed": true
             }
         ]
@@ -24766,12 +24833,12 @@
                 "Author": "erdelf, Herculezz",
                 "Name": "AutoDuty",
                 "InternalName": "AutoDuty",
-                "AssemblyVersion": "0.0.0.372",
+                "AssemblyVersion": "0.0.0.373",
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1790799759,
+                "LastUpdate": 1790810908,
                 "is_ai_attributed": false
             },
             {
@@ -26041,12 +26108,12 @@
                 "Author": "richhiiee",
                 "Name": "AetherFrame",
                 "InternalName": "AetherFrame",
-                "AssemblyVersion": "0.1.6.0",
+                "AssemblyVersion": "0.1.7.0",
                 "Description": "Design character Plates: start from an Adventure Plate-style layout in the Basic Editor, or build freeform layouts with text, images and decorative Components in the Advanced Editor. The plugin icon is AI-generated, and the bundled Celestial Dream and Celestial Sakura Components use AI-assisted artwork.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/QuietFoxLabs/AetherFrame/8b716efece4a3077ed3345dfcf491ddcfcab52db/AetherFrame/images/icon.png",
                 "RepoUrl": "https://github.com/QuietFoxLabs/AetherFrame",
-                "LastUpdate": 1790539242,
+                "LastUpdate": 1790812916,
                 "is_ai_attributed": true
             }
         ]
@@ -26656,11 +26723,11 @@
                 "Author": "Rayla Petal",
                 "Name": "PoseKit",
                 "InternalName": "PoseKit",
-                "AssemblyVersion": "2.2.0.4",
+                "AssemblyVersion": "2.2.0.5",
                 "Description": "Animation Assistance Plugin, offset your character's pose, save named presets and replay them, auto-discover Penumbra pose mods, and manually resync emote timing with a partner.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/RaylaPetal/PoseKit",
-                "LastUpdate": 1790796871,
+                "LastUpdate": 1790805639,
                 "is_ai_attributed": true
             },
             {
@@ -27338,12 +27405,12 @@
                 "Author": "richhiiee",
                 "Name": "AetherFrame",
                 "InternalName": "AetherFrame",
-                "AssemblyVersion": "0.1.6.0",
+                "AssemblyVersion": "0.1.7.0",
                 "Description": "Design character Plates: start from an Adventure Plate-style layout in the Basic Editor, or build freeform layouts with text, images and decorative Components in the Advanced Editor. The plugin icon is AI-generated, and the bundled Celestial Dream and Celestial Sakura Components use AI-assisted artwork.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/QuietFoxLabs/AetherFrame/8b716efece4a3077ed3345dfcf491ddcfcab52db/AetherFrame/images/icon.png",
                 "RepoUrl": "https://github.com/richhiiee/AetherFrame",
-                "LastUpdate": 1790539242,
+                "LastUpdate": 1790812916,
                 "is_ai_attributed": true
             }
         ]
@@ -30500,7 +30567,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://dl.solona.info/icon.png",
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1790772662,
+                "LastUpdate": 1790815432,
                 "is_ai_attributed": true
             }
         ]
@@ -33130,6 +33197,16 @@
         "plugins": [
             {
                 "Author": "Vali",
+                "Name": "Culprit",
+                "InternalName": "Culprit",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "Watches every other plugin's draw and update time and error output. When one of them stalls a frame, eats frame time steadily, or throws repeatedly, Culprit names it in a notification so you know which plugin to look at.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Valiice/Culprit",
+                "LastUpdate": 1790812875
+            },
+            {
+                "Author": "Vali",
                 "Name": "Discord Chat Webhook",
                 "InternalName": "DiscordChatWebhook",
                 "AssemblyVersion": "1.2.0.0",
@@ -33705,7 +33782,7 @@
                 "Author": "Voudi",
                 "Name": "AlphaChannel",
                 "InternalName": "AlphaChannel.Plugin",
-                "AssemblyVersion": "2.1.7.2",
+                "AssemblyVersion": "2.1.7.3",
                 "Description": "Renders an in-world video screen and syncs playback with other players running AlphaChannel over a self-hosted relay.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Kodie0/AlphaChannelKodie",
@@ -33904,6 +33981,24 @@
     },
     {
         "repo_developer_name": "wenwen-ff14",
+        "repo_url": "https://raw.githubusercontent.com/wenwen-ff14/Occult_Crescent_guide_TC/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/wenwen-ff14/Occult_Crescent_guide_TC",
+        "repo_name": "Occult_Crescent_guide_TC",
+        "plugins": [
+            {
+                "Author": "CrescentCompass contributors",
+                "Name": "CrescentCompass｜新月島尋寶羅盤",
+                "InternalName": "CrescentCompass",
+                "AssemblyVersion": "0.6.0.0",
+                "Description": "南部野外 68 個寶箱依使用者提供的圖表固定編號排序，可任選起點、暫停／繼續／終止，依角色儲存上次開箱編號。地圖支援 Ctrl＋滾輪縮放與拖曳平移。圖表順序不被地形導航重排；可另選地形最短順序模式，12 站內求此路程模型下的最短順序，更多點近似最佳化。同島同分流傳送保留路線與手動暫停。含島上 12 處未探索筆記篩選、魔法罐自動提示旗標、北罐／南罐座標、FATE 通知與預估倒數、其他玩家模型隱藏開關。固定候選點不代表個人可開權限；開箱紀錄依本機讀條與物件狀態判定或手動確認。指令 /crescent。",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/wenwen-ff14/Occult_Crescent_guide_TC",
+                "LastUpdate": 1790804933
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "wenwen-ff14",
         "repo_url": "https://raw.githubusercontent.com/wenwen-ff14/test/main/pluginmaster.json",
         "repo_source_url": "https://github.com/wenwen-ff14/test",
         "repo_name": "test",
@@ -34020,12 +34115,12 @@
                 "Author": "Will Corrigan",
                 "Name": "Wayfarer",
                 "InternalName": "Wayfarer",
-                "AssemblyVersion": "1.10.3.0",
+                "AssemblyVersion": "1.10.4.0",
                 "Description": "Guides you to your quest objective with an on-screen arrow that understands teleports, building entrances and city aethernet routing. Tracks every quest-unlockable feature, mount and dungeon you can pick up right now, and routes you to the quest givers.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/will-corrigan/Wayfarer/main/images/icon.png",
                 "RepoUrl": "https://github.com/will-corrigan/Wayfarer",
-                "LastUpdate": 1790795469
+                "LastUpdate": 1790815899
             }
         ]
     },
@@ -34740,12 +34835,12 @@
                 "Author": "Michiru Tsukikage",
                 "Name": "Tsukimichi",
                 "InternalName": "Tsukimichi",
-                "AssemblyVersion": "1.3.0.0",
+                "AssemblyVersion": "1.4.0.0",
                 "Description": "A quest catalog for every journal type, with completed and available filters and a per-requirement breakdown of what still blocks a quest.\nMoonlit treasures collects quests with unique rewards, and per-character snapshots keep the whole account in view.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xenofei/Tsukimichi/main/assets/icon.png",
                 "RepoUrl": "https://github.com/xenofei/Tsukimichi",
-                "LastUpdate": 1790798213,
+                "LastUpdate": 1790802101,
                 "is_ai_attributed": true
             }
         ]
