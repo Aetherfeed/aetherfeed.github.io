@@ -2413,12 +2413,12 @@
                 "Author": "Anmi",
                 "Name": "肝武助手",
                 "InternalName": "Phantom",
-                "AssemblyVersion": "0.1.46.0",
+                "AssemblyVersion": "0.1.47.0",
                 "Description": "统一追踪幻武、深层迷宫武器、旧肝武、特殊工具、绝武与妖表收藏。支持全系列按角色持有同步、秘影与 FATE 导航、妖表奖励扫描和雇员库存缓存读取。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/anmili2022/Phantom/main/images/icon.png",
                 "RepoUrl": "https://github.com/anmili2022/Phantom",
-                "LastUpdate": 1790673525
+                "LastUpdate": 1791118952
             }
         ]
     },
@@ -7488,12 +7488,12 @@
                 "Author": "David Sarhid",
                 "Name": "GoblinTweaks",
                 "InternalName": "GoblinTweaks",
-                "AssemblyVersion": "1.0.1.0",
+                "AssemblyVersion": "1.0.4.0",
                 "Description": "A growing collection of small quality of life tweaks.\nOpen /goblintweaks to turn them on and configure them.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/dsarhid/GoblinTweaks/main/GoblinTweaks/Assets/Icon.png",
                 "RepoUrl": "https://github.com/dsarhid/GoblinTweaks",
-                "LastUpdate": 1790984348,
+                "LastUpdate": 1791133861,
                 "is_ai_attributed": true
             }
         ]
@@ -8853,7 +8853,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1791024871
+                "LastUpdate": 1791113807
             }
         ]
     },
@@ -9031,7 +9031,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/exatrines/EnhancedQuickPanel/master/EnhancedQuickPanel/Data/plugin-icon.png",
                 "RepoUrl": "https://github.com/exatrines/EnhancedQuickPanel",
-                "LastUpdate": 1790701288
+                "LastUpdate": 1791134562
             },
             {
                 "Author": "mirage",
@@ -9348,12 +9348,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "BossMod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.6.29",
+                "AssemblyVersion": "7.5.6.30",
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1791088854
+                "LastUpdate": 1791131081
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -11883,12 +11883,12 @@
                 "Author": "The Combat Reborn Team (fork by IndividualGather)",
                 "Name": "BossModRebornButBetter",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.6.2901",
+                "AssemblyVersion": "7.5.6.3001",
                 "Description": "An unofficial fork of BossMod Reborn by The Combat Reborn Team: https://github.com/FFXIV-CombatReborn/BossmodReborn\nAll credit for the plugin goes to the original authors.\n\nWhy this fork exists: the official plugin only runs the boss modules built into it. This fork adds a single feature: it also loads boss module DLLs from the CustomModules folder in the plugin's config directory, which can add modules or replace built-in ones. That way custom versions of encounters can be maintained separately instead of in a full fork of the plugin.\n\nEverything else is unchanged. It is rebuilt automatically from every official release.\n\nNot affiliated with or supported by The Combat Reborn Team. Please don't report issues with this fork to them.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/IndividualGather/BossModRebornButBetter",
-                "LastUpdate": 1791109933
+                "LastUpdate": 1791133519
             }
         ]
     },
@@ -13695,11 +13695,11 @@
                 "Author": "XeldarAlz; CN adaptation contributors",
                 "Name": "MahjongSolver · 多玛方城战求解器（国服优化版）",
                 "InternalName": "Mahjong.Plugin.CN",
-                "AssemblyVersion": "5.2.1.0",
+                "AssemblyVersion": "5.2.1.1",
                 "Description": "MahjongSolver，多玛方城战求解器（国服优化版）。使用 /mjcn 打开完整主界面，标准功能无需测试验证。提供手动提醒、自动打牌、任务暂停与继续、整场场数/时长/截止停止规则、自动排队和进桌开打，以及本人资料页评分、本地记录、诊断与恢复核对。评分目标因整场刷新证据尚缺而暂未开放。自动操作默认关闭，保留版本、读牌与动作检查。另提供测试版功能，验证后可用，仍需主动选择和启动。只使用正常可见信息，不补造缺失历史，不保证获胜或上分。基于 XeldarAlz/FFXIV-AutoMahjongSolver，遵循 AGPL-3.0-or-later；第三方组件的许可与来源见 NOTICE。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Kamishiroex/MahjongSolver-CN",
-                "LastUpdate": 1790595928
+                "LastUpdate": 1791114933
             }
         ]
     },
@@ -14731,121 +14731,131 @@
                 "Author": "aki",
                 "Name": "Chat 3.0",
                 "InternalName": "Chat3",
-                "AssemblyVersion": "1.6.0.0",
+                "AssemblyVersion": "1.10.1.0",
                 "Description": "Replaces the chat log with a themeable window: tabs, filters, whisper tabs. Works like WoW chat with Prat. KittyUI and Naowh looks included.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/KittyXIV/mreow",
-                "LastUpdate": 1790968300
+                "LastUpdate": 1791134519
             },
             {
                 "Author": "aki",
                 "Name": "Enemy Dots Melee Ring",
                 "InternalName": "EnemyDotsMeleeRing",
-                "AssemblyVersion": "1.1.0.0",
+                "AssemblyVersion": "1.2.2.0",
                 "Description": "Draws a ring at your feet and a circle around each enemy's hitbox, green when your circle or cone AoE would hit that enemy and red when it would not. Drawn under other plugin windows.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/KittyXIV/mreow",
-                "LastUpdate": 1790968219
+                "LastUpdate": 1791131090
             },
             {
                 "Author": "aki",
                 "Name": "Focus Signs",
                 "InternalName": "FocusSigns",
-                "AssemblyVersion": "1.1.0.0",
+                "AssemblyVersion": "1.2.2.0",
                 "Description": "Shift+right-click a nameplate, unit frame or model to make it your focus target and put a sign on it, or set up your own mouse and key bindings for any sign, the next free attack sign or sign removal, with or without changing focus. Nameplate signs are shrunk and placed next to the name, in the style of Plater/NaowhUI raid icons, and follow Plate Stack's stacking.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/KittyXIV/mreow",
-                "LastUpdate": 1790968231
+                "LastUpdate": 1791131090
             },
             {
                 "Author": "aki",
                 "Name": "Hover Hotbars",
                 "InternalName": "HoverHotbars",
-                "AssemblyVersion": "1.1.0.0",
+                "AssemblyVersion": "1.2.2.0",
                 "Description": "Chosen hotbars (default 4, 7 and 10) and the Main Menu bar are shown only while the mouse is over them. Keybinds keep working while they are hidden.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/KittyXIV/mreow",
-                "LastUpdate": 1790968240
+                "LastUpdate": 1791131090
             },
             {
                 "Author": "aki",
                 "Name": "Keep Mouse On Screen",
                 "InternalName": "KeepMouseOnScreen",
-                "AssemblyVersion": "1.1.0.0",
+                "AssemblyVersion": "1.2.2.0",
                 "Description": "While a mouse button turns the camera the game hides the cursor. This draws a copy of your current cursor, custom cursors included, at the spot you pressed until you let go. On Windows the cursor also comes back to exactly that spot.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/KittyXIV/mreow",
-                "LastUpdate": 1790968248
+                "LastUpdate": 1791131090
             },
             {
                 "Author": "aki",
                 "Name": "Kick Tracker",
                 "InternalName": "KickTracker",
-                "AssemblyVersion": "1.1.0.0",
+                "AssemblyVersion": "1.2.2.0",
                 "Description": "One row per party member and interrupt or off-GCD stun, with the icon, name, a thin cooldown bar and the time left. Look based on NaowhUI and EXBoss interrupt bars; job colours from DelvUI.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/KittyXIV/mreow",
-                "LastUpdate": 1790968255
+                "LastUpdate": 1791131090
             },
             {
                 "Author": "aki",
                 "Name": "KittyUI Companion",
                 "InternalName": "KittyUICompanion",
-                "AssemblyVersion": "1.3.1.0",
+                "AssemblyVersion": "1.6.3.0",
                 "Description": "The in-game half of KittyUI. Move and resize the plugins' elements and the game's own HUD over the real HUD, edit every plugin's settings in one place, recolour them with one palette, install UI themes, switch and save kitty collections, write macros, browse and update plugins by reading their repositories directly, and keep backups. Changes reach the plugins without a restart; the desktop app shares the same data. Does nothing on its own: KittyUI asks, the companion does, never in combat.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kittyxiv/mreow",
-                "LastUpdate": 1790968322
+                "LastUpdate": 1791131315
             },
             {
                 "Author": "aki",
                 "Name": "Plate Stack",
                 "InternalName": "PlateStack",
-                "AssemblyVersion": "1.1.0.0",
+                "AssemblyVersion": "1.2.2.0",
                 "Description": "Pushes overlapping enemy nameplates up, nearest first, with a smooth glide; defaults come from the NaowhUI Plater profile. Made for DelvUI nameplates, which follow every frame; the game's own plates stack only while they stand still.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/KittyXIV/mreow",
-                "LastUpdate": 1790968262
+                "LastUpdate": 1791131090
             },
             {
                 "Author": "aki",
                 "Name": "Repair Helper",
                 "InternalName": "RepairHelper",
-                "AssemblyVersion": "1.1.0.0",
+                "AssemblyVersion": "1.2.2.0",
                 "Description": "Lists gear at or below a condition threshold with the dark matter grade each self-repair needs, and repairs one item or a whole selection with your own dark matter after a confirm naming the dark matter used and left. Shows dark matter held per grade and notifications for low gear, missing dark matter, gear you can't self-repair and failed repairs; can repair automatically (off by default).",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/KittyXIV/mreow",
-                "LastUpdate": 1790968270
+                "LastUpdate": 1791131090
             },
             {
                 "Author": "aki",
                 "Name": "Scenario Guide Skin",
                 "InternalName": "ScenarioGuideSkin",
-                "AssemblyVersion": "1.1.0.0",
+                "AssemblyVersion": "1.2.2.0",
                 "Description": "Restyles the Main Scenario Guide into plain quest-marker and title rows in the Duty List's quest-title style, hides rows the Duty List already shows, and keeps the Duty List directly under the guide.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/KittyXIV/mreow",
-                "LastUpdate": 1790968277
+                "LastUpdate": 1791131090
             },
             {
                 "Author": "aki",
                 "Name": "Screen Note",
                 "InternalName": "ScreenNote",
-                "AssemblyVersion": "1.1.0.0",
+                "AssemblyVersion": "1.2.2.0",
                 "Description": "Shows a short note at the top left of the screen. Click it to edit, Ctrl+Enter or click away to save, Esc to cancel; the lock in its corner makes it click-through. Uses NaowhUI's Naowh font when you provide the file.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/KittyXIV/mreow",
-                "LastUpdate": 1790968284
+                "LastUpdate": 1791131090
+            },
+            {
+                "Author": "aki",
+                "Name": "Stats Damage Meter",
+                "InternalName": "StatsDamageMeter",
+                "AssemblyVersion": "0.2.22.0",
+                "Description": "Bars, breakdowns, deaths, interrupts, a timeline and a replay from IINACT's log lines. Naowh look after NaowhUI.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/KittyXIV/mreow",
+                "LastUpdate": 1791134511
             },
             {
                 "Author": "aki",
                 "Name": "Target Plate Arrows",
                 "InternalName": "TargetPlateArrows",
-                "AssemblyVersion": "1.1.0.0",
+                "AssemblyVersion": "1.2.2.0",
                 "Description": "Draws a pair of arrows beside your hard target's DelvUI enemy nameplate bar, styled after the NaowhUI target arrows. The arrows hide with the bar as long as the plate settings match your DelvUI profile. Requires DelvUI.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/KittyXIV/mreow",
-                "LastUpdate": 1790968291
+                "LastUpdate": 1791131090
             }
         ]
     },
@@ -15981,11 +15991,11 @@
                 "Author": "Le Vagabond",
                 "Name": "YABOT",
                 "InternalName": "yabot",
-                "AssemblyVersion": "42.11.1.0",
+                "AssemblyVersion": "42.11.2.0",
                 "Description": "YABOT - Yet Another Bundle of Tweaks. A collection of small quality-of-life tweaks.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Le-Vagabond-gh/FFXIV_YABOT",
-                "LastUpdate": 1791106264
+                "LastUpdate": 1791120578
             }
         ]
     },
@@ -17629,12 +17639,12 @@
                 "Author": "MTitan",
                 "Name": "Classy Sentinel",
                 "InternalName": "ClassySentinel",
-                "AssemblyVersion": "0.8.2.0",
+                "AssemblyVersion": "0.8.4.0",
                 "Description": "Turns existing FFXIV gear sets into movable, lockable role bars with native job icons, saved defaults, alternate-set menus, dynamic role grouping, and safe handling for newly added jobs.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MarshalTitan/ClassySentinel/main/assets/icon.png",
                 "RepoUrl": "https://github.com/MarshalTitan/ClassySentinel",
-                "LastUpdate": 1791091402,
+                "LastUpdate": 1791128756,
                 "is_ai_attributed": true
             }
         ]
@@ -17649,12 +17659,12 @@
                 "Author": "MTitan",
                 "Name": "Classy Sentinel",
                 "InternalName": "ClassySentinel",
-                "AssemblyVersion": "0.8.2.0",
+                "AssemblyVersion": "0.8.4.0",
                 "Description": "Turns existing FFXIV gear sets into movable, lockable role bars with native job icons, saved defaults, alternate-set menus, dynamic role grouping, and safe handling for newly added jobs.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MarshalTitan/ClassySentinel/main/assets/icon.png",
                 "RepoUrl": "https://github.com/MarshalTitan/ClassySentinel",
-                "LastUpdate": 1791091403,
+                "LastUpdate": 1791128757,
                 "is_ai_attributed": true
             },
             {
@@ -17672,12 +17682,12 @@
                 "Author": "MTitan",
                 "Name": "Sentinel HUD",
                 "InternalName": "SentinelHUD",
-                "AssemblyVersion": "0.8.3.0",
+                "AssemblyVersion": "0.8.3.2",
                 "Description": "Adds independently configurable player, target, focus-target and target-of-target panels plus a safe, colour-selectable self highlight without replacing the native HUD.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MarshalTitan/SentinelHUD/main/assets/icon.png",
                 "RepoUrl": "https://github.com/MarshalTitan/SentinelHUD",
-                "LastUpdate": 1791085429
+                "LastUpdate": 1791128980
             },
             {
                 "Author": "MTitan",
@@ -17688,7 +17698,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MarshalTitan/SRankSentinel/main/assets/icon.png",
                 "RepoUrl": "https://github.com/MarshalTitan/SRankSentinel",
-                "LastUpdate": 1791098262
+                "LastUpdate": 1791127285
             },
             {
                 "Author": "MTitan",
@@ -17706,23 +17716,23 @@
                 "Author": "MTitan",
                 "Name": "Sentinel Relay",
                 "InternalName": "SentinelRelay",
-                "AssemblyVersion": "0.5.0.1",
+                "AssemblyVersion": "0.5.0.2",
                 "Description": "Sends explicitly selected FFXIV chats directly to a per-character Discord webhook, with optional locally polled, authorized /fc replies. Filters and replies default off.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MarshalTitan/SentinelRelay/main/assets/icon.png",
                 "RepoUrl": "https://github.com/MarshalTitan/SentinelRelay",
-                "LastUpdate": 1791091417
+                "LastUpdate": 1791126469
             },
             {
                 "Author": "MTitan",
                 "Name": "S Rank Sentinel",
                 "InternalName": "SRankSentinel",
-                "AssemblyVersion": "0.7.48.0",
+                "AssemblyVersion": "0.7.49.0",
                 "Description": "Consumes Faloop with optional HuntAlerts/Sonar fallbacks, maps POIs directly to local vnavmesh destinations without a game map flag, retries missing entities/routes without false-clearing, requires positive kill evidence, queues later hunts, and performs one gated ranged tag.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MarshalTitan/SRankSentinel/main/assets/icon.png",
                 "RepoUrl": "https://github.com/MarshalTitan/SRankSentinel",
-                "LastUpdate": 1791098262
+                "LastUpdate": 1791127285
             }
         ]
     },
@@ -17775,12 +17785,12 @@
                 "Author": "MTitan",
                 "Name": "Sentinel Relay",
                 "InternalName": "SentinelRelay",
-                "AssemblyVersion": "0.5.0.1",
+                "AssemblyVersion": "0.5.0.2",
                 "Description": "Sends explicitly selected FFXIV chat channels directly to a per-character Discord webhook. All filters default off; no bot, paid hosting, or Discord-to-FFXIV control is required.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MarshalTitan/SentinelRelay/main/assets/icon.png",
                 "RepoUrl": "https://github.com/MarshalTitan/SentinelRelay",
-                "LastUpdate": 1790260272
+                "LastUpdate": 1791126120
             }
         ]
     },
@@ -17805,12 +17815,12 @@
                 "Author": "MTitan",
                 "Name": "S Rank Sentinel",
                 "InternalName": "SRankSentinel",
-                "AssemblyVersion": "0.7.48.0",
+                "AssemblyVersion": "0.7.49.0",
                 "Description": "Prototype HuntAlerts companion. v0.1 uses vnavmesh to approach and park safely away from an S rank and never attacks.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MarshalTitan/SRankSentinel/main/assets/icon.png",
                 "RepoUrl": "https://github.com/MarshalTitan/SRankSentinel",
-                "LastUpdate": 1791098260
+                "LastUpdate": 1791127283
             }
         ]
     },
@@ -18722,7 +18732,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/WigglyCorp/DalamudPlugins/main/icons/Questionable.png",
                 "RepoUrl": "https://github.com/WigglyMuffin/Questionable",
-                "LastUpdate": 1790448825
+                "LastUpdate": 1791058729
             },
             {
                 "Author": "XA",
@@ -20239,11 +20249,11 @@
                 "Author": "NahayaSakafuku",
                 "Name": "StatusTextEditor",
                 "InternalName": "StatusTextEditor",
-                "AssemblyVersion": "1.0.1.0",
+                "AssemblyVersion": "1.0.2.1",
                 "Description": "热修改游戏原生状态（buff/debuff）的名称与描述文本，支持格式化标签，仅本机显示。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NahayaSakafuku/StatusTextEditor",
-                "LastUpdate": 1791113582
+                "LastUpdate": 1791123311
             }
         ]
     },
@@ -21811,12 +21821,12 @@
                 "Author": "Ninethirty77",
                 "Name": "The Studium",
                 "InternalName": "FCMetrics",
-                "AssemblyVersion": "0.1.234.0",
+                "AssemblyVersion": "0.1.235.0",
                 "Description": "Records observed Company Credits totals and shows weekly GC Seals tier progression, FC progress rings, and an optional overlay. Use /fcmetrics to open the window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Ninethirty77/the-greenzone-repo/main/icon.png",
                 "RepoUrl": "https://github.com/Ninethirty77/the-greenzone-repo",
-                "LastUpdate": 1789507963,
+                "LastUpdate": 1791133866,
                 "is_closed_source": true,
                 "is_ai_attributed": true
             }
@@ -22295,11 +22305,11 @@
                 "Author": "Nonu",
                 "Name": "Nonuglon",
                 "InternalName": "Nonuglon",
-                "AssemblyVersion": "0.0.6.0",
+                "AssemblyVersion": "0.0.7.0",
                 "Description": "Little grab-bag of personal tweaks.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nonunon/Nonuglon",
-                "LastUpdate": 1790659018
+                "LastUpdate": 1791116403
             }
         ]
     },
@@ -23336,7 +23346,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1791024871
+                "LastUpdate": 1791113807
             },
             {
                 "Author": "Risa and Contributors",
@@ -24951,12 +24961,12 @@
                 "Author": "the Puni.sh Quest Squad",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.756.3.30",
+                "AssemblyVersion": "15.756.3.31",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1791105420
+                "LastUpdate": 1791134704
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -25056,12 +25066,12 @@
                 "Author": "erdelf, Herculezz",
                 "Name": "AutoDuty",
                 "InternalName": "AutoDuty",
-                "AssemblyVersion": "0.0.0.377",
+                "AssemblyVersion": "0.0.0.378",
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1791080487,
+                "LastUpdate": 1791135231,
                 "is_ai_attributed": false
             },
             {
@@ -25297,11 +25307,11 @@
                 "Author": "Knightmore",
                 "Name": "Knightshopper",
                 "InternalName": "Knightshopper",
-                "AssemblyVersion": "1.0.1.4",
+                "AssemblyVersion": "1.0.1.6",
                 "Description": "Your personal shopper who will take care of all your currency spendings!\n\nKnightshopper: because even knights deserve a squire for their shopping.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/173",
-                "LastUpdate": 1791072011
+                "LastUpdate": 1791136362
             }
         ]
     },
@@ -26939,11 +26949,11 @@
                 "Author": "Rayla Petal",
                 "Name": "Oathbound",
                 "InternalName": "Oathbound.Plugin",
-                "AssemblyVersion": "0.2.0.9",
+                "AssemblyVersion": "0.2.1.0",
                 "Description": "A consent-based collar control plugin. Gameplay commands use ordinary in-game tells; relay-assisted pairing and encrypted catalog synchronization use the Oathbound Cloudflare service, while gameplay actions remain local to the Sub's client.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/RaylaPetal/Oathbound",
-                "LastUpdate": 1791081603,
+                "LastUpdate": 1791132949,
                 "is_ai_attributed": true
             }
         ]
@@ -26958,11 +26968,11 @@
                 "Author": "Rayla Petal",
                 "Name": "Oathbound",
                 "InternalName": "Oathbound.Plugin",
-                "AssemblyVersion": "0.2.0.9",
+                "AssemblyVersion": "0.2.1.0",
                 "Description": "A consent-based collar control plugin. Gameplay commands use ordinary in-game tells; relay-assisted pairing and encrypted catalog synchronization use the Oathbound Cloudflare service, while gameplay actions remain local to the Sub's client.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/raylapetal/xiv-collar",
-                "LastUpdate": 1791081604,
+                "LastUpdate": 1791132951,
                 "is_ai_attributed": true
             },
             {
@@ -27018,11 +27028,11 @@
                 "Author": "Rayla Petal",
                 "Name": "Oathbound",
                 "InternalName": "Oathbound.Plugin",
-                "AssemblyVersion": "0.2.0.9",
+                "AssemblyVersion": "0.2.1.0",
                 "Description": "A consent-based collar control plugin. An Owner sends outfit, title, gesture, and follow/leash commands as ordinary in-game tells - no server, no hosting; the Sub's own client watches for them and applies them locally via Glamourer, Honorific, and Penumbra, and existing sync tooling propagates the result to everyone paired with the Sub.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/raylapetal/xiv-collar",
-                "LastUpdate": 1791081603,
+                "LastUpdate": 1791132949,
                 "is_ai_attributed": true
             }
         ]
@@ -28198,12 +28208,12 @@
                 "Author": "Roxyz0501",
                 "Name": "BGMPlayer",
                 "InternalName": "AetherRadio",
-                "AssemblyVersion": "0.1.5.0",
+                "AssemblyVersion": "0.1.7.0",
                 "Description": "拡張・ジャンルのタブとコンテンツ名で曲を探せるBGMプレイヤーです。お気に入り、マイリスト、ランダム再生に対応しています。ミニプレイヤーは上部をドラッグして移動できます。\n\n/bgmplayer で開く\n/bgmplayer stop で通常のBGMに戻す",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/AetherRadio/main/images/icon.png",
                 "RepoUrl": "https://github.com/Roxyz0501/AetherRadio",
-                "LastUpdate": 1791114243
+                "LastUpdate": 1791114741
             },
             {
                 "Author": "Roxyz0501",
@@ -28662,11 +28672,11 @@
                 "Author": "runte3221",
                 "Name": "Character Spawn",
                 "InternalName": "CharacterSpawn",
-                "AssemblyVersion": "0.1.126.0",
+                "AssemblyVersion": "0.1.147.0",
                 "Description": "Spawn and place custom characters, NPCs, and monsters locally on the map with customizable animations, expressions, gizmos, and presets.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/runte3221/Character-Spawn",
-                "LastUpdate": 1791113379
+                "LastUpdate": 1791131006
             }
         ]
     },
@@ -29742,12 +29752,12 @@
                 "Author": "ShaalaXIV",
                 "Name": "Synastry",
                 "InternalName": "EmoteLink",
-                "AssemblyVersion": "1.0.85.0",
+                "AssemblyVersion": "1.0.88.0",
                 "Description": "A Penumbra animation launcher for organizing, pairing, and synchronizing multi-actor animations.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ShaalaXIV/Synastry/main/images/icon.png",
                 "RepoUrl": "https://github.com/ShaalaXIV/Synastry",
-                "LastUpdate": 1791099902,
+                "LastUpdate": 1791135694,
                 "is_ai_attributed": true
             }
         ]
@@ -30225,12 +30235,12 @@
                 "Author": "XSZYYS",
                 "Name": "XSZToolbox",
                 "InternalName": "XSZToolbox",
-                "AssemblyVersion": "1.7.7.0",
+                "AssemblyVersion": "1.7.7.1",
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ShoOtaku/DalamudPlugins/main/plugins/XSZToolbox/icon.png",
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins/tree/main/plugins/XSZToolbox",
-                "LastUpdate": 1789999286,
+                "LastUpdate": 1791130866,
                 "is_closed_source": true
             }
         ]
@@ -32001,12 +32011,12 @@
                 "Author": "T3chnicalD3ath Inc.",
                 "Name": "Bard Performance Helper",
                 "InternalName": "TekzBardHelper",
-                "AssemblyVersion": "0.16.6.0",
+                "AssemblyVersion": "0.16.7.0",
                 "Description": "Play MIDI files on any instrument (playlist, track on/off and transpose, speed, ensemble start), and run a band: the party leader clicks Host and posts an invite, members press Join, and the leader can then play songs for everyone, switch the whole band - or one member - to any instrument, hand out which member plays which track, send a song file to anyone who lacks it, and stand the band in a ready-made shape for 3, 4, 6 or 8 players - or one you draw yourself - and turn them to face the right way.\n\nSecurity: the leader's plugin hosts the connection directly - no outside server. Joining needs the invite's secret code, the host only admits people in its party, and members only obey commands while the host is their current party leader. Moving a member's character is off unless that member turns it on. All traffic is encrypted.\n\nHosting needs members to reach the leader's PC: same network works out of the box; across the internet, forward the shown port. Formations use the vnavmesh plugin.\n\nUse /tbh to open it.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/t3knical/DalamudPlugins/main/plugins/TekzBardHelper/icon.png",
                 "RepoUrl": "https://github.com/t3knical/DalamudPlugins",
-                "LastUpdate": 1791109475
+                "LastUpdate": 1791118449
             }
         ]
     },
@@ -32026,6 +32036,24 @@
                 "IconUrl": "https://raw.githubusercontent.com/taco1932/test/main/assets/icon.png",
                 "RepoUrl": "https://github.com/taco1932/test",
                 "LastUpdate": 1789257167
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Tacodille",
+        "repo_url": "https://raw.githubusercontent.com/Tacodille/xiv-planner-releases/main/repo.json",
+        "repo_source_url": "https://github.com/Tacodille/xiv-planner-releases",
+        "repo_name": "xiv-planner-releases",
+        "plugins": [
+            {
+                "Author": "Taco",
+                "Name": "XIV Planner",
+                "InternalName": "XivPlanner.Plugin",
+                "AssemblyVersion": "0.2.5.0",
+                "Description": "Pick a crafter and a target level and press Go. It plans from your bags, retainers and the game data, then fetches from retainers (Artisan), buys vendor items (GatherBuddy Reborn) and, only if you tick it, market board items within your price caps, crafts each step with Artisan, does the class quests with Questionable, sells what it crafts (AutoRetainer) and re-plans at every checkpoint. A Quests tab plans and runs quest chains. Needs Artisan, vnavmesh, Lifestream and Allagan Tools; the window lists the rest. English client only for market board buying.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Tacodille/xiv-planner-releases",
+                "LastUpdate": 1791123693
             }
         ]
     },
@@ -32768,12 +32796,12 @@
                 "Author": "Tildemancer",
                 "Name": "TildeTools",
                 "InternalName": "TildeTools",
-                "AssemblyVersion": "0.5.3.0",
+                "AssemblyVersion": "0.5.4.0",
                 "Description": "A collection of tools under one window, each with its own tab and master switch. Includes Emote Splitter, which raises the chat box's length limit and sends long messages as paced parts so the server does not drop them, and spellcheck.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Tildemancer/TildeTools/master/TildeTools/images/icon.png",
                 "RepoUrl": "https://github.com/Tildemancer/TildeTools",
-                "LastUpdate": 1791079347
+                "LastUpdate": 1791134336
             }
         ]
     },
@@ -34674,12 +34702,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone Beta",
                 "InternalName": "AetherphoneBeta",
-                "AssemblyVersion": "1.0.4.37",
+                "AssemblyVersion": "1.1.0.39",
                 "Description": "The beta channel for Aetherphone: builds straight off the development branch, installed side by side with the stable plugin so you can test what is coming next without giving up the phone you use every day.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/Aetherphone-Beta",
-                "LastUpdate": 1791113919
+                "LastUpdate": 1791135276
             }
         ]
     },
@@ -34746,7 +34774,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoHuntTrain/master/AutoHuntTrain/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoHuntTrain",
-                "LastUpdate": 1790674046,
+                "LastUpdate": 1791120833,
                 "is_ai_attributed": true
             },
             {
@@ -35039,12 +35067,12 @@
                 "Author": "Michiru Tsukikage",
                 "Name": "Tsukimichi",
                 "InternalName": "Tsukimichi",
-                "AssemblyVersion": "1.18.0.0",
+                "AssemblyVersion": "1.20.0.0",
                 "Description": "A quest catalog for every journal type, with completed and available filters and a per-requirement breakdown of what still blocks a quest.\nMoonlit treasures collects quests with unique rewards, and per-character snapshots keep the whole account in view.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xenofei/Tsukimichi/main/assets/icon-medallion.png",
                 "RepoUrl": "https://github.com/xenofei/Tsukimichi",
-                "LastUpdate": 1791080194,
+                "LastUpdate": 1791128238,
                 "is_ai_attributed": true
             }
         ]
@@ -35369,6 +35397,24 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/xww2652008969/mydapl",
                 "LastUpdate": 1769016479
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "yaaung-ai",
+        "repo_url": "https://raw.githubusercontent.com/yaaung-ai/KRWardrobeCleaner/main/repo.json",
+        "repo_source_url": "https://github.com/yaaung-ai/KRWardrobeCleaner",
+        "repo_name": "KRWardrobeCleaner",
+        "plugins": [
+            {
+                "Author": "yaaung-ai",
+                "Name": "한국판 옷장 정리기",
+                "InternalName": "KRWardrobeCleaner",
+                "AssemblyVersion": "0.4.0.0",
+                "Description": "1단계에서 장비칸의 추억의 보관함 가능 장비를 안전 검사 후 보관하고, 2단계에서 Dungeon Drip 기반 환상의 옷장 후보를 순차 복원합니다. 제작직 전용 장비 포함 여부와 AutoRetainer 연동을 설정할 수 있습니다.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/yaaung-ai/KRWardrobeCleaner",
+                "LastUpdate": 1791136117
             }
         ]
     },
