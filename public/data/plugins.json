@@ -969,12 +969,12 @@
                 "Author": "MacaronDream, DhogGPT, XA",
                 "Name": "Questionable Companion",
                 "InternalName": "QSTCompanion",
-                "AssemblyVersion": "1.1.25.0",
+                "AssemblyVersion": "1.1.26.0",
                 "Description": "Automated character rotation and quest sequence execution for Questionable.\n\nAutomates multi-character MSQ progression by intelligently switching between characters based on quest completion and level requirements. Features include:\n- Automatic character switching and quest tracking\n- MSQ progression monitoring across all characters\n- Allied Society quest rotation and prioritization\n- Event quest automation with prerequisite checking\n- Chauffeur Mode for following main character through quests\n- Data Center travel automation\n- Stop point configuration for controlled progression\n\nRequired Plugins: Questionable, AutoRetainer",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MacaronDream/QSTCompanion/main/icon.png",
                 "RepoUrl": "https://github.com/MacaronDream/QSTCompanion",
-                "LastUpdate": 1790797329
+                "LastUpdate": 1791194758
             },
             {
                 "Author": "DhogGPT",
@@ -2067,12 +2067,12 @@
                 "Author": "pokeda",
                 "Name": "Harmonia",
                 "InternalName": "HarmoniaEngine",
-                "AssemblyVersion": "0.1.9.0",
+                "AssemblyVersion": "0.1.10.0",
                 "Description": "Shows Final Fantasy XIV in another language using community translations. Add a translation from the link or file its author gives you, turn it on, and restart the game. Translations update themselves. Characters the game's own fonts don't have, such as Cyrillic in window titles, need Penumbra.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/AngelicaProject/Harmonia/main/Harmonia/Assets/Icon/harmonia_icon.png",
                 "RepoUrl": "https://github.com/AngelicaProject/Harmonia",
-                "LastUpdate": 1791148290,
+                "LastUpdate": 1791186357,
                 "is_ai_attributed": true
             }
         ]
@@ -2116,33 +2116,44 @@
                 "Author": "aniachan",
                 "Name": "Anumbra",
                 "InternalName": "Anumbra",
-                "AssemblyVersion": "0.0.0.2",
+                "AssemblyVersion": "0.0.0.3",
                 "Description": "Hooks into Penumbra via IPC and renders a scrollable image carousel above the tab bar whenever a mod with an \"images\" subfolder is selected.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/aniachan/anumbra/main/images/icon.png",
                 "RepoUrl": "https://github.com/aniachan/Anumbra",
-                "LastUpdate": 1777665114
+                "LastUpdate": 1791196241
             },
             {
                 "Author": "aniachan",
                 "Name": "Aurum",
                 "InternalName": "Aurum",
-                "AssemblyVersion": "0.0.7",
+                "AssemblyVersion": "0.0.16",
                 "Description": "Smart crafting profit calculator with market demand analysis.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/aniachan/Aurum/main/Data/logo.png",
                 "RepoUrl": "https://github.com/aniachan/Aurum",
-                "LastUpdate": 1777629981
+                "LastUpdate": 1791197688
+            },
+            {
+                "Author": "Risa (patches by aniachan)",
+                "Name": "Customize+ (aniachan ver)",
+                "InternalName": "CustomizePlus",
+                "AssemblyVersion": "2.2.1.100",
+                "Description": "A plugin that allows you to customize your character beyond FFXIV limitations by directly editing bone parameters.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/aniachan/CustomizePlus/main/Data/icon.png",
+                "RepoUrl": "https://github.com/aniachan/CustomizePlus",
+                "LastUpdate": 1791196048
             },
             {
                 "Author": "aniachan",
                 "Name": "xivclone",
                 "InternalName": "xivclone",
-                "AssemblyVersion": "0.0.0.13",
+                "AssemblyVersion": "0.0.0.14",
                 "Description": "You know :p",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/aniachan/xivclone",
-                "LastUpdate": 1777785292
+                "LastUpdate": 1791196054
             }
         ]
     },
@@ -2156,12 +2167,12 @@
                 "Author": "aniachan",
                 "Name": "Anumbra",
                 "InternalName": "Anumbra",
-                "AssemblyVersion": "0.0.0.2",
+                "AssemblyVersion": "0.0.0.3",
                 "Description": "Hooks into Penumbra via IPC and renders a scrollable image carousel above the tab bar whenever a mod with an \"images\" subfolder is selected.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/aniachan/anumbra/main/images/icon.png",
                 "RepoUrl": "https://github.com/aniachan/Anumbra",
-                "LastUpdate": 1777665114
+                "LastUpdate": 1791196241
             }
         ]
     },
@@ -2175,12 +2186,12 @@
                 "Author": "aniachan",
                 "Name": "Aurum",
                 "InternalName": "Aurum",
-                "AssemblyVersion": "0.0.7",
+                "AssemblyVersion": "0.0.16",
                 "Description": "Smart crafting profit calculator with market demand analysis.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/aniachan/Aurum/main/Data/logo.png",
                 "RepoUrl": "https://github.com/aniachan/Aurum",
-                "LastUpdate": 1777629981
+                "LastUpdate": 1791197688
             }
         ]
     },
@@ -2194,11 +2205,11 @@
                 "Author": "aniachan",
                 "Name": "xivclone",
                 "InternalName": "xivclone",
-                "AssemblyVersion": "0.0.0.13",
+                "AssemblyVersion": "0.0.0.14",
                 "Description": "You know :p",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/aniachan/xivclone",
-                "LastUpdate": 1777785292
+                "LastUpdate": 1791196054
             }
         ]
     },
@@ -4382,12 +4393,12 @@
                 "Author": "Boloni",
                 "Name": "Equinox Companion",
                 "InternalName": "EquinoxCompanion",
-                "AssemblyVersion": "0.5.1.48",
+                "AssemblyVersion": "0.5.1.49",
                 "Description": "Records house entries and confirmed tending locally, with optional paired sync to Equinox Journal. English garden menus supported.",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/boloni96/Equinox-Companion/main/dist/v0.5.1.48/icon.png",
+                "IconUrl": "https://raw.githubusercontent.com/boloni96/Equinox-Companion/main/dist/v0.5.1.49/icon.png",
                 "RepoUrl": "https://github.com/boloni96/Equinox-Companion",
-                "LastUpdate": 1791171676
+                "LastUpdate": 1791189399
             }
         ]
     },
@@ -7377,12 +7388,12 @@
                 "Author": "Drakos Team",
                 "Name": "Drakos",
                 "InternalName": "Drakos",
-                "AssemblyVersion": "1.0.3.0",
+                "AssemblyVersion": "1.0.4.0",
                 "Description": "A plugin to automate crafting, gathering, and market board functions. Drakos allows you to construct orders and automate gathering, crafting, and undercutting on the market board.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/drakos-gg/drakos/main/icon.png",
                 "RepoUrl": "https://github.com/drakos-gg/drakos",
-                "LastUpdate": 1790925644
+                "LastUpdate": 1791190078
             }
         ]
     },
@@ -8955,11 +8966,11 @@
                 "Author": "Anomek",
                 "Name": "AnoMech Testing",
                 "InternalName": "AnoMechTesting",
-                "AssemblyVersion": "0.4.2.75",
+                "AssemblyVersion": "0.4.2.76",
                 "Description": "Unstable build of the multiplayer work in progress on Evernow/AnoMech's multiplayer-support branch. Spawns fake party members and bosses client-side so you can practice raid mechanics, with several people sharing one simulation. Installs alongside the normal AnoMech and keeps its own settings.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Evernow/Anomech-testing",
-                "LastUpdate": 1791161762
+                "LastUpdate": 1791181956
             },
             {
                 "Author": "Evernow",
@@ -9026,12 +9037,12 @@
                 "Author": "mirage, min",
                 "Name": "Enhanced Context Menu",
                 "InternalName": "EnhancedContextMenu",
-                "AssemblyVersion": "0.1.0.0",
+                "AssemblyVersion": "0.1.1.0",
                 "Description": "Moves context menu entries added through Dalamud into a panel beside the game menu.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/exatrines/EnhancedContextMenu/main/EnhancedContextMenu/Data/plugin-icon.png",
                 "RepoUrl": "https://github.com/exatrines/EnhancedContextMenu",
-                "LastUpdate": 1791162749
+                "LastUpdate": 1791201261
             },
             {
                 "Author": "mirage",
@@ -12842,11 +12853,11 @@
                 "Author": "Personal tools",
                 "Name": "Zetrom Utilities",
                 "InternalName": "AnimationNumber",
-                "AssemblyVersion": "0.8.0.0",
+                "AssemblyVersion": "0.29.0.0",
                 "Description": "Lee los números de las opciones de tus mods de Penumbra, permite elegir el emote o pose en un desplegable y activa ajustes temporales. /animnum abre la ventana; /animnum 064 busca ese número; /animnum stop restaura los ajustes.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/joandelahuerta/ZetromUtilities-Releases",
-                "LastUpdate": 1791180927
+                "LastUpdate": 1791203114
             }
         ]
     },
@@ -15251,12 +15262,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.756.3.32",
+                "AssemblyVersion": "15.756.3.34",
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1791172163,
+                "LastUpdate": 1791195377,
                 "is_ai_attributed": false
             },
             {
@@ -15591,11 +15602,12 @@
                 "Author": "Kyuuso",
                 "Name": "Eureka Aggro",
                 "InternalName": "EurekaAggro",
-                "AssemblyVersion": "1.0.9.0",
+                "AssemblyVersion": "1.1.6.0",
                 "Description": "Aggro and danger radius visualizer for Eureka (Anemos, Pagos, Pyros, Hydatos). Vision cones, sleeping dragon sound aggro detection (walk!), low HP blood aggro, sprite magic aggro, and cast alerts.",
                 "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Kyuuso/dalamud-plugins/main/plugins/EurekaAggro/images/icon.png",
                 "RepoUrl": "https://github.com/Kyuuso/dalamud-plugins",
-                "LastUpdate": 1791070203
+                "LastUpdate": 1791201033
             }
         ]
     },
@@ -16002,7 +16014,7 @@
                 "Description": "Simple overlay showing nearby aether currents with distance and direction",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Le-Vagabond-gh/ffxiv_aetherradar",
-                "LastUpdate": 1790784830
+                "LastUpdate": 1791199902
             },
             {
                 "Author": "Le Vagabond",
@@ -16012,7 +16024,7 @@
                 "Description": "Shows a checklist of all duties and which ones you have unlocked",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Le-Vagabond-gh/ffxiv_dutychecklist",
-                "LastUpdate": 1790784833
+                "LastUpdate": 1791199903
             },
             {
                 "Author": "Le Vagabond",
@@ -16033,7 +16045,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Le-Vagabond-gh/ffxiv_loyalcompanion/main/LoyalCompanion/icon.png",
                 "RepoUrl": "https://github.com/Le-Vagabond-gh/ffxiv_loyalcompanion",
-                "LastUpdate": 1790784835
+                "LastUpdate": 1791199905
             },
             {
                 "Author": "Le Vagabond",
@@ -16043,7 +16055,7 @@
                 "Description": "YABOT - Yet Another Bundle of Tweaks. A collection of small quality-of-life tweaks.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Le-Vagabond-gh/FFXIV_YABOT",
-                "LastUpdate": 1791120578
+                "LastUpdate": 1791199900
             }
         ]
     },
@@ -20183,7 +20195,7 @@
                 "Author": "MusicYYin",
                 "Name": "Soumen",
                 "InternalName": "Soumen",
-                "AssemblyVersion": "0.6.2.13",
+                "AssemblyVersion": "0.6.2.14",
                 "Description": "读取小队坐标并使用 vnavmesh 自动导航。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MusicYYin/DalamudPlugins/main/icon.png",
@@ -21254,7 +21266,7 @@
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1791112482,
+                "LastUpdate": 1791198328,
                 "is_closed_source": true
             },
             {
@@ -21266,19 +21278,19 @@
                 "DalamudApiLevel": 14,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1791112482,
+                "LastUpdate": 1791198328,
                 "is_closed_source": true
             },
             {
                 "Author": "The Combat Reborn Team / NiGuangOwO（本地化&适配）",
                 "Name": "BossMod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.6.29",
+                "AssemblyVersion": "7.5.6.31",
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1791112482,
+                "LastUpdate": 1791198328,
                 "is_closed_source": true
             },
             {
@@ -24927,7 +24939,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/47",
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1791088867
+                "LastUpdate": 1791191423
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -25009,12 +25021,12 @@
                 "Author": "the Puni.sh Quest Squad",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.756.3.32",
+                "AssemblyVersion": "15.756.3.34",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1791172163
+                "LastUpdate": 1791195377
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -28720,11 +28732,11 @@
                 "Author": "runte3221",
                 "Name": "Character Spawn",
                 "InternalName": "CharacterSpawn",
-                "AssemblyVersion": "0.1.155.0",
+                "AssemblyVersion": "0.1.178.0",
                 "Description": "Spawn and place custom characters, NPCs, and monsters locally on the map with customizable animations, expressions, gizmos, and presets.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/runte3221/Character-Spawn",
-                "LastUpdate": 1791181604
+                "LastUpdate": 1791203877
             }
         ]
     },
@@ -29132,12 +29144,12 @@
                 "Author": "Faye",
                 "Name": "BOCCHI 新月島助手",
                 "InternalName": "BOCCHI",
-                "AssemblyVersion": "1.0.1.4",
+                "AssemblyVersion": "1.0.1.8",
                 "Description": "提供繁體中文（台灣）介面。\n- 查看危命任務與緊急遭遇戰及其獎勵。\n- 自動規劃路徑、傳送、尋找寶箱與胡蘿蔔。\n- 追蹤經驗值、貨幣及兩歧塔狀態。\n- 可依設定啟用全自動模式。",
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/OhKannaDuh/OccultCrescentHelper/refs/heads/master/assets/icon.png",
                 "RepoUrl": "https://github.com/SamoyedQQ/TCRankingViewer/tree/bocchi",
-                "LastUpdate": 1791181670,
+                "LastUpdate": 1791184706,
                 "is_ai_attributed": true
             },
             {
@@ -29160,7 +29172,7 @@
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/SamoyedQQ/TCRankingViewer/main/assets/icon.png",
                 "RepoUrl": "https://github.com/SamoyedQQ/TCRankingViewer",
-                "LastUpdate": 1791181670,
+                "LastUpdate": 1791184706,
                 "is_ai_attributed": true
             }
         ]
@@ -30204,15 +30216,15 @@
         "repo_name": "AutoHunt",
         "plugins": [
             {
-                "Author": "白泉澈",
+                "Author": "雷霆大宝贝",
                 "Name": "AutoHunt",
                 "InternalName": "AutoHunt",
-                "AssemblyVersion": "2.4.0.21",
+                "AssemblyVersion": "2.4.0.22",
                 "Description": "自动狩猎（狩猎车）助手：右键聊天玩家名设为车头；自动解析车头在任何频道发送的坐标，自动打开地图插旗；跨图或远距离自动传送到最近水晶；上坐骑后执行 /vnav flyflag 飞向旗标（可选 IPC 直接寻路）；到达后自动选中狩猎怪（基于 NotoriousMonster 数据表识别 A/S 级），血量低于阈值自动下坐骑并 /rotation Manual 输出，目标死亡自动关闭；每击杀 N 只怪自动切换副本区。依赖：vnavmesh、RotationSolver、Lifestream、Teleporter。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ShiraisumiKiyoshi/AutoHunt/main/dist/images/icon.png",
                 "RepoUrl": "https://github.com/ShiraisumiKiyoshi/AutoHunt",
-                "LastUpdate": 1791176137
+                "LastUpdate": 1791202950
             }
         ]
     },
@@ -32109,11 +32121,11 @@
                 "Author": "Taco",
                 "Name": "XIV Planner",
                 "InternalName": "XivPlanner.Plugin",
-                "AssemblyVersion": "0.2.5.0",
+                "AssemblyVersion": "0.2.8.0",
                 "Description": "Pick a crafter and a target level and press Go. It plans from your bags, retainers and the game data, then fetches from retainers (Artisan), buys vendor items (GatherBuddy Reborn) and, only if you tick it, market board items within your price caps, crafts each step with Artisan, does the class quests with Questionable, sells what it crafts (AutoRetainer) and re-plans at every checkpoint. A Quests tab plans and runs quest chains. Needs Artisan, vnavmesh, Lifestream and Allagan Tools; the window lists the rest. English client only for market board buying.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Tacodille/xiv-planner-releases",
-                "LastUpdate": 1791123693
+                "LastUpdate": 1791198003
             }
         ]
     },
@@ -34023,7 +34035,7 @@
                 "Author": "Voudi",
                 "Name": "AlphaChannel",
                 "InternalName": "AlphaChannel.Plugin",
-                "AssemblyVersion": "2.1.8.2",
+                "AssemblyVersion": "2.1.8.3",
                 "Description": "Renders an in-world video screen and syncs playback with other players running AlphaChannel over a self-hosted relay.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Kodie0/AlphaChannelKodie",
@@ -34355,12 +34367,12 @@
                 "Author": "MacaronDream, DhogGPT, XA",
                 "Name": "Questionable Companion",
                 "InternalName": "QSTCompanion",
-                "AssemblyVersion": "1.1.25.0",
+                "AssemblyVersion": "1.1.26.0",
                 "Description": "Automated character rotation and quest sequence execution for Questionable.\n\nAutomates multi-character MSQ progression by intelligently switching between characters based on quest completion and level requirements. Features include:\n- Automatic character switching and quest tracking\n- MSQ progression monitoring across all characters\n- Allied Society quest rotation and prioritization\n- Event quest automation with prerequisite checking\n- Chauffeur Mode for following main character through quests\n- Data Center travel automation\n- Stop point configuration for controlled progression\n\nRequired Plugins: Questionable, AutoRetainer",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MacaronDream/QSTCompanion/main/icon.png",
                 "RepoUrl": "https://github.com/MacaronDream/QSTCompanion",
-                "LastUpdate": 1790797329
+                "LastUpdate": 1791194758
             },
             {
                 "Author": "WigglyMuffin, CryoTechnic",
@@ -35127,12 +35139,12 @@
                 "Author": "Michiru Tsukikage",
                 "Name": "Tsukimichi",
                 "InternalName": "Tsukimichi",
-                "AssemblyVersion": "1.22.0.0",
+                "AssemblyVersion": "1.22.1.0",
                 "Description": "A quest catalog for every journal type, with completed and available filters and a per-requirement breakdown of what still blocks a quest.\nMoonlit treasures collects quests with unique rewards, and per-character snapshots keep the whole account in view.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xenofei/Tsukimichi/main/assets/icon-medallion.png",
                 "RepoUrl": "https://github.com/xenofei/Tsukimichi",
-                "LastUpdate": 1791159562,
+                "LastUpdate": 1791200273,
                 "is_ai_attributed": true
             }
         ]
