@@ -1762,11 +1762,11 @@
                 "Author": "WonderlandDev",
                 "Name": "LookingGlass",
                 "InternalName": "LookingGlass",
-                "AssemblyVersion": "0.2.7.0",
+                "AssemblyVersion": "0.2.10.0",
                 "Description": "LookingGlass adds extra linkshells that work across worlds and data centres. Channel names and messages are end-to-end encrypted: the server only relays ciphertext. Use /lookingglass (or /lg) to set up, and /lgc1 to /lgc50, or /lgc followed by a channel nickname, to talk. In testing: you need a server address from the server's operator.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/alicewonderland-dev/LookingGlass",
-                "LastUpdate": 1791390202,
+                "LastUpdate": 1791420916,
                 "is_ai_attributed": true
             },
             {
@@ -2078,12 +2078,12 @@
                 "Author": "pokeda",
                 "Name": "Harmonia",
                 "InternalName": "HarmoniaEngine",
-                "AssemblyVersion": "0.1.12.0",
+                "AssemblyVersion": "0.1.13.0",
                 "Description": "Shows Final Fantasy XIV in another language using community translations. Add a translation from the link or file its author gives you, turn it on, and restart the game. Translations update themselves. Characters the game's own fonts don't have, such as Cyrillic in window titles, need Penumbra.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/AngelicaProject/Harmonia/main/Harmonia/Assets/Icon/harmonia_icon.png",
                 "RepoUrl": "https://github.com/AngelicaProject/Harmonia",
-                "LastUpdate": 1791400287,
+                "LastUpdate": 1791407427,
                 "is_ai_attributed": true
             }
         ]
@@ -4077,12 +4077,12 @@
                 "Author": "The Combat Reborn Team, blackappleD",
                 "Name": "GatherBuddy Reborn（国服维护版）",
                 "InternalName": "GatherBuddyReborn-bld",
-                "AssemblyVersion": "7.5.0.5009",
+                "AssemblyVersion": "7.5.0.5010",
                 "Description": "添加多种命令, 可按物品名称查找采集点、鱼类及其位置, 并提供界面追踪特殊刷新时间与天气条件, 还可基于指定清单和条件自动采集物品, 自动采集需要 vnavmesh",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/GBR_Icon.png",
                 "RepoUrl": "https://github.com/blackappleD/GatherBuddyReborn",
-                "LastUpdate": 1791392464,
+                "LastUpdate": 1791415634,
                 "is_ai_attributed": true
             },
             {
@@ -4134,12 +4134,12 @@
                 "Author": "veyn, blackappleD",
                 "Name": "vfallguy（国服维护版）",
                 "InternalName": "vfallguy",
-                "AssemblyVersion": "0.0.0.12005",
+                "AssemblyVersion": "0.0.0.12009",
                 "Description": "糖豆人联动活动辅助：自动报名/自动退出以寻找单人房，最后一关高亮 AOE 范围。国服维护版新增：获得金碟声誉后立即退出副本；统计金碟声誉记录与平均每小时获得量；达到阈值后自动调用 GatherBuddy Reborn 购物并返回登记员。注意：InternalName 与原版相同，请勿与原版同时安装。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/blackappleD/ffxiv_vfallguy/master/icon2.png",
                 "RepoUrl": "https://github.com/blackappleD/ffxiv_vfallguy",
-                "LastUpdate": 1791392531,
+                "LastUpdate": 1791421517,
                 "is_ai_attributed": true
             }
         ]
@@ -4398,12 +4398,12 @@
                 "Author": "Boloni",
                 "Name": "Equinox Companion",
                 "InternalName": "EquinoxCompanion",
-                "AssemblyVersion": "0.5.1.79",
+                "AssemblyVersion": "0.5.1.89",
                 "Description": "Records house entries and confirmed tending locally, with optional paired sync to Equinox Journal. English garden menus supported.",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/boloni96/Equinox-Companion/main/dist/v0.5.1.79/icon.png",
+                "IconUrl": "https://raw.githubusercontent.com/boloni96/Equinox-Companion/main/dist/v0.5.1.89/icon.png",
                 "RepoUrl": "https://github.com/boloni96/Equinox-Companion",
-                "LastUpdate": 1791401760
+                "LastUpdate": 1791428580
             }
         ]
     },
@@ -6234,12 +6234,12 @@
                 "Author": "fire",
                 "Name": "FireGaze",
                 "InternalName": "FireGaze",
-                "AssemblyVersion": "1.4.0.6",
+                "AssemblyVersion": "1.4.0.7",
                 "Description": "FireGaze 是给卫月（Dalamud）用的一体化工具箱，三种功能：① 插件简介汉化：内置 1500+ 条第三方插件简中词表，安装器里的插件名、一行简介、插件详情都可以独立选择「英语原版 / 中文 / 双语」呈现（默认：名字原版、简介中文、详情中英对照）；② 第三方仓库体检：一键扫描你添加的全部库（含已停用的），找出死链、内容不合规、连接失败的条目并列出，支持一键停用、一键删除（删除前自动备份、可撤回）；③ 列表自动刷新拦截：部分插件（如「每日随记」Daily Routines、XSZToolbox，以及经 OmenTools 等公共库转发的调用）会每 10 分钟反射调用卫月「重载全部仓库」，导致安装器列表自刷新、滚动位置被顶回顶部；本插件按调用来源拦截这些后台刷新，手动刷新与打开安装器不受影响。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/DCritHitFireIV/FireGaze/main/Resources/icon.png?v=2",
                 "RepoUrl": "https://github.com/DCritHitFireIV/FireGaze",
-                "LastUpdate": 1791365340
+                "LastUpdate": 1791421940
             }
         ]
     },
@@ -7652,12 +7652,12 @@
                 "Author": "Eauldane",
                 "Name": "Snowcloak Sync",
                 "InternalName": "Snowcloak",
-                "AssemblyVersion": "4.3.0.4",
+                "AssemblyVersion": "4.3.2.0",
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Eauldane/SnowcloakClient/refs/heads/main/Snowcloak/images/logo.png",
                 "RepoUrl": "https://github.com/Eauldane/SnowcloakClient",
-                "LastUpdate": 1791394222
+                "LastUpdate": 1791424305
             },
             {
                 "Author": "Eauldane",
@@ -9009,7 +9009,7 @@
                 "Author": "Anomek",
                 "Name": "AnoMech Testing",
                 "InternalName": "AnoMechTesting",
-                "AssemblyVersion": "0.4.2.85",
+                "AssemblyVersion": "0.4.2.86",
                 "Description": "Unstable build of the multiplayer work in progress on Evernow/AnoMech's multiplayer-support branch. Spawns fake party members and bosses client-side so you can practice raid mechanics, with several people sharing one simulation. Installs alongside the normal AnoMech and keeps its own settings.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Evernow/Anomech-testing",
@@ -9457,12 +9457,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "Passport Checker Reborn",
                 "InternalName": "PassportCheckerReborn",
-                "AssemblyVersion": "7.5.6.4",
+                "AssemblyVersion": "7.5.6.5",
                 "Description": "Passport Checker Reborn is an open-source alternative to the PFFinder plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/PCR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn",
-                "LastUpdate": 1790861872
+                "LastUpdate": 1791414497
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -11924,12 +11924,12 @@
                 "Author": "The Combat Reborn Team (fork by IndividualGather)",
                 "Name": "BossModRebornButBetter",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.6.3201",
+                "AssemblyVersion": "7.5.6.3301",
                 "Description": "An unofficial fork of BossMod Reborn by The Combat Reborn Team: https://github.com/FFXIV-CombatReborn/BossmodReborn\nAll credit for the plugin goes to the original authors.\n\nWhy this fork exists: the official plugin only runs the boss modules built into it. This fork adds a single feature: it also loads boss module DLLs from the CustomModules folder in the plugin's config directory, which can add modules or replace built-in ones. That way custom versions of encounters can be maintained separately instead of in a full fork of the plugin.\n\nEverything else is unchanged. It is rebuilt automatically from every official release.\n\nNot affiliated with or supported by The Combat Reborn Team. Please don't report issues with this fork to them.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/IndividualGather/BossModRebornButBetter",
-                "LastUpdate": 1791354842
+                "LastUpdate": 1791409105
             }
         ]
     },
@@ -13695,11 +13695,11 @@
                 "Author": "Sceneweaver contributors",
                 "Name": "Sceneweaver",
                 "InternalName": "Sceneweaver",
-                "AssemblyVersion": "0.9.0.0",
+                "AssemblyVersion": "0.10.0.0",
                 "Description": "Development preview: shared scene editor for Intoner and Stagehand, with dual-save, conversion reports and base-color asset previews. Open with /sceneweaver. In-game validation is pending.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kaerlath/Sceneweaver",
-                "LastUpdate": 1790816058
+                "LastUpdate": 1791423895
             }
         ]
     },
@@ -15183,12 +15183,12 @@
                 "Author": "konvarec",
                 "Name": "HuntVoidWatcher",
                 "InternalName": "HuntVoidWatcher",
-                "AssemblyVersion": "0.5.0.70",
+                "AssemblyVersion": "0.5.0.71",
                 "Description": "Synchronizes active character world/area status to a shared spreadsheet for S-rank hunt observation.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/konvarec/HuntVoidWatcherCustomRepo/main/HuntVoidWatcher/images/icon_64.png",
                 "RepoUrl": "https://github.com/konvarec/HuntVoidWatcherCustomRepo",
-                "LastUpdate": 1791255082
+                "LastUpdate": 1791408535
             }
         ]
     },
@@ -16642,12 +16642,12 @@
                 "Author": "Luci",
                 "Name": "Universal Mod Converter",
                 "InternalName": "UniversalModConverter",
-                "AssemblyVersion": "1.5.4.0",
+                "AssemblyVersion": "1.5.5.0",
                 "Description": "Convert gear, facewear, hair, face, tail and Viera-ear assets in Penumbra mods to other items, slots and races, swap idle and emote animations (optionally as an option group of idle slots), retarget animations to other races, and merge two modpacks into one. Supports the Penumbra 1.7+ mod format, retargets game paths, model/material references and metadata, previews every change, and can revert conversions.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/link-0402/Universal-Mod-Converter/main/images/icon.png",
                 "RepoUrl": "https://github.com/link-0402/Universal-Mod-Converter",
-                "LastUpdate": 1791326797,
+                "LastUpdate": 1791390419,
                 "is_ai_attributed": true
             },
             {
@@ -19683,6 +19683,24 @@
                 "IconUrl": "https://raw.githubusercontent.com/MissingNoIOI/DRGames/master/icon.png",
                 "RepoUrl": "https://github.com/MissingNoIOI/DRGames",
                 "LastUpdate": 1788738502
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Mistakingly",
+        "repo_url": "https://raw.githubusercontent.com/Mistakingly/TargetDebuffs/main/repo.json",
+        "repo_source_url": "https://github.com/Mistakingly/TargetDebuffs",
+        "repo_name": "TargetDebuffs",
+        "plugins": [
+            {
+                "Author": "Anna",
+                "Name": "Target Debuffs",
+                "InternalName": "TargetDebuffs",
+                "AssemblyVersion": "2.0.0.6",
+                "Description": "Displays the statuses you apply to your current target in a separate overlay that can be dragged anywhere and locked in place. Use /tdebuffs to open settings.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Mistakingly/TargetDebuffs",
+                "LastUpdate": 1791414633
             }
         ]
     },
@@ -23564,7 +23582,7 @@
                 "Author": "UnknownX",
                 "Name": "Cammy (Frey fork)",
                 "InternalName": "CammyFrey",
-                "AssemblyVersion": "2.1.1.3",
+                "AssemblyVersion": "2.1.1.4",
                 "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/UnknownX7/DalamudPluginRepo/master/plugins/Cammy/images/icon.png",
@@ -25239,12 +25257,12 @@
                 "Author": "kawaii, Ice",
                 "Name": "Palantir",
                 "InternalName": "Palantir",
-                "AssemblyVersion": "0.0.0.5",
+                "AssemblyVersion": "0.0.0.6",
                 "Description": "Palantir is a spiritual successor to PalacePal, the popular deep dungeon trap ESP plugin created by Liza Carvelli. It reveals the locations of previously recorded traps and Accursed Hoards from a crowdsourced database.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/169",
                 "RepoUrl": "https://github.com/PunishXIV/Palantir",
-                "LastUpdate": 1791316979
+                "LastUpdate": 1791419526
             },
             {
                 "Author": "Taurenkey, NightmareXIV, croizat",
@@ -30270,6 +30288,17 @@
         "plugins": [
             {
                 "Author": "SheepGoMeh",
+                "Name": "BlurBuddy",
+                "InternalName": "BlurBuddy",
+                "AssemblyVersion": "0.1.1.0",
+                "Description": "A streamer's best friend: becomes OBS's Game Capture source and sends the game without UI, with nameplates only, or with all game UI, with nameplates and chosen windows blurred. Your own screen is never changed.\nOpen the settings with /blurbuddy",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/SheepGoMeh/BlurBuddy/main/images/icon.png",
+                "RepoUrl": "https://github.com/SheepGoMeh/BlurBuddy",
+                "LastUpdate": 1791410148
+            },
+            {
+                "Author": "SheepGoMeh",
                 "Name": "CrowdFix",
                 "InternalName": "CrowdFix",
                 "AssemblyVersion": "0.1.3.0",
@@ -30436,11 +30465,12 @@
                 "Author": "shifusen329",
                 "Name": "Raid Replay",
                 "InternalName": "RaidReplay",
-                "AssemblyVersion": "0.0.4.0",
+                "AssemblyVersion": "0.0.7.0",
                 "Description": "Reconstructs every pull from ACT network logs: arena map, waymarks, player positions and facing, boss casts and AoE telegraphs, towers, tethers, head markers and deaths, with a scrubbable timeline. Watches the live log and explains each wipe right after it happens: root cause, who was where, and where they should have been.\n\nAlpha: requires ACT with the FFXIV plugin writing network logs (default folder %USERPROFILE%\\AppData\\Roaming\\Advanced Combat Tracker\\FFXIVLogs). /aar opens the after-action report, /raidreplay the replay window.",
                 "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/shifusen329/raid-replay/master/assets/icon.png",
                 "RepoUrl": "https://github.com/shifusen329/raid-replay",
-                "LastUpdate": 1791404084,
+                "LastUpdate": 1791421107,
                 "is_ai_attributed": true
             }
         ]
@@ -31202,7 +31232,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://dl.solona.info/icon.png",
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1791392555,
+                "LastUpdate": 1791421843,
                 "is_ai_attributed": true
             }
         ]
@@ -32306,19 +32336,19 @@
                 "Author": "Anmi (fork maintained by T3chnicalD3ath Inc.)",
                 "Name": "Beast Master Helper",
                 "InternalName": "BeastMasterHelper",
-                "AssemblyVersion": "0.9.97.0",
+                "AssemblyVersion": "0.10.2.1",
                 "Description": "Tracks the Beastmaster quest chain and beast-catalogue collection progress, auto-recording captures from chat and offering navigation to quest and catalogue targets. Works with vnavmesh for same-map travel and Lifestream for cross-map teleports.\n\nAn English fork of Anmi's Beastmaster plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/t3knical/DalamudPlugins/main/plugins/BeastMasterHelper/icon.png",
                 "RepoUrl": "https://github.com/t3knical/DalamudPlugins",
-                "LastUpdate": 1790589821,
+                "LastUpdate": 1791423747,
                 "is_ai_attributed": true
             },
             {
                 "Author": "The Combat Reborn Team (fork maintained by t3knical)",
                 "Name": "BossmodReborn (Tekz Fork)",
                 "InternalName": "BossModRebornTekz",
-                "AssemblyVersion": "1.0.66.10",
+                "AssemblyVersion": "1.0.67.0",
                 "Description": "UNOFFICIAL FORK of BossMod Reborn by the Combat Reborn Team - install the original from their own repository if you want the real thing (https://github.com/FFXIV-CombatReborn/BossmodReborn).\n\nThis build tracks upstream and adds extra work on the Occult Crescent critical engagements and FATEs, and on the Beastmaster Crucible of the Unbroken boards, tuned against recorded replays. Bugs here are this fork's, not upstream's - report them at https://github.com/t3knical/BossmodReborn rather than to the Combat Reborn Team.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/t3knical/DalamudPlugins/main/plugins/BossModRebornTekz/icon.png",
@@ -32388,12 +32418,12 @@
                 "Author": "T3chnicalD3ath Inc.",
                 "Name": "Reaction Helper",
                 "InternalName": "ReactionHelper",
-                "AssemblyVersion": "0.10.31.2",
+                "AssemblyVersion": "0.10.34.8",
                 "Description": "Load a fight timeline (cactbot format) or a per-job profile, and attach reactions to mechanics: conditions on you, your target and your party, and actions that press a skill, flip a MachinistHelper or BeastMasterHelper toggle, hold an action, or show an alert.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/t3knical/DalamudPlugins/main/plugins/ReactionHelper/icon.png",
                 "RepoUrl": "https://github.com/t3knical/DalamudPlugins",
-                "LastUpdate": 1791077067
+                "LastUpdate": 1791428674
             }
         ]
     },
@@ -32482,11 +32512,11 @@
                 "Author": "DMU Model Scale",
                 "Name": "Sm0ll Chaos & Exdeath",
                 "InternalName": "DMUModelScale",
-                "AssemblyVersion": "1.0.13.0",
+                "AssemblyVersion": "1.0.14.0",
                 "Description": "Applies independent visual model scale factors to Chaos and Exdeath in territory 1363, with an optional floating lifebar adjustment. Does not edit hitboxes, positions, targeting, or combat data.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Tataru-business/sm0ll-chaos-exdeath",
-                "LastUpdate": 1791392435
+                "LastUpdate": 1791427123
             }
         ]
     },
@@ -35099,12 +35129,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone Beta",
                 "InternalName": "AetherphoneBeta",
-                "AssemblyVersion": "1.2.0.45",
+                "AssemblyVersion": "1.2.0.47",
                 "Description": "The beta channel for Aetherphone: builds straight off the development branch, installed side by side with the stable plugin so you can test what is coming next without giving up the phone you use every day.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/Aetherphone-Beta",
-                "LastUpdate": 1791356708
+                "LastUpdate": 1791412553
             }
         ]
     },
