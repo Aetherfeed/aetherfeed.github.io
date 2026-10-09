@@ -969,12 +969,12 @@
                 "Author": "MacaronDream, DhogGPT, XA",
                 "Name": "Questionable Companion",
                 "InternalName": "QSTCompanion",
-                "AssemblyVersion": "1.1.27.0",
+                "AssemblyVersion": "1.1.28.0",
                 "Description": "Automated character rotation and quest sequence execution for Questionable.\n\nAutomates multi-character MSQ progression by intelligently switching between characters based on quest completion and level requirements. Features include:\n- Automatic character switching and quest tracking\n- MSQ progression monitoring across all characters\n- Allied Society quest rotation and prioritization\n- Event quest automation with prerequisite checking\n- Chauffeur Mode for following main character through quests\n- Data Center travel automation\n- Stop point configuration for controlled progression\n\nRequired Plugins: Questionable, AutoRetainer",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MacaronDream/QSTCompanion/main/icon.png",
                 "RepoUrl": "https://github.com/MacaronDream/QSTCompanion",
-                "LastUpdate": 1791225598
+                "LastUpdate": 1791521312
             },
             {
                 "Author": "DhogGPT",
@@ -4042,12 +4042,12 @@
                 "Author": "Herculezz, erdelf, blackappleD",
                 "Name": "AutoDuty（国服维护版）",
                 "InternalName": "AutoDuty",
-                "AssemblyVersion": "0.0.0.38101",
+                "AssemblyVersion": "0.0.0.38103",
                 "Description": "自动跑本插件，支持亲信战友、副本协助、冒险者分队、异闻副本与常规副本，需要 BossMod、vnavmesh 及循环插件（Wrath Combo、BossMod 自动循环或 RSR）。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/blackappleD/AutoDuty",
-                "LastUpdate": 1791335715
+                "LastUpdate": 1791514679
             },
             {
                 "Author": "Infi, Sl0nderman, harbingerftw, blackappleD",
@@ -4070,7 +4070,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/blackappleD/BOCCHI/master/assets/icon.png",
                 "RepoUrl": "https://github.com/blackappleD/BOCCHI",
-                "LastUpdate": 1791059547,
+                "LastUpdate": 1791513794,
                 "is_ai_attributed": true
             },
             {
@@ -4123,12 +4123,12 @@
                 "Author": "Taurenkey, Kagekazu, Knightmore, blackappleD",
                 "Name": "Saucy（国服维护版）",
                 "InternalName": "saucy-bld",
-                "AssemblyVersion": "2.1.2.2004",
+                "AssemblyVersion": "2.1.2.2005",
                 "Description": "金蝶游乐场小游戏自动化：九宫幻卡、重击伽美什、孤树无援、喷风中的幸存者、仙人微彩与仙人彩。界面与聊天输出已完整汉化，默认跟随卫月语言设置，也可在侧边栏手动切换。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/blackappleD/Saucy/master/Saucy/Icon.png",
                 "RepoUrl": "https://github.com/blackappleD/Saucy",
-                "LastUpdate": 1790990233
+                "LastUpdate": 1791510380
             },
             {
                 "Author": "veyn, blackappleD",
@@ -4398,12 +4398,12 @@
                 "Author": "Boloni",
                 "Name": "Equinox Companion",
                 "InternalName": "EquinoxCompanion",
-                "AssemblyVersion": "0.5.1.110",
+                "AssemblyVersion": "0.5.1.114",
                 "Description": "Records house entries and confirmed tending locally, with optional paired sync to Equinox Journal. English garden menus supported.",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/boloni96/Equinox-Companion/main/dist/v0.5.1.110/icon.png",
+                "IconUrl": "https://raw.githubusercontent.com/boloni96/Equinox-Companion/main/dist/v0.5.1.114/icon.png",
                 "RepoUrl": "https://github.com/boloni96/Equinox-Companion",
-                "LastUpdate": 1791495889
+                "LastUpdate": 1791510378
             }
         ]
     },
@@ -5253,12 +5253,12 @@
                 "Author": "CheesyChiz",
                 "Name": "Emote Shelf",
                 "InternalName": "EmoteShelf",
-                "AssemblyVersion": "0.1.0.0",
+                "AssemblyVersion": "0.2.8.1",
                 "Description": "Find installed Penumbra emote replacements, bookmark mod-emote pairs and option variants on a movable panel, and temporarily prioritize the selected mod before playing its emote. Settings: /eshelf. Requires Penumbra.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/CheesyChiz/EmoteShelf/main/assets/icon.png",
                 "RepoUrl": "https://github.com/CheesyChiz/EmoteShelf",
-                "LastUpdate": 1791498314
+                "LastUpdate": 1791516362
             },
             {
                 "Author": "CheesyChiz",
@@ -7239,11 +7239,11 @@
                 "Author": "Rikun",
                 "Name": "Pizza Referee",
                 "InternalName": "PizzaReferee",
-                "AssemblyVersion": "0.9.1.0",
+                "AssemblyVersion": "0.9.2.0",
                 "Description": "In-game referee for the Pizza Challenge. Announces each round, judges every /random against the threshold, moves through each player's pies and the queue, and keeps the night's stats and Hall of Fame. Made for the Bassment; announces in chat on your behalf, so it lives in this custom repository rather than the official list.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/donovangst/pizza-challenge",
-                "LastUpdate": 1790411483
+                "LastUpdate": 1791504011
             }
         ]
     },
@@ -9039,11 +9039,11 @@
                 "Author": "Anomek",
                 "Name": "AnoMech Testing",
                 "InternalName": "AnoMechTesting",
-                "AssemblyVersion": "0.4.2.89",
+                "AssemblyVersion": "0.4.2.91",
                 "Description": "Unstable build of the multiplayer work in progress on Evernow/AnoMech's multiplayer-support branch. Spawns fake party members and bosses client-side so you can practice raid mechanics, with several people sharing one simulation. Installs alongside the normal AnoMech and keeps its own settings.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Evernow/Anomech-testing",
-                "LastUpdate": 1791459126
+                "LastUpdate": 1791501366
             },
             {
                 "Author": "Evernow",
@@ -9091,7 +9091,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/exatrines/AutoFrontline/main/AutoFrontline/Data/plugin-icon.png",
                 "RepoUrl": "https://github.com/exatrines/AutoFrontline",
-                "LastUpdate": 1791492583,
+                "LastUpdate": 1791513790,
                 "is_ai_attributed": true
             },
             {
@@ -9103,7 +9103,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/exatrines/DTROverlay/main/DTROverlay/Data/plugin-icon.png",
                 "RepoUrl": "https://github.com/exatrines/DTROverlay",
-                "LastUpdate": 1791493255,
+                "LastUpdate": 1791504886,
                 "is_ai_attributed": true
             },
             {
@@ -9115,7 +9115,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/exatrines/EnhancedContextMenu/main/EnhancedContextMenu/Data/plugin-icon.png",
                 "RepoUrl": "https://github.com/exatrines/EnhancedContextMenu",
-                "LastUpdate": 1791359377
+                "LastUpdate": 1791507861
             },
             {
                 "Author": "mirage",
@@ -9126,7 +9126,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/exatrines/EnhancedQuickPanel/master/EnhancedQuickPanel/Data/plugin-icon.png",
                 "RepoUrl": "https://github.com/exatrines/EnhancedQuickPanel",
-                "LastUpdate": 1791364576
+                "LastUpdate": 1791508416
             },
             {
                 "Author": "mirage",
@@ -9137,7 +9137,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/exatrines/Goetia/main/Goetia/Data/plugin-icon.png",
                 "RepoUrl": "https://github.com/exatrines/Goetia",
-                "LastUpdate": 1790681797
+                "LastUpdate": 1791510351
             },
             {
                 "Author": "mirage",
@@ -9148,7 +9148,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/exatrines/Oracle/main/Oracle/Data/plugin-icon.png",
                 "RepoUrl": "https://github.com/exatrines/Oracle",
-                "LastUpdate": 1790292357
+                "LastUpdate": 1791503774
             },
             {
                 "Author": "mirage",
@@ -9159,7 +9159,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/exatrines/SlideGuide/main/SlideGuide/Data/plugin-icon.png",
                 "RepoUrl": "https://github.com/exatrines/SlideGuide",
-                "LastUpdate": 1788884808
+                "LastUpdate": 1791512322
             },
             {
                 "Author": "mirage",
@@ -9170,7 +9170,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/exatrines/Veilay/main/Veilay/Data/plugin-icon.png",
                 "RepoUrl": "https://github.com/exatrines/Veilay",
-                "LastUpdate": 1788105814
+                "LastUpdate": 1791513083
             }
         ]
     },
@@ -11973,12 +11973,32 @@
                 "Author": "The Combat Reborn Team (fork by IndividualGather)",
                 "Name": "RotationSolverRebornButBetter",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.6.1904",
+                "AssemblyVersion": "7.5.6.2004",
                 "Description": "An unofficial fork of Rotation Solver Reborn by The Combat Reborn Team: https://github.com/FFXIV-CombatReborn/RotationSolverReborn\nAll credit for the plugin goes to the original authors.\n\nWhy this fork exists: the official plugin only runs the rotations built into it. This fork adds a single feature: it also loads rotation DLLs from the CustomRotations folder in the plugin's config directory, so custom rotations can be maintained separately instead of in a full fork of the plugin.\n\nEverything else is unchanged. It is rebuilt automatically from every official release, with a teal theme to tell it apart.\n\nNot affiliated with or supported by The Combat Reborn Team. Please don't report issues with this fork to them.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/IndividualGather/RotationSolverRebornButBetter/main/branding/Logo.png",
                 "RepoUrl": "https://github.com/IndividualGather/RotationSolverRebornButBetter",
-                "LastUpdate": 1791330877,
+                "LastUpdate": 1791502709,
+                "is_ai_attributed": true
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "IndividualGather",
+        "repo_url": "https://raw.githubusercontent.com/IndividualGather/xiv-mcp/master/repo.json",
+        "repo_source_url": "https://github.com/IndividualGather/xiv-mcp",
+        "repo_name": "xiv-mcp",
+        "plugins": [
+            {
+                "Author": "IndividualGather",
+                "Name": "XIV MCP",
+                "InternalName": "XivMcp",
+                "AssemblyVersion": "0.3.0.1",
+                "Description": "XIV MCP runs a local MCP server (only reachable from your own PC, protected by an access token) so any AI assistant that supports the Model Context Protocol (Claude, ChatGPT, Codex, LM Studio and others) can see your game and help with it.\n\nRead your character live: stats and jobs, gear, inventory, currencies, quests, achievements and unlocks, party, targets, nearby objects, FATEs and the game's data sheets. Retainers and submersibles are remembered between visits.\n\nOptional modules, each behind its own switch in /xivmcp: game interaction and navigation, inventory and retainers, market and purchases (every non-gil purchase asks you in game), crafting and gathering, quests, custom deliveries, fishing, submersibles, plugin management, and background jobs that run for hours on their own.\n\nDocumentation: https://individualgather.github.io/xiv-mcp/",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/IndividualGather/xiv-mcp/master/XivMcp/images/icon.png",
+                "RepoUrl": "https://github.com/IndividualGather/xiv-mcp",
+                "LastUpdate": 1791505853,
                 "is_ai_attributed": true
             }
         ]
@@ -12961,11 +12981,11 @@
                 "Author": "Personal tools",
                 "Name": "Zetrom Utilities",
                 "InternalName": "AnimationNumber",
-                "AssemblyVersion": "0.127.0.0",
+                "AssemblyVersion": "0.130.0.0",
                 "Description": "Lee los números de las opciones de tus mods de Penumbra, permite elegir el emote o pose en un desplegable y activa ajustes temporales. /animnum abre la ventana; /animnum 064 busca ese número; /animnum stop restaura los ajustes.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/joandelahuerta/ZetromUtilities-Releases",
-                "LastUpdate": 1791477133
+                "LastUpdate": 1791505252
             },
             {
                 "Author": "Zetrom; based on QuestShare by Era",
@@ -15356,12 +15376,12 @@
                 "Author": "veyn, xan_0",
                 "Name": "Boss Mod",
                 "InternalName": "BossMod",
-                "AssemblyVersion": "7.5.6.19",
+                "AssemblyVersion": "7.5.6.20",
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1791497366,
+                "LastUpdate": 1791506801,
                 "is_ai_attributed": true
             },
             {
@@ -15395,7 +15415,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1791469674,
+                "LastUpdate": 1791519750,
                 "is_ai_attributed": false
             },
             {
@@ -17366,6 +17386,17 @@
                 "IconUrl": "https://raw.githubusercontent.com/Lunarris/LunarRepo/refs/heads/main/icons/UselessInfoIcon.png",
                 "RepoUrl": "https://github.com/Lunarris/UselessPlayerInfo",
                 "LastUpdate": 1791255390
+            },
+            {
+                "Author": "Lunarris",
+                "Name": "VFX Hider",
+                "InternalName": "VFXHider",
+                "AssemblyVersion": "0.0.0.1",
+                "Description": "Helps trim down the visual noise in venues or in heavily sync'd areas. Useful for large shells or if you have that one friend with an annoying dote.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Lunarris/LunarRepo/refs/heads/main/icons/VFXHider.png",
+                "RepoUrl": "https://github.com/Lunarris/VFXHider",
+                "LastUpdate": 1791511766
             }
         ]
     },
@@ -20932,12 +20963,12 @@
                 "Author": "Valenth Siveria",
                 "Name": "BlackJack Buttler",
                 "InternalName": "BlackJackButtler",
-                "AssemblyVersion": "1.9.1.1",
+                "AssemblyVersion": "1.9.1.2",
                 "Description": "/bjb - opens the blackjack buttler tool",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/NeoGriever/BlackJackButtler/main/plugins/BlackJackButtler/icon.png",
                 "RepoUrl": "https://github.com/NeoGriever/BlackJackButtler",
-                "LastUpdate": 1791438918,
+                "LastUpdate": 1791514197,
                 "is_ai_attributed": true
             }
         ]
@@ -25259,7 +25290,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1791469674
+                "LastUpdate": 1791519750
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -25664,7 +25695,7 @@
                 "Author": "nainaiowo",
                 "Name": "Eidos",
                 "InternalName": "Eidos",
-                "AssemblyVersion": "0.1.0.81",
+                "AssemblyVersion": "0.1.0.82",
                 "Description": "A Gposing and scene tool.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Nainaiowo/Eidos"
@@ -25900,12 +25931,12 @@
                 "Author": "Valenth Siveria",
                 "Name": "BlackJack Buttler",
                 "InternalName": "BlackJackButtler",
-                "AssemblyVersion": "1.9.1.1",
+                "AssemblyVersion": "1.9.1.2",
                 "Description": "/bjb - opens the blackjack buttler tool",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/118",
                 "RepoUrl": "https://github.com/NeoGriever/BlackJackButtler",
-                "LastUpdate": 1791438941,
+                "LastUpdate": 1791514199,
                 "is_ai_attributed": true
             },
             {
@@ -26056,7 +26087,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1791497366,
+                "LastUpdate": 1791506801,
                 "is_ai_attributed": false
             },
             {
@@ -28582,12 +28613,12 @@
                 "Author": "Roxyz0501",
                 "Name": "Allagan Local",
                 "InternalName": "AllaganLocalPlugin",
-                "AssemblyVersion": "0.2.0.0",
+                "AssemblyVersion": "0.2.0.1",
                 "Description": "Requires Allagan Tools for inventory and gil data; AllaganMarket is additionally required for market sales history. These source plugins must record and save data. Settings show their installed/running status. Starts the bundled local website when loaded; open it from settings or /allaganlocal. Seven interface languages.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/AllaganLocal/main/images/icon.png",
                 "RepoUrl": "https://github.com/Roxyz0501/AllaganLocal",
-                "LastUpdate": 1791441011
+                "LastUpdate": 1791504381
             },
             {
                 "Author": "Roxyz0501",
@@ -29222,11 +29253,11 @@
                 "Author": "1010",
                 "Name": "本地改名 LocalName",
                 "InternalName": "LocalName",
-                "AssemblyVersion": "0.2.39.0",
+                "AssemblyVersion": "0.2.40.0",
                 "Description": "一个修改本地名字等显示的小玩具，并添加了一些特效",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/SAD777A/1010/tree/main/LocalName",
-                "LastUpdate": 1791475260
+                "LastUpdate": 1791522973
             }
         ]
     },
@@ -34727,12 +34758,12 @@
                 "Author": "MacaronDream, DhogGPT, XA",
                 "Name": "Questionable Companion",
                 "InternalName": "QSTCompanion",
-                "AssemblyVersion": "1.1.27.0",
+                "AssemblyVersion": "1.1.28.0",
                 "Description": "Automated character rotation and quest sequence execution for Questionable.\n\nAutomates multi-character MSQ progression by intelligently switching between characters based on quest completion and level requirements. Features include:\n- Automatic character switching and quest tracking\n- MSQ progression monitoring across all characters\n- Allied Society quest rotation and prioritization\n- Event quest automation with prerequisite checking\n- Chauffeur Mode for following main character through quests\n- Data Center travel automation\n- Stop point configuration for controlled progression\n\nRequired Plugins: Questionable, AutoRetainer",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MacaronDream/QSTCompanion/main/icon.png",
                 "RepoUrl": "https://github.com/MacaronDream/QSTCompanion",
-                "LastUpdate": 1791225598
+                "LastUpdate": 1791521312
             },
             {
                 "Author": "WigglyMuffin, CryoTechnic",
