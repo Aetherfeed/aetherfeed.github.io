@@ -88,7 +88,8 @@
                 "Description": "Discord Activity Honorific with Spotify Web API fallback for Spotify local files.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/420Dasher/DAH-LocalTrackSupport",
-                "LastUpdate": 1791676326
+                "LastUpdate": 1791676326,
+                "is_ai_attributed": true
             },
             {
                 "Author": "Dash + AI",
@@ -98,7 +99,8 @@
                 "Description": "Automatic Quick Synthesis chaining beyond 99 crafts, NQ-only crafting, material and progress tracking, and configurable equipped-gear self-repair.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/420Dasher/DAH-LocalTrackSupport",
-                "LastUpdate": 1791676326
+                "LastUpdate": 1791676326,
+                "is_ai_attributed": true
             },
             {
                 "Author": "Dash + AI",
@@ -109,7 +111,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/420Dasher/DAH-LocalTrackSupport/main/plugins/RetainerUndercut/icon.png",
                 "RepoUrl": "https://github.com/420Dasher/DAH-LocalTrackSupport",
-                "LastUpdate": 1791676326
+                "LastUpdate": 1791676326,
+                "is_ai_attributed": true
             },
             {
                 "Author": "Dash + AI",
@@ -120,7 +123,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/420Dasher/DAH-LocalTrackSupport/main/SpotifyTrackHonorific/images/icon.png",
                 "RepoUrl": "https://github.com/420Dasher/DAH-LocalTrackSupport",
-                "LastUpdate": 1791676326
+                "LastUpdate": 1791676326,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -731,12 +735,12 @@
                 "Author": "DhogGPT",
                 "Name": "AI Duty Solver",
                 "InternalName": "ADS",
-                "AssemblyVersion": "1.0.0.10",
+                "AssemblyVersion": "1.0.0.12",
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/ADS/main/ADS/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1791641496,
+                "LastUpdate": 1791688630,
                 "is_ai_attributed": true
             },
             {
@@ -832,7 +836,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dduck-public/master/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/dduck-public",
-                "LastUpdate": 1791635826
+                "LastUpdate": 1791635826,
+                "is_ai_attributed": true
             },
             {
                 "Author": "DhogGPT",
@@ -956,12 +961,12 @@
                 "Author": "DhogGPT",
                 "Name": "M.O.G.T.O.M.E.",
                 "InternalName": "MOGTOME",
-                "AssemblyVersion": "3.0.0.8",
+                "AssemblyVersion": "3.0.0.10",
                 "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open. M.O.G.T.O.M.E. = Management Of Grand Tome Operations & Management Engine",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/MOGTOME/master/MOGTOME/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/MOGTOME",
-                "LastUpdate": 1791661335,
+                "LastUpdate": 1791688578,
                 "is_ai_attributed": true
             },
             {
@@ -973,7 +978,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/mom-public/main/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/mom-public",
-                "LastUpdate": 1791636085
+                "LastUpdate": 1791636085,
+                "is_ai_attributed": true
             },
             {
                 "Author": "MacaronDream, DhogGPT, XA",
@@ -984,7 +990,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MacaronDream/QSTCompanion/main/icon.png",
                 "RepoUrl": "https://github.com/MacaronDream/QSTCompanion",
-                "LastUpdate": 1791521312
+                "LastUpdate": 1791521312,
+                "is_ai_attributed": true
             },
             {
                 "Author": "DhogGPT",
@@ -1066,7 +1073,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Zod/main/XAZod/images/icon.png",
                 "RepoUrl": "https://github.com/xa-io/XA-Zod",
-                "LastUpdate": 1791345842
+                "LastUpdate": 1791345842,
+                "is_closed_source": true
             }
         ]
     },
@@ -2118,7 +2126,7 @@
                 "Author": "Angelways",
                 "Name": "OCNFarmer",
                 "InternalName": "OCNFarmer",
-                "AssemblyVersion": "2.3.0.0",
+                "AssemblyVersion": "2.3.1.0",
                 "Description": "蜃景幻界新月岛 南征之章&北征之章全自动寻宝流程。Gugu对南岛流程以及钱币购买做出了贡献。启动命令：/ocnstart；停止命令：/ocnstop。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Angelways/DalamudPlugins/main/plugins/OCNFarmer/icon.png",
@@ -3494,88 +3502,6 @@
         ]
     },
     {
-        "repo_developer_name": "auxee",
-        "repo_url": "https://raw.githubusercontent.com/auxee/AuxDalamudRepo/main/repo.json",
-        "repo_source_url": "https://github.com/auxee/AuxDalamudRepo",
-        "repo_name": "AuxDalamudRepo",
-        "plugins": [
-            {
-                "Author": "Auxie",
-                "Name": "AuxEmotion",
-                "InternalName": "AuxEmotion",
-                "AssemblyVersion": "0.1.0.0",
-                "Description": "Credit to FoxShadow10 for the original AutoEmotion plugin. This version builds on that base and adds macro-slot responses directly in the Emote Reaction table, alongside emote and expression reactions.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/auxee/AuxEmotion/main/plugin_icon.png",
-                "RepoUrl": "https://github.com/auxee/AuxEmotion",
-                "LastUpdate": 1779016473,
-                "is_ai_attributed": true
-            },
-            {
-                "Author": "Auxie",
-                "Name": "AuxMarketboard",
-                "InternalName": "AuxMarketboard",
-                "AssemblyVersion": "0.1.0.0",
-                "Description": "Builds an item list manually or from artisan/teamcraft link imports, fetches marketboard prices from Universalis, and shows per-item plus total cost.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/auxee/AuxMarketboard/main/AuxMarketboard/plugin_icon.png",
-                "RepoUrl": "https://github.com/auxee/AuxMarketboard",
-                "LastUpdate": 1779017966,
-                "is_ai_attributed": true
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "auxee",
-        "repo_url": "https://raw.githubusercontent.com/auxee/AuxEmotion/main/repo.json",
-        "repo_source_url": "https://github.com/auxee/AuxEmotion",
-        "repo_name": "AuxEmotion",
-        "plugins": [
-            {
-                "Author": "Auxie",
-                "Name": "AuxEmotion",
-                "InternalName": "AuxEmotion",
-                "AssemblyVersion": "0.1.0.0",
-                "Description": "Credit to FoxShadow10 for the original AutoEmotion plugin. This version builds on that base and adds macro-slot responses directly in the Emote Reaction table, alongside emote and expression reactions.",
-                "IconUrl": "https://raw.githubusercontent.com/Spoooki/AuxEmotion/main/AuxEmotion/plugin_icon.png",
-                "RepoUrl": "https://github.com/Spoooki/AuxEmotion",
-                "LastUpdate": 1779016473,
-                "is_ai_attributed": true
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "auxee",
-        "repo_url": "https://raw.githubusercontent.com/auxee/AuxMarketboard/main/AuxieDalamudRepo/repo.json",
-        "repo_source_url": "https://github.com/auxee/AuxMarketboard",
-        "repo_name": "AuxMarketboard",
-        "plugins": [
-            {
-                "Author": "Auxie",
-                "Name": "AuxEmotion",
-                "InternalName": "AuxEmotion",
-                "AssemblyVersion": "0.1.0.0",
-                "Description": "Credit to FoxShadow10 for the original AutoEmotion plugin. This version builds on that base and adds macro-slot responses directly in the Emote Reaction table, alongside emote and expression reactions.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/Auxie/AuxEmotion",
-                "LastUpdate": 1779017966,
-                "is_ai_attributed": true
-            },
-            {
-                "Author": "Auxie",
-                "Name": "AuxMarketboard",
-                "InternalName": "AuxMarketboard",
-                "AssemblyVersion": "0.1.0.0",
-                "Description": "Builds an item list manually or from artisan/teamcraft link imports, fetches marketboard prices from Universalis, and shows per-item plus total cost.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/auxee/AuxMarketboard/main/AuxMarketboard/plugin_icon.png",
-                "RepoUrl": "https://github.com/Auxie/AuxMarketboard",
-                "LastUpdate": 1779017966,
-                "is_ai_attributed": true
-            }
-        ]
-    },
-    {
         "repo_developer_name": "AvariceHnt",
         "repo_url": "https://raw.githubusercontent.com/AvariceHnt/Center-Map/main/repo.json",
         "repo_source_url": "https://github.com/AvariceHnt/Center-Map",
@@ -4456,12 +4382,12 @@
                 "Author": "Boloni",
                 "Name": "Equinox Companion",
                 "InternalName": "EquinoxCompanion",
-                "AssemblyVersion": "0.5.1.120",
+                "AssemblyVersion": "0.5.1.125",
                 "Description": "Records house entries and confirmed tending locally, with optional paired sync to Equinox Journal. English garden menus supported.",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/boloni96/Equinox-Companion/main/dist/v0.5.1.120/icon.png",
+                "IconUrl": "https://raw.githubusercontent.com/boloni96/Equinox-Companion/main/dist/v0.5.1.125/icon.png",
                 "RepoUrl": "https://github.com/boloni96/Equinox-Companion",
-                "LastUpdate": 1791682189
+                "LastUpdate": 1791701348
             }
         ]
     },
@@ -5129,24 +5055,6 @@
         ]
     },
     {
-        "repo_developer_name": "catrenelle",
-        "repo_url": "https://raw.githubusercontent.com/catrenelle/OceanTrip-Dalamud/main/repo/pluginmaster.json",
-        "repo_source_url": "https://github.com/catrenelle/OceanTrip-Dalamud",
-        "repo_name": "OceanTrip-Dalamud",
-        "plugins": [
-            {
-                "Author": "Lashek",
-                "Name": "Ocean Trip",
-                "InternalName": "OceanTripDalamud",
-                "AssemblyVersion": "0.0.83.0",
-                "Description": "Ground-up Dalamud port of the OceanTrip RebornBuddy botbase — automates bait/hook/lure decisions and GP management across an Ocean Fishing voyage, using vnavmesh for movement.",
-                "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/catrenelle/OceanTrip-Dalamud",
-                "LastUpdate": 1791583463
-            }
-        ]
-    },
-    {
         "repo_developer_name": "catumin",
         "repo_url": "https://raw.githubusercontent.com/catumin/Dalamud-Repo/main/repo.json",
         "repo_source_url": "https://github.com/catumin/Dalamud-Repo",
@@ -5329,12 +5237,12 @@
                 "Author": "CheesyChiz",
                 "Name": "Emote Shelf",
                 "InternalName": "EmoteShelf",
-                "AssemblyVersion": "0.3.5.1",
+                "AssemblyVersion": "0.3.6.0",
                 "Description": "Find installed Penumbra emote replacements, bookmark mod-emote pairs and option variants on a movable panel, and temporarily prioritize the selected mod before playing its emote. Settings: /eshelf. Requires Penumbra.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/CheesyChiz/EmoteShelf/main/assets/icon.png",
                 "RepoUrl": "https://github.com/CheesyChiz/EmoteShelf",
-                "LastUpdate": 1791635503
+                "LastUpdate": 1791702025
             },
             {
                 "Author": "CheesyChiz",
@@ -8974,7 +8882,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/TenaciousDaveBlack/Dote-a-base/main/XIVPlugins/Icon.png",
                 "RepoUrl": "https://github.com/TenaciousDaveBlack/Dote-a-base",
-                "LastUpdate": 1784240443
+                "LastUpdate": 1784240443,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -10011,7 +9920,8 @@
                 "Description": "DMU P4 assignment helper with manual and experimental automatic mechanic detection.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/frocodes01/helpfulp4",
-                "LastUpdate": 1791042600
+                "LastUpdate": 1791042600,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -10029,7 +9939,8 @@
                 "Description": "DMU P4 assignment helper with manual and automatic mechanic detection.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/frocodes01/helpfulp4-releases",
-                "LastUpdate": 1791042600
+                "LastUpdate": 1791042600,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -12885,12 +12796,12 @@
                 "Author": "jFray",
                 "Name": "EchoMix",
                 "InternalName": "EchoMix.Plugin",
-                "AssemblyVersion": "2.0.0.5",
+                "AssemblyVersion": "2.0.0.6",
                 "Description": "An interactive DJ deck with live mixing tools, custom playlists, and a synced listener mode with an audio visualizer.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/jfraygit/EchoXIV/main/icons/echomix-icon.png",
                 "RepoUrl": "https://github.com/jfraygit/EchoXIV/tree/main/EchoMix",
-                "LastUpdate": 1791663136
+                "LastUpdate": 1791691207
             },
             {
                 "Author": "jFray",
@@ -13199,11 +13110,11 @@
                 "Author": "Join-Taoist",
                 "Name": "Zhuangzi",
                 "InternalName": "Zhuangzi",
-                "AssemblyVersion": "0.1.12.45",
+                "AssemblyVersion": "0.1.12.51",
                 "Description": "/zz→打开Zhuangzi配置窗口",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Join-Taoist/Join-Taoist-Zhuangzi-Repo",
-                "LastUpdate": 1791657549
+                "LastUpdate": 1791691573
             }
         ]
     },
@@ -15423,12 +15334,12 @@
                 "Author": "kosta",
                 "Name": "Lost Focus Tracker",
                 "InternalName": "LostFocus",
-                "AssemblyVersion": "0.4.1.0",
+                "AssemblyVersion": "0.5.0.0",
                 "Description": "Sends online status, playtime, zone/duty, deaths, floor time, wipes, job/gear, PvP record and emote counts to the Lost Focus meme site. Every category can be turned off in /lostfocus.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/kosta-jorgji/lost-focus-dalamud/main/repo/icon.png",
                 "RepoUrl": "https://github.com/kosta-jorgji/lost-focus-dalamud",
-                "LastUpdate": 1791659980,
+                "LastUpdate": 1791687117,
                 "is_ai_attributed": true
             }
         ]
@@ -15543,12 +15454,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.756.3.45",
+                "AssemblyVersion": "15.756.3.46",
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1791673240,
+                "LastUpdate": 1791688453,
                 "is_ai_attributed": false
             },
             {
@@ -15888,7 +15799,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Kyuuso/dalamud-plugins/main/plugins/EurekaSuite/images/icon.png",
                 "RepoUrl": "https://github.com/Kyuuso/dalamud-plugins",
-                "LastUpdate": 1791664623
+                "LastUpdate": 1791689703
             }
         ]
     },
@@ -18606,12 +18517,12 @@
                 "Author": "DhogGPT",
                 "Name": "AI Duty Solver",
                 "InternalName": "ADS",
-                "AssemblyVersion": "1.0.0.10",
+                "AssemblyVersion": "1.0.0.12",
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/ADS/main/ADS/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1791641496,
+                "LastUpdate": 1791688630,
                 "is_ai_attributed": true
             }
         ]
@@ -18631,7 +18542,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/BFE/main/BFE/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/BFE",
-                "LastUpdate": 1791635693
+                "LastUpdate": 1791635693,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -18670,7 +18582,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/ChocoboColourized/main/ChocoboColourized/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/ChocoboColourized",
-                "LastUpdate": 1791635739
+                "LastUpdate": 1791635739,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -18749,7 +18662,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dduck-public/master/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/dduck-public",
-                "LastUpdate": 1791635826
+                "LastUpdate": 1791635826,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -18962,12 +18876,12 @@
                 "Author": "DhogGPT",
                 "Name": "M.O.G.T.O.M.E.",
                 "InternalName": "MOGTOME",
-                "AssemblyVersion": "3.0.0.8",
+                "AssemblyVersion": "3.0.0.10",
                 "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/MOGTOME/master/MOGTOME/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/MOGTOME",
-                "LastUpdate": 1791661335,
+                "LastUpdate": 1791688578,
                 "is_ai_attributed": true
             }
         ]
@@ -18987,7 +18901,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/mom-public/main/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/mom-public",
-                "LastUpdate": 1791636085
+                "LastUpdate": 1791636085,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -19006,7 +18921,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/ADS/main/ADS/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1791641496
+                "LastUpdate": 1791641496,
+                "is_ai_attributed": true
             },
             {
                 "Author": "DhogGPT",
@@ -19017,7 +18933,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/BFE/main/BFE/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/BFE",
-                "LastUpdate": 1791635693
+                "LastUpdate": 1791635693,
+                "is_ai_attributed": true
             },
             {
                 "Author": "DhogGPT",
@@ -19064,7 +18981,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/Coppelia/main/Coppelia/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/Coppelia",
-                "LastUpdate": 1791635774
+                "LastUpdate": 1791635774,
+                "is_ai_attributed": true
             },
             {
                 "Author": "DhogGPT",
@@ -19075,7 +18993,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dad/main/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/dad",
-                "LastUpdate": 1791635805
+                "LastUpdate": 1791635805,
+                "is_ai_attributed": true
             },
             {
                 "Author": "DhogGPT",
@@ -19122,7 +19041,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/footballer/main/footballer/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/footballer",
-                "LastUpdate": 1791636001
+                "LastUpdate": 1791636001,
+                "is_ai_attributed": true
             },
             {
                 "Author": "DhogGPT",
@@ -20311,26 +20231,6 @@
     },
     {
         "repo_developer_name": "mr-reeh",
-        "repo_url": "https://raw.githubusercontent.com/mr-reeh/Flash/main/repo.json",
-        "repo_source_url": "https://github.com/mr-reeh/Flash",
-        "repo_name": "Flash",
-        "plugins": [
-            {
-                "Author": "MrReeh",
-                "Name": "Flash",
-                "InternalName": "Flash",
-                "AssemblyVersion": "0.4.0.0",
-                "Description": "Automatically changes a character's gear via Glamourer to Smallclothes or the Emperor's New Set when specified emotes or combat actions are used, with per-slot control, delay, and duration options, then reverts back to normal gear.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/mr-reeh/flash/main/images/icon.png",
-                "RepoUrl": "https://github.com/mr-reeh/flash",
-                "LastUpdate": 1788360370,
-                "is_ai_attributed": true
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "mr-reeh",
         "repo_url": "https://raw.githubusercontent.com/mr-reeh/flash/main/repo.json",
         "repo_source_url": "https://github.com/mr-reeh/flash",
         "repo_name": "flash",
@@ -20341,6 +20241,26 @@
                 "InternalName": "Flash",
                 "AssemblyVersion": "0.4.0.0",
                 "Description": "Watches for configured emotes and swaps your outfit via Glamourer while (and optionally only while) you're performing them, then reverts back to your normal gear afterward.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/mr-reeh/flash/main/images/icon.png",
+                "RepoUrl": "https://github.com/mr-reeh/flash",
+                "LastUpdate": 1788360370,
+                "is_ai_attributed": true
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "mr-reeh",
+        "repo_url": "https://raw.githubusercontent.com/mr-reeh/Flash/main/repo.json",
+        "repo_source_url": "https://github.com/mr-reeh/Flash",
+        "repo_name": "Flash",
+        "plugins": [
+            {
+                "Author": "MrReeh",
+                "Name": "Flash",
+                "InternalName": "Flash",
+                "AssemblyVersion": "0.4.0.0",
+                "Description": "Automatically changes a character's gear via Glamourer to Smallclothes or the Emperor's New Set when specified emotes or combat actions are used, with per-slot control, delay, and duration options, then reverts back to normal gear.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/mr-reeh/flash/main/images/icon.png",
                 "RepoUrl": "https://github.com/mr-reeh/flash",
@@ -22952,7 +22872,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Nonunon/Nonuglon/master/Nonuglon/images/icon.png",
                 "RepoUrl": "https://github.com/Nonunon/Nonuglon",
-                "LastUpdate": 1791459650
+                "LastUpdate": 1791459650,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -23609,7 +23530,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Olympia-Guardian/AutoLoseVerminion/main/icon.png",
                 "RepoUrl": "https://github.com/Olympia-Guardian/AutoLoseVerminion",
-                "LastUpdate": 1787837683
+                "LastUpdate": 1787837683,
+                "is_ai_attributed": true
             },
             {
                 "Author": "Olympia-Guardian",
@@ -23620,7 +23542,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Olympia-Guardian/CodexOlympia/main/icon.png",
                 "RepoUrl": "https://github.com/Olympia-Guardian/codex-olympia-dalamud",
-                "LastUpdate": 1789593364
+                "LastUpdate": 1789593364,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -23649,7 +23572,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Olympia-Guardian/AutoLoseVerminion/main/icon.png",
                 "RepoUrl": "https://github.com/Olympia-Guardian/AutoLoseVerminion",
-                "LastUpdate": 1787837683
+                "LastUpdate": 1787837683,
+                "is_ai_attributed": true
             },
             {
                 "Author": "Olympia-Guardian",
@@ -23660,7 +23584,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Olympia-Guardian/CodexOlympia/main/icon.png",
                 "RepoUrl": "https://github.com/Olympia-Guardian/CodexOlympia",
-                "LastUpdate": 1789593364
+                "LastUpdate": 1789593364,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -23847,7 +23772,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/OnizakiMurasaki/ChocoboTrainer/main/icon.png",
                 "RepoUrl": "https://github.com/OnizakiMurasaki/ChocoboTrainer",
-                "LastUpdate": 1791106557
+                "LastUpdate": 1791106557,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -24896,7 +24822,8 @@
                 "Description": "Use /holdem to open the window.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Pistachio-dev/Texas-Hold-em-Helper-Plugin",
-                "LastUpdate": 1790372494
+                "LastUpdate": 1790372494,
+                "is_closed_source": true
             }
         ]
     },
@@ -25564,7 +25491,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/47",
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1791631227
+                "LastUpdate": 1791692842
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -25646,12 +25573,12 @@
                 "Author": "the Puni.sh Quest Squad",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.756.3.45",
+                "AssemblyVersion": "15.756.3.46",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1791673240
+                "LastUpdate": 1791688453
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -26778,11 +26705,11 @@
                 "Author": "liza, qstxiv, & various contributors & QianChang",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.756.3.4304",
+                "AssemblyVersion": "15.756.3.4305",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/QianChangUwU/Questionable",
-                "LastUpdate": 1791607357,
+                "LastUpdate": 1791691259,
                 "is_ai_attributed": true
             },
             {
@@ -28580,11 +28507,11 @@
                 "Author": "Riphtix",
                 "Name": "Custom Quest Guide",
                 "InternalName": "CustomQuestGuide",
-                "AssemblyVersion": "1.0.0.0",
+                "AssemblyVersion": "1.1.13.0",
                 "Description": "Tracks FFXIV acquisition, unlock, and progression targets and helps determine what to do next.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Riphtix/CustomQuestGuide",
-                "LastUpdate": 1791678840
+                "LastUpdate": 1791704463
             }
         ]
     },
@@ -28990,67 +28917,81 @@
                 "Author": "Roxyz0501",
                 "Name": "Aether Current Navigator",
                 "InternalName": "AetherCurrentUnlocker",
-                "AssemblyVersion": "0.3.1.0",
+                "AssemblyVersion": "1.0.0.0",
                 "Description": "Shows field Aether Current and quest progress by expansion and area. It can process the current area or a selected expansion, using vnavmesh for field travel and Questionable for quests. Includes a map view, individual actions, route recalculation, and English/Japanese UI.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/AetherCurrentUnlocker/main/AetherCurrentUnlocker/images/icon.png",
                 "RepoUrl": "https://github.com/Roxyz0501/AetherCurrentUnlocker",
-                "LastUpdate": 1791439624
+                "LastUpdate": 1791703035,
+                "is_ai_attributed": true
             },
             {
                 "Author": "Roxyz0501",
                 "Name": "BGMPlayer",
                 "InternalName": "AetherRadio",
-                "AssemblyVersion": "0.1.7.0",
+                "AssemblyVersion": "1.0.0.0",
                 "Description": "拡張・ジャンルのタブとコンテンツ名で曲を探せるBGMプレイヤーです。お気に入り、マイリスト、ランダム再生に対応しています。ミニプレイヤーは上部をドラッグして移動できます。\n\n/bgmplayer で開く\n/bgmplayer stop で通常のBGMに戻す",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/AetherRadio/main/images/icon.png",
                 "RepoUrl": "https://github.com/Roxyz0501/AetherRadio",
-                "LastUpdate": 1791440520
+                "LastUpdate": 1791704130
             },
             {
                 "Author": "Roxyz0501",
                 "Name": "Allagan Local",
                 "InternalName": "AllaganLocalPlugin",
-                "AssemblyVersion": "0.2.0.1",
+                "AssemblyVersion": "1.0.0.0",
                 "Description": "Requires Allagan Tools for inventory and gil data; AllaganMarket is additionally required for market sales history. These source plugins must record and save data. Settings show their installed/running status. Starts the bundled local website when loaded; open it from settings or /allaganlocal. Seven interface languages.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/AllaganLocal/main/images/icon.png",
                 "RepoUrl": "https://github.com/Roxyz0501/AllaganLocal",
-                "LastUpdate": 1791504381
+                "LastUpdate": 1791703447
+            },
+            {
+                "Author": "Roxyz0501",
+                "Name": "Bait Beacon",
+                "InternalName": "BaitBeacon",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "Select a saved GatherBuddy Reborn Auto-Gather list and highlight its required fishing bait in supported inventory windows. Mooch routes and source fish bait are included, and spearfishing items are skipped. Overall and per-window highlighting switches. Reads the saved list without modifying it. Seven UI languages. In-game overlay placement is pending verification.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/BaitBeacon/main/BaitBeacon/images/icon.png",
+                "RepoUrl": "https://github.com/Roxyz0501/BaitBeacon",
+                "LastUpdate": 1791703395
             },
             {
                 "Author": "Roxyz0501",
                 "Name": "Character Archive",
                 "InternalName": "CharacterArchive",
-                "AssemblyVersion": "0.6.0.0",
+                "AssemblyVersion": "1.0.0.0",
                 "Description": "Stores logged-in character details, jobs, playtime, Lodestone IDs, and configuration-folder mappings locally, then presents them in a searchable UI and CSV export. Optional external lookup and login-time playtime acquisition require explicit settings.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/CharacterArchive/main/CharacterArchive/images/icon.png",
                 "RepoUrl": "https://github.com/Roxyz0501/CharacterArchive",
-                "LastUpdate": 1791438385
+                "LastUpdate": 1791703352,
+                "is_ai_attributed": true
             },
             {
                 "Author": "Roxyz0501",
                 "Name": "Glamour Saver",
                 "InternalName": "GlamourSaver",
-                "AssemblyVersion": "0.5.1.0",
+                "AssemblyVersion": "1.0.0.0",
                 "Description": "Adds a SendDiscord button beside the Examine window. Only when pressed, it posts a cropped image, target character name, appearance item names, and Eorzea Database search links to the configured Discord Webhook. The UI supports English and Japanese.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/GlamourSaver/main/GlamourSaver/images/icon.png",
                 "RepoUrl": "https://github.com/Roxyz0501/GlamourSaver",
-                "LastUpdate": 1791439189
+                "LastUpdate": 1791703310,
+                "is_ai_attributed": true
             },
             {
                 "Author": "Roxyz0501",
                 "Name": "Retainer Listing Helper",
                 "InternalName": "RetainerRecall",
-                "AssemblyVersion": "0.3.0.0",
+                "AssemblyVersion": "1.0.0.0",
                 "Description": "販売リストの左下に2つの回収ボタンを表示します。各ボタンの表示、待機秒数、位置を設定可能。1件ずつ結果を確認して回収します。初期公開版・実機検証待ち。設定: /retainerrecall",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Roxyz0501/RetainerRecall/main/images/icon.png",
                 "RepoUrl": "https://github.com/Roxyz0501/RetainerRecall",
-                "LastUpdate": 1791438412
+                "LastUpdate": 1791703795
             }
         ]
     },
@@ -29652,11 +29593,11 @@
                 "Author": "1010",
                 "Name": "本地改名 LocalName",
                 "InternalName": "LocalName",
-                "AssemblyVersion": "0.2.44.5",
+                "AssemblyVersion": "0.2.44.6",
                 "Description": "一个修改本地名字等显示的小玩具，并添加了一些特效",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/SAD777A/1010/tree/main/LocalName",
-                "LastUpdate": 1791618172
+                "LastUpdate": 1791703820
             }
         ]
     },
@@ -29676,6 +29617,25 @@
                 "IconUrl": "https://raw.githubusercontent.com/sadoniaveletoria/MogFlix/main/images/icon.png",
                 "RepoUrl": "https://github.com/sadoniaveletoria/MogFlix",
                 "LastUpdate": 1791084815
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "sadoniaveletoria",
+        "repo_url": "https://raw.githubusercontent.com/sadoniaveletoria/TargetZoom/main/repo.json",
+        "repo_source_url": "https://github.com/sadoniaveletoria/TargetZoom",
+        "repo_name": "TargetZoom",
+        "plugins": [
+            {
+                "Author": "Sadonia",
+                "Name": "Target Zoom",
+                "InternalName": "TargetZoom",
+                "AssemblyVersion": "0.0.0.2",
+                "Description": "Right-click any character in the world, on the party list or in chat and pick Zoom In. The camera swings around to face them and moves in close, and it stays on them as they move.\n\n• Nearby list: everyone around you with job icons, distance and a name search. Double-click to zoom, right-click for options.\n• Framing pad: drag to slide the view around them to set up the shot.\n• Mirror: look at yourself from the front to check your glam or expression.\n• Player Sync / Lightless: filter the list to synced people, with PS / LL badges.\n• Top bar button to open it, showing who you're zoomed on.\n\nWhen you stop, the camera returns behind you at your old zoom. It stops on its own if they leave, you zone, a cutscene starts or you enter combat — all adjustable in settings.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/sadoniaveletoria/TargetZoom/main/images/icon.png",
+                "RepoUrl": "https://github.com/sadoniaveletoria/TargetZoom",
+                "LastUpdate": 1791684456
             }
         ]
     },
@@ -31106,12 +31066,12 @@
                 "Author": "XSZYYS",
                 "Name": "XSZToolbox",
                 "InternalName": "XSZToolbox",
-                "AssemblyVersion": "1.7.7.8",
+                "AssemblyVersion": "1.7.7.9",
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ShoOtaku/DalamudPlugins/main/plugins/XSZToolbox/icon.png",
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins/tree/main/plugins/XSZToolbox",
-                "LastUpdate": 1791643881,
+                "LastUpdate": 1791704029,
                 "is_closed_source": true
             }
         ]
@@ -31192,25 +31152,6 @@
                 "RepoUrl": "https://github.com/Sin7000git/GlamourTrackerPlus",
                 "LastUpdate": 1786646690,
                 "is_ai_attributed": true
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "Sinesters",
-        "repo_url": "https://raw.githubusercontent.com/Sinesters/blasttv-dist/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/Sinesters/blasttv-dist",
-        "repo_name": "blasttv-dist",
-        "plugins": [
-            {
-                "Author": "SinesterPT",
-                "Name": "BlastTV",
-                "InternalName": "BlastTV",
-                "AssemblyVersion": "0.1.4.0",
-                "Description": "Put a TV on your house wall playing video from YouTube, Twitch or Kick.\n\nEveryone announces their own TV and you pick which one to watch. Whoever tunes in sees the screen on the wall the owner chose, at the size they set.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/Sinesters/blasttv-dist/main/icon.png",
-                "RepoUrl": "https://github.com/Sinesters/blasttv-dist",
-                "LastUpdate": 1789135851
             }
         ]
     },
@@ -31696,7 +31637,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://dl.solona.info/icon.png",
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1791678810,
+                "LastUpdate": 1791686060,
                 "is_ai_attributed": true
             }
         ]
@@ -32107,11 +32048,11 @@
                 "Author": "spvvd",
                 "Name": "Gil Planner",
                 "InternalName": "GilPlanner",
-                "AssemblyVersion": "1.0.0.0",
+                "AssemblyVersion": "1.0.1.0",
                 "Description": "Track craftable items and compare flipping, crafting and gathering profit using Universalis market data.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Spvvd/gilplanner",
-                "LastUpdate": 1791620035
+                "LastUpdate": 1791700971
             }
         ]
     },
@@ -33080,7 +33021,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/TenaciousDaveBlack/Dote-a-base/main/XIVPlugins/Icon.png",
                 "RepoUrl": "https://github.com/TenaciousDaveBlack/Dote-a-base",
-                "LastUpdate": 1784240443
+                "LastUpdate": 1784240443,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -34872,7 +34814,7 @@
                 "Author": "Voudi",
                 "Name": "AlphaChannel",
                 "InternalName": "AlphaChannel.Plugin",
-                "AssemblyVersion": "2.2.0.0",
+                "AssemblyVersion": "2.2.0.1",
                 "Description": "Renders an in-world video screen and syncs playback with other players running AlphaChannel over a self-hosted relay.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Kodie0/AlphaChannelKodie",
@@ -35054,12 +34996,12 @@
                 "Author": "Drovolon / WayuSama",
                 "Name": "Pulsar",
                 "InternalName": "Pulsar",
-                "AssemblyVersion": "0.0.3.1",
+                "AssemblyVersion": "0.0.3.102",
                 "Description": "基于原版 Pulsar，加入 GD音乐台搜索、播放和队列功能。输入 /pulsar 打开界面。音乐同步需要兼容的同步插件，播放者和听众均需安装 Pulsar。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/WayuSama/Pulsar/main/Pulsar/images/icon.png",
                 "RepoUrl": "https://github.com/WayuSama/Pulsar",
-                "LastUpdate": 1791656881
+                "LastUpdate": 1791691101
             }
         ]
     },
@@ -35187,11 +35129,11 @@
                 "Author": "Steelgunner90",
                 "Name": "FFXIV VR",
                 "InternalName": "FfxivVR",
-                "AssemblyVersion": "0.0.80.0",
+                "AssemblyVersion": "0.0.81.0",
                 "Description": "A VR plugin for FFXIV.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/WesleyLuk90/ffxiv-vr",
-                "LastUpdate": 1791659711
+                "LastUpdate": 1791694541
             }
         ]
     },
@@ -35239,7 +35181,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MacaronDream/QSTCompanion/main/icon.png",
                 "RepoUrl": "https://github.com/MacaronDream/QSTCompanion",
-                "LastUpdate": 1791521312
+                "LastUpdate": 1791521312,
+                "is_ai_attributed": true
             },
             {
                 "Author": "WigglyMuffin, CryoTechnic",
@@ -35610,7 +35553,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Zod/main/XAZod/images/icon.png",
                 "RepoUrl": "https://github.com/xa-io/XA-Zod",
-                "LastUpdate": 1791345842
+                "LastUpdate": 1791345842,
+                "is_closed_source": true
             }
         ]
     },
@@ -36758,7 +36702,8 @@
                 "Description": "Fades the screen to black when the game is in the background or when you are away. You can change the behavior for duties, crafting, and other situations. A timer shows that the game is still running. This plugin helps to prevent burn-in on OLED monitors.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/yjohnson-dev/Blackout",
-                "LastUpdate": 1791067484
+                "LastUpdate": 1791067484,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -36931,12 +36876,12 @@
                 "Author": "youdianfengbao (基于 PunishXIV/Questionable)",
                 "Name": "Questionable (国服汉化)",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.756.3.43",
+                "AssemblyVersion": "15.756.3.46",
                 "Description": "国服汉化版自动任务插件，基于 PunishXIV/Questionable。可在尽可能的情况下自动完成游戏任务。\n所需插件：vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://qstxiv.github.io/icons/Questionable.png",
                 "RepoUrl": "https://github.com/youdianfengbao/Questionable",
-                "LastUpdate": 1791635348,
+                "LastUpdate": 1791689421,
                 "is_ai_attributed": true
             },
             {
@@ -37017,19 +36962,19 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Macro%20Redirection/cursor_hr1.png",
                 "RepoUrl": "https://github.com/YouShux/DalamudPlugins/blob/main/Plugins/Macro%20Redirection/Macro%20Redirection.zip",
-                "LastUpdate": 1791549588,
+                "LastUpdate": 1791690877,
                 "is_closed_source": true
             },
             {
                 "Author": "YouShu",
                 "Name": "Omni Toolbox",
                 "InternalName": "OmniToolbox",
-                "AssemblyVersion": "1.1.6.5",
+                "AssemblyVersion": "1.1.6.6",
                 "Description": "支持物品价格查询、商店购买与兑换位置查找、库存追踪、食物/药品期望计算、物品监控预警自动补货、传送以及坐骑/宠物/发型/绘画作品的悬浮窗预览等等。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Resources/%E5%9B%BE%E6%A0%87.png",
                 "RepoUrl": "https://github.com/YouShux/DalamudPlugins/blob/main/Plugins/Omni%20Toolbox/Omni%20Toolbox.zip",
-                "LastUpdate": 1791549588,
+                "LastUpdate": 1791690877,
                 "is_closed_source": true
             }
         ]
@@ -37049,7 +36994,8 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/YozoraCho/Placard/master/docs/icon.png",
                 "RepoUrl": "https://github.com/YozoraCho/Placard",
-                "LastUpdate": 1790623460
+                "LastUpdate": 1790623460,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -37375,6 +37321,24 @@
                 "IconUrl": "https://raw.githubusercontent.com/zheWn/RSRcnPU/main/Images/Logo.png",
                 "RepoUrl": "https://github.com/zheWn/RSRcnPU",
                 "LastUpdate": 1787712830
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "zhichao027-wq",
+        "repo_url": "https://raw.githubusercontent.com/zhichao027-wq/MCHPvPRotation/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/zhichao027-wq/MCHPvPRotation",
+        "repo_name": "MCHPvPRotation",
+        "plugins": [
+            {
+                "Author": "zhichao027-wq",
+                "Name": "机工 PvP 循环",
+                "InternalName": "MCHPvPRotation",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "为机工士提供战场 PvP 的自动循环，包含野火爆发、钻头/空气锚/回转飞锯、炮塔、分析与 LB 的时机判断。\n\n⚠️ 风险声明：本插件属于战斗自动化，可能违反游戏服务条款，使用存在封号风险，请自行判断是否使用。作者不对任何后果负责。\n\n本插件完全独立实现，不依赖任何需要验证码的运行时环境。",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/zhichao027-wq/MCHPvPRotation",
+                "LastUpdate": 1791697774
             }
         ]
     },
