@@ -244,7 +244,7 @@ const PluginCard: React.FC<PluginCardProps> = ({ plugin, maxApiLevel, showIcon, 
                         {plugin.is_ai_attributed && (
                             <span
                                 className="inline-flex items-center gap-0.5 px-1 py-1.5 rounded-lg transition-colors text-violet-400/90 hover:text-violet-500 dark:text-violet-400/70 dark:hover:text-violet-300 hover:bg-violet-50 dark:hover:bg-violet-500/10"
-                                title="Likely has AI-written code, based on the contributor list and general AI coding patterns"
+                                title="Likely developed with AI, based on author credits, commits, contributors, or repository files"
                                 aria-label="Likely AI-written code"
                             >
                                 <svg

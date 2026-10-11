@@ -98,7 +98,7 @@ const Home: React.FC = () => {
                 label: 'Hide likely AI-written plugins',
                 value: 'hide_ai',
                 tooltip:
-                    'Hides plugins that likely used AI, based on the contributor list and general AI coding patterns'
+                    'Hides plugins flagged for AI use in author credits, commits, contributors, or repository files'
             },
             {
                 label: 'Hide plugin icons',
