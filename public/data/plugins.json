@@ -6286,12 +6286,12 @@
                 "Author": "fire",
                 "Name": "FireGaze",
                 "InternalName": "FireGaze",
-                "AssemblyVersion": "1.4.0.18",
+                "AssemblyVersion": "1.4.0.25",
                 "Description": "FireGaze 是给卫月（Dalamud）用的一体化工具箱，三种功能：① 插件简介汉化：内置 1500+ 条第三方插件简中词表，安装器里的插件名、一行简介、插件详情都可以独立选择「英语原版 / 中文 / 双语」呈现（默认：名字原版、简介中文、详情中英对照）；② 第三方仓库体检：一键扫描你添加的全部库（含已停用的），找出死链、内容不合规、连接失败的条目并列出，支持一键停用、一键删除（删除前自动备份、可撤回）；③ 列表自动刷新拦截：部分插件（如「每日随记」Daily Routines、XSZToolbox，以及经 OmenTools 等公共库转发的调用）会每 10 分钟反射调用卫月「重载全部仓库」，导致安装器列表自刷新、滚动位置被顶回顶部；本插件按调用来源拦截这些后台刷新，手动刷新与打开安装器不受影响。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/DCritHitFireIV/FireGaze/main/Resources/icon.png?v=2",
                 "RepoUrl": "https://github.com/DCritHitFireIV/FireGaze",
-                "LastUpdate": 1791631442
+                "LastUpdate": 1791782953
             }
         ]
     },
@@ -9163,12 +9163,12 @@
                 "Author": "mirage",
                 "Name": "Enhanced Quick Panel",
                 "InternalName": "EnhancedQuickPanel",
-                "AssemblyVersion": "1.2.0.0",
+                "AssemblyVersion": "1.3.0.0",
                 "Description": "A customizable quick panel overlay for actions, items, macros, and text commands, with multiple pages and style presets.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/exatrines/EnhancedQuickPanel/master/EnhancedQuickPanel/Data/plugin-icon.png",
                 "RepoUrl": "https://github.com/exatrines/EnhancedQuickPanel",
-                "LastUpdate": 1791508416
+                "LastUpdate": 1791782561
             },
             {
                 "Author": "mirage",
@@ -9190,7 +9190,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/exatrines/Oracle/main/Oracle/Data/plugin-icon.png",
                 "RepoUrl": "https://github.com/exatrines/Oracle",
-                "LastUpdate": 1791536091
+                "LastUpdate": 1791797944
             },
             {
                 "Author": "mirage",
@@ -9485,12 +9485,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "BossMod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.6.34",
+                "AssemblyVersion": "7.5.6.35",
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1791581881
+                "LastUpdate": 1791795323
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -9839,6 +9839,25 @@
                 "IconUrl": "https://raw.githubusercontent.com/Ottermandias/Glamourer/main/images/icon.png",
                 "RepoUrl": "https://github.com/ForkSake/test",
                 "LastUpdate": 1742097602
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "FortyFive00",
+        "repo_url": "https://raw.githubusercontent.com/FortyFive00/DutyHuddle/main/repo.json",
+        "repo_source_url": "https://github.com/FortyFive00/DutyHuddle",
+        "repo_name": "DutyHuddle",
+        "plugins": [
+            {
+                "Author": "DutyHuddle",
+                "Name": "DutyHuddle",
+                "InternalName": "DutyHuddle",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "Compare daily roulettes and Wondrous Tails with your party, and get advice on your journal.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/FortyFive00/DutyHuddle/main/src/DutyHuddle/images/icon.png",
+                "RepoUrl": "https://github.com/FortyFive00/DutyHuddle",
+                "LastUpdate": 1791784491
             }
         ]
     },
@@ -10963,6 +10982,17 @@
                 "LastUpdate": 1743197579
             },
             {
+                "Author": "Kanwa",
+                "Name": "Mass Withdraw",
+                "InternalName": "MassWithdraw",
+                "AssemblyVersion": "1.0.2.0",
+                "Description": "Withdraw all items from your retainer into your inventory.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://kanww.github.io/Mass-Withdraw/releases/icon128.png",
+                "RepoUrl": "https://kanww.github.io/Mass-Withdraw/",
+                "LastUpdate": 1766561400
+            },
+            {
                 "Author": "veynH",
                 "Name": "SatisfierH",
                 "InternalName": "vsatisfy",
@@ -11112,7 +11142,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/HaselTweaks/refs/heads/main/HaselTweaks/Assets/Icon.png",
                 "RepoUrl": "https://github.com/Haselnussbomber/HaselTweaks",
-                "LastUpdate": 1791374247
+                "LastUpdate": 1791756566
             },
             {
                 "Author": "Haselnussbomber",
@@ -13857,11 +13887,11 @@
                 "Author": "Sceneweaver contributors",
                 "Name": "Sceneweaver",
                 "InternalName": "Sceneweaver",
-                "AssemblyVersion": "0.10.0.0",
+                "AssemblyVersion": "0.11.0.0",
                 "Description": "Development preview: shared scene editor for Intoner and Stagehand, with dual-save, conversion reports and base-color asset previews. Open with /sceneweaver. In-game validation is pending.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/kaerlath/Sceneweaver",
-                "LastUpdate": 1791423895
+                "LastUpdate": 1791793048
             }
         ]
     },
@@ -19647,12 +19677,12 @@
                 "Author": "min",
                 "Name": "Plugin Chat Overlay",
                 "InternalName": "PluginChatOverlay",
-                "AssemblyVersion": "1.0.5.0",
+                "AssemblyVersion": "1.0.6.0",
                 "Description": "プラグイン通知をタブ分け可能な専用オーバーレイウィンドウに分離します。\n分離は初期OFFです。",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://github.com/minasis-min/PluginChatOverlay/releases/download/v1.0.5.0/icon.png",
+                "IconUrl": "https://github.com/minasis-min/PluginChatOverlay/releases/download/v1.0.6.0/icon.png",
                 "RepoUrl": "https://github.com/minasis-min/PluginChatOverlay",
-                "LastUpdate": 1791752923
+                "LastUpdate": 1791787295
             },
             {
                 "Author": "min",
@@ -19677,12 +19707,12 @@
                 "Author": "min",
                 "Name": "Plugin Chat Overlay",
                 "InternalName": "PluginChatOverlay",
-                "AssemblyVersion": "1.0.5.0",
+                "AssemblyVersion": "1.0.6.0",
                 "Description": "プラグイン通知をタブ分け可能な専用オーバーレイウィンドウに分離します。\n分離は初期OFFです。",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://github.com/minasis-min/PluginChatOverlay/releases/download/v1.0.5.0/icon.png",
+                "IconUrl": "https://github.com/minasis-min/PluginChatOverlay/releases/download/v1.0.6.0/icon.png",
                 "RepoUrl": "https://github.com/minasis-min/PluginChatOverlay",
-                "LastUpdate": 1791752923
+                "LastUpdate": 1791787295
             },
             {
                 "Author": "min",
@@ -20319,26 +20349,6 @@
     },
     {
         "repo_developer_name": "mr-reeh",
-        "repo_url": "https://raw.githubusercontent.com/mr-reeh/flash/main/repo.json",
-        "repo_source_url": "https://github.com/mr-reeh/flash",
-        "repo_name": "flash",
-        "plugins": [
-            {
-                "Author": "MrReeh",
-                "Name": "Flash",
-                "InternalName": "Flash",
-                "AssemblyVersion": "0.4.0.0",
-                "Description": "Watches for configured emotes and swaps your outfit via Glamourer while (and optionally only while) you're performing them, then reverts back to your normal gear afterward.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/mr-reeh/flash/main/images/icon.png",
-                "RepoUrl": "https://github.com/mr-reeh/flash",
-                "LastUpdate": 1788360370,
-                "is_ai_attributed": true
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "mr-reeh",
         "repo_url": "https://raw.githubusercontent.com/mr-reeh/Flash/main/repo.json",
         "repo_source_url": "https://github.com/mr-reeh/Flash",
         "repo_name": "Flash",
@@ -20349,6 +20359,26 @@
                 "InternalName": "Flash",
                 "AssemblyVersion": "0.4.0.0",
                 "Description": "Automatically changes a character's gear via Glamourer to Smallclothes or the Emperor's New Set when specified emotes or combat actions are used, with per-slot control, delay, and duration options, then reverts back to normal gear.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/mr-reeh/flash/main/images/icon.png",
+                "RepoUrl": "https://github.com/mr-reeh/flash",
+                "LastUpdate": 1788360370,
+                "is_ai_attributed": true
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "mr-reeh",
+        "repo_url": "https://raw.githubusercontent.com/mr-reeh/flash/main/repo.json",
+        "repo_source_url": "https://github.com/mr-reeh/flash",
+        "repo_name": "flash",
+        "plugins": [
+            {
+                "Author": "MrReeh",
+                "Name": "Flash",
+                "InternalName": "Flash",
+                "AssemblyVersion": "0.4.0.0",
+                "Description": "Watches for configured emotes and swaps your outfit via Glamourer while (and optionally only while) you're performing them, then reverts back to your normal gear afterward.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/mr-reeh/flash/main/images/icon.png",
                 "RepoUrl": "https://github.com/mr-reeh/flash",
@@ -24196,12 +24226,12 @@
                 "Author": "pancakeLab (비공식 포크) / 원본: pancakeLab (비공식 포크) / 원본: The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn - 히메짱 WHM",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.6.1903",
+                "AssemblyVersion": "7.5.6.2400",
                 "Description": "Rotation Solver Reborn(RSR)의 비공식 소스 포크입니다. 원본 RSR 전체에 백마도사 전용 로테이션 '히메짱 WHM'과 한국어 설정 창이 추가되어 있습니다.\n\n공식 RSR과 내부 이름이 같아 동시에 설치할 수 없습니다. 공식 RSR을 제거한 뒤 설치하세요. 기존 RSR 설정은 그대로 유지됩니다.\n\n원본 기준: RSR 7.5.6.19",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/pancakeLab/Himechan_addon/himechan/.github/himechan/icon.png",
                 "RepoUrl": "https://github.com/pancakeLab/Himechan_addon",
-                "LastUpdate": 1791463441
+                "LastUpdate": 1791778794
             }
         ]
     },
@@ -24332,12 +24362,12 @@
                 "Author": "PayneZA",
                 "Name": "Matinee",
                 "InternalName": "ViewInFFXIV",
-                "AssemblyVersion": "5.5.0.6",
+                "AssemblyVersion": "5.5.0.9",
                 "Description": "Hosts WatchTogether.watch in a helper process and draws the video on a 16:9 screen in FFXIV housing. Chat stays in /say.\n\nThe install zip includes the local WebView2 helper — no separate server setup. Open with /viewin. Requires WebView2 Runtime (usually already installed via Edge).",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/PayneZA/ViewInFFXIV/main/ViewInFFXIV/images/icon.png",
                 "RepoUrl": "https://github.com/PayneZA/ViewInFFXIV",
-                "LastUpdate": 1791759754,
+                "LastUpdate": 1791792088,
                 "is_ai_attributed": true
             }
         ]
@@ -26782,12 +26812,12 @@
                 "Author": "Critical_Impact, QianChangUwU(汉化)",
                 "Name": "Allagan Tools - CN",
                 "InternalName": "InventoryTools",
-                "AssemblyVersion": "1.15.0.1305",
+                "AssemblyVersion": "1.15.0.1306",
                 "Description": "Allagan Tool的主要用途是追踪你在各个角色/雇员/部队中的物品。借助其筛选系统，你再也不会找不到物品或不知道它们应该归类到哪里。\n\n虽然这是它的主要功能，但它还拥有一份相当详尽的其他功能列表，包括：\n\t- 制作规划\n\t- 市场板整合\n\t- 在搜索/分类以及挑选制作材料时，在背包中高亮显示物品\n\t- 包含商人及来源等信息的物品窗口\n\t- 完全可搜索的任务/怪物/飞空艇/潜水艇窗口\n\t- 一个筛选系统，让你可以为特定物品设置复杂搜索\n\t- 提示框整合，让你在悬停时即可查看物品位置",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/QianChangUwU/InventoryTools/main/InventoryTools/Images/icon.png",
                 "RepoUrl": "https://github.com/QianChangUwU/InventoryTools",
-                "LastUpdate": 1791646651
+                "LastUpdate": 1791778177
             },
             {
                 "Author": "NightmareXIV, QianChangUwU",
@@ -28810,12 +28840,12 @@
                 "Author": "RoseOfficial",
                 "Name": "Moirai",
                 "InternalName": "Moirai",
-                "AssemblyVersion": "0.4.9.0",
+                "AssemblyVersion": "0.5.0.0",
                 "Description": "Automated FATE farming with a pure, unit-tested decision core: picks the best FATE in the zone, travels there, syncs, fights it to completion, handles collect and escort FATEs, and recovers from death and stuck states.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/RoseOfficial/Moirai/main/src/Moirai/images/icon.png",
                 "RepoUrl": "https://github.com/RoseOfficial/Moirai",
-                "LastUpdate": 1790162235
+                "LastUpdate": 1791781230
             },
             {
                 "Author": "Rose",
@@ -28825,7 +28855,7 @@
                 "Description": "WHM bot that handles healing, damage, defensive cooldowns. MADE BY THE SAME GUY THAT MADE ECHOVAULT & MEMORIA. TAKE CAUTION.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/RoseOfficial/Olympus",
-                "LastUpdate": 1791297134,
+                "LastUpdate": 1791781271,
                 "is_ai_attributed": true
             }
         ]
@@ -29692,11 +29722,11 @@
                 "Author": "1010",
                 "Name": "本地改名 LocalName",
                 "InternalName": "LocalName",
-                "AssemblyVersion": "0.2.44.6",
+                "AssemblyVersion": "0.2.44.8",
                 "Description": "一个修改本地名字等显示的小玩具，并添加了一些特效",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/SAD777A/1010/tree/main/LocalName",
-                "LastUpdate": 1791703820
+                "LastUpdate": 1791788433
             }
         ]
     },
@@ -31176,12 +31206,12 @@
                 "Author": "XSZYYS",
                 "Name": "XSZToolbox",
                 "InternalName": "XSZToolbox",
-                "AssemblyVersion": "1.7.7.9",
+                "AssemblyVersion": "1.7.8.0",
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ShoOtaku/DalamudPlugins/main/plugins/XSZToolbox/icon.png",
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins/tree/main/plugins/XSZToolbox",
-                "LastUpdate": 1791704029,
+                "LastUpdate": 1791792688,
                 "is_closed_source": true
             }
         ]
@@ -32876,12 +32906,12 @@
                 "Author": "T3chnicalD3ath Inc.",
                 "Name": "Bard Performance Helper",
                 "InternalName": "BardPerformanceHelper",
-                "AssemblyVersion": "0.18.7.0",
+                "AssemblyVersion": "0.18.7.4",
                 "Description": "Play MIDI files on any instrument with a playlist, per-track controls and auto instrument switching. Host your party as a band: the leader plays songs for everyone, swaps instruments, assigns tracks, and starts the ensemble in sync. The leader can also send songs straight to members, so they don't need any MIDI files of their own. The song is held in memory only, never saved to their disk. Includes formations with a follow mode, a compact overlay, emotes, and optional member extras (camera and render tweaks, auto-accept for listed friends, restart or close clients). Everything is encrypted and direct, with no outside server, and members opt in to anything that controls their character or game.\n\nUse /bph to open it. Formations need vnavmesh.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/t3knical/DalamudPlugins/main/plugins/BardPerformanceHelper/icon.png",
                 "RepoUrl": "https://github.com/t3knical/DalamudPlugins",
-                "LastUpdate": 1791636342
+                "LastUpdate": 1791795731
             },
             {
                 "Author": "Anmi (fork maintained by T3chnicalD3ath Inc.)",
@@ -35730,12 +35760,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone Beta",
                 "InternalName": "AetherphoneBeta",
-                "AssemblyVersion": "1.3.0.54",
+                "AssemblyVersion": "1.3.0.55",
                 "Description": "The beta channel for Aetherphone: builds straight off the development branch, installed side by side with the stable plugin so you can test what is coming next without giving up the phone you use every day.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/Aetherphone-Beta",
-                "LastUpdate": 1791762320
+                "LastUpdate": 1791776771
             }
         ]
     },
@@ -36921,11 +36951,11 @@
                 "Author": "yomo1024",
                 "Name": "XMA Browser",
                 "InternalName": "XmaBrowser",
-                "AssemblyVersion": "0.1.0.0",
+                "AssemblyVersion": "0.6.1.0",
                 "Description": "把 XIV Mod Archive（XIVModArchive.com）搬进游戏：搜索、浏览、看详情，一键把 Mod 装进 Penumbra 并即时生效。\n公开内容直连站点；需要登录的内容（NSFW）走本机浏览器的登录态通道，用户无需在插件里做任何登录操作。\n只读站点公开数据，不修改任何本地管理器的数据。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/yomo1024/XmaBrowser",
-                "LastUpdate": 1791774178
+                "LastUpdate": 1791798364
             }
         ]
     },
