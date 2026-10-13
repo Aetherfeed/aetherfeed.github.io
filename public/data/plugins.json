@@ -4059,12 +4059,12 @@
                 "Author": "Faye, Kage, blackappleD",
                 "Name": "BOCCHI（维护版）",
                 "InternalName": "BOCCHI-bld",
-                "AssemblyVersion": "4.2.0.1715",
+                "AssemblyVersion": "4.2.0.1801",
                 "Description": "新月岛（Occult Crescent）辅助插件 BOCCHI 的维护版：自动寻路宝箱/FATE/CE、奖励面板、自动化模式等。\n本版本新增：Wrath Combo 辅助职业技能黑名单，可禁用会导致吃机制的技能（如狂战士「狂怒」）。\n与原版 BOCCHI 不能同时启用；命令仍为 /bocchi。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/blackappleD/BOCCHI/master/assets/icon.png",
                 "RepoUrl": "https://github.com/blackappleD/BOCCHI",
-                "LastUpdate": 1791513794,
+                "LastUpdate": 1791854490,
                 "is_ai_attributed": true
             },
             {
@@ -4134,7 +4134,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/blackappleD/Saucy/master/Saucy/Icon.png",
                 "RepoUrl": "https://github.com/blackappleD/Saucy",
-                "LastUpdate": 1791510380
+                "LastUpdate": 1791854566
             },
             {
                 "Author": "veyn, blackappleD",
@@ -9170,7 +9170,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/exatrines/EnhancedQuickPanel/master/EnhancedQuickPanel/Data/plugin-icon.png",
                 "RepoUrl": "https://github.com/exatrines/EnhancedQuickPanel",
-                "LastUpdate": 1791782561
+                "LastUpdate": 1791854488
             },
             {
                 "Author": "mirage",
@@ -13210,11 +13210,11 @@
                 "Author": "Join-Taoist",
                 "Name": "Zhuangzi",
                 "InternalName": "Zhuangzi",
-                "AssemblyVersion": "0.2.0.0",
+                "AssemblyVersion": "0.2.0.6",
                 "Description": "/zz→打开Zhuangzi配置窗口",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Join-Taoist/Join-Taoist-Zhuangzi-Repo",
-                "LastUpdate": 1791817329
+                "LastUpdate": 1791861272
             }
         ]
     },
@@ -20475,26 +20475,6 @@
     },
     {
         "repo_developer_name": "mr-reeh",
-        "repo_url": "https://raw.githubusercontent.com/mr-reeh/flash/main/repo.json",
-        "repo_source_url": "https://github.com/mr-reeh/flash",
-        "repo_name": "flash",
-        "plugins": [
-            {
-                "Author": "MrReeh",
-                "Name": "Flash",
-                "InternalName": "Flash",
-                "AssemblyVersion": "0.4.0.0",
-                "Description": "Watches for configured emotes and swaps your outfit via Glamourer while (and optionally only while) you're performing them, then reverts back to your normal gear afterward.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/mr-reeh/flash/main/images/icon.png",
-                "RepoUrl": "https://github.com/mr-reeh/flash",
-                "LastUpdate": 1788360370,
-                "is_ai_attributed": true
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "mr-reeh",
         "repo_url": "https://raw.githubusercontent.com/mr-reeh/Flash/main/repo.json",
         "repo_source_url": "https://github.com/mr-reeh/Flash",
         "repo_name": "Flash",
@@ -20505,6 +20485,26 @@
                 "InternalName": "Flash",
                 "AssemblyVersion": "0.4.0.0",
                 "Description": "Automatically changes a character's gear via Glamourer to Smallclothes or the Emperor's New Set when specified emotes or combat actions are used, with per-slot control, delay, and duration options, then reverts back to normal gear.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/mr-reeh/flash/main/images/icon.png",
+                "RepoUrl": "https://github.com/mr-reeh/flash",
+                "LastUpdate": 1788360370,
+                "is_ai_attributed": true
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "mr-reeh",
+        "repo_url": "https://raw.githubusercontent.com/mr-reeh/flash/main/repo.json",
+        "repo_source_url": "https://github.com/mr-reeh/flash",
+        "repo_name": "flash",
+        "plugins": [
+            {
+                "Author": "MrReeh",
+                "Name": "Flash",
+                "InternalName": "Flash",
+                "AssemblyVersion": "0.4.0.0",
+                "Description": "Watches for configured emotes and swaps your outfit via Glamourer while (and optionally only while) you're performing them, then reverts back to your normal gear afterward.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/mr-reeh/flash/main/images/icon.png",
                 "RepoUrl": "https://github.com/mr-reeh/flash",
@@ -31332,12 +31332,12 @@
                 "Author": "XSZYYS",
                 "Name": "XSZToolbox",
                 "InternalName": "XSZToolbox",
-                "AssemblyVersion": "1.7.8.0",
+                "AssemblyVersion": "1.7.8.1",
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ShoOtaku/DalamudPlugins/main/plugins/XSZToolbox/icon.png",
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins/tree/main/plugins/XSZToolbox",
-                "LastUpdate": 1791792688,
+                "LastUpdate": 1791859907,
                 "is_closed_source": true
             }
         ]
@@ -35959,12 +35959,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Auto FATE Grind",
                 "InternalName": "AutoFateGrind",
-                "AssemblyVersion": "2.18.0.0",
+                "AssemblyVersion": "2.19.0.0",
                 "Description": "Farms Shared FATEs for you: tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoFATEGrind/master/AutoFateGrind/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind/tree/master/AutoFateGrind",
-                "LastUpdate": 1791617426,
+                "LastUpdate": 1791861625,
                 "is_ai_attributed": true
             },
             {
@@ -35983,12 +35983,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Auto Hunt Train",
                 "InternalName": "AutoHuntTrain",
-                "AssemblyVersion": "1.0.1.0",
+                "AssemblyVersion": "1.1.0.0",
                 "Description": "Rides hunt trains for you: hears a train being called anywhere in your region, travels to the start aetheryte on that world, follows the conductor's flags from mark to mark, and lands a hit on every A rank before the crowd deletes it.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoHuntTrain/master/AutoHuntTrain/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoHuntTrain",
-                "LastUpdate": 1791725689,
+                "LastUpdate": 1791862003,
                 "is_ai_attributed": true
             },
             {
@@ -36019,24 +36019,24 @@
                 "Author": "XeldarAlz",
                 "Name": "Auto Triple Triad Grind",
                 "InternalName": "AutoTripleTriadGrind",
-                "AssemblyVersion": "1.1.1.0",
+                "AssemblyVersion": "1.2.0.0",
                 "Description": "Collects every Triple Triad card NPCs can give you: pick the cards you are missing, and the plugin travels to each NPC, builds a deck for its rules, plays until your cards drop, registers them, and moves on.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoTripleTriadGrind/master/AutoTripleTriadGrind/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoTripleTriadGrind",
-                "LastUpdate": 1791843951,
+                "LastUpdate": 1791861414,
                 "is_ai_attributed": true
             },
             {
                 "Author": "XeldarAlz",
-                "Name": "Doman Mahjong Solver",
+                "Name": "Auto Mahjong Solver",
                 "InternalName": "Mahjong.Plugin.Dalamud",
-                "AssemblyVersion": "0.1.2.3",
+                "AssemblyVersion": "0.2.0.0",
                 "Description": "A helper for Doman Mahjong. Shows you hints or plays it for you.",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-DomanMahjongSolver/main/Mahjong.Plugin.Dalamud/Images/Icon.png",
+                "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoMahjongSolver/main/AutoMahjongSolver/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoMahjongSolver/tree/main/Mahjong.Plugin.Dalamud",
-                "LastUpdate": 1779881802,
+                "LastUpdate": 1781453549,
                 "is_ai_attributed": true
             },
             {
@@ -36103,12 +36103,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Auto FATE Grind",
                 "InternalName": "AutoFateGrind",
-                "AssemblyVersion": "2.18.0.0",
+                "AssemblyVersion": "2.19.0.0",
                 "Description": "Tick the zones, the plugin teleports, finds active FATEs, and runs them in a loop.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoFATEGrind/master/AutoFateGrind/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoFATEGrind/tree/master/AutoFateGrind",
-                "LastUpdate": 1791617426,
+                "LastUpdate": 1791861625,
                 "is_ai_attributed": true
             }
         ]
@@ -36143,7 +36143,7 @@
                 "Author": "XeldarAlz",
                 "Name": "Auto Hunt Train",
                 "InternalName": "AutoHuntTrain",
-                "AssemblyVersion": "1.0.1.0",
+                "AssemblyVersion": "1.1.0.0",
                 "Description": "Rides hunt trains for you: hears a train being called anywhere in your region, travels to the start aetheryte on that world, follows the conductor's flags from mark to mark, and lands a hit on every A rank before the crowd deletes it.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoHuntTrain/master/AutoHuntTrain/Images/Icon.png",
@@ -36161,14 +36161,14 @@
         "plugins": [
             {
                 "Author": "XeldarAlz",
-                "Name": "Doman Mahjong Solver",
+                "Name": "Auto Mahjong Solver",
                 "InternalName": "Mahjong.Plugin.Dalamud",
-                "AssemblyVersion": "0.1.2.3",
+                "AssemblyVersion": "0.2.0.0",
                 "Description": "A helper for Doman Mahjong. Shows you hints or plays it for you.",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-DomanMahjongSolver/main/Mahjong.Plugin.Dalamud/Images/Icon.png",
+                "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoMahjongSolver/main/AutoMahjongSolver/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoMahjongSolver/tree/main/Mahjong.Plugin.Dalamud",
-                "LastUpdate": 1779881802,
+                "LastUpdate": 1781453549,
                 "is_ai_attributed": true
             }
         ]
@@ -36209,6 +36209,26 @@
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind/master/AutoPvpSeriesGrind/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoPVPSeriesGrind/tree/master/AutoPvpSeriesGrind",
                 "LastUpdate": 1791651263,
+                "is_ai_attributed": true
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "XeldarAlz",
+        "repo_url": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoShopper/master/repo.json",
+        "repo_source_url": "https://github.com/XeldarAlz/FFXIV-AutoShopper",
+        "repo_name": "FFXIV-AutoShopper",
+        "plugins": [
+            {
+                "Author": "XeldarAlz",
+                "Name": "Auto Shopper",
+                "InternalName": "AutoShopper",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "Buys your market board shopping list for you: plans the cheapest route through Universalis prices across the worlds you allow, travels between them with Lifestream, walks to the market board, buys whole listings within your price caps, and confirms every purchase.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoShopper/master/AutoShopper/Images/Icon.png",
+                "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoShopper",
+                "LastUpdate": 1791867444,
                 "is_ai_attributed": true
             }
         ]
@@ -36263,12 +36283,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Auto Triple Triad Grind",
                 "InternalName": "AutoTripleTriadGrind",
-                "AssemblyVersion": "1.1.1.0",
+                "AssemblyVersion": "1.2.0.0",
                 "Description": "Collects every Triple Triad card NPCs can give you: pick the cards you are missing, and the plugin travels to each NPC, builds a deck for its rules, plays until your cards drop, registers them, and moves on.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoTripleTriadGrind/master/AutoTripleTriadGrind/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoTripleTriadGrind",
-                "LastUpdate": 1790674044,
+                "LastUpdate": 1791860807,
                 "is_ai_attributed": true
             }
         ]
@@ -37388,6 +37408,24 @@
                 "IconUrl": "https://raw.githubusercontent.com/yschuurmans/FFXIVMoneyTracker/master/res/icon.png",
                 "RepoUrl": "https://github.com/yschuurmans/FFXIVMoneyTracker",
                 "LastUpdate": 1779058578
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "yuanzil1243-oss",
+        "repo_url": "https://raw.githubusercontent.com/yuanzil1243-oss/DalamudPlugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/yuanzil1243-oss/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "yuanzil1243-oss",
+                "Name": "直暴播报",
+                "InternalName": "CritChat",
+                "AssemblyVersion": "0.3.3.0",
+                "Description": "识别自身造成的直击、暴击与直击暴击，支持分段编辑文案、聊天图标和开战倒计时播报。",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/yuanzil1243-oss/DalamudPlugins",
+                "LastUpdate": 1791862409
             }
         ]
     },
