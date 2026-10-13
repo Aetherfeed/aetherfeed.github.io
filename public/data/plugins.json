@@ -1259,12 +1259,12 @@
                 "Author": "AinaSnow",
                 "Name": "XIVChatNext Server",
                 "InternalName": "XIVChatNext",
-                "AssemblyVersion": "1.7.16",
+                "AssemblyVersion": "1.7.17",
                 "Description": "Connect FFXIV to the XIVChat Next Windows client. Chat, friends, item/map cards and game screenshots, with optional self-hosted relay. English UI by default; Chinese is available in settings.\n\n将 FFXIV 连接到 XIVChat Next 桌面客户端，支持聊天、好友、物品/地图卡片、游戏截图及可选自建中继。默认英文，可在设置中切换中文。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/AinaSnow/XIVChatNext/main/XIVChatPlugin/Resources/icon.png",
                 "RepoUrl": "https://github.com/AinaSnow/XIVChatNext",
-                "LastUpdate": 1791814680,
+                "LastUpdate": 1791909117,
                 "is_ai_attributed": true
             }
         ]
@@ -1279,12 +1279,12 @@
                 "Author": "AinaSnow",
                 "Name": "XIVChatNext Server",
                 "InternalName": "XIVChatNext",
-                "AssemblyVersion": "1.7.16",
+                "AssemblyVersion": "1.7.17",
                 "Description": "XIVCHAT Improved Model",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/AinaSnow/XIVChatNext/main/XIVChatPlugin/Resources/icon.png",
                 "RepoUrl": "https://github.com/AinaSnow/XIVChatNext/",
-                "LastUpdate": 1789803353,
+                "LastUpdate": 1791906457,
                 "is_ai_attributed": true
             }
         ]
@@ -3335,7 +3335,7 @@
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/Dalamud-DailyRoutines/DailyRoutines/main/Resources/icon.png",
                 "RepoUrl": "https://github.com/Dalamud-DailyRoutines/DailyRoutines/releases/latest",
-                "LastUpdate": 1791709928,
+                "LastUpdate": 1791896438,
                 "is_closed_source": true
             },
             {
@@ -3347,19 +3347,19 @@
                 "DalamudApiLevel": 14,
                 "IconUrl": "https://raw.githubusercontent.com/Dalamud-DailyRoutines/DailyRoutines/main/Resources/icon.png",
                 "RepoUrl": "https://github.com/Dalamud-DailyRoutines/DailyRoutines/releases/latest",
-                "LastUpdate": 1791709928,
+                "LastUpdate": 1791896438,
                 "is_closed_source": true
             },
             {
                 "Author": "AtmoOmen",
                 "Name": "Daily Routines",
                 "InternalName": "DailyRoutines",
-                "AssemblyVersion": "2.2.3.3",
+                "AssemblyVersion": "2.2.3.4",
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Dalamud-DailyRoutines/DailyRoutines/main/Resources/icon.png",
                 "RepoUrl": "https://github.com/Dalamud-DailyRoutines/DailyRoutines/releases/latest",
-                "LastUpdate": 1791709928,
+                "LastUpdate": 1791896438,
                 "is_closed_source": true
             },
             {
@@ -3393,7 +3393,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://gh.atmoomen.top/raw.githubusercontent.com/AtmoOmen/EdgeTTS.Dalamud/main/EdgeTTS.Dalamud/Assets/icon.png",
                 "RepoUrl": "https://github.com/AtmoOmen/EdgeTTS.Dalamud",
-                "LastUpdate": 1791675753
+                "LastUpdate": 1791896891
             },
             {
                 "Author": "The Combat Reborn Team, AtmoOmen (本地化及国服适配)",
@@ -6293,7 +6293,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/DCritHitFireIV/FireGaze/main/Resources/icon.png?v=2",
                 "RepoUrl": "https://github.com/DCritHitFireIV/FireGaze",
-                "LastUpdate": 1791872517
+                "LastUpdate": 1791872695
             }
         ]
     },
@@ -8962,7 +8962,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1791813820
+                "LastUpdate": 1791897435
             }
         ]
     },
@@ -9228,7 +9228,7 @@
                 "Author": "Siren",
                 "Name": "AutoTriadC",
                 "InternalName": "AutoTriadC",
-                "AssemblyVersion": "0.0.0.3",
+                "AssemblyVersion": "0.0.0.4",
                 "Description": "提供幻卡图鉴快速检索，提供检索未获取幻卡的获取信息。以及提供自动幻卡对局方案，和推荐卡组注入功能。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/extrant/DalamudPluginAssets/refs/heads/main/%E5%8F%91%E5%8C%85%E5%B9%BB%E5%8D%A1.png",
@@ -11033,13 +11033,14 @@
         "plugins": [
             {
                 "Author": "HanaSi0",
-                "Name": "XLinUI",
-                "InternalName": "XLinUI",
-                "AssemblyVersion": "0.2.0.0",
-                "Description": "给亲友用的 FF14 界面小改造：简洁聊天、图标顶部栏、多热键栏编辑、玻璃背景和自定义字体。大小、颜色和显示内容都可以自己调整，保留原版技能拖放与常用操作。输入 /xlinui 开始设置。",
+                "Name": "XLChat",
+                "InternalName": "XLChat",
+                "AssemblyVersion": "1.0.5.0",
+                "Description": "基于chattwo重构的聊天框插件",
                 "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/HanaSi0/XLinUI",
-                "LastUpdate": 1791887696
+                "IconUrl": "https://raw.githubusercontent.com/HanaSi0/XLChat/main/assets/logo.png",
+                "RepoUrl": "https://github.com/HanaSi0/XLChat",
+                "LastUpdate": 1791910843
             }
         ]
     },
@@ -12665,45 +12666,45 @@
                 "Author": "Neko Boi Nick",
                 "Name": "Housing Timeout Reminder",
                 "InternalName": "HousingTimeoutReminder",
-                "AssemblyVersion": "1.0.5.2",
+                "AssemblyVersion": "1.0.5.3",
                 "Description": "A plugin to remind you about your house on FFXIV just in case you forgot to visit it.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Jacob5800/HousingTimeoutReminder/main/HousingTimeoutReminder/images/icon.png",
                 "RepoUrl": "https://github.com/Jacob5800/HousingTimeoutReminder",
-                "LastUpdate": 1791769256
+                "LastUpdate": 1791911989
             },
             {
                 "Author": "Jacob5800",
                 "Name": "Portrait Atelier",
                 "InternalName": "PortraitAtelier",
-                "AssemblyVersion": "0.1.3.0",
+                "AssemblyVersion": "0.1.4.0",
                 "Description": "Create and apply curated portrait designs from your own character in one click.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Jacob5800/DalamudPlugins",
-                "LastUpdate": 1791227464
+                "LastUpdate": 1791912231
             },
             {
                 "Author": "Jacob5800",
                 "Name": "Retainer Pricer",
                 "InternalName": "RetainerPricer",
-                "AssemblyVersion": "0.4.41.0",
+                "AssemblyVersion": "0.4.42.0",
                 "Description": "Automatically price eligible inventory and reprice existing listings one gil below matching competition using Universalis market prices and recent sale history.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Jacob5800/DalamudPlugins/main/plugins/RetainerPricer/images/icon.png",
                 "RepoUrl": "https://github.com/Jacob5800/DalamudPlugins",
-                "LastUpdate": 1791770257,
+                "LastUpdate": 1791912331,
                 "is_ai_attributed": true
             },
             {
                 "Author": "Jacob5800",
                 "Name": "Strategy Board Library",
                 "InternalName": "StrategyBoardLibrary",
-                "AssemblyVersion": "0.1.1.0",
+                "AssemblyVersion": "0.1.2.0",
                 "Description": "A searchable local library for FFXIV Strategy Board share codes, with quick copy and FFXIVStrats link intake.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Jacob5800/DalamudPlugins/main/plugins/StrategyBoardLibrary/images/icon.png",
                 "RepoUrl": "https://github.com/Jacob5800/DalamudPlugins",
-                "LastUpdate": 1791232944
+                "LastUpdate": 1791912131
             }
         ]
     },
@@ -13228,11 +13229,11 @@
                 "Author": "Join-Taoist",
                 "Name": "Zhuangzi",
                 "InternalName": "Zhuangzi",
-                "AssemblyVersion": "0.2.0.6",
+                "AssemblyVersion": "0.2.0.9",
                 "Description": "/zz→打开Zhuangzi配置窗口",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Join-Taoist/Join-Taoist-Zhuangzi-Repo",
-                "LastUpdate": 1791861272
+                "LastUpdate": 1791895198
             }
         ]
     },
@@ -14506,12 +14507,12 @@
                 "Author": "keifufu",
                 "Name": "XivVoices",
                 "InternalName": "XivVoices",
-                "AssemblyVersion": "1.6.0.2",
+                "AssemblyVersion": "1.6.0.3",
                 "Description": "A plugin that enhances your gaming experience by adding voice to every NPC dialogue, battle interaction, and more. /xivv",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/keifufu/XivVoices/main/XivVoices/assets/logo.png",
                 "RepoUrl": "https://github.com/keifufu/XivVoices",
-                "LastUpdate": 1790509083
+                "LastUpdate": 1791899529
             }
         ]
     },
@@ -15917,7 +15918,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Kyuuso/dalamud-plugins/main/plugins/EurekaSuite/images/icon.png",
                 "RepoUrl": "https://github.com/Kyuuso/dalamud-plugins",
-                "LastUpdate": 1791889539
+                "LastUpdate": 1791912210
             }
         ]
     },
@@ -16289,22 +16290,22 @@
                 "Author": "Usagi, Latihas",
                 "Name": "IINACTEx",
                 "InternalName": "IINACTEx",
-                "AssemblyVersion": "7.56.1.4",
+                "AssemblyVersion": "7.57.0.1",
                 "Description": "该插件会在一个类ACT的环境下运行FFXIV_ACT_Plugin与大量修改的Overlay Plugin以适配现代.NET。与此同时，也添加了大量修改的Triggernometry与Postnamazu。包括类ACT、Triggernometry、Postnamazu在内，这些并非完整的代码移植，并且仍在开发完善中，可能缺少部分原版的函数，开发时请注意。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/marzent/IINACT/master/images/icon.png",
                 "RepoUrl": "https://github.com/marzent/IINACT",
-                "LastUpdate": 1789647665
+                "LastUpdate": 1791891276
             },
             {
                 "Author": "Latihas",
                 "Name": "LatihasChocobo",
                 "InternalName": "LatihasChocobo",
-                "AssemblyVersion": "7.56.1.0",
+                "AssemblyVersion": "7.57.0.0",
                 "Description": "陆行鸟竞赛自动化",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Latihas/LatihasChocobo",
-                "LastUpdate": 1789654134
+                "LastUpdate": 1791910134
             },
             {
                 "Author": "Latihas",
@@ -18358,12 +18359,12 @@
                 "Author": "Usagi",
                 "Name": "IINACT",
                 "InternalName": "IINACT",
-                "AssemblyVersion": "2.10.3.9",
+                "AssemblyVersion": "2.10.3.10",
                 "Description": "A plugin to run the FFXIV_ACT_Plugin in an ACT-like environment with a heavily modified port of Overlay Plugin for modern .NET",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/marzent/IINACT/master/images/icon.png",
                 "RepoUrl": "https://github.com/marzent/IINACT",
-                "LastUpdate": 1791884706
+                "LastUpdate": 1791891276
             }
         ]
     },
@@ -19350,12 +19351,12 @@
                 "Author": "XA",
                 "Name": "XA Database",
                 "InternalName": "XADatabase",
-                "AssemblyVersion": "0.0.0.46",
+                "AssemblyVersion": "0.0.0.47",
                 "Description": "Parser of all databases.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Database/master/XADatabase/images/icon.png",
                 "RepoUrl": "https://github.com/xa-io/XA-Database",
-                "LastUpdate": 1791636774
+                "LastUpdate": 1791889052
             },
             {
                 "Author": "XA",
@@ -19372,12 +19373,12 @@
                 "Author": "XA",
                 "Name": "XA Slave",
                 "InternalName": "XASlave",
-                "AssemblyVersion": "0.0.0.51",
+                "AssemblyVersion": "0.0.0.52",
                 "Description": "Don't manual.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Slave/master/XASlave/images/icon.png",
                 "RepoUrl": "https://github.com/xa-io/XA-Slave",
-                "LastUpdate": 1791637451
+                "LastUpdate": 1791889099
             },
             {
                 "Author": "XA",
@@ -20240,19 +20241,80 @@
     },
     {
         "repo_developer_name": "Momikk",
+        "repo_url": "https://raw.githubusercontent.com/Momikk/DalamudPlugins/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/Momikk/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "Momikk",
+                "Name": "亚拉戈市场 AllaganMarket",
+                "InternalName": "AllaganMarket",
+                "AssemblyVersion": "1.4.0.3",
+                "Description": "汇总所有角色的雇员上架物品与销售记录，查看当前销售、历史销售和被其他卖家压价的情况。\n\n建议持续启用插件，以便更完整地记录销售数据。\n\n此版本由 Momikk 维护，基于 Critical_Impact 的 Allagan Market。",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Momikk/AllaganMarket/main/AllaganMarket/Images/logo_small.png",
+                "RepoUrl": "https://github.com/Momikk/AllaganMarket",
+                "LastUpdate": 1791898165
+            },
+            {
+                "Author": "Momikk",
+                "Name": "套装之王 SuitKing",
+                "InternalName": "SuitKing",
+                "AssemblyVersion": "0.1.0.4",
+                "Description": "基准版本：检测幻化柜界面，并显示测试窗口。可通过 /suitking 或 /sking 手动打开。",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Momikk/SuitKing/main/images/icon.png",
+                "RepoUrl": "https://github.com/Momikk/SuitKing",
+                "LastUpdate": 1791904543
+            },
+            {
+                "Author": "Momikk",
+                "Name": "压价之王 UndercutKing",
+                "InternalName": "UndercutKing",
+                "AssemblyVersion": "0.1.0.1",
+                "Description": "轻量雇员市场辅助：比对市场价格，在雇员销售列表与雇员列表中高亮被压价的物品。仅提供提示，不自动改价。由 Momikk 维护，部分库存与界面交互代码改编自 Critical_Impact 的 Allagan Market，采用 AGPL-3.0-or-later。",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Momikk/UndercutKing/main/images/icon.png",
+                "RepoUrl": "https://github.com/Momikk/UndercutKing",
+                "LastUpdate": 1791902921
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Momikk",
         "repo_url": "https://raw.githubusercontent.com/Momikk/GlamourKing/main/repo.json",
         "repo_source_url": "https://github.com/Momikk/GlamourKing",
         "repo_name": "GlamourKing",
         "plugins": [
             {
                 "Author": "Momikk",
-                "Name": "幻化之王",
-                "InternalName": "GlamourKing",
-                "AssemblyVersion": "0.1.0.0",
-                "Description": "基准版本：检测幻化柜界面，并显示测试窗口。可通过 /glamking 手动打开。",
+                "Name": "套装之王 SuitKing",
+                "InternalName": "SuitKing",
+                "AssemblyVersion": "0.1.0.4",
+                "Description": "基准版本：检测幻化柜界面，并显示测试窗口。可通过 /suitking 或 /sking 手动打开。",
                 "DalamudApiLevel": 15,
-                "RepoUrl": "https://github.com/Momikk/GlamourKing",
-                "LastUpdate": 1791886090
+                "IconUrl": "https://raw.githubusercontent.com/Momikk/SuitKing/main/images/icon.png",
+                "RepoUrl": "https://github.com/Momikk/SuitKing",
+                "LastUpdate": 1791904543
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Momikk",
+        "repo_url": "https://raw.githubusercontent.com/Momikk/SuitKing/main/repo.json",
+        "repo_source_url": "https://github.com/Momikk/SuitKing",
+        "repo_name": "SuitKing",
+        "plugins": [
+            {
+                "Author": "Momikk",
+                "Name": "套装之王 SuitKing",
+                "InternalName": "SuitKing",
+                "AssemblyVersion": "0.1.0.4",
+                "Description": "基准版本：检测幻化柜界面，并显示测试窗口。可通过 /suitking 或 /sking 手动打开。",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Momikk/SuitKing/main/images/icon.png",
+                "RepoUrl": "https://github.com/Momikk/SuitKing",
+                "LastUpdate": 1791904440
             }
         ]
     },
@@ -20511,26 +20573,6 @@
     },
     {
         "repo_developer_name": "mr-reeh",
-        "repo_url": "https://raw.githubusercontent.com/mr-reeh/Flash/main/repo.json",
-        "repo_source_url": "https://github.com/mr-reeh/Flash",
-        "repo_name": "Flash",
-        "plugins": [
-            {
-                "Author": "MrReeh",
-                "Name": "Flash",
-                "InternalName": "Flash",
-                "AssemblyVersion": "0.4.0.0",
-                "Description": "Automatically changes a character's gear via Glamourer to Smallclothes or the Emperor's New Set when specified emotes or combat actions are used, with per-slot control, delay, and duration options, then reverts back to normal gear.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/mr-reeh/flash/main/images/icon.png",
-                "RepoUrl": "https://github.com/mr-reeh/flash",
-                "LastUpdate": 1788360370,
-                "is_ai_attributed": true
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "mr-reeh",
         "repo_url": "https://raw.githubusercontent.com/mr-reeh/flash/main/repo.json",
         "repo_source_url": "https://github.com/mr-reeh/flash",
         "repo_name": "flash",
@@ -20541,6 +20583,26 @@
                 "InternalName": "Flash",
                 "AssemblyVersion": "0.4.0.0",
                 "Description": "Watches for configured emotes and swaps your outfit via Glamourer while (and optionally only while) you're performing them, then reverts back to your normal gear afterward.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/mr-reeh/flash/main/images/icon.png",
+                "RepoUrl": "https://github.com/mr-reeh/flash",
+                "LastUpdate": 1788360370,
+                "is_ai_attributed": true
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "mr-reeh",
+        "repo_url": "https://raw.githubusercontent.com/mr-reeh/Flash/main/repo.json",
+        "repo_source_url": "https://github.com/mr-reeh/Flash",
+        "repo_name": "Flash",
+        "plugins": [
+            {
+                "Author": "MrReeh",
+                "Name": "Flash",
+                "InternalName": "Flash",
+                "AssemblyVersion": "0.4.0.0",
+                "Description": "Automatically changes a character's gear via Glamourer to Smallclothes or the Emperor's New Set when specified emotes or combat actions are used, with per-slot control, delay, and duration options, then reverts back to normal gear.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/mr-reeh/flash/main/images/icon.png",
                 "RepoUrl": "https://github.com/mr-reeh/flash",
@@ -21317,13 +21379,23 @@
         "plugins": [
             {
                 "Author": "Nedris",
+                "Name": "Chronicle",
+                "InternalName": "Chronicle",
+                "AssemblyVersion": "0.1.17.0",
+                "Description": "Replaces the vanilla achievement log with a searchable window: the game's categories, search across names, descriptions, categories and rewards (in the game's language and English), filters (status, rewards, sort), progress, recently completed, and controller support.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/nedris/xiv-plugins",
+                "LastUpdate": 1791910452
+            },
+            {
+                "Author": "Nedris",
                 "Name": "Parley",
                 "InternalName": "Parley",
-                "AssemblyVersion": "0.1.37.0",
+                "AssemblyVersion": "0.1.38.0",
                 "Description": "Replaces the game's chat window (optional). Public channels go in tabs you configure (General, Party, FC…); every private conversation gets its own sub-tab inside a Private tab, created as soon as a tell is sent or received, with unread counters, history kept on your PC and an optional sound. The input follows the tab: write in a conversation to send a tell, in Party to talk to your party.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/nedris/xiv-plugins",
-                "LastUpdate": 1791889679
+                "LastUpdate": 1791911990
             },
             {
                 "Author": "Nedris",
@@ -21349,12 +21421,12 @@
                 "Author": "Nedris",
                 "Name": "Waypoint",
                 "InternalName": "Waypoint",
-                "AssemblyVersion": "0.2.13.0",
+                "AssemblyVersion": "0.2.15.0",
                 "Description": "Replaces the vanilla teleport menu with a searchable window: English and French search, favorites with labels, recent destinations, housing shortcuts, custom aliases and /wp <name> to teleport from chat.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/nedris/xiv-plugins/main/plugins/Waypoint/icon.png",
                 "RepoUrl": "https://github.com/nedris/xiv-plugins",
-                "LastUpdate": 1791888477
+                "LastUpdate": 1791908225
             }
         ]
     },
@@ -21366,13 +21438,23 @@
         "plugins": [
             {
                 "Author": "Nedris",
+                "Name": "Chronicle",
+                "InternalName": "Chronicle",
+                "AssemblyVersion": "0.1.18.0",
+                "Description": "Replaces the vanilla achievement log with a searchable window: the game's categories, search across names, descriptions, categories and rewards (in the game's language and English), filters (status, rewards, sort), progress, recently completed, and controller support.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/nedris/xiv-plugins",
+                "LastUpdate": 1791912527
+            },
+            {
+                "Author": "Nedris",
                 "Name": "Parley",
                 "InternalName": "Parley",
-                "AssemblyVersion": "0.1.37.0",
+                "AssemblyVersion": "0.1.38.0",
                 "Description": "Replaces the game's chat window (optional). Public channels go in tabs you configure (General, Party, FC…); every private conversation gets its own sub-tab inside a Private tab, created as soon as a tell is sent or received, with unread counters, history kept on your PC and an optional sound. The input follows the tab: write in a conversation to send a tell, in Party to talk to your party.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/nedris/xiv-plugins-repo",
-                "LastUpdate": 1791889679
+                "LastUpdate": 1791911990
             },
             {
                 "Author": "Nedris",
@@ -21398,12 +21480,12 @@
                 "Author": "Nedris",
                 "Name": "Waypoint",
                 "InternalName": "Waypoint",
-                "AssemblyVersion": "0.2.13.0",
+                "AssemblyVersion": "0.2.15.0",
                 "Description": "Replaces the vanilla teleport menu with a searchable window: English and French search, favorites with labels, recent destinations, housing shortcuts, custom aliases and /wp <name> to teleport from chat.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/nedris/xiv-plugins/main/plugins/Waypoint/icon.png",
                 "RepoUrl": "https://github.com/nedris/xiv-plugins-repo",
-                "LastUpdate": 1791888477
+                "LastUpdate": 1791908225
             }
         ]
     },
@@ -21919,12 +22001,12 @@
                 "Author": "NightmareXIV",
                 "Name": "Lifestream",
                 "InternalName": "Lifestream",
-                "AssemblyVersion": "2.5.4.23",
+                "AssemblyVersion": "2.6.0.1",
                 "Description": "- One click to teleport to any world or aethernet destination\n- Click on aetheryte shards inside zone map to teleport to them",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/NightmareXIV/Lifestream/main/Lifestream/images/icon.png",
                 "RepoUrl": "https://github.com/NightmareXIV/Lifestream",
-                "LastUpdate": 1791529429
+                "LastUpdate": 1791910030
             },
             {
                 "Author": "NightmareXIV, Marulu, StreetRat",
@@ -23565,12 +23647,12 @@
                 "Author": "Faye, Kage",
                 "Name": "Better Occult Crescent & Chest Helper Interface",
                 "InternalName": "BOCCHI",
-                "AssemblyVersion": "4.2.0.17",
+                "AssemblyVersion": "4.2.0.18",
                 "Description": "BOCCHI is here to smooth out your Occult Crescent experience.\n- No more of that pesky 'walking' or 'finding chests'. That's for losers.\n- A cute little Fate and CE panel that'll tell you what rewards it gives AND help you automatically path to it, wowee.\n- An extre illegal 'illegal mode' for those of you that would rather be touching grass or playing a game with worthwhile content.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/OhKannaDuh/BOCCHI/master/assets/icon.png",
                 "RepoUrl": "https://github.com/OhKannaDuh/OccultCrescentHelper",
-                "LastUpdate": 1790895934
+                "LastUpdate": 1791902824
             }
         ]
     },
@@ -24392,18 +24474,18 @@
                 "Description": "4개 탭으로 분리된 FF14 장비 정리 도구. 옷장 복원, 옷장 저장, 장비함 이동, 스마트 자동 파기와 4번 인벤토리 전체 파기를 지원합니다.\n\n한국 서버 전용입니다. 소스는 비공개이며 이 저장소는 배포 전용입니다.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/pancakeLab/KRWardrobeCleaner",
-                "LastUpdate": 1791887662
+                "LastUpdate": 1791890523
             },
             {
                 "Author": "pancakeLab (비공식 포크) / 원본: pancakeLab (비공식 포크) / 원본: The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn - 히메짱 WHM",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.6.2403",
+                "AssemblyVersion": "7.5.6.2404",
                 "Description": "Rotation Solver Reborn(RSR)의 비공식 소스 포크입니다. 원본 RSR 전체에 백마도사 전용 로테이션 '히메짱 WHM'과 한국어 설정 창이 추가되어 있습니다.\n\n공식 RSR과 내부 이름이 같아 동시에 설치할 수 없습니다. 공식 RSR을 제거한 뒤 설치하세요. 기존 RSR 설정은 그대로 유지됩니다.\n\n원본 기준: RSR 7.5.6.19",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/pancakeLab/Himechan_addon/himechan/.github/himechan/icon.png",
                 "RepoUrl": "https://github.com/pancakeLab/Himechan_addon",
-                "LastUpdate": 1791878518
+                "LastUpdate": 1791901959
             }
         ]
     },
@@ -25532,12 +25614,12 @@
                 "Author": "perchbird",
                 "Name": "Chronofoil",
                 "InternalName": "Chronofoil.Plugin",
-                "AssemblyVersion": "1.0.4.16",
+                "AssemblyVersion": "1.0.4.17",
                 "Description": "Chronofoil is a plugin that allows you to capture in-game packets for analysis later.\nIt also allows you to upload a censored version of these captures to a central repository for\npreservation and analysis. Privacy controls are at the center of Chronofoil, which is why it\nrequires two levels of user opt-in, has minimum delays on releasing any submitted user info,\nand allows users to delete their submitted data at any time.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ProjectChronofoil/Chronofoil.Plugin/main/src/Data/icon_small.png",
                 "RepoUrl": "https://github.com/ProjectChronofoil/Chronofoil.Plugin",
-                "LastUpdate": 1789661279
+                "LastUpdate": 1791903850
             }
         ]
     },
@@ -25886,12 +25968,12 @@
                 "Author": "NightmareXIV",
                 "Name": "Splatoon",
                 "InternalName": "Splatoon",
-                "AssemblyVersion": "3.9.2.29",
+                "AssemblyVersion": "3.9.2.30",
                 "Description": "Splatoon is a powerful accessibility tool. It revolutionizes gameplay with its custom waymark system, offering the ability to create unlimited grouped waymarks, labels, and actor indicators with exacting pixel precision. This feature empowers players by making crucial objects and events more visually discernible, thereby facilitating quicker reactions. However, it's important to note that the plugin does not come pre-loaded with presets. Players have the freedom to craft their own or import existing ones, offering a personalized touch to their gaming experience.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/10",
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1791496716
+                "LastUpdate": 1791896110
             },
             {
                 "Author": "Team Wrath",
@@ -26132,7 +26214,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/144",
                 "RepoUrl": "https://github.com/Kagekazu/QuickTransfer",
-                "LastUpdate": 1791829014,
+                "LastUpdate": 1791904223,
                 "is_ai_attributed": true
             },
             {
@@ -26144,7 +26226,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/159",
                 "RepoUrl": "https://github.com/Kagekazu/RelicTracker",
-                "LastUpdate": 1791811592,
+                "LastUpdate": 1791903489,
                 "is_ai_attributed": true
             }
         ]
@@ -26666,7 +26748,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1791753987,
+                "LastUpdate": 1791908735,
                 "is_ai_attributed": false
             },
             {
@@ -31389,12 +31471,12 @@
                 "Author": "XSZYYS",
                 "Name": "XSZToolbox",
                 "InternalName": "XSZToolbox",
-                "AssemblyVersion": "1.7.8.2",
+                "AssemblyVersion": "1.7.8.3",
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ShoOtaku/DalamudPlugins/main/plugins/XSZToolbox/icon.png",
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins/tree/main/plugins/XSZToolbox",
-                "LastUpdate": 1791888134,
+                "LastUpdate": 1791901112,
                 "is_closed_source": true
             }
         ]
@@ -31934,6 +32016,24 @@
         ]
     },
     {
+        "repo_developer_name": "solenmingco",
+        "repo_url": "https://raw.githubusercontent.com/solenmingco/FF14AutoTreasure/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/solenmingco/FF14AutoTreasure",
+        "repo_name": "FF14AutoTreasure",
+        "plugins": [
+            {
+                "Author": "solenmingco",
+                "Name": "FF14 自动挖宝助手",
+                "InternalName": "AutoTreasure",
+                "AssemblyVersion": "0.2.2.0",
+                "Description": "面向国服（卫月）的 FFXIV 挖宝流程自动化助手。藏宝图等级下拉选择、自动前往主城市场布告板（vnavmesh 寻路 + Lifestream 跨城传送）、按物品名搜索配置丢弃、总控与收益统计。",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/solenmingco/FF14AutoTreasure",
+                "LastUpdate": 1791881569
+            }
+        ]
+    },
+    {
         "repo_url": "https://raw.githubusercontent.com/solona-m/plugins/main/repo.json",
         "repo_source_url": "https://github.com/solona-m/plugins",
         "repo_developer_name": "solona-m",
@@ -31960,7 +32060,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://dl.solona.info/icon.png",
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1791833588,
+                "LastUpdate": 1791911204,
                 "is_ai_attributed": true
             }
         ]
@@ -35800,11 +35900,11 @@
                 "Author": "Wyse2011",
                 "Name": "Inkwell",
                 "InternalName": "Inkwell",
-                "AssemblyVersion": "0.3.0.0",
+                "AssemblyVersion": "0.4.0.0",
                 "Description": "Write long posts in a resizable editor, see misspelled words highlighted right where you type, and copy them to chat in correctly-headed chunks.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Wyse2011/Inkwell",
-                "LastUpdate": 1791669770
+                "LastUpdate": 1791910766
             }
         ]
     },
@@ -36009,6 +36109,18 @@
             },
             {
                 "Author": "XeldarAlz",
+                "Name": "Auto GC Supply",
+                "InternalName": "AutoGcSupply",
+                "AssemblyVersion": "1.0.0.1",
+                "Description": "Reads the day's Grand Company supply and provisioning requests, buys what is missing through Auto Shopper, then travels to your Personnel Officer and hands in the ones you chose, confirming every delivery.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoGCSupply/master/AutoGcSupply/Images/Icon.png",
+                "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoGCSupply",
+                "LastUpdate": 1791904916,
+                "is_ai_attributed": true
+            },
+            {
+                "Author": "XeldarAlz",
                 "Name": "Auto Hunt Grinder",
                 "InternalName": "AutoHuntGrinder",
                 "AssemblyVersion": "1.9.0.0",
@@ -36047,12 +36159,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Auto Shopper",
                 "InternalName": "AutoShopper",
-                "AssemblyVersion": "1.0.0.0",
+                "AssemblyVersion": "1.1.0.0",
                 "Description": "Buys your market board shopping list for you: plans the cheapest route through Universalis prices across the worlds you allow, travels between them with Lifestream, walks to the market board, buys whole listings within your price caps, and confirms every purchase.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoShopper/master/AutoShopper/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoShopper",
-                "LastUpdate": 1791872595,
+                "LastUpdate": 1791899711,
                 "is_ai_attributed": true
             },
             {
@@ -36179,6 +36291,26 @@
     },
     {
         "repo_developer_name": "XeldarAlz",
+        "repo_url": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoGCSupply/master/repo.json",
+        "repo_source_url": "https://github.com/XeldarAlz/FFXIV-AutoGCSupply",
+        "repo_name": "FFXIV-AutoGCSupply",
+        "plugins": [
+            {
+                "Author": "XeldarAlz",
+                "Name": "Auto GC Supply",
+                "InternalName": "AutoGcSupply",
+                "AssemblyVersion": "1.0.0.1",
+                "Description": "Reads the day's Grand Company supply and provisioning requests, buys what is missing through Auto Shopper, then travels to your Personnel Officer and hands in the ones you chose, confirming every delivery.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoGCSupply/master/AutoGcSupply/Images/Icon.png",
+                "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoGCSupply",
+                "LastUpdate": 1791904915,
+                "is_ai_attributed": true
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "XeldarAlz",
         "repo_url": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoHuntGrinder/master/repo.json",
         "repo_source_url": "https://github.com/XeldarAlz/FFXIV-AutoHuntGrinder",
         "repo_name": "FFXIV-AutoHuntGrinder",
@@ -36287,12 +36419,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Auto Shopper",
                 "InternalName": "AutoShopper",
-                "AssemblyVersion": "1.0.0.0",
+                "AssemblyVersion": "1.1.0.0",
                 "Description": "Buys your market board shopping list for you: plans the cheapest route through Universalis prices across the worlds you allow, travels between them with Lifestream, walks to the market board, buys whole listings within your price caps, and confirms every purchase.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-AutoShopper/master/AutoShopper/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-AutoShopper",
-                "LastUpdate": 1791872514,
+                "LastUpdate": 1791899709,
                 "is_ai_attributed": true
             }
         ]
@@ -37230,11 +37362,11 @@
                 "Author": "yomo1024",
                 "Name": "XMA Browser",
                 "InternalName": "XmaBrowser",
-                "AssemblyVersion": "0.10.1.0",
+                "AssemblyVersion": "0.10.2.0",
                 "Description": "把 XIV Mod Archive（XIVModArchive.com）搬进游戏：搜索、浏览、看详情，一键把 Mod 装进 Penumbra 并即时生效。\n公开内容直连站点；需要登录的内容（NSFW）走本机浏览器的登录态通道，用户无需在插件里做任何登录操作。\n只读站点公开数据，不修改任何本地管理器的数据。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/yomo1024/XmaBrowser",
-                "LastUpdate": 1791874144
+                "LastUpdate": 1791892310
             }
         ]
     },
