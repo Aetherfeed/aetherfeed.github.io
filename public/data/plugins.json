@@ -668,6 +668,24 @@
         ]
     },
     {
+        "repo_developer_name": "AerisLifestream",
+        "repo_url": "https://raw.githubusercontent.com/AerisLifestream/SlapHugCounter/main/repo.json",
+        "repo_source_url": "https://github.com/AerisLifestream/SlapHugCounter",
+        "repo_name": "SlapHugCounter",
+        "plugins": [
+            {
+                "Author": "Aeris Lifestream",
+                "Name": "SlapHugCounter",
+                "InternalName": "SlapHugCounter",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "Counts how many times you /slap then /hug right after, and shows the count in your Honorific title.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/AerisLifestream/SlapHugCounter",
+                "LastUpdate": 1792173982
+            }
+        ]
+    },
+    {
         "repo_developer_name": "Aesthria",
         "repo_url": "https://raw.githubusercontent.com/Aesthria/The-Crystarium-Boutique/main/repo.json",
         "repo_source_url": "https://github.com/Aesthria/The-Crystarium-Boutique",
@@ -2655,12 +2673,12 @@
                 "Author": "Anomaly",
                 "Name": "Pet Service",
                 "InternalName": "PetService",
-                "AssemblyVersion": "0.6.0.5",
+                "AssemblyVersion": "0.6.0.6",
                 "Description": "A private FFXIV tool for consensual pet/master roleplay and power dynamics. Masters manage messages and reminders through Discord or a private portal, while pets receive interactive prompts in game. Includes replies, snoozing, shared status and location, and a local kill switch controlled by the pet.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/anomalousgamer/PetService/main/images/icon.png",
                 "RepoUrl": "https://github.com/anomalousgamer/PetService",
-                "LastUpdate": 1792104678
+                "LastUpdate": 1792115072
             }
         ]
     },
@@ -7236,7 +7254,7 @@
                 "Description": "Market Helper is an all-in-one market board tool with three tabs:\n\nUNDERCUT — Stand near a summoning bell and press Run. It walks every retainer on the bell and undercuts each listed item to the lowest price. HQ/NQ handling, own-retainer protection, per-item overrides, and price memory within a run. Skips mannequin/display items (detected by the game's mannequin icon) so they're never touched or delisted.\n\nLISTER — Build a list of items (hold CTRL and hover to quick-add, or search). Press Go and it walks the bell and lists them all, pricing each at the most common market price (ignoring lone troll/outlier listings) minus your undercut. Prices against your world, data center, or whole region. Handles the 20-item-per-retainer cap by rolling extra items to the next retainer. Includes a no-touch dry-run preview.\n\nFLIPPER — Search any marketable item and compare prices across Japan, America, Europe and Materia via Universalis. Top 10 listings per region, best cross-region flip, and seller/buyer tax modeling.\n\nOpen with /markethelp, /market, /mh, or /undercut.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dexcss/MarketHelper",
-                "LastUpdate": 1792145140
+                "LastUpdate": 1792182460
             },
             {
                 "Author": "Akari",
@@ -7301,7 +7319,7 @@
                 "Description": "Market Helper is an all-in-one market board tool with three tabs:\n\nUNDERCUT — Stand near a summoning bell and press Run. It walks every retainer on the bell and undercuts each listed item to the lowest price. HQ/NQ handling, own-retainer protection, per-item overrides, and price memory within a run. Skips mannequin/display items (detected by the game's mannequin icon) so they're never touched or delisted.\n\nLISTER — Build a list of items (hold CTRL and hover to quick-add, or search). Press Go and it walks the bell and lists them all, pricing each at the most common market price (ignoring lone troll/outlier listings) minus your undercut. Prices against your world, data center, or whole region. Handles the 20-item-per-retainer cap by rolling extra items to the next retainer. Includes a no-touch dry-run preview.\n\nFLIPPER — Search any marketable item and compare prices across Japan, America, Europe and Materia via Universalis. Top 10 listings per region, best cross-region flip, and seller/buyer tax modeling.\n\nOpen with /markethelp, /market, /mh, or /undercut.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dexcss/MarketHelper",
-                "LastUpdate": 1792145140
+                "LastUpdate": 1792182460
             }
         ]
     },
@@ -7452,6 +7470,26 @@
                 "IconUrl": "https://raw.githubusercontent.com/doomzao/true-ping/main/images/icon.png",
                 "RepoUrl": "https://github.com/doomzao/true-ping",
                 "LastUpdate": 1781674990
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Doug-Luce",
+        "repo_url": "https://raw.githubusercontent.com/Doug-Luce/AzeronHud/main/repo.json",
+        "repo_source_url": "https://github.com/Doug-Luce/AzeronHud",
+        "repo_name": "AzeronHud",
+        "plugins": [
+            {
+                "Author": "aurelius",
+                "Name": "Azeron HUD",
+                "InternalName": "AzeronHud",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "Draws your Azeron keypad over the game in the same layout as the Azeron configurator, with every button labelled by what it does in FFXIV.\n\nButtons bound to a hotbar slot show the real action icon and name, with its cooldown, charges, MP cost, a highlight when a proc is up, and dimming when it can't be used or the target is out of range. Buttons bound to anything else show the keybind's name, so movement, targeting and UI keys are labelled too. The thumbstick is drawn as a stick and its knob follows your thumb.\n\nIt reads the profile straight out of Azeron Software, so your binds and your own button labels come across automatically, and edits show up within a couple of seconds. The keypad does not need to be plugged in.\n\nHidden by default; toggle it with /azeronhud. Size, colours, and what each button shows are all adjustable, and there is a compact mode that shows only your abilities.\n\nSupports the Azeron Cyborg II.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Doug-Luce/AzeronHud/main/images/icon.png",
+                "RepoUrl": "https://github.com/Doug-Luce/AzeronHud",
+                "LastUpdate": 1792171765,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -10845,6 +10883,25 @@
         ]
     },
     {
+        "repo_developer_name": "gnomerock",
+        "repo_url": "https://raw.githubusercontent.com/gnomerock/konyakku/main/repo.json",
+        "repo_source_url": "https://github.com/gnomerock/konyakku",
+        "repo_name": "konyakku",
+        "plugins": [
+            {
+                "Author": "gnomerock",
+                "Name": "Konyakku",
+                "InternalName": "Konyakku",
+                "AssemblyVersion": "0.1.1.0",
+                "Description": "Translates incoming chat into your language and lets you write messages in your own language, translated before sending. Works with your ChatGPT subscription (via Codex CLI login) or an OpenAI API key.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/gnomerock/konyakku",
+                "LastUpdate": 1792178828,
+                "is_ai_attributed": true
+            }
+        ]
+    },
+    {
         "repo_developer_name": "GodRayine",
         "repo_url": "https://raw.githubusercontent.com/GodRayine/HUD-Workshop/main/repo.json",
         "repo_source_url": "https://github.com/GodRayine/HUD-Workshop",
@@ -11139,6 +11196,25 @@
                 "IconUrl": "https://raw.githubusercontent.com/hanamigg/kupotrademaster/main/logo.png",
                 "RepoUrl": "https://github.com/hanamigg/kupotrademaster",
                 "LastUpdate": 1789341811
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "HanaSi0",
+        "repo_url": "https://raw.githubusercontent.com/HanaSi0/CCStats/main/repo.json",
+        "repo_source_url": "https://github.com/HanaSi0/CCStats",
+        "repo_name": "CCStats",
+        "plugins": [
+            {
+                "Author": "HanaSi0 / SaMo",
+                "Name": "CCStats",
+                "InternalName": "CCStats",
+                "AssemblyVersion": "0.1.4.0",
+                "Description": "自动记录水晶冲突对局，查询战绩、完整结算、时间线、技能分析和各项胜率；支持中文、自定义主题、悬浮入口与国际服官方榜单缓存。",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/HanaSi0/CCStats/main/images/icon.png",
+                "RepoUrl": "https://github.com/HanaSi0/CCStats",
+                "LastUpdate": 1792182353
             }
         ]
     },
@@ -12879,12 +12955,12 @@
                 "Author": "Jacob5800",
                 "Name": "Retainer Pricer",
                 "InternalName": "RetainerPricer",
-                "AssemblyVersion": "0.5.1.12",
+                "AssemblyVersion": "0.5.1.14",
                 "Description": "Automatically price eligible inventory and reprice existing listings one gil below matching competition using Universalis market prices and recent sale history.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Jacob5800/DalamudPlugins/main/plugins/RetainerPricer/images/icon.png",
                 "RepoUrl": "https://github.com/Jacob5800/DalamudPlugins",
-                "LastUpdate": 1792016787,
+                "LastUpdate": 1792179180,
                 "is_ai_attributed": true
             },
             {
@@ -15799,7 +15875,7 @@
                 "Author": "erdelf, Herculezz",
                 "Name": "AutoDuty",
                 "InternalName": "AutoDuty",
-                "AssemblyVersion": "0.384.0.1",
+                "AssemblyVersion": "0.384.0.2",
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
@@ -15816,18 +15892,18 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/34",
                 "RepoUrl": "https://github.com/Jaksuhn/Automaton",
-                "LastUpdate": 1791750152
+                "LastUpdate": 1792138378
             },
             {
                 "Author": "veyn, xan_0",
                 "Name": "Boss Mod",
                 "InternalName": "BossMod",
-                "AssemblyVersion": "757.1.0.1",
+                "AssemblyVersion": "757.2.0.1",
                 "Description": "A bunch of utilities to simplify bosses. Currently supports endwalker content.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1792003899,
+                "LastUpdate": 1792174018,
                 "is_ai_attributed": true
             },
             {
@@ -15879,12 +15955,12 @@
                 "Author": "Team Wrath",
                 "Name": "Wrath Combo",
                 "InternalName": "WrathCombo",
-                "AssemblyVersion": "1.0.4.26",
+                "AssemblyVersion": "104.27.0.1",
                 "Description": "Turns one action into many! Similar to how PvP actions work, we take an action and build a whole combo out of it. Sometimes it's as simple as a 1-2-3 combo, other times it's a full job rotation. Either way, you'll find something suited for your rotation needs.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1792045701,
+                "LastUpdate": 1792168199,
                 "is_ai_attributed": true
             }
         ]
@@ -21440,12 +21516,12 @@
                 "Author": "MusicYYin",
                 "Name": "MianLab",
                 "InternalName": "MianLab",
-                "AssemblyVersion": "0.6.2.29",
+                "AssemblyVersion": "0.6.2.30",
                 "Description": "实用工具",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MusicYYin/DalamudPlugins/main/icon.png",
                 "RepoUrl": "https://github.com/MusicYYin/DalamudPlugins",
-                "LastUpdate": 1792168611
+                "LastUpdate": 1792174653
             }
         ]
     },
@@ -25971,11 +26047,11 @@
                 "Author": "Local build",
                 "Name": "Party View KR",
                 "InternalName": "PartyViewKR",
-                "AssemblyVersion": "0.3.29.0",
+                "AssemblyVersion": "0.3.31.0",
                 "Description": "한섭 파티원·모집글 조회와 내 모집글 수동 갱신. /pvkr에서 확인하고 버튼으로 현재 조건의 모집글을 한 번 재등록합니다.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/pressing7/PartyViewKR",
-                "LastUpdate": 1792165439
+                "LastUpdate": 1792180793
             }
         ]
     },
@@ -27314,7 +27390,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1792101228,
+                "LastUpdate": 1792174018,
                 "is_ai_attributed": false
             },
             {
@@ -28579,11 +28655,11 @@
                 "Author": "Rayla Petal",
                 "Name": "Oathbound",
                 "InternalName": "Oathbound.Plugin",
-                "AssemblyVersion": "0.2.6.0",
+                "AssemblyVersion": "0.2.6.1",
                 "Description": "A consent-based collar control plugin. Gameplay commands use ordinary in-game tells; relay-assisted pairing and encrypted catalog synchronization use the Oathbound Cloudflare service, while gameplay actions remain local to the Sub's client.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/RaylaPetal/Oathbound",
-                "LastUpdate": 1792157166,
+                "LastUpdate": 1792175282,
                 "is_ai_attributed": true
             }
         ]
@@ -28609,11 +28685,11 @@
                 "Author": "Rayla Petal",
                 "Name": "Oathbound",
                 "InternalName": "Oathbound.Plugin",
-                "AssemblyVersion": "0.2.6.0",
+                "AssemblyVersion": "0.2.6.1",
                 "Description": "A consent-based collar control plugin. Gameplay commands use ordinary in-game tells; relay-assisted pairing and encrypted catalog synchronization use the Oathbound Cloudflare service, while gameplay actions remain local to the Sub's client.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/raylapetal/xiv-collar",
-                "LastUpdate": 1792157168,
+                "LastUpdate": 1792175284,
                 "is_ai_attributed": true
             },
             {
@@ -28669,11 +28745,11 @@
                 "Author": "Rayla Petal",
                 "Name": "Oathbound",
                 "InternalName": "Oathbound.Plugin",
-                "AssemblyVersion": "0.2.6.0",
+                "AssemblyVersion": "0.2.6.1",
                 "Description": "A consent-based collar control plugin. An Owner sends outfit, title, gesture, and follow/leash commands as ordinary in-game tells - no server, no hosting; the Sub's own client watches for them and applies them locally via Glamourer, Honorific, and Penumbra, and existing sync tooling propagates the result to everyone paired with the Sub.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/raylapetal/xiv-collar",
-                "LastUpdate": 1792157166,
+                "LastUpdate": 1792175282,
                 "is_ai_attributed": true
             }
         ]
@@ -30409,6 +30485,25 @@
         ]
     },
     {
+        "repo_developer_name": "Runmih",
+        "repo_url": "https://raw.githubusercontent.com/Runmih/AmorRP/main/repo.json",
+        "repo_source_url": "https://github.com/Runmih/AmorRP",
+        "repo_name": "AmorRP",
+        "plugins": [
+            {
+                "Author": "Runmih",
+                "Name": "Amor RP",
+                "InternalName": "AmorRP",
+                "AssemblyVersion": "0.0.6.15",
+                "Description": "Amor RP brings roleplay venues and communities together with group inventories, fictional currency, potion crafting, books, letters, notes, and trading.\n\n/amorrp → Main Menu",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Runmih/AmorRP/main/images/f6e82fdb8ed2ed3cc35f46e022f59d61ededbb55dc4bcce5aaf723dcb4054d9a.png",
+                "RepoUrl": "https://github.com/Runmih/AmorRP",
+                "LastUpdate": 1792177249
+            }
+        ]
+    },
+    {
         "repo_developer_name": "ruunesu",
         "repo_url": "https://raw.githubusercontent.com/ruunesu/XIVPlugin/master/repo.json",
         "repo_source_url": "https://github.com/ruunesu/XIVPlugin",
@@ -31910,12 +32005,12 @@
                 "Author": "SHIGYL",
                 "Name": "Briosis",
                 "InternalName": "Briosis",
-                "AssemblyVersion": "0.1.0.5",
+                "AssemblyVersion": "0.1.0.6",
                 "Description": "A community GPose posing toolkit based on Brio, with expanded facial-expression controls, facial presets, and advanced tongue posing tools adapted from and inspired by Ktisis.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/SHIGYL/Briosis/main/Resources/Images/BriosisIcon.png",
                 "RepoUrl": "https://github.com/SHIGYL/Briosis",
-                "LastUpdate": 1790946935
+                "LastUpdate": 1792176980
             }
         ]
     },
@@ -32670,12 +32765,12 @@
                 "Author": "Solona",
                 "Name": "Proteus",
                 "InternalName": "Proteus",
-                "AssemblyVersion": "2610.678.0.0",
+                "AssemblyVersion": "2610.897.0.0",
                 "Description": "Headless overlay compositor for Penumbra. Discovers mods with a Proteus/ sidecar, composites their overlay textures in Penumbra priority order, and maintains a single managed mod at priority 999. No authoring UI — all work happens in external tools. Type /proteus to open the status window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://dl.solona.info/icon.png",
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1792168935,
+                "LastUpdate": 1792171211,
                 "is_ai_attributed": true
             }
         ]
@@ -36760,12 +36855,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone Beta",
                 "InternalName": "AetherphoneBeta",
-                "AssemblyVersion": "1.3.1.6",
+                "AssemblyVersion": "1.3.1.101",
                 "Description": "The beta channel for Aetherphone: builds straight off the development branch, installed side by side with the stable plugin so you can test what is coming next without giving up the phone you use every day.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/Aetherphone-Beta",
-                "LastUpdate": 1792168567,
+                "LastUpdate": 1792172219,
                 "is_ai_attributed": true
             }
         ]
@@ -36780,12 +36875,12 @@
                 "Author": "XeldarAlz",
                 "Name": "Aetherphone",
                 "InternalName": "Aetherphone",
-                "AssemblyVersion": "1.3.0.0",
+                "AssemblyVersion": "1.3.1.0",
                 "Description": "An in-game smartphone that puts everything you do into a single window — one device, endless things to do.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XeldarAlz/FFXIV-Aetherphone/master/src/Aetherphone/Images/Icon.png",
                 "RepoUrl": "https://github.com/XeldarAlz/FFXIV-Aetherphone/tree/master/src/Aetherphone",
-                "LastUpdate": 1792079669,
+                "LastUpdate": 1792168404,
                 "is_ai_attributed": true
             }
         ]
