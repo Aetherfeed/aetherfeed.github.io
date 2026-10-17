@@ -4227,7 +4227,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/blackappleD/FFXIV-AutoFATEGrind/master/AutoFateGrind/Images/Icon.png",
                 "RepoUrl": "https://github.com/blackappleD/FFXIV-AutoFATEGrind",
-                "LastUpdate": 1792199781,
+                "LastUpdate": 1792234181,
                 "is_ai_attributed": true
             },
             {
@@ -4258,12 +4258,12 @@
                 "Author": "Ice, QiongHHHZZZ, blackappleD",
                 "Name": "Ice's Cosmic Exploration (ICE)",
                 "InternalName": "ICE-bld",
-                "AssemblyVersion": "1.0.0.3021",
+                "AssemblyVersion": "1.0.0.3022",
                 "Description": "国服维护版宇宙探索插件，支持采集、制作、钓鱼与任务自动化。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/blackappleD/DalamudPlugins/main/icons/ice.png",
                 "RepoUrl": "https://github.com/blackappleD/Ices-Cosmic-Exploration",
-                "LastUpdate": 1792129458,
+                "LastUpdate": 1792236153,
                 "is_ai_attributed": true
             },
             {
@@ -4558,12 +4558,12 @@
                 "Author": "Boloni",
                 "Name": "Equinox Companion",
                 "InternalName": "EquinoxCompanion",
-                "AssemblyVersion": "0.5.1.167",
+                "AssemblyVersion": "0.5.1.172",
                 "Description": "Records house entries and confirmed tending locally, with optional paired sync to Equinox Journal. English garden menus supported.",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/boloni96/Equinox-Companion/main/dist/v0.5.1.167/icon.png",
+                "IconUrl": "https://raw.githubusercontent.com/boloni96/Equinox-Companion/main/dist/v0.5.1.172/icon.png",
                 "RepoUrl": "https://github.com/boloni96/Equinox-Companion",
-                "LastUpdate": 1792226703
+                "LastUpdate": 1792232309
             }
         ]
     },
@@ -5995,6 +5995,25 @@
         ]
     },
     {
+        "repo_developer_name": "CrownedPandaXIV",
+        "repo_url": "https://raw.githubusercontent.com/CrownedPandaXIV/XIVFleetCompanion-Releases/main/repo.json",
+        "repo_source_url": "https://github.com/CrownedPandaXIV/XIVFleetCompanion-Releases",
+        "repo_name": "XIVFleetCompanion-Releases",
+        "plugins": [
+            {
+                "Author": "Panda",
+                "Name": "XIV Fleet Companion",
+                "InternalName": "XIVFleetCompanion",
+                "AssemblyVersion": "0.13.1.0",
+                "Description": "Got a massive fleet of submarines? Always struggling to see which ones need upgrades? Wanna see your multi-account fleet at a glance? Give this a try!",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/CrownedPandaXIV/XIVFleetCompanion/master/Data/submarine.png",
+                "RepoUrl": "https://github.com/CrownedPandaXIV/XIVFleetCompanion",
+                "LastUpdate": 1792240452
+            }
+        ]
+    },
+    {
         "repo_developer_name": "crweul",
         "repo_url": "https://raw.githubusercontent.com/crweul/dalamud-plugins/main/repo.json",
         "repo_source_url": "https://github.com/crweul/dalamud-plugins",
@@ -7267,6 +7286,16 @@
             },
             {
                 "Author": "Akari",
+                "Name": "Mahjong Advisor",
+                "InternalName": "Mahjong.Advisor.Plugin",
+                "AssemblyVersion": "0.3.1.0",
+                "Description": "Reads your Doman Mahjong hand, discards, dora, scores and called melds, then ranks each discard by hand speed against deal-in risk. Auto-play and file logging are on by default in this build: sit at a casual table and it plays, then /mjadv bundle packages the logs for support. /mjadv stop or the Automation tab returns to manual suggestions instantly. Discard piles and meld strips are found automatically; the node tools are only a fallback.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/dexcss/MahjongAdvisor",
+                "LastUpdate": 1792236197
+            },
+            {
+                "Author": "Akari",
                 "Name": "Market Helper",
                 "InternalName": "MarketHelper",
                 "AssemblyVersion": "1.17.22.0",
@@ -7321,6 +7350,24 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dexcss/HousingLottoTracker",
                 "LastUpdate": 1785797254
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "dexcss",
+        "repo_url": "https://raw.githubusercontent.com/dexcss/MahjongAdvisor/main/repo.json",
+        "repo_source_url": "https://github.com/dexcss/MahjongAdvisor",
+        "repo_name": "MahjongAdvisor",
+        "plugins": [
+            {
+                "Author": "Akari",
+                "Name": "Mahjong Advisor",
+                "InternalName": "Mahjong.Advisor.Plugin",
+                "AssemblyVersion": "0.3.1.0",
+                "Description": "Reads your Doman Mahjong hand, discards, dora, scores and called melds, then ranks each discard by hand speed against deal-in risk. Auto-play and file logging are on by default in this build: sit at a casual table and it plays, then /mjadv bundle packages the logs for support. /mjadv stop or the Automation tab returns to manual suggestions instantly. Discard piles and meld strips are found automatically; the node tools are only a fallback.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/dexcss/MahjongAdvisor",
+                "LastUpdate": 1792236197
             }
         ]
     },
@@ -9154,7 +9201,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1792146357
+                "LastUpdate": 1792231035
             }
         ]
     },
@@ -9173,7 +9220,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1792146357
+                "LastUpdate": 1792231035
             }
         ]
     },
@@ -10893,12 +10940,12 @@
                 "Author": "gnomerock",
                 "Name": "Konnyaku Jelly",
                 "InternalName": "Konyakku",
-                "AssemblyVersion": "0.5.1.0",
+                "AssemblyVersion": "0.6.0.0",
                 "Description": "Translates incoming chat into your language and lets you write messages in your own language, translated before sending. Works with your ChatGPT subscription (via Codex CLI login) or an OpenAI, Claude or Gemini API key.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/gnomerock/konnyaku-jelly/main/Konyakku/images/icon.png",
                 "RepoUrl": "https://github.com/gnomerock/konnyaku-jelly",
-                "LastUpdate": 1792226382,
+                "LastUpdate": 1792236598,
                 "is_ai_attributed": true
             }
         ]
@@ -11208,15 +11255,15 @@
         "repo_name": "CCStats",
         "plugins": [
             {
-                "Author": "HanaSi0 / SaMo",
+                "Author": "HanaSi0",
                 "Name": "CCStats",
                 "InternalName": "CCStats",
-                "AssemblyVersion": "0.2.10.0",
+                "AssemblyVersion": "1.0.3.0",
                 "Description": "自动记录水晶冲突对局，查询战绩、完整结算、时间线、技能分析和各项胜率；支持中文、自定义主题、悬浮入口与国际服官方榜单缓存。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/HanaSi0/CCStats/main/images/icon.png",
                 "RepoUrl": "https://github.com/HanaSi0/CCStats",
-                "LastUpdate": 1792227060
+                "LastUpdate": 1792248407
             }
         ]
     },
@@ -11514,12 +11561,12 @@
                 "Author": "Heiwa",
                 "Name": "Chat Translator",
                 "InternalName": "ChatTranslator",
-                "AssemblyVersion": "1.0.1.0",
+                "AssemblyVersion": "1.0.2.0",
                 "Description": "Detects the language of every chat message and replaces it with a translation in the language you choose (French, English, German, Japanese and more). Click the language tag to see the original message. The settings window follows your game language (English, French, German or Japanese). Message text is sent to Google Translate or DeepL for translation. Use /htranslate to open the settings.",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/heiwaastralis/XIVChatTranslator/main/images/icon.png",
                 "RepoUrl": "https://github.com/heiwaastralis/XIVChatTranslator",
-                "LastUpdate": 1791916280
+                "LastUpdate": 1792000000
             }
         ]
     },
@@ -13067,7 +13114,8 @@
                 "Description": "API 15 continuation of Workshoppa. Automates workshop material turn-ins and can skip cutscenes between production phases.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Jacob5800/Workshoppa-API15",
-                "LastUpdate": 1791912392
+                "LastUpdate": 1791912392,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -13435,11 +13483,11 @@
                 "Author": "Personal tools",
                 "Name": "Zetrom Utilities",
                 "InternalName": "AnimationNumber",
-                "AssemblyVersion": "0.155.0.0",
+                "AssemblyVersion": "0.158.0.0",
                 "Description": "Mapa con aplicaciones, animaciones de Penumbra, emotes, conjuntos de Glamourer, traducción con ChatTranslated y Quest Share. Usa /zetrom para abrirlo; las misiones se comparten desde Misiones o Zetrom Quest Share.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/joandelahuerta/ZetromUtilities-Releases",
-                "LastUpdate": 1792193545
+                "LastUpdate": 1792240526
             },
             {
                 "Author": "Zetrom; based on QuestShare by Era",
@@ -15048,12 +15096,12 @@
                 "Author": "Macki",
                 "Name": "Glance",
                 "InternalName": "Glance",
-                "AssemblyVersion": "0.2.3.0",
+                "AssemblyVersion": "0.5.2.0",
                 "Description": "Public beta. Meet your character's gaze when you zoom in, with an occasional wink and smile. Configure with /glance. Camera tracking and expression timing are experimental. Icon created with AI assistance.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/khamass/Glance/main/images/icon.png",
                 "RepoUrl": "https://github.com/khamass/Glance",
-                "LastUpdate": 1792073877
+                "LastUpdate": 1792240387
             }
         ]
     },
@@ -15891,12 +15939,12 @@
                 "Author": "erdelf, Herculezz",
                 "Name": "AutoDuty",
                 "InternalName": "AutoDuty",
-                "AssemblyVersion": "0.388.0.1",
+                "AssemblyVersion": "0.389.0.1",
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1792222817,
+                "LastUpdate": 1792240236,
                 "is_ai_attributed": false
             },
             {
@@ -15919,7 +15967,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1792197800,
+                "LastUpdate": 1792246956,
                 "is_ai_attributed": true
             },
             {
@@ -15976,7 +16024,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1792168199,
+                "LastUpdate": 1792233409,
                 "is_ai_attributed": true
             }
         ]
@@ -18940,6 +18988,24 @@
         ]
     },
     {
+        "repo_developer_name": "massvadim3-ship-it",
+        "repo_url": "https://raw.githubusercontent.com/massvadim3-ship-it/MerchantTaleAutopilot/main/repo.json",
+        "repo_source_url": "https://github.com/massvadim3-ship-it/MerchantTaleAutopilot",
+        "repo_name": "MerchantTaleAutopilot",
+        "plugins": [
+            {
+                "Author": "massvadim3-ship-it",
+                "Name": "Merchant's Tale Autopilot",
+                "InternalName": "MerchantTaleAutopilot",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "Tracks all 13 Corvosi Folklore Records step by step. Pick a record, follow the highlighted step, tick it off. Includes boss mechanics and reward reference. Purely informational - it does not move or fight for you.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/massvadim3-ship-it/MerchantTaleAutopilot",
+                "LastUpdate": 1792237709
+            }
+        ]
+    },
+    {
         "repo_developer_name": "mastajooh",
         "repo_url": "https://raw.githubusercontent.com/mastajooh/Anywear-Numbra/main/repo.json",
         "repo_source_url": "https://github.com/mastajooh/Anywear-Numbra",
@@ -19660,12 +19726,12 @@
                 "Author": "DhogGPT",
                 "Name": "Botology",
                 "InternalName": "botology",
-                "AssemblyVersion": "2.0.0.10",
+                "AssemblyVersion": "2.0.0.11",
                 "Description": "Let's face it, you are a Botologist now, you need proper analysis of all of your tools so they work and play nice together.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/botology/main/botology/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/botology",
-                "LastUpdate": 1792013784,
+                "LastUpdate": 1792196187,
                 "is_ai_attributed": true
             },
             {
@@ -19684,12 +19750,12 @@
                 "Author": "DhogGPT",
                 "Name": "Choke-abo",
                 "InternalName": "ChokeAbo",
-                "AssemblyVersion": "2.0.0.11",
+                "AssemblyVersion": "2.0.0.12",
                 "Description": "(Racing Chocobo) Feed your Racing chocobo Grade 1-2-3 Feed. Includes automatic buying and feeding.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/ChokeAbo/main/ChokeAbo/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/ChokeAbo",
-                "LastUpdate": 1792068425,
+                "LastUpdate": 1792184844,
                 "is_ai_attributed": true
             },
             {
@@ -19708,24 +19774,24 @@
                 "Author": "DhogGPT",
                 "Name": "dad",
                 "InternalName": "dad",
-                "AssemblyVersion": "1.1.0.1",
+                "AssemblyVersion": "1.1.0.2",
                 "Description": "DAD is a duty planner and multibox coordinator for FFXIV. Create reusable character presets, wake or relog the right clients, prepare jobs, assemble and verify parties, queue supported duties and roulettes, and chain presets into manual or daily schedules. Live readiness checks, clear blockers, reconnect status, cancellation, and Stop All keep every run visible and recoverable.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dad/main/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/dad",
-                "LastUpdate": 1792105317,
+                "LastUpdate": 1792196214,
                 "is_ai_attributed": true
             },
             {
                 "Author": "DhogGPT",
                 "Name": "Deep Ducking",
                 "InternalName": "DDuck",
-                "AssemblyVersion": "1.0.0.11",
+                "AssemblyVersion": "1.0.0.13",
                 "Description": "The Deep Ducking public host provides the introduction, community links and authenticated loading of separately supplied DDuck modules. /deepducking and /dduck open the introduction when no module is loaded.\n\nFull module required for all commands below except opening the host window.\n\nCommands (use /deepducking; /dduck is an alias):\n/deepducking [toggle main window]\n/dduck [alias for /deepducking; accepts all commands below]\n/deepducking mini [toggle Mini]\n/deepducking settings [open Settings]\n/deepducking config [open Settings]\n/deepducking debug [reveal and open Advanced for this plugin load]\n/deepducking help [open command help]\n/deepducking start [floor] [start or continue selected save; optional fresh-run floor]\n/deepducking party-start [floor] [alias for start]\n/deepducking party [select fixed-party POTD while idle]\n/deepducking adopt [bind eligible already-entered party dungeon]\n/deepducking hold [pause local output; retain run for Resume]\n/deepducking resume [resume retained local run after readiness checks]\n/deepducking nextstop [exit after next boss]\n/deepducking ns [exit after next boss]\n/deepducking stop [FULL STOP; persist local lock across reloads; stay in duty]\n/deepducking reset-stop [clear eligible FULL STOP after cleanup; do not start]\n/deepducking status [print local status]\n/deepducking inspect [record read-only client and native observations]\n/deepducking saves [open Saves]\n/deepducking saves info <dungeon> [inspect native saves]\n/deepducking saves delete <dungeon> <1|2> [delete selected save after native checks; no extra confirmation]\n/deepducking saves dof <dungeon> <1|2> <on|off> [set future-failure deletion preference; no deletion now]\n/deepducking saves cancel [cancel pending save or Start preparation; completed actions remain]\n\nDungeon arguments: potd, hoh, eo, pt. [floor] is optional; <...> is required. Choose one value for 1|2 or on|off; omit brackets when typing. Start can replace stopped state; Resume can release an eligible retained in-dungeon run. nextstop and ns retain the save and keep Mini open until return is observed; repeat to confirm the same request. Use the existing boss-break button to cancel.\n\nIf DailyDuty is installed, /dd is unavailable for Deep Ducking; use /deepducking. An alias owned by another plugin is preserved.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dduck-public/master/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/dduck-public",
-                "LastUpdate": 1791925729,
+                "LastUpdate": 1792196653,
                 "is_ai_attributed": true
             },
             {
@@ -19744,24 +19810,24 @@
                 "Author": "DhogGPT",
                 "Name": "DhogGPT",
                 "InternalName": "DhogGPT",
-                "AssemblyVersion": "2.0.0.8",
+                "AssemblyVersion": "2.0.0.9",
                 "Description": "DhogGPT translates incoming chat from selected channels and gives you a translate-and-send composer for outgoing messages. Use /dhoggpt, /dgpt, or /dog to open it.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/DhogGPT/master/DhogGPT/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/DhogGPT",
-                "LastUpdate": 1791925702,
+                "LastUpdate": 1792196250,
                 "is_ai_attributed": true
             },
             {
                 "Author": "McVaxius",
                 "Name": "DhogNav",
                 "InternalName": "DhogNav",
-                "AssemblyVersion": "2.0.0.9",
+                "AssemblyVersion": "2.0.0.10",
                 "Description": "The free public DhogNav plugin provides information and loads authorized DhogNav modules. Module access is arranged privately with McVaxius through the community Discord.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/dhognav-public/main/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/dhognav-public",
-                "LastUpdate": 1791925722
+                "LastUpdate": 1792196208
             },
             {
                 "Author": "DhogGPT",
@@ -19862,12 +19928,12 @@
                 "Author": "DhogGPT",
                 "Name": "mom",
                 "InternalName": "mom",
-                "AssemblyVersion": "4.0.0.9",
+                "AssemblyVersion": "4.0.0.10",
                 "Description": "MOM is a free public front end. Additional functionality is available through privately granted access. Visit the community for access availability and support.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/mom-public/main/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/mom-public",
-                "LastUpdate": 1791925745,
+                "LastUpdate": 1792196200,
                 "is_ai_attributed": true
             },
             {
@@ -19898,12 +19964,12 @@
                 "Author": "DhogGPT",
                 "Name": "Vermaxion",
                 "InternalName": "VERMAXION",
-                "AssemblyVersion": "2.0.0.16",
+                "AssemblyVersion": "2.0.0.17",
                 "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, vendor stock, and fishing with AutoHook. Use /vermaxion or /vmx to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1792066414,
+                "LastUpdate": 1792196193,
                 "is_ai_attributed": true
             },
             {
@@ -19943,12 +20009,12 @@
                 "Author": "XA",
                 "Name": "XA Slave",
                 "InternalName": "XASlave",
-                "AssemblyVersion": "0.0.0.52",
+                "AssemblyVersion": "0.0.0.53",
                 "Description": "Don't manual.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Slave/master/XASlave/images/icon.png",
                 "RepoUrl": "https://github.com/xa-io/XA-Slave",
-                "LastUpdate": 1791889099
+                "LastUpdate": 1792184999
             },
             {
                 "Author": "XA",
@@ -20838,23 +20904,23 @@
                 "Author": "Momikk",
                 "Name": "套装之王 SuitKing",
                 "InternalName": "SuitKing",
-                "AssemblyVersion": "0.1.0.15",
+                "AssemblyVersion": "0.1.0.20",
                 "Description": "基准版本：检测幻化柜界面，并显示测试窗口。可通过 /suitking 或 /sking 手动打开。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Momikk/SuitKing/main/images/icon.png",
                 "RepoUrl": "https://github.com/Momikk/SuitKing",
-                "LastUpdate": 1792118673
+                "LastUpdate": 1792247609
             },
             {
                 "Author": "Momikk",
                 "Name": "压价之王 UndercutKing",
                 "InternalName": "UndercutKing",
-                "AssemblyVersion": "0.1.0.12",
+                "AssemblyVersion": "0.1.0.13",
                 "Description": "轻量雇员市场辅助：比对市场价格，在雇员销售列表与雇员列表中高亮被压价的物品。仅提供提示，不自动改价。由 Momikk 维护，部分库存与界面交互代码改编自 Critical_Impact 的 Allagan Market，采用 AGPL-3.0-or-later。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Momikk/UndercutKing/main/images/icon.png",
                 "RepoUrl": "https://github.com/Momikk/UndercutKing",
-                "LastUpdate": 1792159078
+                "LastUpdate": 1792239656
             }
         ]
     },
@@ -20868,12 +20934,12 @@
                 "Author": "Momikk",
                 "Name": "套装之王 SuitKing",
                 "InternalName": "SuitKing",
-                "AssemblyVersion": "0.1.0.15",
+                "AssemblyVersion": "0.1.0.20",
                 "Description": "基准版本：检测幻化柜界面，并显示测试窗口。可通过 /suitking 或 /sking 手动打开。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Momikk/SuitKing/main/images/icon.png",
                 "RepoUrl": "https://github.com/Momikk/SuitKing",
-                "LastUpdate": 1791989972
+                "LastUpdate": 1792247609
             }
         ]
     },
@@ -20887,12 +20953,12 @@
                 "Author": "Momikk",
                 "Name": "套装之王 SuitKing",
                 "InternalName": "SuitKing",
-                "AssemblyVersion": "0.1.0.15",
+                "AssemblyVersion": "0.1.0.20",
                 "Description": "基准版本：检测幻化柜界面，并显示测试窗口。可通过 /suitking 或 /sking 手动打开。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Momikk/SuitKing/main/images/icon.png",
                 "RepoUrl": "https://github.com/Momikk/SuitKing",
-                "LastUpdate": 1791989966
+                "LastUpdate": 1792247605
             }
         ]
     },
@@ -21541,12 +21607,12 @@
                 "Author": "MusicYYin",
                 "Name": "MianLab",
                 "InternalName": "MianLab",
-                "AssemblyVersion": "0.6.2.30",
+                "AssemblyVersion": "0.6.2.31",
                 "Description": "实用工具",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MusicYYin/DalamudPlugins/main/icon.png",
                 "RepoUrl": "https://github.com/MusicYYin/DalamudPlugins",
-                "LastUpdate": 1792174653
+                "LastUpdate": 1792232920
             }
         ]
     },
@@ -24969,7 +25035,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1792146357
+                "LastUpdate": 1792231035
             },
             {
                 "Author": "Risa and Contributors",
@@ -25151,11 +25217,12 @@
                 "Author": "pancakeLab",
                 "Name": "히메짱 옷장 정리기",
                 "InternalName": "KRWardrobeCleaner",
-                "AssemblyVersion": "0.8.1.0",
+                "AssemblyVersion": "0.12.1.0",
                 "Description": "4개 탭으로 분리된 FF14 장비 정리 도구. 옷장 복원, 옷장 저장, 장비함 이동, 스마트 자동 파기와 4번 인벤토리 전체 파기를 지원합니다.\n\n한국 서버 전용입니다. 소스는 비공개이며 이 저장소는 배포 전용입니다.",
                 "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/pancakeLab/KRWardrobeCleaner/main/KRWardrobeCleaner/images/icon.png",
                 "RepoUrl": "https://github.com/pancakeLab/KRWardrobeCleaner",
-                "LastUpdate": 1791890523
+                "LastUpdate": 1792247756
             },
             {
                 "Author": "pancakeLab (비공식 포크) / 원본: pancakeLab (비공식 포크) / 원본: The Combat Reborn Team",
@@ -25976,6 +26043,26 @@
         ]
     },
     {
+        "repo_developer_name": "PlatyDuckbill",
+        "repo_url": "https://raw.githubusercontent.com/PlatyDuckbill/DuckbillFisher/main/repo/pluginmaster.json",
+        "repo_source_url": "https://github.com/PlatyDuckbill/DuckbillFisher",
+        "repo_name": "DuckbillFisher",
+        "plugins": [
+            {
+                "Author": "PlatyDuckbill",
+                "Name": "DuckbillFisher",
+                "InternalName": "DuckbillFisher",
+                "AssemblyVersion": "0.2.6.0",
+                "Description": "Let Duckbill guide your next catch.\nA fishing companion for FFXIV Korea.\n\n• Browse fish with collection, region and availability filters.\n• Check baits, mooch chains and time/weather conditions.\n• Open fishing spots directly on the map.\n• Get local alerts for favorites, with optional sounds.\n• See fish available now or soon in the quick list.\n• Follow casts with a timer and personal fishing records.\n\nOpen: /duckbillfisher\nUI: English / Korean. Game names follow your client.\n\nVerified on the supported Korean client and Dalamud build only.\nDoes not automate fishing.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/PlatyDuckbill/DuckbillFisher/v0.2.6.0/assets/duckbillfisher-icon.png",
+                "RepoUrl": "https://github.com/PlatyDuckbill/DuckbillFisher",
+                "LastUpdate": 1792237726,
+                "is_ai_attributed": true
+            }
+        ]
+    },
+    {
         "repo_developer_name": "pnsdh",
         "repo_url": "https://raw.githubusercontent.com/pnsdh/DalamudPlugins/main/pluginmaster.json",
         "repo_source_url": "https://github.com/pnsdh/DalamudPlugins",
@@ -26104,11 +26191,11 @@
                 "Author": "Local build",
                 "Name": "Party View KR",
                 "InternalName": "PartyViewKR",
-                "AssemblyVersion": "0.3.33.0",
+                "AssemblyVersion": "0.3.36.0",
                 "Description": "한섭 파티원·모집글 조회와 내 모집글 수동 갱신. /pvkr에서 확인하고 버튼으로 현재 조건의 모집글을 한 번 재등록합니다.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/pressing7/PartyViewKR",
-                "LastUpdate": 1792223949
+                "LastUpdate": 1792242143
             }
         ]
     },
@@ -26683,7 +26770,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1792168199
+                "LastUpdate": 1792233409
             },
             {
                 "Author": "daemitus, croizat",
@@ -26750,12 +26837,12 @@
                 "Author": "erdelf, Herculezz",
                 "Name": "AutoDuty",
                 "InternalName": "AutoDuty",
-                "AssemblyVersion": "0.0.0.388",
+                "AssemblyVersion": "0.0.0.389",
                 "Description": "A plugin to run dungeons for you with Trust, Duty Support, Squadrons, Variants, and Regular, Requires BossMod, vnavmesh and a Rotation Plugin (BossMod AutoRotation, Wrath or RotationSolverReborn)",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/54",
                 "RepoUrl": "https://github.com/erdelf/AutoDuty",
-                "LastUpdate": 1792222817,
+                "LastUpdate": 1792240236,
                 "is_ai_attributed": false
             },
             {
@@ -27447,7 +27534,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1792197800,
+                "LastUpdate": 1792246956,
                 "is_ai_attributed": false
             },
             {
@@ -28624,6 +28711,25 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/Rasil23/DeepDungeonScore",
                 "LastUpdate": 1768912845
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "ratxiv",
+        "repo_url": "https://raw.githubusercontent.com/ratxiv/GlamourSync/master/repo.json",
+        "repo_source_url": "https://github.com/ratxiv/GlamourSync",
+        "repo_name": "GlamourSync",
+        "plugins": [
+            {
+                "Author": "Rat",
+                "Name": "GlamourSync",
+                "InternalName": "GlamourSync",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "Preview an Eorzea Collection glamour and apply it through Glamourer.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/ratxiv/GlamourSync/master/images/icon.png",
+                "RepoUrl": "https://github.com/ratxiv/GlamourSync",
+                "LastUpdate": 1792195200
             }
         ]
     },
@@ -29978,12 +30084,12 @@
                 "Author": "Rowsai",
                 "Name": "devLibra",
                 "InternalName": "devLibra",
-                "AssemblyVersion": "1.0.0.2",
+                "AssemblyVersion": "1.0.0.4",
                 "Description": "Dalamud plugin development helper. Shows party member statuses and enemy casting information.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Rowsai/devLibra/main/image/icon-512.png",
                 "RepoUrl": "https://github.com/Rowsai/devLibra",
-                "LastUpdate": 1791096378
+                "LastUpdate": 1792245163
             },
             {
                 "Author": "Rowsai",
@@ -32131,12 +32237,12 @@
                 "Author": "雷霆大宝贝",
                 "Name": "AutoHunt",
                 "InternalName": "AutoHunt",
-                "AssemblyVersion": "2.4.0.32",
+                "AssemblyVersion": "2.4.0.35",
                 "Description": "自动狩猎（狩猎车）助手：右键聊天玩家名设为车头；自动解析车头在任何频道发送的坐标，自动打开地图插旗；跨图或远距离自动传送到最近水晶；上坐骑后执行 /vnav flyflag 飞向旗标（可选 IPC 直接寻路）；到达后自动选中狩猎怪（基于 NotoriousMonster 数据表识别 A/S 级），血量低于阈值自动下坐骑并 /rotation Manual 输出，目标死亡自动关闭；每击杀 N 只怪自动切换副本区。依赖：vnavmesh、RotationSolver、Lifestream、Teleporter。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ShiraisumiKiyoshi/AutoHunt/main/dist/images/icon.png",
                 "RepoUrl": "https://github.com/ShiraisumiKiyoshi/AutoHunt",
-                "LastUpdate": 1792215519
+                "LastUpdate": 1792239923
             }
         ]
     },
@@ -32219,12 +32325,12 @@
                 "Author": "XSZYYS",
                 "Name": "XSZToolbox",
                 "InternalName": "XSZToolbox",
-                "AssemblyVersion": "1.7.8.8",
+                "AssemblyVersion": "1.7.9.0",
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ShoOtaku/DalamudPlugins/main/plugins/XSZToolbox/icon.png",
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins/tree/main/plugins/XSZToolbox",
-                "LastUpdate": 1792127690,
+                "LastUpdate": 1792233565,
                 "is_closed_source": true
             }
         ]
@@ -34129,7 +34235,8 @@
                 "Description": "Applies independent visual model scale factors to Chaos and Exdeath in territory 1363, with an optional floating lifebar adjustment. Does not edit hitboxes, positions, targeting, or combat data.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Tataru-business/sm0ll-chaos-exdeath",
-                "LastUpdate": 1791427123
+                "LastUpdate": 1791427123,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -37290,11 +37397,11 @@
                 "Author": "小烟酒",
                 "Name": "小烟酒 · Yanjiu",
                 "InternalName": "Yanjiu",
-                "AssemblyVersion": "0.1.0.0",
+                "AssemblyVersion": "0.1.5.0",
                 "Description": "独立模块管理、DR/Omni 源码兼容、在线模块校验及自定义主题。不内置手机支持。开发测试版，部分私有宿主 API 尚未适配。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Xiao-Yanjiu/Yanjiu",
-                "LastUpdate": 20261012,
+                "LastUpdate": 1792237037,
                 "is_ai_attributed": true
             }
         ]
