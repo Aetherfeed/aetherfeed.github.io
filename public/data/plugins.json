@@ -1057,12 +1057,12 @@
                 "Author": "McVaxius",
                 "Name": "God Mod Companion",
                 "InternalName": "BMRVariantLoader",
-                "AssemblyVersion": "2.1.0.7",
+                "AssemblyVersion": "3.0.0.0",
                 "Description": "Encounter additions, Praetorium timelines and bundled cooldown plans, with AethertekUI appearance for BMR settings, autorotation and AI. BossModReborn must be installed and enabled.",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://github.com/McVaxius/BMRVariantLoader-Public/releases/download/v2.1.0.7/icon.png",
+                "IconUrl": "https://github.com/McVaxius/BMRVariantLoader-Public/releases/download/v3.0.0.0/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/BMRVariantLoader-Public",
-                "LastUpdate": 1793454394,
+                "LastUpdate": 1793540628,
                 "is_ai_attributed": true
             },
             {
@@ -1193,7 +1193,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Kyuuso/EurekaSuite-releases/main/icon.png",
                 "RepoUrl": "https://github.com/Kyuuso/EurekaSuite-releases",
-                "LastUpdate": 1793478033,
+                "LastUpdate": 1793540699,
                 "is_ai_attributed": true
             },
             {
@@ -1295,12 +1295,12 @@
                 "Author": "MacaronDream, DhogGPT, XA",
                 "Name": "Questionable Companion",
                 "InternalName": "QSTCompanion",
-                "AssemblyVersion": "1.1.33.0",
+                "AssemblyVersion": "1.1.34.0",
                 "Description": "Automated character rotation and quest sequence execution for Questionable.\n\nAutomates multi-character MSQ progression by intelligently switching between characters based on quest completion and level requirements. Features include:\n- Automatic character switching and quest tracking\n- MSQ progression monitoring across all characters\n- Allied Society quest rotation and prioritization\n- Event quest automation with prerequisite checking\n- Chauffeur Mode for following main character through quests\n- Data Center travel automation\n- Stop point configuration for controlled progression\n\nRequired Plugins: Questionable, AutoRetainer",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MacaronDream/QSTCompanion/main/icon.png",
                 "RepoUrl": "https://github.com/MacaronDream/QSTCompanion",
-                "LastUpdate": 1793386063,
+                "LastUpdate": 1793532719,
                 "is_ai_attributed": true
             },
             {
@@ -1918,6 +1918,25 @@
         ]
     },
     {
+        "repo_developer_name": "Ajimsan2096",
+        "repo_url": "https://raw.githubusercontent.com/Ajimsan2096/DalamudPlugins/main/repo.json",
+        "repo_source_url": "https://github.com/Ajimsan2096/DalamudPlugins",
+        "repo_name": "DalamudPlugins",
+        "plugins": [
+            {
+                "Author": "Ajimsan2096",
+                "Name": "LinguaBridge",
+                "InternalName": "LinguaBridge",
+                "AssemblyVersion": "1.2.1.0",
+                "Description": "Translates chat between two languages in both directions (English <-> French by default) with DeepL (best quality, free API key) or Google (no key), with automatic fallback.\n\n- Incoming messages get a translated line in the same chat tab.\n- /tr translates and sends your messages: /tr /p Hello everyone!\n- History window with one-click translated replies and a preview with back-translation.\n- Item links, auto-translate phrases and names are never translated.\n- Party Finder: right-click > Translate description.\n- Setup wizard, server-bar on/off switch.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Ajimsan2096/DalamudPlugins",
+                "LastUpdate": 1793529155,
+                "is_ai_attributed": true
+            }
+        ]
+    },
+    {
         "repo_developer_name": "AkiraEgawa",
         "repo_url": "https://raw.githubusercontent.com/AkiraEgawa/FFXIVPlugin/master/pluginmaster.json",
         "repo_source_url": "https://github.com/AkiraEgawa/FFXIVPlugin",
@@ -2437,11 +2456,11 @@
                 "Author": "ambychannel (based on Brio by Minmoose, Asgard and Contributors)",
                 "Name": "FlashBang",
                 "InternalName": "FlashBang",
-                "AssemblyVersion": "0.1.0.9",
+                "AssemblyVersion": "0.1.0.10",
                 "Description": "Multiplayer GPose built on Brio. Put lights, props and cameras in a Sync folder and share them live with friends who join your room code.\n\nFlashBang includes all of Brio's tools, so turn off Brio before enabling FlashBang.\n\nBased on Brio by Etheirys (GPL-3.0).",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/ambychannel/FlashBang",
-                "LastUpdate": 1793476029,
+                "LastUpdate": 1793525055,
                 "is_ai_attributed": true
             }
         ]
@@ -2869,12 +2888,12 @@
                 "Author": "Anmi",
                 "Name": "肝武助手",
                 "InternalName": "Phantom",
-                "AssemblyVersion": "0.1.60.0",
+                "AssemblyVersion": "0.1.61.0",
                 "Description": "统一追踪幻武、深层迷宫武器、旧肝武、特殊工具、绝武与妖表收藏。支持全系列按角色持有同步、秘影与 FATE 导航、妖表奖励扫描和雇员库存缓存读取。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/anmili2022/Phantom/main/images/icon.png",
                 "RepoUrl": "https://github.com/anmili2022/Phantom",
-                "LastUpdate": 1792496474
+                "LastUpdate": 1793525967
             }
         ]
     },
@@ -3816,7 +3835,7 @@
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/Dalamud-DailyRoutines/DailyRoutines/main/Resources/icon.png",
                 "RepoUrl": "https://github.com/Dalamud-DailyRoutines/DailyRoutines/releases/latest",
-                "LastUpdate": 1793203092,
+                "LastUpdate": 1793528339,
                 "is_closed_source": true
             },
             {
@@ -3828,19 +3847,19 @@
                 "DalamudApiLevel": 14,
                 "IconUrl": "https://raw.githubusercontent.com/Dalamud-DailyRoutines/DailyRoutines/main/Resources/icon.png",
                 "RepoUrl": "https://github.com/Dalamud-DailyRoutines/DailyRoutines/releases/latest",
-                "LastUpdate": 1793203092,
+                "LastUpdate": 1793528339,
                 "is_closed_source": true
             },
             {
                 "Author": "AtmoOmen",
                 "Name": "Daily Routines",
                 "InternalName": "DailyRoutines",
-                "AssemblyVersion": "2.2.5.5",
+                "AssemblyVersion": "2.2.6.0",
                 "Description": "A collection of lightweight, simple automation features/easy-to-use modules to free you from meaningless repetitive tasks.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Dalamud-DailyRoutines/DailyRoutines/main/Resources/icon.png",
                 "RepoUrl": "https://github.com/Dalamud-DailyRoutines/DailyRoutines/releases/latest",
-                "LastUpdate": 1793203092,
+                "LastUpdate": 1793528339,
                 "is_closed_source": true
             },
             {
@@ -4014,11 +4033,11 @@
                 "Author": "Auri",
                 "Name": "Prisme",
                 "InternalName": "Prisme",
-                "AssemblyVersion": "0.74.0.0",
+                "AssemblyVersion": "0.75.0.0",
                 "Description": "Proof of concept: organize references to Penumbra mods into views linked to Penumbra collections, without copying mod data. Requires Penumbra.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AuriLumi/dalamud-plugins",
-                "LastUpdate": 1793464731
+                "LastUpdate": 1793539121
             }
         ]
     },
@@ -5973,11 +5992,11 @@
                 "Author": "cloudesh",
                 "Name": "Kupo Skribbl",
                 "InternalName": "Kupopop",
-                "AssemblyVersion": "0.6.2.0",
+                "AssemblyVersion": "0.7.0.0",
                 "Description": "A native multiplayer drawing and guessing game with private/public rooms and custom drawn avatars. Experimental: requires a separately hosted Kupopop server. No Kupo-Points yet.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/cloudesh/kupopop",
-                "LastUpdate": 1793498848,
+                "LastUpdate": 1793539963,
                 "is_ai_attributed": true
             }
         ]
@@ -7859,11 +7878,11 @@
                 "Author": "Dhrubo95ZD",
                 "Name": "Action Renamer",
                 "InternalName": "ActionRenamer",
-                "AssemblyVersion": "1.2.1.0",
+                "AssemblyVersion": "1.3.2.0",
                 "Description": "Renames skills, traits, job names and buffs/debuffs with a sci-fi theme, lets you set your own names and tooltip descriptions per skill, and installs a matching sci-fi icon pack through Penumbra. Client-side only.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Dhrubo95ZD/ActionRenamer",
-                "LastUpdate": 1793355479,
+                "LastUpdate": 1793530878,
                 "is_ai_attributed": true
             }
         ]
@@ -9790,7 +9809,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1793446191
+                "LastUpdate": 1793536003
             }
         ]
     },
@@ -12548,11 +12567,11 @@
                 "Author": "holorigg",
                 "Name": "Wayfinder",
                 "InternalName": "Wayfinder",
-                "AssemblyVersion": "0.8.0.0",
+                "AssemblyVersion": "0.8.7.0",
                 "Description": "Draws the walking route on the ground to the map flag or to the current step of a quest, across zone exits, with city aethernet and teleport suggestions. Only draws; never moves the character. Requires vnavmesh (https://puni.sh/api/repository/veyn). Open with /way.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Holorigg/FFXIV-Wayfinder",
-                "LastUpdate": 1793517763
+                "LastUpdate": 1793529251
             }
         ]
     },
@@ -13238,12 +13257,12 @@
                 "Author": "IndividualGather",
                 "Name": "XIV MCP",
                 "InternalName": "XivMcp",
-                "AssemblyVersion": "0.3.0.17",
+                "AssemblyVersion": "0.3.0.22",
                 "Description": "XIV MCP runs a local MCP server (only reachable from your own PC, protected by an access token) so any AI assistant that supports the Model Context Protocol (Claude, ChatGPT, Codex, LM Studio and others) can see your game and help with it.\n\nRead your character live: stats and jobs, gear, inventory, currencies, quests, achievements and unlocks, party, targets, nearby objects, FATEs and the game's data sheets. Retainers and submersibles are remembered between visits.\n\nOptional modules, each behind its own switch in /xivmcp: game interaction and navigation, inventory and retainers, market and purchases (every non-gil purchase asks you in game), crafting and gathering, quests, custom deliveries, fishing, submersibles, plugin management, and background jobs that run for hours on their own.\n\nDocumentation: https://individualgather.github.io/xiv-mcp/",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/IndividualGather/xiv-mcp/master/XivMcp/images/icon.png",
                 "RepoUrl": "https://github.com/IndividualGather/xiv-mcp",
-                "LastUpdate": 1793408525,
+                "LastUpdate": 1793540003,
                 "is_ai_attributed": true
             }
         ]
@@ -13756,12 +13775,12 @@
                 "Author": "raynording",
                 "Name": "Dalamud ACT Compat",
                 "InternalName": "DalamudActCompat",
-                "AssemblyVersion": "0.4.5.18",
+                "AssemblyVersion": "0.4.5.19",
                 "Description": "Dalamud-side UI, storage, parser abstraction, and compatibility-host bridge for an ACT-compatible FFXIV parsing platform. This early build does not yet load FFXIV_ACT_Plugin.",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/JackyWilliam/DalamudActCompat/main/src/DalamudActCompat/Assets/act-logo.jpg",
+                "IconUrl": "https://raw.githubusercontent.com/JackyWilliam/DalamudActCompat/main/src/DalamudActCompat/images/icon.png",
                 "RepoUrl": "https://github.com/JackyWilliam/DalamudActCompat",
-                "LastUpdate": 1793423809,
+                "LastUpdate": 1793532855,
                 "is_ai_attributed": true
             },
             {
@@ -13771,7 +13790,7 @@
                 "AssemblyVersion": "0.1.0.0",
                 "Description": "独立卫月插件。停用 DACT 主插件后，将错误编号 4.4.0.0 备份并修复为 0.4.4.0；保留配置，完成后重启一次游戏。",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/JackyWilliam/DalamudActCompat/main/src/DalamudActCompat/Assets/act-logo.jpg",
+                "IconUrl": "https://raw.githubusercontent.com/JackyWilliam/DalamudActCompat/main/src/DalamudActCompat/images/icon.png",
                 "RepoUrl": "https://github.com/JackyWilliam/DalamudActCompat",
                 "LastUpdate": 1789711112
             }
@@ -13787,12 +13806,12 @@
                 "Author": "raynording",
                 "Name": "Dalamud ACT Compat (TW)",
                 "InternalName": "DalamudActCompat",
-                "AssemblyVersion": "0.4.5.18",
+                "AssemblyVersion": "0.4.5.19",
                 "Description": "台服 API 13 專用測試候選版，預設繁體中文。整合戰鬥統計、Cactbot、HTML 懸浮窗、快捷鍵與 ACT 擴充套件；不包含 Matcha。遊戲內相容性仍待驗收。",
                 "DalamudApiLevel": 13,
-                "IconUrl": "https://raw.githubusercontent.com/JackyWilliam/DalamudActCompat-TW/main/src/DalamudActCompat/Assets/act-logo.jpg",
+                "IconUrl": "https://raw.githubusercontent.com/JackyWilliam/DalamudActCompat-TW/main/src/DalamudActCompat/images/icon.png",
                 "RepoUrl": "https://github.com/JackyWilliam/DalamudActCompat-TW",
-                "LastUpdate": 1793423936
+                "LastUpdate": 1793533183
             }
         ]
     },
@@ -13806,12 +13825,12 @@
                 "Author": "raynording",
                 "Name": "Dalamud ACT Compat",
                 "InternalName": "DalamudActCompat",
-                "AssemblyVersion": "0.4.5.18",
+                "AssemblyVersion": "0.4.5.19",
                 "Description": "Dalamud-side UI, storage, parser abstraction, and compatibility-host bridge for an ACT-compatible FFXIV parsing platform. This early build does not yet load FFXIV_ACT_Plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/JackyWilliam/DalamudActCompatRepo/main/act-logo-512.png",
                 "RepoUrl": "https://github.com/JackyWilliam/DalamudActCompat",
-                "LastUpdate": 1793424863,
+                "LastUpdate": 1793533743,
                 "is_ai_attributed": true
             },
             {
@@ -13821,9 +13840,9 @@
                 "AssemblyVersion": "0.1.0.0",
                 "Description": "独立卫月插件。停用 DACT 主插件后，将错误编号 4.4.0.0 备份并修复为 0.4.4.0；保留配置，完成后重启一次游戏。",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/JackyWilliam/DalamudActCompat/main/src/DalamudActCompat/Assets/act-logo.jpg",
+                "IconUrl": "https://raw.githubusercontent.com/JackyWilliam/DalamudActCompatRepo/main/act-logo-512.png",
                 "RepoUrl": "https://github.com/JackyWilliam/DalamudActCompat",
-                "LastUpdate": 1793424863
+                "LastUpdate": 1793533743
             }
         ]
     },
@@ -14141,12 +14160,12 @@
                 "Author": "jeffrick-cloud",
                 "Name": "XivCinema",
                 "InternalName": "XivCinema",
-                "AssemblyVersion": "0.1.2.0",
+                "AssemblyVersion": "0.1.4.0",
                 "Description": "Play video with your party in sync, on a floating window or a screen placed in the game world. The host provides the video; viewers just install the plugin and click Join.",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://github.com/jeffrick-cloud/XivCinema-releases/releases/download/v0.1.2/icon.png",
+                "IconUrl": "https://github.com/jeffrick-cloud/XivCinema-releases/releases/download/v0.1.4/icon.png",
                 "RepoUrl": "https://github.com/jeffrick-cloud/XivCinema-releases",
-                "LastUpdate": 1793504703
+                "LastUpdate": 1793540741
             }
         ]
     },
@@ -15198,12 +15217,12 @@
                 "Author": "Big Bear",
                 "Name": "Rotation Trainer",
                 "InternalName": "RotationTrainer",
-                "AssemblyVersion": "1.0.4.0",
+                "AssemblyVersion": "1.0.5.0",
                 "Description": "Practise openers and rotations against a scrolling trail of upcoming actions, with feedback on every press.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/kabojnk/RotationTrainer/main/src/RotationTrainer/images/icon.png",
                 "RepoUrl": "https://github.com/kabojnk/RotationTrainer",
-                "LastUpdate": 1793484730,
+                "LastUpdate": 1793522713,
                 "is_ai_attributed": true
             }
         ]
@@ -16352,12 +16371,12 @@
                 "Author": "KEWI",
                 "Name": "Keybound Brawler Helper",
                 "InternalName": "KeyboundBrawler",
-                "AssemblyVersion": "0.8.4.0",
+                "AssemblyVersion": "0.8.5.0",
                 "Description": "Reads the enemy words in Keybound Brawler and types them for you at a human pace, opens the input box, pauses on no-typing casts and remembers obscured boss words. Also tracks MGC and plans event rewards. /kbb opens the window, /kbb auto toggles auto-play.\n\nAuto-play is against the FFXIV Terms of Service. Use at your own risk.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/KEWI-hub/KeyboundBrawler/main/images/icon.png",
                 "RepoUrl": "https://github.com/KEWI-hub/KeyboundBrawler",
-                "LastUpdate": 1793287274,
+                "LastUpdate": 1793536391,
                 "is_ai_attributed": true
             }
         ]
@@ -16979,12 +16998,12 @@
                 "Author": "koko",
                 "Name": "Housing Studio",
                 "InternalName": "HousingStudio",
-                "AssemblyVersion": "0.9.10.0",
+                "AssemblyVersion": "0.9.13.0",
                 "Description": "Load a .build from Housing Studio (or a MakePlace .json) and see every piece matched to what you have: already placed, in your bags, in the storeroom, or still to buy. Start placing moves what is placed, places pieces from your bags and storeroom at their exact spots through the game's own windows, then dyes them to match. In-world markers, floor filters, a dry run, step-by-step mode, a copyable shopping list, and backups of your current layout. Early: the automation hasn't been tested in the game yet.\n\nUse /hstudio to open it. Only works in a house or apartment you're allowed to decorate, in the game's furnishing mode.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/koko-puffs/housing-studio-plugin/main/HousingStudio/images/icon.png",
                 "RepoUrl": "https://github.com/koko-puffs/housing-studio-plugin",
-                "LastUpdate": 1793517139,
+                "LastUpdate": 1793522171,
                 "is_ai_attributed": true
             }
         ]
@@ -17671,7 +17690,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Kyuuso/dalamud-plugins/main/plugins/BozjaSuite/images/icon.png",
                 "RepoUrl": "https://github.com/Kyuuso/dalamud-plugins",
-                "LastUpdate": 1793478169
+                "LastUpdate": 1793540701
             },
             {
                 "Author": "Kyuuso",
@@ -17682,7 +17701,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Kyuuso/EurekaSuite-releases/main/icon.png",
                 "RepoUrl": "https://github.com/Kyuuso/dalamud-plugins",
-                "LastUpdate": 1793478169,
+                "LastUpdate": 1793540701,
                 "is_ai_attributed": true
             },
             {
@@ -17694,7 +17713,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Kyuuso/dalamud-plugins/main/plugins/ZodiacHelper/images/icon.png",
                 "RepoUrl": "https://github.com/Kyuuso/dalamud-plugins",
-                "LastUpdate": 1793478169
+                "LastUpdate": 1793540701
             }
         ]
     },
@@ -17713,7 +17732,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Kyuuso/EurekaSuite-releases/main/icon.png",
                 "RepoUrl": "https://github.com/Kyuuso/EurekaSuite-releases",
-                "LastUpdate": 1793478033,
+                "LastUpdate": 1793540699,
                 "is_ai_attributed": true
             }
         ]
@@ -18209,6 +18228,24 @@
         ]
     },
     {
+        "repo_developer_name": "leahminka",
+        "repo_url": "https://raw.githubusercontent.com/leahminka/Dalamud-files-again/main/repo.json",
+        "repo_source_url": "https://github.com/leahminka/Dalamud-files-again",
+        "repo_name": "Dalamud-files-again",
+        "plugins": [
+            {
+                "Author": "leahminka",
+                "Name": "Inventory Discard Assistant",
+                "InternalName": "InventoryDiscardAssistant",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "Manual, preview-first inventory cleanup. Filter by game item category or individual item, protect exclusions and saved gearset items, and confirm every stack using the game's native Yes/No dialog.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/leahminka/Dalamud-files-again",
+                "LastUpdate": 1793491200
+            }
+        ]
+    },
+    {
         "repo_developer_name": "leesangho0135",
         "repo_url": "https://raw.githubusercontent.com/leesangho0135/I-really-hate-keyboard/feature/korean-support/repo.json",
         "repo_source_url": "https://github.com/leesangho0135/I-really-hate-keyboard",
@@ -18358,6 +18395,25 @@
                 "IconUrl": "https://raw.githubusercontent.com/letsI-MA/BLUnion/main/images/icon.png",
                 "RepoUrl": "https://github.com/letsI-MA/BLUnion",
                 "LastUpdate": 1793174507,
+                "is_ai_attributed": true
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "LevHowly",
+        "repo_url": "https://raw.githubusercontent.com/LevHowly/ADOF_Dalamud_Controller/master/pluginmaster.json",
+        "repo_source_url": "https://github.com/LevHowly/ADOF_Dalamud_Controller",
+        "repo_name": "ADOF_Dalamud_Controller",
+        "plugins": [
+            {
+                "Author": "LevHowly",
+                "Name": "ADOF Dalamud Controller",
+                "InternalName": "ADOF_Dalamud_Controller",
+                "AssemblyVersion": "1.0.5.0",
+                "Description": "Control the ADOF depth-of-field shader during GPose.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/LevHowly/ADOF_Dalamud_Controller",
+                "LastUpdate": 1793525527,
                 "is_ai_attributed": true
             }
         ]
@@ -20073,13 +20129,13 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Marobotic/PfPresets/main/repo/GearsetManager-icon.png",
                 "RepoUrl": "https://github.com/Marobotic/PfPresets",
-                "LastUpdate": 1793249303
+                "LastUpdate": 1793537237
             },
             {
                 "Author": "NightmareXIV, kawaii, mrbotic",
                 "Name": "OrangeJuice",
                 "InternalName": "OrangeJuice",
-                "AssemblyVersion": "1.1.0.0",
+                "AssemblyVersion": "1.1.3.0",
                 "Description": "Alpha.\n\nSubmarine-focused fork of AutoRetainer. Manages unlocking, levelling and profit routes for your submersibles across characters, sells submarine salvage at the Limsa vendor (needs Lifestream and vnavmesh), runs Salvage Mode on the MultiMode loop, and sends gil from your alts to a host character that runs OrangeJuice Host.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Marobotic/PfPresets/main/repo/OrangeJuice-icon.png",
@@ -20104,7 +20160,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Marobotic/PfPresets/main/images/icon.png",
                 "RepoUrl": "https://github.com/Marobotic/PfPresets",
-                "LastUpdate": 1793249303,
+                "LastUpdate": 1793537237,
                 "is_closed_source": true,
                 "is_ai_attributed": true
             }
@@ -20540,17 +20596,6 @@
                 "IconUrl": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/GlamourBrowser/icon.png",
                 "RepoUrl": "https://github.com/Matuno/GlamourBrowser",
                 "LastUpdate": 1793140413
-            },
-            {
-                "Author": "Matuno",
-                "Name": "Magitype Pilot",
-                "InternalName": "MagitypePilot",
-                "AssemblyVersion": "0.1.7.0",
-                "Description": "Experimental Magitype automation with direct actions, typing fallback, configurable priorities, speed, automatic exit and requeue. Cast and barrier matching are experimental. The logo is AI-generated.",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/Matuno/DalamudPlugins/main/plugins/MagitypePilot/icon.png",
-                "RepoUrl": "https://github.com/Matuno/MagitypePilot",
-                "LastUpdate": 1793216150
             },
             {
                 "Author": "Matuno",
@@ -21149,12 +21194,12 @@
                 "Author": "DhogGPT",
                 "Name": "AI Duty Solver",
                 "InternalName": "ADS",
-                "AssemblyVersion": "2.0.0.15",
+                "AssemblyVersion": "2.0.0.16",
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/ADS/main/ADS/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1793350678,
+                "LastUpdate": 1793454320,
                 "is_ai_attributed": true
             },
             {
@@ -21170,14 +21215,14 @@
             },
             {
                 "Author": "McVaxius",
-                "Name": "BMR Companion",
+                "Name": "God Mod Companion",
                 "InternalName": "BMRVariantLoader",
-                "AssemblyVersion": "2.1.0.6",
+                "AssemblyVersion": "2.1.0.7",
                 "Description": "Encounter additions, Praetorium timelines and bundled cooldown plans, with AethertekUI appearance for BMR settings, autorotation and AI. BossModReborn must be installed and enabled.",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://github.com/McVaxius/BMRVariantLoader-Public/releases/download/v2.1.0.6/icon.png",
+                "IconUrl": "https://github.com/McVaxius/BMRVariantLoader-Public/releases/download/v2.1.0.7/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/BMRVariantLoader-Public",
-                "LastUpdate": 1793411831
+                "LastUpdate": 1793540628
             },
             {
                 "Author": "DhogGPT",
@@ -21307,7 +21352,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Kyuuso/EurekaSuite-releases/main/icon.png",
                 "RepoUrl": "https://github.com/Kyuuso/EurekaSuite-releases",
-                "LastUpdate": 1793451623
+                "LastUpdate": 1793540699
             },
             {
                 "Author": "DhogGPT",
@@ -21325,12 +21370,12 @@
                 "Author": "DhogGPT",
                 "Name": "Fren Rider",
                 "InternalName": "FrenRider",
-                "AssemblyVersion": "4.1.0.1",
+                "AssemblyVersion": "4.1.0.4",
                 "Description": "Native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider or /fr to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1793350688,
+                "LastUpdate": 1793480368,
                 "is_ai_attributed": true
             },
             {
@@ -21372,24 +21417,24 @@
                 "Author": "DhogGPT",
                 "Name": "Loot Goblin",
                 "InternalName": "LootGoblin",
-                "AssemblyVersion": "1.1.1.4",
+                "AssemblyVersion": "1.1.1.5",
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/LootGoblin/master/LootGoblin/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1793350736,
+                "LastUpdate": 1793480349,
                 "is_ai_attributed": true
             },
             {
                 "Author": "DhogGPT",
                 "Name": "M.O.G.T.O.M.E.",
                 "InternalName": "MOGTOME",
-                "AssemblyVersion": "4.2.0.4",
+                "AssemblyVersion": "4.2.0.6",
                 "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open. M.O.G.T.O.M.E. = Management Of Grand Tome Operations & Management Engine",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/MOGTOME/master/MOGTOME/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/MOGTOME",
-                "LastUpdate": 1793350737,
+                "LastUpdate": 1793480380,
                 "is_ai_attributed": true
             },
             {
@@ -21408,12 +21453,12 @@
                 "Author": "MacaronDream, DhogGPT, XA",
                 "Name": "Questionable Companion",
                 "InternalName": "QSTCompanion",
-                "AssemblyVersion": "1.1.33.0",
+                "AssemblyVersion": "1.1.34.0",
                 "Description": "Automated character rotation and quest sequence execution for Questionable.\n\nAutomates multi-character MSQ progression by intelligently switching between characters based on quest completion and level requirements. Features include:\n- Automatic character switching and quest tracking\n- MSQ progression monitoring across all characters\n- Allied Society quest rotation and prioritization\n- Event quest automation with prerequisite checking\n- Chauffeur Mode for following main character through quests\n- Data Center travel automation\n- Stop point configuration for controlled progression\n\nRequired Plugins: Questionable, AutoRetainer",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MacaronDream/QSTCompanion/main/icon.png",
                 "RepoUrl": "https://github.com/MacaronDream/QSTCompanion",
-                "LastUpdate": 1793386063,
+                "LastUpdate": 1793532719,
                 "is_ai_attributed": true
             },
             {
@@ -21432,12 +21477,12 @@
                 "Author": "DhogGPT",
                 "Name": "Vermaxion",
                 "InternalName": "VERMAXION",
-                "AssemblyVersion": "3.0.0.6",
+                "AssemblyVersion": "3.0.0.8",
                 "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, vendor stock, and fishing with AutoHook. Use /vermaxion or /vmx to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-                "LastUpdate": 1793411786,
+                "LastUpdate": 1793480371,
                 "is_ai_attributed": true
             },
             {
@@ -22616,12 +22661,12 @@
                 "Author": "Penumbra Organizer Contributors",
                 "Name": "Penumbra Organizer",
                 "InternalName": "PenumbraOrganizer.Plugin",
-                "AssemblyVersion": "0.6.0.0",
+                "AssemblyVersion": "0.6.1.1",
                 "Description": "Sorts your installed Penumbra mods into folders by creator, type, or both. You approve every move before it happens, protect anything you want left alone, and can export or import the whole plan as an Excel workbook.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/monstersghost/PenumbraOrganizerPlugin/main/PenumbraOrganizer.Plugin/images/icon.png",
                 "RepoUrl": "https://github.com/monstersghost/PenumbraOrganizerPlugin",
-                "LastUpdate": 1793513072,
+                "LastUpdate": 1793533235,
                 "is_ai_attributed": true
             }
         ]
@@ -23947,12 +23992,12 @@
                 "Author": "Neon Celestial Lanes",
                 "Name": "NCL Bowling Score",
                 "InternalName": "NCLBowlingScore",
-                "AssemblyVersion": "1.0.26.0",
+                "AssemblyVersion": "1.0.27.0",
                 "Description": "Opens with /nclbowling. Tabs for bowling, Around the Clock darts, the food and drink menus, and the Carrd.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/NeonCelestialLanes/NCL-Bowling-Score-Keeper/main/images/icon.png",
                 "RepoUrl": "https://github.com/NeonCelestialLanes/NCL-Bowling-Score-Keeper",
-                "LastUpdate": 1793488328,
+                "LastUpdate": 1793532709,
                 "is_ai_attributed": true
             }
         ]
@@ -24482,7 +24527,7 @@
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1792582855,
+                "LastUpdate": 1793531162,
                 "is_closed_source": true
             },
             {
@@ -24494,31 +24539,31 @@
                 "DalamudApiLevel": 14,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1792582855,
+                "LastUpdate": 1793531162,
                 "is_closed_source": true
             },
             {
                 "Author": "The Combat Reborn Team / NiGuangOwO（本地化&适配）",
                 "Name": "BossMod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.7.2",
+                "AssemblyVersion": "7.5.7.3",
                 "Description": "仅禁用了与后期软件冲突的代码（AI可用，自动循环可能失效）",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins/tree/main/plugins/BossModReborn",
-                "LastUpdate": 1792582855,
+                "LastUpdate": 1793531162,
                 "is_closed_source": true
             },
             {
                 "Author": "NiGuangOwO",
                 "Name": "DalamudMCP",
                 "InternalName": "DalamudMCP",
-                "AssemblyVersion": "1.0.0.39",
+                "AssemblyVersion": "1.0.0.41",
                 "Description": "Hosts a Model Context Protocol (MCP) server on a local port so that agents can read FINAL FANTASY XIV game memory via Dalamud and FFXIVClientStructs.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/NiGuangOwO/DalamudMCP/main/src/DalamudMCP/images/icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/Dalamud-MCP",
-                "LastUpdate": 1793513866,
+                "LastUpdate": 1793529353,
                 "is_ai_attributed": true
             },
             {
@@ -24562,7 +24607,7 @@
                 "Description": "进入魔光键影比赛后自动输入词条，支持固定或按词条长度动态调整提交间隔，悬浮窗可暂停、恢复并调整提交延迟。使用 /keybound 或 /ktg 打开设置。实验功能，部分机制尚未验证。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NiGuangOwO/DalamudPlugins",
-                "LastUpdate": 1793513807
+                "LastUpdate": 1793531196
             },
             {
                 "Author": "53m1k0l0n/Gidedin (Puni.sh) / NiGuangOwO (本地化)",
@@ -24938,12 +24983,12 @@
                 "Author": "BlueWaveXIV",
                 "Name": "AutoList",
                 "InternalName": "AutoList",
-                "AssemblyVersion": "0.1.0.102",
+                "AssemblyVersion": "0.1.0.103",
                 "Description": "AutoList turns retainer Market Board chores into supervised AutoList and AutoRefresh workflows with a small in-game tray that lights up when your character is ready to start.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Ninethirty77/autolist-repo/main/icon.jpg",
                 "RepoUrl": "https://github.com/Ninethirty77/autolist-repo",
-                "LastUpdate": 1792994786,
+                "LastUpdate": 1793539884,
                 "is_closed_source": true
             }
         ]
@@ -27648,12 +27693,12 @@
                 "Author": "veyn, xan_0, Enzyu",
                 "Name": "Boss Mod (Custom)",
                 "InternalName": "BossMod",
-                "AssemblyVersion": "7.5.7.6006",
+                "AssemblyVersion": "7.5.7.6008",
                 "Description": "보스 기믹 레이더, 자동 로테이션, 쿨다운 플래너, AI를 제공하는 플러그인입니다. 본가(awgil/ffxiv_bossmod)를 자동으로 따라가며, 한국 서버 공략에 맞춘 옵션과 한국어 UI를 추가한 버전입니다.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/f4efcb5dc279d21ee16185d5a9f2d09a3a2bc58b/Data/icon.png",
                 "RepoUrl": "https://github.com/pnsdh/ffxiv_bossmod_custom",
-                "LastUpdate": 1793437355,
+                "LastUpdate": 1793526143,
                 "is_ai_attributed": true
             },
             {
@@ -27786,12 +27831,12 @@
                 "Author": "PriestKos",
                 "Name": "Babel14",
                 "InternalName": "Babel14",
-                "AssemblyVersion": "0.1.0.2",
+                "AssemblyVersion": "0.1.0.4",
                 "Description": "Translate incoming and outgoing chat between languages using an LLM API. Toggle with /babel.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/priestkos/Babel14/main/images/icon.png",
                 "RepoUrl": "https://github.com/priestkos/Babel14",
-                "LastUpdate": 1793516492,
+                "LastUpdate": 1793526768,
                 "is_ai_attributed": true
             },
             {
@@ -27810,7 +27855,7 @@
                 "Author": "PriestKos",
                 "Name": "FrontlineAdvisor",
                 "InternalName": "FrontlineAdvisor",
-                "AssemblyVersion": "1.0.0.2",
+                "AssemblyVersion": "1.0.0.3",
                 "Description": "Reads who is leading a Frontline match, says which Grand Company to focus and which is about to become dangerous, and calls out every change of leader.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/priestkos/FrontlineAdvisor/main/images/icon.png",
@@ -28373,12 +28418,12 @@
                 "Author": "Det, croizat",
                 "Name": "AutoHook",
                 "InternalName": "AutoHook",
-                "AssemblyVersion": "6.0.3.0",
+                "AssemblyVersion": "6.0.3.1",
                 "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/47",
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1793508416
+                "LastUpdate": 1793535640
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -30023,7 +30068,7 @@
                 "Author": "菱叶",
                 "Name": "随身神典石",
                 "InternalName": "EorzeaPhone",
-                "AssemblyVersion": "1.1.3",
+                "AssemblyVersion": "1.2.2",
                 "Description": "XIVChat 的独立手机终端配套插件，提供中文聊天、好友列表、角色资料和实时背包数据。与原 XIVChat 插件分开安装，使用相同的加密端口。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/QuserH/zh-repo/main/EorzeaPhone-icon.png",
@@ -31725,12 +31770,12 @@
                 "Author": "Rin",
                 "Name": "ReplayToolbox",
                 "InternalName": "ReplayToolbox",
-                "AssemblyVersion": "1.0.2.0",
+                "AssemblyVersion": "1.1.0.0",
                 "Description": "コンテンツリプレイ（A Realm Recorded）のファイルを、プルごとに切り出して共有しやすくします。パッチで再生できなくなった古いリプレイを、今のバージョンで再生できるように変換します。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Rin-0617/ReplayToolboxDist/main/images/icon.png",
                 "RepoUrl": "https://github.com/Rin-0617/ReplayToolboxDist",
-                "LastUpdate": 1793015988
+                "LastUpdate": 1793535461
             }
         ]
     },
@@ -34086,6 +34131,26 @@
         ]
     },
     {
+        "repo_developer_name": "Shigu330",
+        "repo_url": "https://raw.githubusercontent.com/Shigu330/Tensho-Assistant/main/repo.json",
+        "repo_source_url": "https://github.com/Shigu330/Tensho-Assistant",
+        "repo_name": "Tensho-Assistant",
+        "plugins": [
+            {
+                "Author": "Tensho",
+                "Name": "Tensho Assistant",
+                "InternalName": "TenshoAssistant",
+                "AssemblyVersion": "0.242.0.0",
+                "Description": "Tensho Assistant brings everyday tools together in one interface (/tensho): items and storage (bags, retainers, saddlebags), inventory sorting rules, recipes and a crafting simulator, gathering and fishing with Eorzea time windows and weather, a map that replaces the game map (quests, leves, FATEs, gathering points, vendors, aether currents, teleport costs), collections with how to obtain each item, quests and rewards, optional market prices on hover (Universalis), duty and monster loot, Fashion Report hints, Mini Cactpot and Triple Triad helpers, character stats and macro chains.\n\nCommunity data (Garland Tools, FFXIV Console Games Wiki, Universalis) is only requested when you open or hover the matching tool, and is cached on disk. Nothing runs on its own: actions that reach the game (teleport, applying a sort, a macro chain) only start when you click them.\n\nAI disclosure: the code and the icon were generated with an AI coding agent (Claude), directed and tested in game by the author.\n\nLanguages: English, French; German and Japanese partial.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Shigu330/Tensho-Assistant/main/src/TenshoAssistant/images/icon.png",
+                "RepoUrl": "https://github.com/Shigu330/Tensho-Assistant",
+                "LastUpdate": 1793537464,
+                "is_ai_attributed": true
+            }
+        ]
+    },
+    {
         "repo_developer_name": "SHIGYL",
         "repo_url": "https://raw.githubusercontent.com/SHIGYL/Briosis/main/repo.json",
         "repo_source_url": "https://github.com/SHIGYL/Briosis",
@@ -34290,12 +34355,12 @@
                 "Author": "XSZYYS",
                 "Name": "XSZToolbox",
                 "InternalName": "XSZToolbox",
-                "AssemblyVersion": "1.8.2.3",
+                "AssemblyVersion": "1.8.2.5",
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ShoOtaku/DalamudPlugins/main/plugins/XSZToolbox/icon.png",
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins/tree/main/plugins/XSZToolbox",
-                "LastUpdate": 1793497885,
+                "LastUpdate": 1793529423,
                 "is_closed_source": true
             }
         ]
@@ -35048,7 +35113,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://dl.solona.info/icon.png",
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1793418880,
+                "LastUpdate": 1793460075,
                 "is_ai_attributed": true
             }
         ]
@@ -39047,12 +39112,12 @@
                 "Author": "MacaronDream, DhogGPT, XA",
                 "Name": "Questionable Companion",
                 "InternalName": "QSTCompanion",
-                "AssemblyVersion": "1.1.33.0",
+                "AssemblyVersion": "1.1.34.0",
                 "Description": "Automated character rotation and quest sequence execution for Questionable.\n\nAutomates multi-character MSQ progression by intelligently switching between characters based on quest completion and level requirements. Features include:\n- Automatic character switching and quest tracking\n- MSQ progression monitoring across all characters\n- Allied Society quest rotation and prioritization\n- Event quest automation with prerequisite checking\n- Chauffeur Mode for following main character through quests\n- Data Center travel automation\n- Stop point configuration for controlled progression\n\nRequired Plugins: Questionable, AutoRetainer",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MacaronDream/QSTCompanion/main/icon.png",
                 "RepoUrl": "https://github.com/MacaronDream/QSTCompanion",
-                "LastUpdate": 1793386063,
+                "LastUpdate": 1793532719,
                 "is_ai_attributed": true
             },
             {
@@ -40262,11 +40327,11 @@
                 "Author": "pmyan",
                 "Name": "MappyEx",
                 "InternalName": "MappyEx",
-                "AssemblyVersion": "3.3.0.1",
+                "AssemblyVersion": "3.3.0.4",
                 "Description": "在原版 Mappy 基础上完成完整的中英双语适配，并加入永久地图标记、标记分组、vnavmesh 前往/飞向、地图右键导航等功能。分组可自建并统一图标与大小，工具栏单按钮切换显隐。不能与上游 Mappy 同时启用。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/yanpmd/PmDalamud",
-                "LastUpdate": 1793507116
+                "LastUpdate": 1793538771
             },
             {
                 "Author": "pmyan",
