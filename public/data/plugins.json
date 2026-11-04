@@ -4855,12 +4855,12 @@
                 "Author": "Boloni",
                 "Name": "Equinox Companion",
                 "InternalName": "EquinoxCompanion",
-                "AssemblyVersion": "0.5.1.402",
+                "AssemblyVersion": "0.5.1.404",
                 "Description": "Records house entries and confirmed tending locally, with optional paired sync to Equinox Journal. English garden menus supported.",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/boloni96/Equinox-Companion/main/dist/v0.5.1.402/icon.png",
+                "IconUrl": "https://raw.githubusercontent.com/boloni96/Equinox-Companion/main/dist/v0.5.1.404/icon.png",
                 "RepoUrl": "https://github.com/boloni96/Equinox-Companion",
-                "LastUpdate": 1793767112
+                "LastUpdate": 1793769200
             }
         ]
     },
@@ -6080,9 +6080,9 @@
                 "Name": "Kupo Skribbl",
                 "InternalName": "Kupopop",
                 "AssemblyVersion": "1.2.1.0",
-                "Description": "A native multiplayer drawing and guessing game with private/public rooms and custom drawn avatars. Experimental: requires a separately hosted Kupopop server. No Kupo-Points yet.",
+                "Description": "Kupo Skribbl is a multiplayer Pictionary-style drawing and guessing game for 2–16 players",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/cloudesh/kupopop/main/plugin/images/icon.png?v=1.2.1.0",
+                "IconUrl": "https://raw.githubusercontent.com/cloudesh/kupopop/main/plugin/images/icon.png",
                 "RepoUrl": "https://github.com/cloudesh/kupopop",
                 "LastUpdate": 1793656753,
                 "is_ai_attributed": true
@@ -7776,11 +7776,11 @@
                 "Author": "dexcss",
                 "Name": "CruciblePilot",
                 "InternalName": "CruciblePilot",
-                "AssemblyVersion": "0.4.5.0",
+                "AssemblyVersion": "0.4.7.0",
                 "Description": "Drives FFXIV's Crucible of the Unbroken through AutoDuty: picks the difficulty (Standard through Third Degree), registers your team, reads the enemies and weaknesses from the stage window, scores your familiars per encounter and puts the best three on the battlehorns before every fight, then starts it. Includes a settings window, per-board rosters, a food check and a run log for troubleshooting.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dexcss/CruciblePilot",
-                "LastUpdate": 1793767298
+                "LastUpdate": 1793769539
             }
         ]
     },
@@ -7804,10 +7804,10 @@
                 "Author": "dexcss",
                 "Name": "CruciblePilot",
                 "InternalName": "CruciblePilot",
-                "AssemblyVersion": "0.4.4.0",
+                "AssemblyVersion": "0.4.7.0",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/dexcss/CruciblePilot",
-                "LastUpdate": 1793767298
+                "LastUpdate": 1793769539
             },
             {
                 "Author": "Akari",
@@ -16568,7 +16568,7 @@
                 "Author": "Yu",
                 "Name": "Viet Translator",
                 "InternalName": "VietTranslator",
-                "AssemblyVersion": "1.7.4.0",
+                "AssemblyVersion": "1.7.5.0",
                 "Description": "Phu de tieng Viet cho thoai FFXIV: overlay ImGui render chu co dau chuan (font BeVietnam Pro), giu nguyen ten rieng tieng Anh. Ban v1 phu tron A Realm Reborn - cot truyen chinh (2.0) + hau-ARR (2.1-2.55), nhiem vu Nghe & Job, mo khoa tinh nang (nha o, chocobo, retainer...) va Duty (dungeon/trial/raid). Hoat dong cho thoai thuong, cutscene, caption va menu lua chon.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/kennabi83/VietTranslator/main/Resources/icon.png?v=2",
@@ -34453,8 +34453,9 @@
                 "AssemblyVersion": "0.0.1.0",
                 "Description": "Folders of rules. AND, OR, and NOT chips. When a rule becomes true it sets game options, online status, slash commands, and Penumbra mod settings. Rules do not revert — write another rule for the other state.",
                 "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/ShadowstarIO/AndThen/main/images/icon.png",
                 "RepoUrl": "https://github.com/ShadowstarIO/AndThen",
-                "LastUpdate": 1790445685
+                "LastUpdate": 1793770008
             },
             {
                 "Author": "Xoza",
@@ -34466,6 +34467,15 @@
                 "IconUrl": "https://raw.githubusercontent.com/ShadowstarIO/LightsOn/main/images/icon.png",
                 "RepoUrl": "https://github.com/XozaShadow/LightsOn",
                 "LastUpdate": 1789619084
+            },
+            {
+                "Author": "Shadowstar",
+                "Name": "Starflow",
+                "InternalName": "Starflow",
+                "AssemblyVersion": "0.0.1.0",
+                "Description": "A graph of When, Do, Until, and After cards that reacts to what is going on around you. Conditions read zone, duty, housing address, party size, job, schedule, weather, mount, HP and effects, enmity, chat messages, and loaded plugins. Actions write game settings, run commands, set the search comment and online status, switch plugin collections, apply Glamourer designs, change Penumbra mods, post to webhooks, and travel with Lifestream. Slotted actions put back what they replaced when the flow stops. Starflow never uses combat actions for you.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/ShadowstarIO/Starflow"
             },
             {
                 "Author": "Xoza",
