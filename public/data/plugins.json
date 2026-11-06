@@ -1057,12 +1057,12 @@
                 "Author": "McVaxius",
                 "Name": "God Mod Companion",
                 "InternalName": "BMRVariantLoader",
-                "AssemblyVersion": "3.1.3.12",
+                "AssemblyVersion": "3.1.3.13",
                 "Description": "Encounter additions, Praetorium timelines and bundled cooldown plans, with AethertekUI appearance for BMR settings, autorotation and AI. BossModReborn must be installed and enabled.",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://github.com/McVaxius/BMRVariantLoader-Public/releases/download/v3.1.3.12/icon.png",
+                "IconUrl": "https://github.com/McVaxius/BMRVariantLoader-Public/releases/download/v3.1.3.13/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/BMRVariantLoader-Public",
-                "LastUpdate": 1793949735,
+                "LastUpdate": 1793951147,
                 "is_ai_attributed": true
             },
             {
@@ -2421,11 +2421,11 @@
                 "Author": "amarinne",
                 "Name": "Auto-Marketbuddy",
                 "InternalName": "AutoMarketbuddy",
-                "AssemblyVersion": "1.0.1.0",
+                "AssemblyVersion": "1.1.0.0",
                 "Description": "Automatically sets retainer prices with market data. Click an item, get prices, apply undercut, and confirm - all automatically. Supports batch processing of multiple items.",
-                "DalamudApiLevel": 14,
+                "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/amarinne/Auto-Marketbuddy",
-                "LastUpdate": 1768415976
+                "LastUpdate": 1793973203
             }
         ]
     },
@@ -5190,7 +5190,7 @@
                 "Author": "Real Nunu",
                 "Name": "Nunu's Windbound Bard",
                 "InternalName": "NunuWindboundBard",
-                "AssemblyVersion": "0.14.0.0",
+                "AssemblyVersion": "0.18.2.0",
                 "Description": "Play MIDI in FFXIV Bard Performance with full chords, per-track octave controls, an instrument selector, guitar tone overrides, saved solo and ensemble playlists, party-track assignments, and private multi-device ensembles.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/BTYRE1916/NunuWindboundBard-FFXIV/master/Assets/windbound-icon.png",
@@ -5332,11 +5332,30 @@
                 "Author": "StellarAutoLogin",
                 "Name": "Stellar Auto Login",
                 "InternalName": "StellarAutoLogin",
-                "AssemblyVersion": "1.2.0.0",
+                "AssemblyVersion": "1.2.0.7",
                 "Description": "StellarAutoLogin 在国际服标题大厅进入指定的数据中心、服务器和角色。账号登录由启动器完成，这个插件不读取密码。数据中心按北美、欧洲、日本和大洋洲分组；选中后只列出该数据中心的服务器。已经停在大厅时，会核对当前数据中心，一致就继续登录，不一致就回到标题画面重选。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Calamyr/StellarPluginRepo",
-                "LastUpdate": 1793718777
+                "LastUpdate": 1793964736
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "CandyAppleUwU",
+        "repo_url": "https://raw.githubusercontent.com/CandyAppleUwU/ffxiv-animation-syncer-plus/main/repo.json",
+        "repo_source_url": "https://github.com/CandyAppleUwU/ffxiv-animation-syncer-plus",
+        "repo_name": "ffxiv-animation-syncer-plus",
+        "plugins": [
+            {
+                "Author": "CandyApple",
+                "Name": "Animation Syncer Plus",
+                "InternalName": "AnimSync",
+                "AssemblyVersion": "1.3.42.0",
+                "Description": "Perfect and quick automatic matching animation syncing\n\nHow it works:\n1. Checks for players near each other within your selected distance.\n2. Checks that their animations have the same total frames, duration and playback speed.\n3. If they are on different frames, syncs their animations together.\n\nWith this enabled, you should rarely need to use animsync manually.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/CandyAppleUwU/ffxiv-animation-syncer-plus/main/images/icon.png",
+                "RepoUrl": "https://github.com/CandyAppleUwU/ffxiv-animation-syncer-plus",
+                "LastUpdate": 1793960162
             }
         ]
     },
@@ -6499,7 +6518,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/CrownedPandaXIV/XIVFleetCompanion/master/Data/submarine.png",
                 "RepoUrl": "https://github.com/CrownedPandaXIV/XIVFleetCompanion",
-                "LastUpdate": 1793950638
+                "LastUpdate": 1793971495
             }
         ]
     },
@@ -7476,11 +7495,11 @@
                 "Author": "destesasinsh",
                 "Name": "导随助手",
                 "InternalName": "MentorRoulette",
-                "AssemblyVersion": "0.1.10.0",
+                "AssemblyVersion": "0.1.11.0",
                 "Description": "自动排「导师随机任务」，进本后判断该副本 AutoDuty 是否支持：支持则通过 IPC 让 AutoDuty 自动攻略；不支持则按配置退出副本、等待放弃惩罚结束后重新排队。需要安装并启用 AutoDuty。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/destesasinsh/MentorRoulette",
-                "LastUpdate": 1793722041
+                "LastUpdate": 1793964289
             },
             {
                 "Author": "嗨呀",
@@ -7680,11 +7699,11 @@
                 "Author": "destesasinsh",
                 "Name": "导随助手",
                 "InternalName": "MentorRoulette",
-                "AssemblyVersion": "0.1.10.0",
+                "AssemblyVersion": "0.1.11.0",
                 "Description": "自动排「导师随机任务」，进本后判断该副本 AutoDuty 是否支持：支持则通过 IPC 让 AutoDuty 自动攻略；不支持则按配置退出副本、等待放弃惩罚结束后重新排队。需要安装并启用 AutoDuty。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/destesasinsh/MentorRoulette",
-                "LastUpdate": 1793722041
+                "LastUpdate": 1793964289
             },
             {
                 "Author": "嗨呀",
@@ -10099,7 +10118,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1793886474
+                "LastUpdate": 1793971928
             }
         ]
     },
@@ -11207,6 +11226,24 @@
                 "IconUrl": "https://raw.githubusercontent.com/Friendly-Namazu/dalamud-repo/main/images/icon.png",
                 "RepoUrl": "https://github.com/Friendly-Namazu/MareClient",
                 "LastUpdate": 1749034236
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "frigidgear",
+        "repo_url": "https://raw.githubusercontent.com/frigidgear/VanaCoreXIV/main/repo/pluginmaster.json",
+        "repo_source_url": "https://github.com/frigidgear/VanaCoreXIV",
+        "repo_name": "VanaCoreXIV",
+        "plugins": [
+            {
+                "Author": "frigidgear",
+                "Name": "VanaCoreXIV",
+                "InternalName": "VanaCoreXIV",
+                "AssemblyVersion": "1.17.0.0",
+                "Description": "Dalamud control panel: safer camera, UI theme groups, working JSON presets (JsonObject), System Config, ReShade bridge.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/frigidgear/VanaCoreXIV",
+                "LastUpdate": 1793967862
             }
         ]
     },
@@ -13590,12 +13627,12 @@
                 "Author": "IndividualGather",
                 "Name": "XIV MCP",
                 "InternalName": "XivMcp",
-                "AssemblyVersion": "0.3.0.53",
+                "AssemblyVersion": "0.3.0.61",
                 "Description": "XIV MCP runs a local MCP server (only reachable from your own PC, protected by an access token) so any AI assistant that supports the Model Context Protocol (Claude, ChatGPT, Codex, LM Studio and others) can see your game and help with it.\n\nRead your character live: stats and jobs, gear, inventory, currencies, quests, achievements and unlocks, party, targets, nearby objects, FATEs and the game's data sheets. Retainers and submersibles are remembered between visits.\n\nOptional modules, each behind its own switch in /xivmcp: game interaction and navigation, inventory and retainers, market and purchases (every non-gil purchase asks you in game), crafting and gathering, quests, custom deliveries, fishing, submersibles, plugin management, and background jobs that run for hours on their own.\n\nDocumentation: https://individualgather.github.io/xiv-mcp/",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/IndividualGather/xiv-mcp/master/XivMcp/images/icon.png",
                 "RepoUrl": "https://github.com/IndividualGather/xiv-mcp",
-                "LastUpdate": 1793942161,
+                "LastUpdate": 1793967218,
                 "is_ai_attributed": true
             }
         ]
@@ -18199,7 +18236,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Kyuuso/dalamud-plugins/main/plugins/AnimaHelper/images/icon.png",
                 "RepoUrl": "https://github.com/Kyuuso/dalamud-plugins",
-                "LastUpdate": 1793914305
+                "LastUpdate": 1793971735
             },
             {
                 "Author": "Kyuuso",
@@ -18210,7 +18247,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Kyuuso/dalamud-plugins/main/plugins/BozjaSuite/images/icon.png",
                 "RepoUrl": "https://github.com/Kyuuso/dalamud-plugins",
-                "LastUpdate": 1793914305
+                "LastUpdate": 1793971735
             },
             {
                 "Author": "Kyuuso",
@@ -18221,7 +18258,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Kyuuso/EurekaSuite-releases/main/icon.png",
                 "RepoUrl": "https://github.com/Kyuuso/dalamud-plugins",
-                "LastUpdate": 1793914305,
+                "LastUpdate": 1793971735,
                 "is_ai_attributed": true
             },
             {
@@ -18233,7 +18270,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Kyuuso/dalamud-plugins/main/plugins/MandervilleHelper/images/icon.png",
                 "RepoUrl": "https://github.com/Kyuuso/dalamud-plugins",
-                "LastUpdate": 1793914305
+                "LastUpdate": 1793971735
             },
             {
                 "Author": "Kyuuso",
@@ -18244,7 +18281,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Kyuuso/dalamud-plugins/main/plugins/PhantomHelper/images/icon.png",
                 "RepoUrl": "https://github.com/Kyuuso/dalamud-plugins",
-                "LastUpdate": 1793914305
+                "LastUpdate": 1793971735
             },
             {
                 "Author": "Kyuuso",
@@ -18255,7 +18292,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Kyuuso/dalamud-plugins/main/plugins/ZodiacHelper/images/icon.png",
                 "RepoUrl": "https://github.com/Kyuuso/dalamud-plugins",
-                "LastUpdate": 1793914305
+                "LastUpdate": 1793971735
             }
         ]
     },
@@ -18680,12 +18717,12 @@
                 "Author": "Latency Bryer",
                 "Name": "Bryer's Hideout Games",
                 "InternalName": "BryersHideoutGames",
-                "AssemblyVersion": "1.0.0.3",
+                "AssemblyVersion": "1.0.0.8",
                 "Description": "Play Bryer's Hideout minigames inside Final Fantasy XIV through Dalamud. Includes direct game windows, a compact launcher, access-code linking, and balance display.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/LatencyBryer/Bryer-Hideout-Games/main/icon.png",
                 "RepoUrl": "https://github.com/LatencyBryer/Bryer-Hideout-Games",
-                "LastUpdate": 1793924100
+                "LastUpdate": 1793939698
             }
         ]
     },
@@ -22369,12 +22406,12 @@
                 "Author": "Meowick",
                 "Name": "Emote Plugin",
                 "InternalName": "EmotePlugin",
-                "AssemblyVersion": "1.3.1.0",
+                "AssemblyVersion": "1.4.0.0",
                 "Description": "An emote management plugin with Penumbra mod association. Add/remove/rename/duplicate emotes, auto-toggle Penumbra mods, search and organize your emote collection. Use /emotes to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/meowickz/emotes/master/assets/icon.png",
                 "RepoUrl": "https://github.com/meowickz/emotes",
-                "LastUpdate": 1783954282,
+                "LastUpdate": 1793967252,
                 "is_ai_attributed": true
             }
         ]
@@ -23111,12 +23148,12 @@
                 "Author": "Momikk",
                 "Name": "回收之王 RecycleKing",
                 "InternalName": "RecycleKing",
-                "AssemblyVersion": "0.1.3.4",
+                "AssemblyVersion": "0.1.3.5",
                 "Description": "使用游戏原生 UI 管理回收物品清单，按拼音排序，NQ/HQ 视为同一物品。出售界面中背包显示“废品回收”，交易繁忙时暂时禁用，点击批量出售普通背包中的清单物品；再次点击可停止。清单通过插件设置或 /rking 打开。清单物品显示粉色遮罩与 X，优先于压价之王的蓝框；支持隐藏 AutoRetainer 军票悬浮框及显示稀有品品级。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Momikk/RecycleKing/main/images/icon.png",
                 "RepoUrl": "https://github.com/Momikk/RecycleKing",
-                "LastUpdate": 1793724875
+                "LastUpdate": 1793970712
             },
             {
                 "Author": "Momikk",
@@ -23171,12 +23208,12 @@
                 "Author": "Momikk",
                 "Name": "回收之王 RecycleKing",
                 "InternalName": "RecycleKing",
-                "AssemblyVersion": "0.1.3.4",
+                "AssemblyVersion": "0.1.3.5",
                 "Description": "使用游戏原生 UI 管理回收物品清单，按拼音排序，NQ/HQ 视为同一物品。出售界面中背包显示“废品回收”，交易繁忙时暂时禁用，点击批量出售普通背包中的清单物品；再次点击可停止。清单通过插件设置或 /rking 打开。清单物品显示粉色遮罩与 X，优先于压价之王的蓝框；支持隐藏 AutoRetainer 军票悬浮框及显示稀有品品级。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Momikk/RecycleKing/main/images/icon.png",
                 "RepoUrl": "https://github.com/Momikk/RecycleKing",
-                "LastUpdate": 1793724824
+                "LastUpdate": 1793970702
             }
         ]
     },
@@ -24458,12 +24495,12 @@
                 "Author": "Valenth Siveria",
                 "Name": "BlackJack Buttler",
                 "InternalName": "BlackJackButtler",
-                "AssemblyVersion": "1.9.1.2",
+                "AssemblyVersion": "2.0.0.7",
                 "Description": "/bjb - opens the blackjack buttler tool",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/NeoGriever/BlackJackButtler/main/plugins/BlackJackButtler/icon.png",
                 "RepoUrl": "https://github.com/NeoGriever/BlackJackButtler",
-                "LastUpdate": 1793650800,
+                "LastUpdate": 1793955088,
                 "is_ai_attributed": true
             }
         ]
@@ -28322,12 +28359,12 @@
                 "Author": "PlatyDuckbill",
                 "Name": "DuckbillFisher",
                 "InternalName": "DuckbillFisher",
-                "AssemblyVersion": "0.8.0.0",
+                "AssemblyVersion": "0.9.0.0",
                 "Description": "Let Duckbill guide your next catch.\nA fishing companion for FFXIV Korea.\n\n• Browse fish with collection, region and availability filters.\n• Choose your next fish by availability and preparation requirements.\n• Plan spawns with a timeline and monthly calendar.\n• Check baits, mooch chains and time/weather conditions.\n• Prepare baits for favorites or filtered fish, with inventory counts.\n• Find owned baits with page markers and in-game UI highlights.\n• Open fishing spots directly on the map.\n• Get local alerts for favorites and uncaught trophy fish at the current hole, with optional sounds.\n• See fish available now or soon in the quick list.\n• Follow casts with a timer and personal fishing records.\n\nOpen: /dbfs or /duckbillfisher. /dbfs cl: compact list; /dbfs ct: casting timer.\nUI: English / Korean. Game names follow your client.\n\nVerified on the supported Korean client and Dalamud build only.\nDoes not automate fishing.",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/PlatyDuckbill/DuckbillFisher/v0.8.0.0/assets/duckbillfisher-icon.png",
+                "IconUrl": "https://raw.githubusercontent.com/PlatyDuckbill/DuckbillFisher/v0.9.0.0/assets/duckbillfisher-icon.png",
                 "RepoUrl": "https://github.com/PlatyDuckbill/DuckbillFisher",
-                "LastUpdate": 1793882947,
+                "LastUpdate": 1793969286,
                 "is_ai_attributed": true
             },
             {
@@ -28609,11 +28646,11 @@
                 "Author": "Local build",
                 "Name": "Party View KR",
                 "InternalName": "PartyViewKR",
-                "AssemblyVersion": "0.3.58.0",
+                "AssemblyVersion": "0.3.61.0",
                 "Description": "한섭 파티원·모집글 조회와 내 모집글 수동 갱신. /pvkr에서 확인하고 버튼으로 현재 조건의 모집글을 한 번 재등록합니다.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/pressing7/PartyViewKR",
-                "LastUpdate": 1793939424
+                "LastUpdate": 1793967894
             }
         ]
     },
@@ -28632,7 +28669,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/priestkos/Aetherpath/main/images/icon.png",
                 "RepoUrl": "https://github.com/priestkos/Aetherpath",
-                "LastUpdate": 1793900250,
+                "LastUpdate": 1793960397,
                 "is_ai_attributed": true
             },
             {
@@ -28644,8 +28681,19 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/priestkos/Babel14/main/images/icon.png",
                 "RepoUrl": "https://github.com/priestkos/Babel14",
-                "LastUpdate": 1793903142,
+                "LastUpdate": 1793960405,
                 "is_ai_attributed": true
+            },
+            {
+                "Author": "PriestKos",
+                "Name": "Blackjack14",
+                "InternalName": "Blackjack14",
+                "AssemblyVersion": "0.1.0.2",
+                "Description": "Plays player-run blackjack with /random 10 in say range or by tell, or /dice 10 in party or alliance. You press Deal, Hit, Stand, Double or Split; it rolls the cards, reads the results from chat, draws the dealer to 17 and settles the round in units, posting the result to any mix of Echo, Say, Party, Alliance and Tell. Nothing rolls without a button press, and never more than once every 2 seconds.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/priestkos/Blackjack14/main/images/icon.png",
+                "RepoUrl": "https://github.com/priestkos/Blackjack14",
+                "LastUpdate": 1793961905
             },
             {
                 "Author": "PriestKos",
@@ -28656,7 +28704,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/priestkos/Calc14/main/images/icon.png",
                 "RepoUrl": "https://github.com/priestkos/Calc14",
-                "LastUpdate": 1793900170,
+                "LastUpdate": 1793960417,
                 "is_ai_attributed": true
             },
             {
@@ -28668,7 +28716,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/priestkos/FrontlineAdvisor/main/images/icon.png",
                 "RepoUrl": "https://github.com/priestkos/FrontlineAdvisor",
-                "LastUpdate": 1793900170,
+                "LastUpdate": 1793960424,
                 "is_ai_attributed": true
             },
             {
@@ -28680,7 +28728,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/priestkos/GateAlert/main/images/icon.png",
                 "RepoUrl": "https://github.com/priestkos/GateAlert",
-                "LastUpdate": 1793900170,
+                "LastUpdate": 1793960431,
                 "is_ai_attributed": true
             },
             {
@@ -28698,12 +28746,12 @@
                 "Author": "PriestKos",
                 "Name": "KeyboundAssist",
                 "InternalName": "KeyboundAssist",
-                "AssemblyVersion": "0.1.0.11",
+                "AssemblyVersion": "0.1.0.13",
                 "Description": "Reads the enemy prompts in the Keybound Brawler duty and writes the shortest one into the activity's own text field, one character at a time, stopping as soon as the word is complete. It never sends a keystroke: the player presses Enter to submit each word, and typing pauses while the duty prohibits input.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/priestkos/KeyboundAssist/main/images/icon.png",
                 "RepoUrl": "https://github.com/priestkos/KeyboundAssist",
-                "LastUpdate": 1793900172,
+                "LastUpdate": 1793959929,
                 "is_ai_attributed": true
             },
             {
@@ -28715,19 +28763,19 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/priestkos/KeyLock/main/images/icon.png",
                 "RepoUrl": "https://github.com/priestkos/KeyLock",
-                "LastUpdate": 1793900171,
+                "LastUpdate": 1793960448,
                 "is_ai_attributed": true
             },
             {
                 "Author": "PriestKos",
                 "Name": "Nameplate Offset",
                 "InternalName": "NameplateOffset",
-                "AssemblyVersion": "1.0.0.3",
+                "AssemblyVersion": "1.0.0.5",
                 "Description": "Moves the in-world nameplate vertically by writing the game object's NameplateOffsetTarget field.\r\nSlider in yalms (1 yalm = 1 metre). Your own character, other players and NPCs/objects can be offset independently.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/priestkos/NameplateOffset/main/images/icon.png",
                 "RepoUrl": "https://github.com/priestkos/NameplateOffset",
-                "LastUpdate": 1793948893,
+                "LastUpdate": 1793960454,
                 "is_ai_attributed": true
             },
             {
@@ -28739,7 +28787,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/priestkos/VenueLedger/main/images/icon.png",
                 "RepoUrl": "https://github.com/priestkos/VenueLedger",
-                "LastUpdate": 1793900179,
+                "LastUpdate": 1793960463,
                 "is_ai_attributed": true
             },
             {
@@ -28751,7 +28799,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/priestkos/WorldClock14/main/images/icon.png",
                 "RepoUrl": "https://github.com/priestkos/WorldClock14",
-                "LastUpdate": 1793900179,
+                "LastUpdate": 1793960471,
                 "is_ai_attributed": true
             }
         ]
@@ -29227,12 +29275,12 @@
                 "Author": "Taurenkey, kawaii, NightmareXIV",
                 "Name": "Artisan",
                 "InternalName": "Artisan",
-                "AssemblyVersion": "4.0.5.21",
+                "AssemblyVersion": "4.0.5.22",
                 "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/6",
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1793442207
+                "LastUpdate": 1793971931
             },
             {
                 "Author": "Det, croizat",
@@ -29330,7 +29378,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1793947118
+                "LastUpdate": 1793961725
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -29394,7 +29442,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/34",
                 "RepoUrl": "https://github.com/Jaksuhn/ffxiv-bundleoftweaks",
-                "LastUpdate": 1793704400
+                "LastUpdate": 1793960362
             },
             {
                 "Author": "croizat",
@@ -29996,7 +30044,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/118",
                 "RepoUrl": "https://github.com/NeoGriever/BlackJackButtler",
-                "LastUpdate": 1793650803,
+                "LastUpdate": 1793955094,
                 "is_ai_attributed": true
             },
             {
@@ -35041,12 +35089,12 @@
                 "Author": "SheepGoMeh",
                 "Name": "UpscaleBuddy",
                 "InternalName": "UpscaleBuddy",
-                "AssemblyVersion": "0.1.12.0",
+                "AssemblyVersion": "0.1.13.0",
                 "Description": "Runs AMD FSR 3.1 temporal upscaling and anti-aliasing through the game's own DLSS path, on any GPU.\nSupports the FSR quality presets and Native AA.\nOpen the settings with /upscalebuddy",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/SheepGoMeh/UpscaleBuddy/main/images/icon.png",
                 "RepoUrl": "https://github.com/SheepGoMeh/UpscaleBuddy",
-                "LastUpdate": 1792262908
+                "LastUpdate": 1793944227
             }
         ]
     },
@@ -37443,7 +37491,7 @@
                 "Author": "Suuria",
                 "Name": "Funny Duty Roulett Plugin",
                 "InternalName": "FunnyDutyRoulettPlugin",
-                "AssemblyVersion": "0.0.0.4",
+                "AssemblyVersion": "0.0.0.6",
                 "Description": "Verbindet sich über deine PlayerID mit Funny Duty Roulette, zeigt alle Job-Zuweisungen der aktuellen Session und prüft live, ob die Party bereits auf diese Jobs gewechselt ist.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Suuria/FunnyDutyRoulett"
@@ -41767,11 +41815,11 @@
                 "Author": "pmyan",
                 "Name": "MappyEx",
                 "InternalName": "MappyEx",
-                "AssemblyVersion": "3.3.0.5",
+                "AssemblyVersion": "3.3.1.1",
                 "Description": "在原版 Mappy 基础上完成完整的中英双语适配，并加入永久地图标记、标记分组、vnavmesh 前往/飞向、地图右键导航等功能。分组可自建并统一图标与大小，工具栏单按钮切换显隐。不能与上游 Mappy 同时启用。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/yanpmd/PmDalamud",
-                "LastUpdate": 1793750158
+                "LastUpdate": 1793964128
             },
             {
                 "Author": "pmyan",
