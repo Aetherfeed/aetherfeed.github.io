@@ -1057,12 +1057,12 @@
                 "Author": "McVaxius",
                 "Name": "God Mod Companion",
                 "InternalName": "BMRVariantLoader",
-                "AssemblyVersion": "3.1.3.24",
+                "AssemblyVersion": "3.1.3.28",
                 "Description": "Encounter additions, Praetorium timelines and bundled cooldown plans, with AethertekUI appearance for BMR settings, autorotation and AI. BossModReborn must be installed and enabled.",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://github.com/McVaxius/BMRVariantLoader-Public/releases/download/v3.1.3.24/icon.png",
+                "IconUrl": "https://github.com/McVaxius/BMRVariantLoader-Public/releases/download/v3.1.3.28/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/BMRVariantLoader-Public",
-                "LastUpdate": 1794017439,
+                "LastUpdate": 1794039005,
                 "is_ai_attributed": true
             },
             {
@@ -2387,6 +2387,24 @@
                 "DalamudApiLevel": 14,
                 "RepoUrl": "https://github.com/alpha-Centauri85/XIV_keyboard",
                 "LastUpdate": 1768444259
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "AlshainAql",
+        "repo_url": "https://raw.githubusercontent.com/AlshainAql/HoverDiscard/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/AlshainAql/HoverDiscard",
+        "repo_name": "HoverDiscard",
+        "plugins": [
+            {
+                "Author": "AlshainAql",
+                "Name": "HoverDiscard",
+                "InternalName": "HoverDiscard",
+                "AssemblyVersion": "0.3.0.1",
+                "Description": "Collect inventory item types with a modifier key and discard a reviewed selection. Browse categories, remember rules per character, and protect items with a whitelist. English/Japanese UI. Report problems through GitHub Issues.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/AlshainAql/HoverDiscard",
+                "LastUpdate": 1794033459
             }
         ]
     },
@@ -4886,12 +4904,12 @@
                 "Author": "Boloni",
                 "Name": "Equinox Companion",
                 "InternalName": "EquinoxCompanion",
-                "AssemblyVersion": "0.5.1.474",
+                "AssemblyVersion": "0.5.1.490",
                 "Description": "Records house entries and confirmed tending locally, with optional paired sync to Equinox Journal. English garden menus supported.",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/boloni96/Equinox-Companion/main/dist/v0.5.1.474/icon.png",
+                "IconUrl": "https://raw.githubusercontent.com/boloni96/Equinox-Companion/main/dist/v0.5.1.490/icon.png",
                 "RepoUrl": "https://github.com/boloni96/Equinox-Companion",
-                "LastUpdate": 1794016806
+                "LastUpdate": 1794036517
             }
         ]
     },
@@ -5209,7 +5227,7 @@
                 "Author": "Real Nunu",
                 "Name": "Nunu's Windbound Bard",
                 "InternalName": "NunuWindboundBard",
-                "AssemblyVersion": "0.26.0.0",
+                "AssemblyVersion": "0.29.0.0",
                 "Description": "Play MIDI in FFXIV Bard Performance with full chords, per-track octave controls, an instrument selector, guitar tone overrides, saved solo and ensemble playlists, party-track assignments, and private multi-device ensembles.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/BTYRE1916/NunuWindboundBard-FFXIV/master/Assets/windbound-icon.ico",
@@ -6532,12 +6550,12 @@
                 "Author": "CrownedPandaXIV",
                 "Name": "XIV Fleet Companion",
                 "InternalName": "XIVFleetCompanion",
-                "AssemblyVersion": "1.0.3.4",
+                "AssemblyVersion": "2.0.0.37",
                 "Description": "Got a massive fleet of submarines? Always struggling to see which ones need upgrades? Wanna see your multi-account fleet at a glance? Give this a try!",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/CrownedPandaXIV/XIVFleetCompanion/master/Data/submarine.png",
                 "RepoUrl": "https://github.com/CrownedPandaXIV/XIVFleetCompanion",
-                "LastUpdate": 1794018561
+                "LastUpdate": 1794025004
             }
         ]
     },
@@ -6949,12 +6967,12 @@
                 "Author": "Mokoena",
                 "Name": "FatePilot",
                 "InternalName": "FatePilot",
-                "AssemblyVersion": "0.3.1.0",
+                "AssemblyVersion": "0.4.0.0",
                 "Description": "Experimental 0.1: combat FATE routes, zone and instance rotation, return goals and teleport budgets. Requires the integrations listed in the README. In-game validation is pending. /fatepilot",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/danil-mokoena/FatePilot/main/src/FatePilot/Assets/icon.png",
                 "RepoUrl": "https://github.com/danil-mokoena/FatePilot",
-                "LastUpdate": 1794000372
+                "LastUpdate": 1794020051
             }
         ]
     },
@@ -11052,6 +11070,103 @@
         ]
     },
     {
+        "repo_developer_name": "forgefkcode",
+        "repo_url": "https://raw.githubusercontent.com/forgefkcode/ff14-autotreasure-plugin/main/repo.json",
+        "repo_source_url": "https://github.com/forgefkcode/ff14-autotreasure-plugin",
+        "repo_name": "ff14-autotreasure-plugin",
+        "plugins": [
+            {
+                "Author": "forgefk",
+                "Name": "AutoTreasure",
+                "InternalName": "AutoTreasure",
+                "AssemblyVersion": "0.4.0.0",
+                "Description": "記錄 G12 / G14 / G15 / G17 寶藏圖的買圖花費（市場板）、挖寶和寶物庫拿到的金幣、寶箱開出的物品。戰利品列表預設只顯示挖寶特有的物品。\nG12 / G14 / G15 / G17 自動挖寶（買圖、解讀、挖寶、選門型與轉盤型寶物庫）由 SND 腳本搬進插件。\n指令：/atr 開關視窗，/atr start、/atr stop、/atr resume。",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/forgefkcode/ff14-autotreasure-plugin",
+                "LastUpdate": 1794034536,
+                "is_ai_attributed": true
+            },
+            {
+                "Author": "veyn",
+                "Name": "Boss Mod [TC api13]",
+                "InternalName": "BossMod",
+                "AssemblyVersion": "7.5.6.901",
+                "Description": "A bunch of utilities to simplify bosses.",
+                "DalamudApiLevel": 13,
+                "IconUrl": "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/f4efcb5dc279d21ee16185d5a9f2d09a3a2bc58b/Data/icon.png",
+                "RepoUrl": "https://github.com/lilasrepo/ffxiv_bossmod",
+                "LastUpdate": 1790337976
+            },
+            {
+                "Author": "The Combat Reborn Team",
+                "Name": "Bossmod Reborn",
+                "InternalName": "BossModReborn",
+                "AssemblyVersion": "7.3.8.8",
+                "Description": "協助處理首領戰機制的多功能工具，提供雷達、自動循環、冷卻規劃與 AI 功能；首領模組、雷達、技能調整、自動循環、AI、區域自動化、重播與配色介面已完成 zh-TW。",
+                "DalamudApiLevel": 13,
+                "IconUrl": "https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/main/icons/BossModReborn.png",
+                "RepoUrl": "https://github.com/cycleapple/BossmodReborn",
+                "LastUpdate": 1793920105
+            },
+            {
+                "Author": "NightmareXIV",
+                "Name": "Lifestream",
+                "InternalName": "Lifestream",
+                "AssemblyVersion": "2.5.3.9",
+                "Description": "一鍵傳送與跨伺服器移動輔助；支援 /li ren 前往傳喚鈴，以及可等待、執行 Slash 指令的 Custom Alias。正確解析台服中文世界名。",
+                "DalamudApiLevel": 13,
+                "IconUrl": "https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/main/icons/Lifestream.png",
+                "RepoUrl": "https://github.com/cycleapple/Lifestream/tree/api13-tw-2.5.3.2",
+                "LastUpdate": 1793920395
+            },
+            {
+                "Author": "The Combat Reborn Team",
+                "Name": "Rotation Solver Reborn",
+                "InternalName": "RotationSolver",
+                "AssemblyVersion": "7.3.5.4",
+                "Description": "分析每一幀的戰鬥資訊並找出最佳技能；設定、命令說明、目標模式、AutoDuty 診斷、優先順序、清單搜尋、備份與控制視窗已完成 zh-TW 翻譯。已恢復強制啟用／禁用條件介面與實際判斷，支援目標距離、戰鬥狀態及 OR／AND 組合。",
+                "DalamudApiLevel": 13,
+                "IconUrl": "https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/main/icons/RotationSolver.png",
+                "RepoUrl": "https://github.com/cycleapple/RotationSolverReborn",
+                "LastUpdate": 1793920230
+            },
+            {
+                "Author": "veyn",
+                "Name": "vnavmesh",
+                "InternalName": "vnavmesh",
+                "AssemblyVersion": "1.1.2.5",
+                "Description": "自動尋路與移動工具；主要介面已完成 zh-TW 翻譯。月面 Cosmoliner 會依有效 layout 模型逐對建立傳送連線，適應不同重建進度。",
+                "DalamudApiLevel": 13,
+                "IconUrl": "https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/main/icons/vnavmesh.png",
+                "RepoUrl": "https://github.com/cycleapple/ffxiv_navmesh",
+                "LastUpdate": 1793920126
+            },
+            {
+                "Author": "Team Wrath",
+                "Name": "Wrath Combo",
+                "InternalName": "WrathCombo",
+                "AssemblyVersion": "1.0.1.25",
+                "Description": "將連段及互斥技能整合至單一按鍵；功能清單、PvE／PvP、自動循環與職業設定介面已完成 zh-TW。",
+                "DalamudApiLevel": 13,
+                "IconUrl": "https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/main/icons/WrathCombo.png",
+                "RepoUrl": "https://github.com/cycleapple/WrathCombo",
+                "LastUpdate": 1793920394
+            },
+            {
+                "Author": "cycleapple",
+                "Name": "XIV 藏寶圖工具小幫手",
+                "InternalName": "XivTreasureParty",
+                "AssemblyVersion": "0.1.9.4",
+                "Description": "FFXIV 繁中藏寶圖協作插件，可與網頁版使用者混合組隊並即時同步清單；支援自訂座標訊息聊天頻道，以及解碼寶圖後自動開啟地圖並設定旗標。",
+                "DalamudApiLevel": 13,
+                "IconUrl": "https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/main/icons/XivTreasureParty.png",
+                "RepoUrl": "https://github.com/cycleapple/xiv-party-treasure-helper",
+                "LastUpdate": 1793920184,
+                "is_ai_attributed": true
+            }
+        ]
+    },
+    {
         "repo_developer_name": "ForkSake",
         "repo_url": "https://raw.githubusercontent.com/ForkSake/test/main/repo.json",
         "repo_source_url": "https://github.com/ForkSake/test",
@@ -11155,23 +11270,23 @@
                 "Author": "FranFkntastic",
                 "Name": "ComplicatedMarketBoard",
                 "InternalName": "ComplicatedMarketBoard",
-                "AssemblyVersion": "1.15.1.0",
+                "AssemblyVersion": "1.15.2.0",
                 "Description": "A niche plugin designed to be user-friendly and multi-functional with rich customisation options, for power users.\n\nHighlights:\n  - Compact UI and user theme\n  - Customisable search options\n  - Rich ways for plugin interaction\n\nCheck out the 'Introduction' on Config Window for documentation.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FranFkntastic/ComplicatedMarketBoard/master/images/icon.png",
                 "RepoUrl": "https://github.com/FranFkntastic/ComplicatedMarketBoard",
-                "LastUpdate": 1789061776,
+                "LastUpdate": 1794021741,
                 "is_ai_attributed": true
             },
             {
                 "Author": "FranFkntastic",
                 "Name": "Dalamud Agent Bridge",
                 "InternalName": "DalamudAgentBridge",
-                "AssemblyVersion": "0.5.0.0",
+                "AssemblyVersion": "0.5.1.0",
                 "Description": "In-game connector for the loopback-only Dalamud Agent Bridge utility. Use /dab to inspect status and configure optional permissions.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FranFkntastic/DalamudAgentBridge",
-                "LastUpdate": 1789061328,
+                "LastUpdate": 1794022390,
                 "is_ai_attributed": true
             },
             {
@@ -11183,29 +11298,30 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FranFkntastic/MarketMafioso/main/docs/pluginmaster/assets/icon.png",
                 "RepoUrl": "https://github.com/FranFkntastic/MarketMafioso",
-                "LastUpdate": 1789061750,
+                "LastUpdate": 1794025514,
                 "is_ai_attributed": true
             },
             {
                 "Author": "FranFkntastic",
                 "Name": "Quartermaster",
                 "InternalName": "RQ",
-                "AssemblyVersion": "0.2.0.0",
+                "AssemblyVersion": "0.2.1.0",
                 "Description": "Retainer Quartermaster (RQ) lets you browse player and retainer stock, track\ntarget quantities, inspect listings, refresh retainer evidence, and run\nexplicitly reviewed retrieval or elemental deposit operations. Use /rq to\nopen Quartermaster.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FranFkntastic/Quartermaster",
-                "LastUpdate": 1789061751,
+                "LastUpdate": 1794021933,
                 "is_ai_attributed": true
             },
             {
                 "Author": "FranFkntastic",
                 "Name": "Sapphire Avenue Discord Bridge",
                 "InternalName": "SapphireAvenueRelay",
-                "AssemblyVersion": "0.2.0.0",
+                "AssemblyVersion": "0.2.1.0",
                 "Description": "By FranFkntastic. Connect one FFXIV cross-world linkshell to a community-owned Discord bot with exact CWLS identity checks.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FranFkntastic/SapphireAvenueAssistant",
-                "LastUpdate": 1785954618
+                "LastUpdate": 1794023732,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -13646,12 +13762,12 @@
                 "Author": "IndividualGather",
                 "Name": "XIV MCP",
                 "InternalName": "XivMcp",
-                "AssemblyVersion": "0.3.0.61",
+                "AssemblyVersion": "0.3.0.63",
                 "Description": "XIV MCP runs a local MCP server (only reachable from your own PC, protected by an access token) so any AI assistant that supports the Model Context Protocol (Claude, ChatGPT, Codex, LM Studio and others) can see your game and help with it.\n\nRead your character live: stats and jobs, gear, inventory, currencies, quests, achievements and unlocks, party, targets, nearby objects, FATEs and the game's data sheets. Retainers and submersibles are remembered between visits.\n\nOptional modules, each behind its own switch in /xivmcp: game interaction and navigation, inventory and retainers, market and purchases (every non-gil purchase asks you in game), crafting and gathering, quests, custom deliveries, fishing, submersibles, plugin management, and background jobs that run for hours on their own.\n\nDocumentation: https://individualgather.github.io/xiv-mcp/",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/IndividualGather/xiv-mcp/master/XivMcp/images/icon.png",
                 "RepoUrl": "https://github.com/IndividualGather/xiv-mcp",
-                "LastUpdate": 1793967218,
+                "LastUpdate": 1794039003,
                 "is_ai_attributed": true
             }
         ]
@@ -15212,25 +15328,6 @@
     },
     {
         "repo_developer_name": "jshade2710",
-        "repo_url": "https://raw.githubusercontent.com/jshade2710/faloop-messenger/main/pluginmaster.json",
-        "repo_source_url": "https://github.com/jshade2710/faloop-messenger",
-        "repo_name": "faloop-messenger",
-        "plugins": [
-            {
-                "Author": "Iam Batman",
-                "Name": "Faloop Messenger",
-                "InternalName": "FaloopMessenger",
-                "AssemblyVersion": "0.5.2.0",
-                "Description": "Connects to Faloop's real-time websocket feed and shows S-rank spawn cards with a zoomed map preview and route hints. Echoes new spawns to chat with a clickable map link, plays a sound, and lets you teleport to the closest aetheryte (cross-world, via Lifestream). Commands: /faloop (full tracker), /faloopmini (slim auto-popping window), /faloopcompact (high-density view).",
-                "IconUrl": "https://raw.githubusercontent.com/jshade2710/faloop-messenger/main/FaloopMessenger/Images/Icon.png",
-                "RepoUrl": "https://github.com/jshade2710/faloop-messenger",
-                "LastUpdate": 1793927772,
-                "is_ai_attributed": true
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "jshade2710",
         "repo_url": "https://raw.githubusercontent.com/jshade2710/PriceWatcher/master/repo.json",
         "repo_source_url": "https://github.com/jshade2710/PriceWatcher",
         "repo_name": "PriceWatcher",
@@ -15964,10 +16061,10 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.7.20",
+                "AssemblyVersion": "7.5.7.21",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/kaldigo/RotationSolverReborn/testing-v7.5.7.20/assets/icon.png",
+                "IconUrl": "https://raw.githubusercontent.com/kaldigo/RotationSolverReborn/testing-v7.5.7.21/assets/icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
                 "LastUpdate": 1793733273
             },
@@ -16004,7 +16101,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/kaldigo/WrathCombo/main/assets/icon.png",
                 "RepoUrl": "https://github.com/kaldigo/WrathCombo",
-                "LastUpdate": 1793998325,
+                "LastUpdate": 1794019429,
                 "is_ai_attributed": true
             }
         ]
@@ -19433,11 +19530,12 @@
                 "Author": "lilivera",
                 "Name": "Arctis GameBuds Battery",
                 "InternalName": "ArctisGameBudsBattery",
-                "AssemblyVersion": "0.1.1.0",
+                "AssemblyVersion": "0.1.2.0",
                 "Description": "SteelSeries Arctis GameBudsのUSBドングルから左右イヤホンのバッテリー残量を取得し、オーバーレイとDTRバーへ表示します。VID 1038 / PID 230A対応。ケース残量・Bluetooth単独接続には対応していません。",
                 "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/lilivera/ArctisGameBudsBattery/main/images/icon.png",
                 "RepoUrl": "https://github.com/lilivera/ArctisGameBudsBattery",
-                "LastUpdate": 1789807316,
+                "LastUpdate": 1794029661,
                 "is_ai_attributed": true
             }
         ]
@@ -24063,12 +24161,12 @@
                 "Author": "naco-ff14",
                 "Name": "AltMate",
                 "InternalName": "AltMate",
-                "AssemblyVersion": "1.62.16.0",
+                "AssemblyVersion": "1.62.23.0",
                 "Description": "AltMate supports multiple FFXIV clients running on the same PC. It provides linked controls, housing tracking, Penumbra emote playback, and shared gil summaries. Data stays on the local PC. Japanese and English UI are supported.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/naco-ff14/AltMate/main/images/icon.png",
                 "RepoUrl": "https://github.com/naco-ff14/AltMate",
-                "LastUpdate": 1793243708
+                "LastUpdate": 1794041163
             }
         ]
     },
@@ -24719,12 +24817,13 @@
                 "Author": "Afterword",
                 "Name": "Afterword",
                 "InternalName": "RPChronicles",
-                "AssemblyVersion": "0.1.19.0",
+                "AssemblyVersion": "0.1.21.0",
                 "Description": "Record roleplay scenes from /say and emotes, then reopen them in a private notebook. Logs stay on this computer.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/NeonCelestialLanes/Afterword/main/images/icon.png",
                 "RepoUrl": "https://github.com/NeonCelestialLanes/Afterword",
-                "LastUpdate": 1793752845
+                "LastUpdate": 1794021316,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -29343,12 +29442,12 @@
                 "Author": "Taurenkey, kawaii, NightmareXIV",
                 "Name": "Artisan",
                 "InternalName": "Artisan",
-                "AssemblyVersion": "4.0.5.22",
+                "AssemblyVersion": "4.0.5.23",
                 "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/6",
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1793971931
+                "LastUpdate": 1794042187
             },
             {
                 "Author": "Det, croizat",
@@ -31024,7 +31123,7 @@
                 "Author": "菱叶",
                 "Name": "随身神典石",
                 "InternalName": "EorzeaPhone",
-                "AssemblyVersion": "1.3.2",
+                "AssemblyVersion": "1.3.4",
                 "Description": "XIVChat 的独立手机终端配套插件，提供中文聊天、好友列表、角色资料和实时背包数据。与原 XIVChat 插件分开安装，使用相同的加密端口。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/QuserH/zh-repo/main/EorzeaPhone-icon.png",
@@ -32517,11 +32616,11 @@
                 "Author": "Private",
                 "Name": "Crystal Ledger",
                 "InternalName": "CrystalLedger",
-                "AssemblyVersion": "1.0.143.0",
+                "AssemblyVersion": "1.0.194.0",
                 "Description": "Reads what your character owns while you play (collections the Lodestone doesn't show, currencies, bags, saddlebag, armoury, and each retainer once you open them at a bell) and uploads it to your own Crystal Market Ledger site with your private key. Nothing is sent anywhere else.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/rhyseverett94/crystal-ledger-plugin",
-                "LastUpdate": 1794018968,
+                "LastUpdate": 1794036849,
                 "is_ai_attributed": true
             }
         ]
@@ -33665,12 +33764,12 @@
                 "Author": "Runmih",
                 "Name": "Amor RP",
                 "InternalName": "AmorRP",
-                "AssemblyVersion": "0.3.0.0",
+                "AssemblyVersion": "0.3.0.1",
                 "Description": "Amor RP brings roleplay venues and communities together with group inventories, fictional currency, potion crafting, books, letters, notes, and trading.\n\n/amorrp → Main Menu",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Runmih/AmorRP/main/images/f6e82fdb8ed2ed3cc35f46e022f59d61ededbb55dc4bcce5aaf723dcb4054d9a.png",
                 "RepoUrl": "https://github.com/Runmih/AmorRP",
-                "LastUpdate": 1793898630
+                "LastUpdate": 1794041936
             }
         ]
     },
@@ -34019,11 +34118,12 @@
                 "Author": "Sadonia",
                 "Name": "Velvet Dairy",
                 "InternalName": "VelvetDairy",
-                "AssemblyVersion": "0.3.0.1",
+                "AssemblyVersion": "0.4.0.0",
                 "Description": "You play the cow: keep your needs up inside your registered dairy, get milked in your stalls or by a registered farmhand, fill creamery orders, raise your milk quality and level up. 18+ only.",
                 "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/sadoniaveletoria/velvetdairy/main/VelvetDairy/images/icon.png",
                 "RepoUrl": "https://github.com/sadoniaveletoria/velvetdairy",
-                "LastUpdate": 1794010680,
+                "LastUpdate": 1794024045,
                 "is_ai_attributed": true
             }
         ]
@@ -36430,7 +36530,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://dl.solona.info/icon.png",
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1794005597,
+                "LastUpdate": 1794041777,
                 "is_ai_attributed": true
             }
         ]
