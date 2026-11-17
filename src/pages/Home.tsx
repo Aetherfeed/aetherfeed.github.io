@@ -1,5 +1,4 @@
-import React, { useState, useMemo, useEffect, useRef } from 'react';
-import { AnimatePresence } from 'framer-motion';
+import React, { useState, useMemo, useEffect, useRef, useCallback, useDeferredValue } from 'react';
 import Hero from '../components/Hero';
 import WarningBanner from '../components/WarningBanner';
 import PluginCard from '../components/PluginCard';
@@ -15,6 +14,29 @@ import { useLocation, useOutletContext } from 'react-router-dom';
 const CHINESE_REGEX = /[\u4e00-\u9fff]/i;
 const JAPANESE_REGEX = /[\u3040-\u30ff\u31f0-\u31ff\u3400-\u4dbf]/i;
 const KOREAN_REGEX = /[\u1100-\u11ff\uac00-\ud7af]/i;
+const TEXT_COLLATOR = new Intl.Collator(undefined, { sensitivity: 'base', numeric: true });
+
+const SORT_OPTIONS: { label: string; value: 'updated' | 'name' | 'author' }[] = [
+    { label: 'Last Updated', value: 'updated' },
+    { label: 'Name', value: 'name' },
+    { label: 'Author', value: 'author' }
+];
+
+const readStorage = (key: string): string | null => {
+    try {
+        return localStorage.getItem(key);
+    } catch {
+        return null;
+    }
+};
+
+const writeStorage = (key: string, value: string): void => {
+    try {
+        localStorage.setItem(key, value);
+    } catch {
+        // Ignore storage access errors
+    }
+};
 
 const getGridColumns = () => {
     if (typeof window === 'undefined') return 1;
@@ -28,18 +50,19 @@ const Home: React.FC = () => {
         searchTerm: string;
         setSearchTerm: (term: string) => void;
     }>();
+    const deferredSearchTerm = useDeferredValue(searchTerm);
     const { plugins, loading, error, allApiLevels, currentApiLevel } = usePlugins();
     const location = useLocation();
     const [sortBy, setSortBy] = useState<'name' | 'updated' | 'author'>(() => {
-        const saved = localStorage.getItem('aetherfeed_sortBy');
-        return (saved as 'name' | 'updated' | 'author') || 'updated';
+        const saved = readStorage('aetherfeed_sortBy');
+        return saved === 'name' || saved === 'updated' || saved === 'author' ? saved : 'updated';
     });
     const [sortOrder, setSortOrder] = useState<'asc' | 'desc'>(() => {
-        const saved = localStorage.getItem('aetherfeed_sortOrder');
-        return (saved as 'asc' | 'desc') || 'desc';
+        const saved = readStorage('aetherfeed_sortOrder');
+        return saved === 'asc' || saved === 'desc' ? saved : 'desc';
     });
     const [selectedFilters, setSelectedFilters] = useState<(string | number)[]>(() => {
-        const saved = localStorage.getItem('aetherfeed_selectedFilters');
+        const saved = readStorage('aetherfeed_selectedFilters');
         if (saved) {
             try {
                 const parsed = JSON.parse(saved);
@@ -52,18 +75,25 @@ const Home: React.FC = () => {
     });
     const [gridColumns, setGridColumns] = useState(getGridColumns);
     const [expandedRows, setExpandedRows] = useState<Set<number>>(() => new Set());
+    const [visibleCount, setVisibleCount] = useState(50);
+    const observerTarget = useRef<HTMLDivElement>(null);
+    const buildTimeText = useMemo(() => formatDate(new Date(__BUILD_TIME__).getTime()), []);
+
+    useEffect(() => {
+        document.title = 'Aetherfeed — FFXIV Dalamud Plugin Feed';
+    }, []);
 
     // Persistence Effects
     useEffect(() => {
-        localStorage.setItem('aetherfeed_sortBy', sortBy);
+        writeStorage('aetherfeed_sortBy', sortBy);
     }, [sortBy]);
 
     useEffect(() => {
-        localStorage.setItem('aetherfeed_sortOrder', sortOrder);
+        writeStorage('aetherfeed_sortOrder', sortOrder);
     }, [sortOrder]);
 
     useEffect(() => {
-        localStorage.setItem('aetherfeed_selectedFilters', JSON.stringify(selectedFilters));
+        writeStorage('aetherfeed_selectedFilters', JSON.stringify(selectedFilters));
     }, [selectedFilters]);
 
     useEffect(() => {
@@ -73,18 +103,28 @@ const Home: React.FC = () => {
             return () => window.clearTimeout(timeoutId);
         }
         return undefined;
-    }, [location.state]);
+    }, [location.state, setSearchTerm]);
 
     useEffect(() => {
+        const mq2xl = window.matchMedia('(min-width: 1536px)');
+        const mqMd = window.matchMedia('(min-width: 768px)');
         const updateColumns = () => setGridColumns(getGridColumns());
         updateColumns();
-        window.addEventListener('resize', updateColumns);
-        return () => window.removeEventListener('resize', updateColumns);
+        mq2xl.addEventListener('change', updateColumns);
+        mqMd.addEventListener('change', updateColumns);
+        return () => {
+            mq2xl.removeEventListener('change', updateColumns);
+            mqMd.removeEventListener('change', updateColumns);
+        };
     }, []);
 
     useEffect(() => {
         setExpandedRows(new Set());
-    }, [gridColumns, searchTerm, sortBy, sortOrder, selectedFilters]);
+    }, [gridColumns, deferredSearchTerm, sortBy, sortOrder, selectedFilters]);
+
+    useEffect(() => {
+        setVisibleCount(50);
+    }, [deferredSearchTerm, sortBy, sortOrder, selectedFilters]);
 
     const filterOptions = useMemo(() => {
         const options: { label: string; value: string | number; tooltip?: string }[] = [
@@ -109,71 +149,63 @@ const Home: React.FC = () => {
         return options;
     }, [allApiLevels]);
 
-    // Infinite Scroll State
-    const [visibleCount, setVisibleCount] = useState(50);
-    const observerTarget = useRef<HTMLDivElement>(null);
-    const buildTimeText = useMemo(() => formatDate(new Date(__BUILD_TIME__).getTime()), []);
-
     const filteredPlugins = useMemo(() => {
-        let result = [...plugins];
-        const normalizedTerm = normalizeForSearch(searchTerm);
+        const normalizedTerm = normalizeForSearch(deferredSearchTerm);
+        const apiFilterSet = new Set(
+            selectedFilters.filter((f): f is number => typeof f === 'number')
+        );
+        const isLatinOnly = selectedFilters.includes('latin_only');
+        const isHidingAi = selectedFilters.includes('hide_ai');
 
-        // 1. Search Filter
-        if (normalizedTerm) {
-            result = result.filter(plugin => {
-                return plugin._searchMeta.name.includes(normalizedTerm) ||
+        const result = plugins.filter((plugin) => {
+            if (normalizedTerm) {
+                const matchesSearch =
+                    plugin._searchMeta.name.includes(normalizedTerm) ||
                     plugin._searchMeta.internalName.includes(normalizedTerm) ||
                     plugin._searchMeta.description.includes(normalizedTerm) ||
                     plugin._searchMeta.author.includes(normalizedTerm) ||
                     plugin._searchMeta.repo.includes(normalizedTerm);
-            });
-        }
+                if (!matchesSearch) return false;
+            }
 
-        // Extract filters
-        const apiFilters = selectedFilters.filter((f): f is number => typeof f === 'number');
-        const isLatinOnly = selectedFilters.includes('latin_only');
-        const isHidingAi = selectedFilters.includes('hide_ai');
+            if (apiFilterSet.size > 0) {
+                if (!plugin.plugin_api_levels_array.some((level) => apiFilterSet.has(level))) {
+                    return false;
+                }
+            }
 
-        // 2. API Level Filter
-        if (apiFilters.length > 0) {
-            result = result.filter(p =>
-                p.plugin_api_levels_array.some(level => apiFilters.includes(level))
-            );
-        }
+            if (isLatinOnly) {
+                const name = plugin.Name || plugin.InternalName || '';
+                const desc = plugin.Description || '';
+                if (
+                    CHINESE_REGEX.test(name) ||
+                    CHINESE_REGEX.test(desc) ||
+                    JAPANESE_REGEX.test(name) ||
+                    JAPANESE_REGEX.test(desc) ||
+                    KOREAN_REGEX.test(name) ||
+                    KOREAN_REGEX.test(desc)
+                ) {
+                    return false;
+                }
+            }
 
-        // 3. View Options Filter (Latin Only)
-        if (isLatinOnly) {
-            result = result.filter(p => {
-                const name = p.Name || p.InternalName || '';
-                const desc = p.Description || '';
-                return (
-                    !CHINESE_REGEX.test(name) &&
-                    !CHINESE_REGEX.test(desc) &&
-                    !JAPANESE_REGEX.test(name) &&
-                    !JAPANESE_REGEX.test(desc) &&
-                    !KOREAN_REGEX.test(name) &&
-                    !KOREAN_REGEX.test(desc)
-                );
-            });
-        }
+            if (isHidingAi && plugin.is_ai_attributed) {
+                return false;
+            }
 
-        if (isHidingAi) {
-            result = result.filter(p => !p.is_ai_attributed);
-        }
+            return true;
+        });
 
-        // 4. Sorting
         result.sort((a, b) => {
             let comparison = 0;
             switch (sortBy) {
                 case 'name':
-                    comparison = (a.Name || '').localeCompare(b.Name || '');
+                    comparison = TEXT_COLLATOR.compare(a.Name || '', b.Name || '');
                     break;
                 case 'author':
-                    comparison = (a.Author || '').localeCompare(b.Author || '');
+                    comparison = TEXT_COLLATOR.compare(a.Author || '', b.Author || '');
                     break;
                 case 'updated':
-                    comparison = (a.plugin_last_updated_max_ts || 0) - (b.plugin_last_updated_max_ts || 0);
-                    break;
                 default:
                     comparison = (a.plugin_last_updated_max_ts || 0) - (b.plugin_last_updated_max_ts || 0);
             }
@@ -181,15 +213,9 @@ const Home: React.FC = () => {
         });
 
         return result;
-    }, [plugins, searchTerm, sortBy, sortOrder, selectedFilters]);
+    }, [plugins, deferredSearchTerm, sortBy, sortOrder, selectedFilters]);
 
-    // Reset visible count when filters change
-    useEffect(() => {
-        // eslint-disable-next-line react-hooks/set-state-in-effect
-        setVisibleCount(50);
-    }, [searchTerm, sortBy, sortOrder, selectedFilters]);
-
-    const toggleRowExpanded = (rowIndex: number) => {
+    const toggleRowExpanded = useCallback((rowIndex: number) => {
         setExpandedRows((prev) => {
             const next = new Set(prev);
             if (next.has(rowIndex)) {
@@ -199,16 +225,18 @@ const Home: React.FC = () => {
             }
             return next;
         });
-    };
+    }, []);
 
     const displayPlugins = filteredPlugins.slice(0, visibleCount);
     const hasMore = visibleCount < filteredPlugins.length;
     const showPluginIcons = !selectedFilters.includes('hide_icons');
 
     useEffect(() => {
+        if (!hasMore) return undefined;
+
         const observer = new IntersectionObserver(
             (entries) => {
-                if (entries[0].isIntersecting && hasMore) {
+                if (entries[0].isIntersecting) {
                     setVisibleCount((prev) => Math.min(prev + 50, filteredPlugins.length));
                 }
             },
@@ -221,6 +249,10 @@ const Home: React.FC = () => {
 
         return () => observer.disconnect();
     }, [hasMore, filteredPlugins.length]);
+
+    const sortOrderLabel = sortBy === 'updated'
+        ? (sortOrder === 'asc' ? 'Oldest first' : 'Newest first')
+        : (sortOrder === 'asc' ? 'A to Z' : 'Z to A');
 
     return (
         <>
@@ -239,8 +271,8 @@ const Home: React.FC = () => {
                             {filteredPlugins.length} Available
                         </span>
                         <div className="hidden sm:flex items-center gap-2 px-3 py-1 rounded-full bg-slate-100 dark:bg-slate-800/50 text-xs font-medium text-slate-500 dark:text-slate-400 border border-slate-200 dark:border-slate-700/50">
-                            <span className="relative flex h-2 w-2">
-                                <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
+                            <span className="relative flex h-2 w-2" aria-hidden="true">
+                                <span className="motion-safe:animate-ping absolute inline-flex h-full w-full rounded-full bg-emerald-400 opacity-75"></span>
                                 <span className="relative inline-flex rounded-full h-2 w-2 bg-emerald-500"></span>
                             </span>
                             Updated {buildTimeText}
@@ -251,28 +283,24 @@ const Home: React.FC = () => {
                         {/* Sort Control */}
                         <div className="flex items-center bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-xl transition-shadow focus-within:ring-2 focus-within:ring-aether-500 focus-within:border-transparent">
                             <Select
-                                options={[
-                                    { label: 'Last Updated', value: 'updated' },
-                                    { label: 'Name', value: 'name' },
-                                    { label: 'Author', value: 'author' }
-                                ]}
+                                label="Sort plugins by"
+                                options={SORT_OPTIONS}
                                 selected={sortBy}
                                 onChange={(value) => {
-                                    setSortBy(value as 'name' | 'updated' | 'author');
+                                    setSortBy(value);
                                     if (value === 'updated') setSortOrder('desc');
                                     else setSortOrder('asc');
                                 }}
                             />
-                            <div className="h-5 w-px bg-slate-200 dark:bg-slate-700"></div>
+                            <div className="h-5 w-px bg-slate-200 dark:bg-slate-700" aria-hidden="true"></div>
                             <button
+                                type="button"
                                 onClick={() => setSortOrder(prev => prev === 'asc' ? 'desc' : 'asc')}
                                 className="px-3 py-2 text-slate-500 hover:text-slate-700 dark:text-slate-400 dark:hover:text-slate-200 hover:bg-slate-50 dark:hover:bg-slate-700/50 transition-colors rounded-r-xl"
-                                title={sortBy === 'updated'
-                                    ? (sortOrder === 'asc' ? "Oldest first" : "Newest first")
-                                    : (sortOrder === 'asc' ? "A to Z" : "Z to A")
-                                }
+                                aria-label={`Sort order: ${sortOrderLabel}`}
+                                title={sortOrderLabel}
                             >
-                                {sortOrder === 'asc' ? <SortAsc className="h-4 w-4" /> : <SortDesc className="h-4 w-4" />}
+                                {sortOrder === 'asc' ? <SortAsc aria-hidden="true" className="h-4 w-4" /> : <SortDesc aria-hidden="true" className="h-4 w-4" />}
                             </button>
                         </div>
 
@@ -287,7 +315,7 @@ const Home: React.FC = () => {
                 </div>
 
                 {error && (
-                    <div className="p-8 text-center text-red-500 bg-red-50 dark:bg-red-900/20 rounded-2xl border border-red-200 dark:border-red-800 mb-8">
+                    <div role="alert" className="p-8 text-center text-red-500 bg-red-50 dark:bg-red-900/20 rounded-2xl border border-red-200 dark:border-red-800 mb-8">
                         Error loading plugins: {error}
                     </div>
                 )}
@@ -309,28 +337,28 @@ const Home: React.FC = () => {
                 ) : (
                     <>
                         <div className="grid grid-cols-1 md:grid-cols-2 2xl:grid-cols-3 gap-6">
-                            <AnimatePresence mode='sync'>
-                                {displayPlugins.map((plugin, index) => {
-                                    const rowIndex = Math.floor(index / gridColumns);
-                                    const isRowExpanded = expandedRows.has(rowIndex);
-                                    return (
-                                        <PluginCard
-                                            key={`${plugin._repo.repo_url}-${plugin.InternalName}`}
-                                            plugin={plugin}
-                                            maxApiLevel={currentApiLevel || allApiLevels[0]}
-                                            showIcon={showPluginIcons}
-                                            isDescriptionExpanded={isRowExpanded}
-                                            onToggleDescription={() => toggleRowExpanded(rowIndex)}
-                                        />
-                                    );
-                                })}
-                            </AnimatePresence>
+                            {displayPlugins.map((plugin, index) => {
+                                const rowIndex = Math.floor(index / gridColumns);
+                                const isRowExpanded = expandedRows.has(rowIndex);
+                                return (
+                                    <PluginCard
+                                        key={`${plugin._repo.repo_url}-${plugin.InternalName}`}
+                                        plugin={plugin}
+                                        maxApiLevel={currentApiLevel || allApiLevels[0]}
+                                        showIcon={showPluginIcons}
+                                        isDescriptionExpanded={isRowExpanded}
+                                        rowIndex={rowIndex}
+                                        onToggleDescription={toggleRowExpanded}
+                                        deferRendering={index >= gridColumns * 2}
+                                    />
+                                );
+                            })}
                         </div>
 
                         {/* Infinite Scroll Sentinel */}
                         {hasMore && (
                             <div ref={observerTarget} className="h-20 w-full flex items-center justify-center mt-8 text-sm text-slate-500 dark:text-slate-400">
-                                <div className="h-4 w-4 rounded-full border-2 border-slate-300 dark:border-slate-700 border-t-aether-500 animate-[spin_1.4s_linear_infinite]"></div>
+                                <progress aria-label="Loading more plugins" className="loading-spinner" />
                                 <span className="ml-3">Loading more plugins…</span>
                             </div>
                         )}
@@ -338,9 +366,12 @@ const Home: React.FC = () => {
                         {displayPlugins.length === 0 && !loading && (
                             <div className="text-center py-24">
                                 <p className="text-xl text-slate-500 dark:text-slate-400">
-                                    No plugins found matching "{searchTerm}"
+                                    {searchTerm.trim()
+                                        ? `No plugins found matching "${searchTerm}"`
+                                        : 'No plugins match the selected filters.'}
                                 </p>
                                 <button
+                                    type="button"
                                     onClick={() => { setSearchTerm(''); setSelectedFilters([]); }}
                                     className="mt-4 text-aether-500 hover:underline"
                                 >

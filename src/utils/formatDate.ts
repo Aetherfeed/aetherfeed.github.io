@@ -3,7 +3,7 @@ export const normalizeTimestampToMillis = (timestampInput: number | string): num
 
     const num = Number(timestampInput);
 
-    if (isNaN(num) || num === 0) return 0;
+    if (Number.isNaN(num) || num === 0) return 0;
 
     const sNum = String(Math.floor(Math.abs(num)));
 
@@ -21,7 +21,7 @@ export const formatDate = (timestampInput: number | string): string => {
 
     if (!timestampMillis) return "N/A";
 
-    const nowMillis = new Date().getTime();
+    const nowMillis = Date.now();
     let seconds = Math.floor((nowMillis - timestampMillis) / 1000);
     let prefix = "";
     let suffix = " ago";

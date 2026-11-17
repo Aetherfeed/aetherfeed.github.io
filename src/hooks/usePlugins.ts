@@ -33,12 +33,14 @@ export const usePlugins = () => {
     const [currentApiLevel, setCurrentApiLevel] = useState(0);
 
     useEffect(() => {
+        const controller = new AbortController();
+
         const fetchPlugins = async () => {
             try {
                 const [configResponse, priorityResponse, dalamudResponse] = await Promise.all([
-                    fetch(`${import.meta.env.BASE_URL}data/plugins.json`),
-                    fetch(`${import.meta.env.BASE_URL}data/priority-repos.json`),
-                    fetch(`${import.meta.env.BASE_URL}data/dalamud-version.json`)
+                    fetch(`${import.meta.env.BASE_URL}data/plugins.json`, { signal: controller.signal }),
+                    fetch(`${import.meta.env.BASE_URL}data/priority-repos.json`, { signal: controller.signal }),
+                    fetch(`${import.meta.env.BASE_URL}data/dalamud-version.json`, { signal: controller.signal })
                 ]);
 
                 if (!configResponse.ok) {
@@ -69,6 +71,8 @@ export const usePlugins = () => {
                     }
                 }
 
+                if (controller.signal.aborted) return;
+
                 const { plugins: processedPlugins, allApiLevels: levels } = processPlugins(repoData, priorityUrls);
                 const mergedLevels = [...levels];
                 if (dalamudApiLevel && !mergedLevels.includes(dalamudApiLevel)) {
@@ -81,13 +85,20 @@ export const usePlugins = () => {
                 setCurrentApiLevel(dalamudApiLevel || levels[0] || 0);
 
             } catch (err) {
+                if (controller.signal.aborted || (err instanceof DOMException && err.name === 'AbortError')) {
+                    return;
+                }
                 setError(err instanceof Error ? err.message : 'An unknown error occurred');
             } finally {
-                setLoading(false);
+                if (!controller.signal.aborted) {
+                    setLoading(false);
+                }
             }
         };
 
         fetchPlugins();
+
+        return () => controller.abort();
     }, []);
 
     return { plugins, loading, error, allApiLevels, currentApiLevel };

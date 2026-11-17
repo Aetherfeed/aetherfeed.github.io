@@ -2,6 +2,9 @@ import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import './index.css'
 import App from './App.tsx'
+import { initWebPlatformPolyfills } from './utils/polyfills'
+
+initWebPlatformPolyfills()
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
