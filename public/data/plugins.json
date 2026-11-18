@@ -700,13 +700,13 @@
         "plugins": [
             {
                 "Author": "Adalith",
-                "Name": "Duty Tracker",
+                "Name": "Noumenon",
                 "InternalName": "MentorRouletteTracker",
-                "AssemblyVersion": "1.0.0.0",
+                "AssemblyVersion": "1.0.0.3",
                 "Description": "See your past duties, who you ran into, deaths, wipes, and milestones. Filter your history, add notes, or export it to CSV. PvP rosters, teams, damage, kills, assists, deaths, and placement require PvP Tracker by SaMo.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AdalithCode/FFXIV-Duty-Tracker",
-                "LastUpdate": 1794802383
+                "LastUpdate": 1794979592
             }
         ]
     },
@@ -776,13 +776,13 @@
         "plugins": [
             {
                 "Author": "Adalith",
-                "Name": "Duty Tracker",
+                "Name": "Noumenon",
                 "InternalName": "MentorRouletteTracker",
-                "AssemblyVersion": "1.0.0.0",
+                "AssemblyVersion": "1.0.0.3",
                 "Description": "See your past duties, who you ran into, deaths, wipes, and milestones. Filter your history, add notes, or export it to CSV. PvP rosters, teams, damage, kills, assists, deaths, and placement require PvP Tracker by SaMo.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/AdamGithubWork/FFXIV-Duty-Tracker",
-                "LastUpdate": 1794802383
+                "LastUpdate": 1794979592
             }
         ]
     },
@@ -1183,11 +1183,11 @@
                 "Author": "McVaxius",
                 "Name": "God Mod Companion",
                 "InternalName": "BMRVariantLoader",
-                "AssemblyVersion": "3.1.5.35",
+                "AssemblyVersion": "3.1.5.38",
                 "Description": "Encounter additions, Praetorium timelines and bundled cooldown plans, with AethertekUI appearance for BMR settings, autorotation and AI. BossModReborn must be installed and enabled.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/BMRVariantLoader-Public",
-                "LastUpdate": 1794947800,
+                "LastUpdate": 1794974443,
                 "is_ai_attributed": true
             },
             {
@@ -3454,12 +3454,12 @@
                 "Author": "Luno",
                 "Name": "Vignette",
                 "InternalName": "Vignette",
-                "AssemblyVersion": "0.2.5.0",
+                "AssemblyVersion": "0.2.7.0",
                 "Description": "游戏内的轻量短剧手机。使用本机内容核心搜索、选集和观看。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Aporiyan/Vignette/main/images/icon.png",
                 "RepoUrl": "https://github.com/Aporiyan/Vignette",
-                "LastUpdate": 1793637118
+                "LastUpdate": 1794981552
             }
         ]
     },
@@ -6719,6 +6719,25 @@
     },
     {
         "repo_developer_name": "Coasted-create",
+        "repo_url": "https://raw.githubusercontent.com/Coasted-create/ModCloset2/main/repo.json",
+        "repo_source_url": "https://github.com/Coasted-create/ModCloset2",
+        "repo_name": "ModCloset2",
+        "plugins": [
+            {
+                "Author": "Coasted-create",
+                "Name": "Mod Closet 2",
+                "InternalName": "ModCloset2",
+                "AssemblyVersion": "0.5.0.0",
+                "Description": "Sorts your Penumbra mods onto shelves by what they are on you (tops, ears, tails, nails…). Click a card to try it on over your look, Keep to make it stay, Put back to undo the try. Drag a mod to another shelf and the closet remembers. Every card shows a photo of its piece, taken by the closet itself without touching your character. Outfit colours for what you wear, looks that save themselves, and On you: point at a part of your character to change it. Requires Penumbra and Glamourer. Command: /closet2",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Coasted-create/ModCloset2",
+                "LastUpdate": 1794970837,
+                "is_ai_attributed": true
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Coasted-create",
         "repo_url": "https://raw.githubusercontent.com/Coasted-create/SculptPlus/main/repo.json",
         "repo_source_url": "https://github.com/Coasted-create/SculptPlus",
         "repo_name": "SculptPlus",
@@ -7728,6 +7747,24 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/davidpinkerton1016/monk-layout",
                 "LastUpdate": 1793299374
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Day-OS",
+        "repo_url": "https://raw.githubusercontent.com/Day-OS/ffxiv-emote-wheel/master/repo.json",
+        "repo_source_url": "https://github.com/Day-OS/ffxiv-emote-wheel",
+        "repo_name": "ffxiv-emote-wheel",
+        "plugins": [
+            {
+                "Author": "Day-OS",
+                "Name": "Emote Wheel",
+                "InternalName": "EmoteWheel",
+                "AssemblyVersion": "0.1.1.0",
+                "Description": "Open a wheel at your cursor with /emotewheel and click an emote to perform it.\r\nThe wheel uses favorites from the game's Emote menu. Open the full catalog with /emotewheel catalog.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Day-OS/ffxiv-emote-wheel",
+                "LastUpdate": 1794968485
             }
         ]
     },
@@ -10460,12 +10497,12 @@
                 "Author": "The Enceladeum",
                 "Name": "HMapSync (HMS)",
                 "InternalName": "HMSync",
-                "AssemblyVersion": "1.0.9.1",
+                "AssemblyVersion": "1.1.0.1",
                 "Description": "Load any in-game map client-side and explore it solo or with up to 20 friends, behind a packet filter that keeps the server seeing you as idle in your room. Shared weather, BGM and time; client-side mounts, emotes and minions; carpet floors for spots without collision; head-tilt and gaze sync for roleplay; and proximity say/yell passthrough. Co-op needs a relay key (closed beta); solo mode never connects to the relay.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Enceladeum/HMapSync/main/images/icon.png",
                 "RepoUrl": "https://github.com/Enceladeum/HMapSync",
-                "LastUpdate": 1794956938,
+                "LastUpdate": 1794973532,
                 "is_ai_attributed": true
             },
             {
@@ -10564,12 +10601,12 @@
                 "Author": "Minmoose, Asgard 与贡献者；汉化：Endfish",
                 "Name": "Brio-CN",
                 "InternalName": "Brio-CN",
-                "AssemblyVersion": "1.0.10.0",
+                "AssemblyVersion": "1.0.11.0",
                 "Description": "Brio 的简体中文本地化版本，为 GPose 提供角色生成、骨骼姿势编辑、动作播放、灯光、镜头、时间、天气与场景控制等高级功能。\n\n本分支还包含常用姿势快捷入口、Penumbra 动作 Mod 识别，以及可导航的世界模型实时预览。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/endfish/Brio-CN/zh-CN/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/endfish/Brio-CN",
-                "LastUpdate": 1792411382
+                "LastUpdate": 1794973289
             },
             {
                 "Author": "Endfish",
@@ -11299,7 +11336,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/exatrines/ReplayLibrary/main/ReplayConverter/Data/plugin-icon.png",
                 "RepoUrl": "https://github.com/exatrines/ReplayLibrary",
-                "LastUpdate": 1794514377
+                "LastUpdate": 1794978347
             },
             {
                 "Author": "mirage",
@@ -11310,7 +11347,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/exatrines/ReplayLibrary/main/ReplayLibrary/Data/plugin-icon.png",
                 "RepoUrl": "https://github.com/exatrines/ReplayLibrary",
-                "LastUpdate": 1794514377
+                "LastUpdate": 1794978347
             },
             {
                 "Author": "mirage",
@@ -11624,7 +11661,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/NSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/NoSillyReborn",
-                "LastUpdate": 1786440076
+                "LastUpdate": 1794975491
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -11652,12 +11689,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.8.4",
+                "AssemblyVersion": "7.5.8.5",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1794886666
+                "LastUpdate": 1794975222
             },
             {
                 "Author": "Churin",
@@ -13362,7 +13399,7 @@
                 "Description": "Replaces the action the game asks about with the best next action from per-job rule packs compiled from a strict-JSON encyclopedia.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/h1arc/dalamud-plugins",
-                "LastUpdate": 1794957231
+                "LastUpdate": 1794961280
             }
         ]
     },
@@ -13932,6 +13969,24 @@
     },
     {
         "repo_developer_name": "Historian-90",
+        "repo_url": "https://raw.githubusercontent.com/Historian-90/EasyIsle/main/repo.json",
+        "repo_source_url": "https://github.com/Historian-90/EasyIsle",
+        "repo_name": "EasyIsle",
+        "plugins": [
+            {
+                "Author": "CJ",
+                "Name": "EasyIsle",
+                "InternalName": "EasyIsle",
+                "AssemblyVersion": "0.4.2.0",
+                "Description": "Plans your Isleworks agenda around your real island: rank, workshops, isleventory, crops, animals, granary expeditions, Supply & Demand and Felicitous Favors.\n\nAdvice only: EasyIsle never sets anything for you. Everything is read locally from the game; nothing is sent anywhere.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Historian-90/EasyIsle",
+                "LastUpdate": 1794976268
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Historian-90",
         "repo_url": "https://raw.githubusercontent.com/Historian-90/OuterVoice/main/repo.json",
         "repo_source_url": "https://github.com/Historian-90/OuterVoice",
         "repo_name": "OuterVoice",
@@ -13940,11 +13995,11 @@
                 "Author": "CJ",
                 "Name": "Outer Voice",
                 "InternalName": "OuterVoice",
-                "AssemblyVersion": "0.7.0.0",
+                "AssemblyVersion": "0.8.5.0",
                 "Description": "Give your character a voice. Record lines for events like raises, deaths, Kardia swaps, wipes and clears, then share your voice pack with friends: when you're in a party together, each of you hears the other's character speak too.\n\nOnly one voice plays at a time. Everything runs on your own machine by reading what the game already shows; nothing is sent while you play.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Historian-90/OuterVoice",
-                "LastUpdate": 1794960827,
+                "LastUpdate": 1794968878,
                 "is_ai_attributed": true
             }
         ]
@@ -18250,7 +18305,7 @@
                 "Author": "Yu",
                 "Name": "Viet Translator",
                 "InternalName": "VietTranslator",
-                "AssemblyVersion": "1.7.6.0",
+                "AssemblyVersion": "1.7.6.1",
                 "Description": "Phu de tieng Viet cho thoai FFXIV: overlay ImGui render chu co dau chuan (font BeVietnam Pro), giu nguyen ten rieng tieng Anh. Ban v1 phu tron A Realm Reborn - cot truyen chinh (2.0) + hau-ARR (2.1-2.55), nhiem vu Nghe & Job, mo khoa tinh nang (nha o, chocobo, retainer...) va Duty (dungeon/trial/raid). Hoat dong cho thoai thuong, cutscene, caption va menu lua chon.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/kennabi83/VietTranslator/main/Resources/icon.png?v=2",
@@ -19139,12 +19194,12 @@
                 "Author": "Aaron",
                 "Name": "Mercury",
                 "InternalName": "Mercury",
-                "AssemblyVersion": "0.1.2.0",
+                "AssemblyVersion": "0.1.3.0",
                 "Description": "Track your Occult Crescent (South Horn / North Horn) records collection. Auto-opens when you enter the zone, with tabs for Acquired, Missing, and a Quests checklist, plus a Map view that plots survey points over the real zone map.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Kongool/Mercury/main/images/icon.png",
                 "RepoUrl": "https://github.com/Kongool/Mercury",
-                "LastUpdate": 1793921440,
+                "LastUpdate": 1794969934,
                 "is_ai_attributed": true
             }
         ]
@@ -19179,12 +19234,12 @@
                 "Author": "Aaron",
                 "Name": "Mercury",
                 "InternalName": "Mercury",
-                "AssemblyVersion": "0.1.2.0",
+                "AssemblyVersion": "0.1.3.0",
                 "Description": "Track your Occult Crescent (South Horn / North Horn) records collection. Auto-opens when you enter the zone, with tabs for Acquired, Missing, and a Quests checklist, plus a Map view that plots survey points over the real zone map.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Kongool/Mercury/main/images/icon.png",
                 "RepoUrl": "https://github.com/Kongool/Mercury",
-                "LastUpdate": 1793580153,
+                "LastUpdate": 1794969934,
                 "is_ai_attributed": true
             }
         ]
@@ -19332,7 +19387,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/6",
                 "RepoUrl": "https://github.com/PunishXIV/Artisan",
-                "LastUpdate": 1794845066
+                "LastUpdate": 1794927912
             },
             {
                 "Author": "erdelf, Herculezz",
@@ -19366,7 +19421,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1794789382,
+                "LastUpdate": 1794948048,
                 "is_ai_attributed": true
             },
             {
@@ -19400,19 +19455,19 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1794831023,
+                "LastUpdate": 1794948751,
                 "is_ai_attributed": false
             },
             {
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "758.4.0.1",
+                "AssemblyVersion": "758.5.0.1",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1794886666
+                "LastUpdate": 1794975222
             },
             {
                 "Author": "Team Wrath",
@@ -20112,12 +20167,12 @@
                 "Author": "img02 / Laficia",
                 "Name": "狩猎助手Hunt Helper",
                 "InternalName": "HuntHelperCN",
-                "AssemblyVersion": "1.0.0.26",
+                "AssemblyVersion": "1.0.0.30",
                 "Description": "基于 img02/HuntHelper 的国服定制版，保留上游狩猎雷达、A 车记录、通知和 S 怪工具。\nA 怪记录按区服隔离并提供标签页；缺少的地图图片自动下载及缓存；传送旁的「移动」可调用 vnavmesh 前往 A 怪点位，仅在同区服、同地图、同分线且导航可用时启用。\n原作者 img02；上游 https://github.com/img02/HuntHelper；MIT License，Copyright (c) 2022 imaginary-png。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/img02/HuntHelper/main/Images/icon.png",
                 "RepoUrl": "https://github.com/Laficia/HuntHelperCN",
-                "LastUpdate": 1794840674
+                "LastUpdate": 1794979110
             },
             {
                 "Author": "NiGuangOwO / Laficia",
@@ -20133,12 +20188,12 @@
                 "Author": "hunhuan",
                 "Name": "魔法水桶",
                 "InternalName": "SrankFlag",
-                "AssemblyVersion": "1.2.14.3",
+                "AssemblyVersion": "1.2.14.4",
                 "Description": "四大区 S 怪开闸监控、条件订阅、原生窗口与版本筛选。豆豆柴自动读取主站；莫古力、猫小胖、陆行鸟手动直连公开熊站。窗口独立调整宽高，文字与状态色随主题适配。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Laficia/MagicBucket/main/assets/icon.png",
                 "RepoUrl": "https://github.com/Laficia/MagicBucket",
-                "LastUpdate": 1794840425
+                "LastUpdate": 1794972421
             }
         ]
     },
@@ -20465,12 +20520,12 @@
                 "Author": "lavaskin",
                 "Name": "Mentor Roulette Tracker",
                 "InternalName": "MentorRouletteTracker",
-                "AssemblyVersion": "1.1.0.0",
+                "AssemblyVersion": "1.2.0.0",
                 "Description": "Records each Mentor Roulette run you play: the duty, your job, whether it was cleared, whether you joined as a replacement, how many times the party wiped and your time in the duty. Connect it to your account on Mentor Roulette Tracker (mentor.lavask.in) and it logs them there for you, or keep them in the plugin and upload them later.\n\nIt only ever records the Mentor Roulette. Other roulettes, and duties you queue for yourself, are ignored.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/lavaskin/mentor-roulette-plugin/main/images/icon.png",
                 "RepoUrl": "https://github.com/lavaskin/mentor-roulette-plugin",
-                "LastUpdate": 1794790377,
+                "LastUpdate": 1794979885,
                 "is_ai_attributed": true
             }
         ]
@@ -20959,12 +21014,12 @@
                 "Author": "кайт машина (Puni.sh), NightmareXIV, KindSheep（国服汉化）",
                 "Name": "AutoRetainer",
                 "InternalName": "AutoRetainer",
-                "AssemblyVersion": "4.6.1.2604",
+                "AssemblyVersion": "4.6.2.2402",
                 "Description": "轻松收取并派遣雇员探险。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png",
                 "RepoUrl": "https://github.com/LienChan666/AutoRetainer",
-                "LastUpdate": 1793860966,
+                "LastUpdate": 1794979261,
                 "is_ai_attributed": true
             }
         ]
@@ -21590,12 +21645,12 @@
                 "Author": "croizat (llcat11 汉化)",
                 "Name": "Automaton (CBT-CN)",
                 "InternalName": "Automaton",
-                "AssemblyVersion": "1.0.0.0",
+                "AssemblyVersion": "69.234",
                 "Description": "又一个功能调整插件合集，包含自动化、任务管理、UI增强等多种实用功能。本版本为完整中文汉化，界面与游戏内提示已全部翻译。\n\n主要功能：\n- 自动化任务（自动跟随、自动邀请、自动重登录）\n- FATE 追踪器（智能 FATE 刷取与进度监控）\n- 成就追踪（实时成就进度检查）\n- 多开工具（本地多开实例管理与同步）\n- 副本增强（自动离开、副本设置推送）\n- 聊天增强（自动回复、转发、GM 警报）\n- 装备管理（自动装备推荐、套装管理）\n- 狩猎助手（狩猎目标转发与提醒）\n\n使用 /cbt 打开主菜单",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/llcat11/DalamudPlugins/main/plugins/Automaton/icon.png",
                 "RepoUrl": "https://github.com/llcat11/ffxiv-bundleoftweaks-cn",
-                "LastUpdate": 1794748339
+                "LastUpdate": 1794979388
             },
             {
                 "Author": "veyn",
@@ -21619,6 +21674,17 @@
                 "IconUrl": "https://raw.githubusercontent.com/llcat11/DalamudPlugins/main/plugins/MalmstoneCN/icon.png",
                 "RepoUrl": "https://github.com/llcat11/ffxiv-malmstone-cn",
                 "LastUpdate": 1790046111
+            },
+            {
+                "Author": "veyn (llcat11 汉化)",
+                "Name": "vsatisfy (CN)",
+                "InternalName": "vsatisfy",
+                "AssemblyVersion": "0.0.0.50",
+                "Description": "通过自动化流程减少老主顾交付的烦恼：自动传送、购买素材、制作、采集、钓鱼与交付。\n\n所需插件：vnavmesh、Artisan、Gather n Chill\n本版本为中文汉化版，界面与提示均已汉化。\n\n使用 /vsatisfy 打开主窗口",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/llcat11/DalamudPlugins/main/plugins/vsatisfy/icon.png",
+                "RepoUrl": "https://github.com/llcat11/ffxiv_satisfy",
+                "LastUpdate": 1794978601
             }
         ]
     },
@@ -24412,11 +24478,11 @@
                 "Author": "Midona",
                 "Name": "Poser",
                 "InternalName": "Poser",
-                "AssemblyVersion": "0.9.26.0",
+                "AssemblyVersion": "0.9.27.0",
                 "Description": "Poser is a posing and scene tool for FINAL FANTASY XIV's group pose.\n\n- Pose actors bone by bone: overlay handles, a graphical body map, and numeric transforms\n- IK on any bone with a parent, plus mirror, link and named bone-visibility presets\n- Spawn actors and objects, or click a world handle to bring what is already there into the scene\n- Borrow the map's own objects by reference and give them back untouched on release\n- Save and restore the whole shot — actors, objects, lights, camera and environment — with load options\n- Custom lights, camera control and a free camera; snapping, group pivot and group moves\n- Gaze control and one-click expressions\n- A pose library with tags, authors and search; import and export poses, and MCDF appearance files\n- Time, weather and festival control\n- On-screen dialogue panels, chat bubbles and status lines drawn with the game's own UI\n- Reference pictures as floating, aspect-locked windows\n- Twenty-five rebindable actions with Poser, Brio and Ktisis presets\n\nThis is a beta. It is not stable and it is not finished. Poser is derivative of Anamnesis, Ktisis and Brio, and those three are the mature tools.\n\nPoser was coded with the use of artificial intelligence. The plugin says so on first launch and asks you to confirm before the workspace opens.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/midona-rhel/Poser",
-                "LastUpdate": 1794958866,
+                "LastUpdate": 1794962903,
                 "is_ai_attributed": true
             }
         ]
@@ -25802,12 +25868,12 @@
                 "Author": "Marius Emyr (MusicManBowls), based on Brio by Minmoose, Asgard and Contributors",
                 "Name": "Marionette",
                 "InternalName": "Marionette",
-                "AssemblyVersion": "0.1.1.0",
+                "AssemblyVersion": "0.2.0.1",
                 "Description": "Pose, stage and film your characters in GPose by grabbing them with the mouse.\n- Drag any body part, with limbs that follow naturally; double click a hand or the head for fingers and the face\n- Add people, NPCs and creatures to the scene, from your saved Glamourer designs or the game\n- Emotes, walks, runs and expressions, with a free camera that flies anywhere\n- Photos with bars, looks and background blur, shown live on the game\n- The Director: make your own cutscenes with shots, camera paths, talk boxes, voices, music and sound effects\n- Record them to MP4, frame perfect or live, with each kind of sound as its own track if you like\n\nMarionette is a modified version of Brio, and like Brio it is licensed under the GPL 3.0. Turn Brio off while using it.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/musicmanbowls/Marionette-Releases/main/MarionetteIcon.png",
                 "RepoUrl": "https://github.com/musicmanbowls/Marionette-Releases",
-                "LastUpdate": 1794872257
+                "LastUpdate": 1794965932
             }
         ]
     },
@@ -26968,7 +27034,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/NeXzRo/Stuff/main/BetterTargetingSystemPvP/icon.png",
                 "RepoUrl": "https://github.com/NeXzRo/BetterTargetingSystem",
-                "LastUpdate": 1794893331
+                "LastUpdate": 1794977693
             },
             {
                 "Author": "goat, Maple",
@@ -26978,7 +27044,7 @@
                 "Description": "This plugin shows the destination zone's concept art while loading.\nNOTE: ONLY LOOKS RIGHT ON 16:9 SCREENS! The concept art is not any bigger, and we can't expand/fix it. Sorry!",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/NeXzRo/Dalamud.LoadingImage",
-                "LastUpdate": 1794292380
+                "LastUpdate": 1794899285
             }
         ]
     },
@@ -28800,12 +28866,12 @@
                 "Author": "ofnature",
                 "Name": "Charon",
                 "InternalName": "Charon",
-                "AssemblyVersion": "0.1.61",
+                "AssemblyVersion": "0.1.62",
                 "Description": "Auto pillion with smart seat scanning and whitelisted auto group invite. Companion to Daedalus.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ofnature/Charon/main/images/icon.png",
                 "RepoUrl": "https://github.com/ofnature/Charon",
-                "LastUpdate": 1794875470,
+                "LastUpdate": 1794964162,
                 "is_ai_attributed": true
             }
         ]
@@ -31525,12 +31591,12 @@
                 "Author": "twelvehouse",
                 "Name": "ChatAnywhere",
                 "InternalName": "ChatAnywhereCNReborn",
-                "AssemblyVersion": "1.6.0.1",
+                "AssemblyVersion": "1.6.0.2",
                 "Description": "Real-time FFXIV chat in a browser, with channel filters, replies, emotes, link previews, and passcode-protected access.",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/Psammosignum/ChatAnywhere/master/images/icon.png",
+                "IconUrl": "https://raw.githubusercontent.com/Psammosignum/ChatAnywhere/main/images/icon.png",
                 "RepoUrl": "https://github.com/Psammosignum/MyDalamudPlugins",
-                "LastUpdate": 1794399190
+                "LastUpdate": 1794979744
             }
         ]
     },
@@ -31757,7 +31823,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/24",
                 "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
-                "LastUpdate": 1787866558
+                "LastUpdate": 1794966402
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -36551,7 +36617,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/sadoniaveletoria/velvetdairy/main/VelvetDairy/images/icon.png",
                 "RepoUrl": "https://github.com/sadoniaveletoria/velvetdairy",
-                "LastUpdate": 1794943039,
+                "LastUpdate": 1794982136,
                 "is_ai_attributed": true
             }
         ]
@@ -39053,7 +39119,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://dl.solona.info/icon.png",
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1794943502,
+                "LastUpdate": 1794981015,
                 "is_ai_attributed": true
             }
         ]
@@ -42635,11 +42701,11 @@
                 "Author": "Crimson",
                 "Name": "NIRÆ Motion",
                 "InternalName": "NiraeMotion",
-                "AssemblyVersion": "0.3.22.0",
+                "AssemblyVersion": "0.3.31.0",
                 "Description": "Its own flesh physics for the NIRÆ body: bounce with weight and follow-through, hang with gravity, and skin that dents under hands and forearms (the dents need the NIRÆ shader test mod). Prototype: only on your screen. /nmotion",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/urimusha/nirae-motion",
-                "LastUpdate": 1794851731,
+                "LastUpdate": 1794976623,
                 "is_ai_attributed": true
             }
         ]
@@ -44890,12 +44956,12 @@
                 "Author": "hOst1k",
                 "Name": "XIV Rus",
                 "InternalName": "XIVRusUpdater",
-                "AssemblyVersion": "2.0.0.2",
+                "AssemblyVersion": "2.0.0.4",
                 "Description": "Maintains the latest compatible version of XIVRus by checking for updates, downloading releases, and installing them through Penumbra. Includes update channels, patch compatibility warnings, and manual update controls.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xivrus/XIVRusUpdater/master/Data/icon.png",
                 "RepoUrl": "https://github.com/hOst1k-Top/XIVRusUpdater",
-                "LastUpdate": 1794874172,
+                "LastUpdate": 1794963671,
                 "is_ai_attributed": true
             }
         ]
@@ -46446,12 +46512,12 @@
                 "Author": "Zisty",
                 "Name": "Character Config",
                 "InternalName": "AltSync",
-                "AssemblyVersion": "0.3.0.0",
+                "AssemblyVersion": "0.4.7.0",
                 "Description": "Copy HUD, hotbars, keybinds, macros and more from one character to another, with backup and undo. Rename, reorder, sort and delete gear sets in one window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Zisty98/CommandCodex/main/images/altsync.png",
                 "RepoUrl": "https://github.com/Zisty98/CommandCodex/tree/main/plugins/AltSync",
-                "LastUpdate": 1794927982,
+                "LastUpdate": 1794981393,
                 "is_closed_source": true,
                 "is_ai_attributed": true
             },
@@ -46585,11 +46651,11 @@
                 "Author": "Zune",
                 "Name": "Master Of Puppets",
                 "InternalName": "MasterOfPuppets",
-                "AssemblyVersion": "1.15.0.255",
+                "AssemblyVersion": "1.15.0.258",
                 "Description": "Plugin to send macro actions",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zunetrix/MasterOfPuppets",
-                "LastUpdate": 1794865329,
+                "LastUpdate": 1794966879,
                 "is_ai_attributed": true
             },
             {
