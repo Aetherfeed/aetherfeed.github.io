@@ -1164,12 +1164,12 @@
                 "Author": "DhogGPT",
                 "Name": "AI Duty Solver",
                 "InternalName": "ADS",
-                "AssemblyVersion": "2.0.0.27",
+                "AssemblyVersion": "2.0.0.29",
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/ADS/main/ADS/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1795062199,
+                "LastUpdate": 1795093614,
                 "is_ai_attributed": true
             },
             {
@@ -1201,11 +1201,11 @@
                 "Author": "McVaxius",
                 "Name": "God Mod Companion",
                 "InternalName": "BMRVariantLoader",
-                "AssemblyVersion": "3.1.5.43",
+                "AssemblyVersion": "3.1.5.44",
                 "Description": "Encounter additions, Praetorium timelines and bundled cooldown plans, with AethertekUI appearance for BMR settings, autorotation and AI. BossModReborn must be installed and enabled.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/BMRVariantLoader-Public",
-                "LastUpdate": 1795032036,
+                "LastUpdate": 1795081716,
                 "is_ai_attributed": true
             },
             {
@@ -1441,12 +1441,12 @@
                 "Author": "DhogGPT",
                 "Name": "M.O.G.T.O.M.E.",
                 "InternalName": "MOGTOME",
-                "AssemblyVersion": "4.2.0.26",
+                "AssemblyVersion": "4.2.0.29",
                 "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open. M.O.G.T.O.M.E. = Management Of Grand Tome Operations & Management Engine",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/MOGTOME/master/MOGTOME/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/MOGTOME",
-                "LastUpdate": 1795070758,
+                "LastUpdate": 1795090434,
                 "is_ai_attributed": true
             },
             {
@@ -1709,12 +1709,12 @@
                 "Author": "Critical_Impact",
                 "Name": "Allagan Tools CN",
                 "InternalName": "InventoryToolsCN",
-                "AssemblyVersion": "15.1.10.1",
+                "AssemblyVersion": "15.1.10.2",
                 "Description": "Allagan Tools 的主要用途是追踪你的角色、雇员和部队仓库中的物品。借助其筛选系统，你再也不会丢失物品，也不会不知道它们应该整理到哪里。\n\n除此之外，它还包含丰富的其他功能，包括：\n\t- 制作规划\n\t- 市场版集成\n\t- 搜索/整理以及为制作选择材料时，在背包中高亮显示物品\n\t- 物品窗口，包含购买和来源等信息\n\t- 可完整搜索的副本/怪物/飞艇/潜水艇窗口\n\t- 可设置复杂搜索条件的筛选系统，精确查找特定物品\n\t- 鼠标悬停时的提示框集成，可查看物品所在位置",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ahjsrhj/InventoryToolsCN/main/InventoryTools/Images/icon.png",
                 "RepoUrl": "https://github.com/ahjsrhj/InventoryToolsCN",
-                "LastUpdate": 1795056582,
+                "LastUpdate": 1795093036,
                 "is_ai_attributed": true
             }
         ]
@@ -2465,12 +2465,12 @@
                 "Author": "alizea1337",
                 "Name": "Provenance",
                 "InternalName": "Provenance",
-                "AssemblyVersion": "0.6.0.0",
+                "AssemblyVersion": "0.6.2.0",
                 "Description": "Provenance takes a Teamcraft list (link, copied text or import string) or items you pick in its recipe browser, works out every material down to the crystals, then gets everything and crafts it in one run: items from your retainers, master books and folklore tomes from scrip exchanges (earning the scrips with collectables when needed), vendors, monster drops with a basic combo, gathering through GatherBuddy Reborn including timed nodes, and crafting with Raphael rotations. No market board. Requires GatherBuddy Reborn and vnavmesh (AutoHook for fishing). Open /provenance to get started.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/alizea1337/DalamudPlugins/main/plugins/Provenance/images/icon.png",
                 "RepoUrl": "https://github.com/alizea1337/DalamudPlugins",
-                "LastUpdate": 1795043717
+                "LastUpdate": 1795076249
             }
         ]
     },
@@ -4862,18 +4862,18 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1794986296
+                "LastUpdate": 1795056658
             },
             {
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn (Benji)",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.8.501",
+                "AssemblyVersion": "7.5.8.604",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1794975222
+                "LastUpdate": 1795067176
             }
         ]
     },
@@ -5627,12 +5627,12 @@
                 "Author": "Real Nunu",
                 "Name": "Nunu's Windbound Bard",
                 "InternalName": "NunuWindboundBard",
-                "AssemblyVersion": "0.46.8.0",
+                "AssemblyVersion": "0.46.9.0",
                 "Description": "Play MIDI in FFXIV Bard Performance with full chords, per-track octave controls, an instrument selector, guitar tone overrides, saved solo and ensemble playlists, party-track assignments, and private multi-device ensembles.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/BTYRE1916/NunuWindboundBard-FFXIV/master/Assets/windbound-icon.ico",
                 "RepoUrl": "https://github.com/BTYRE1916/NunuWindboundBard-FFXIV",
-                "LastUpdate": 1795046400
+                "LastUpdate": 1795068480
             }
         ]
     },
@@ -6439,9 +6439,9 @@
     },
     {
         "repo_developer_name": "chefiffer",
-        "repo_url": "https://raw.githubusercontent.com/chefiffer/pvpchronicle/main/repo.json",
-        "repo_source_url": "https://github.com/chefiffer/pvpchronicle",
-        "repo_name": "pvpchronicle",
+        "repo_url": "https://raw.githubusercontent.com/chefiffer/PVPChronicle/main/repo.json",
+        "repo_source_url": "https://github.com/chefiffer/PVPChronicle",
+        "repo_name": "PVPChronicle",
         "plugins": [
             {
                 "Author": "chefiffer",
@@ -6457,9 +6457,9 @@
     },
     {
         "repo_developer_name": "chefiffer",
-        "repo_url": "https://raw.githubusercontent.com/chefiffer/PVPChronicle/main/repo.json",
-        "repo_source_url": "https://github.com/chefiffer/PVPChronicle",
-        "repo_name": "PVPChronicle",
+        "repo_url": "https://raw.githubusercontent.com/chefiffer/pvpchronicle/main/repo.json",
+        "repo_source_url": "https://github.com/chefiffer/pvpchronicle",
+        "repo_name": "pvpchronicle",
         "plugins": [
             {
                 "Author": "chefiffer",
@@ -9765,12 +9765,12 @@
                 "Author": "Eauldane",
                 "Name": "Ledger",
                 "InternalName": "Ledger",
-                "AssemblyVersion": "1.1.0",
+                "AssemblyVersion": "2.0.0.0",
                 "Description": "Shows collection progress for achievements, titles, mounts, minions, orchestrion rolls, and more.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://eauldane.com/logos/ledger.png",
                 "RepoUrl": "https://github.com/Eauldane/Ledger",
-                "LastUpdate": 1777529396
+                "LastUpdate": 1795084056
             },
             {
                 "Author": "Eauldane",
@@ -11318,13 +11318,24 @@
         "plugins": [
             {
                 "Author": "EvolvedXIV",
+                "Name": "Job Gauge Evolved",
+                "InternalName": "JobGaugeEvolved",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "Draws improved job gauges that you can resize, move and recolour, with a settings section and an on/off switch per job.\n\nViper: the Vipersight blades and the Serpent Offerings gauge in one. The blades show which button the game recommends from your Honed and venom buffs, the finisher's positional (flank on both blades, rear on the centre) and which finisher your venom empowers. Also shows the Anguine Tributes and the Reawaken timer, the gauge value and your Rattling Coils.\n\nOpen the settings with /jge.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/EvolvedXIV/job-gauge-evolved",
+                "LastUpdate": 1795074021,
+                "is_ai_attributed": true
+            },
+            {
+                "Author": "EvolvedXIV",
                 "Name": "Party Icons Evolved",
                 "InternalName": "PartyIconsEvolved",
                 "AssemblyVersion": "1.0.1.0",
                 "Description": "Customises the nameplates above your party members using the game's own nameplate UI.\n\n- Show or hide the name, shorten it to a maximum length (on top of the game's own Display Name Settings) and recolour it.\n- Add a job icon with configurable style, position and size.\n- Add a raid role indicator (MT, OT, H1, H2, M1, M2, R1, R2) with configurable colours.\n- Roles are assigned automatically, by a party chat message that contains only the role (e.g. \"M1\"), or from the right-click menu.\n\nOpen the settings with /pie.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/EvolvedXIV/party-icons-evolved",
-                "LastUpdate": 1795066015,
+                "LastUpdate": 1795073952,
                 "is_ai_attributed": true
             }
         ]
@@ -14956,12 +14967,12 @@
                 "Author": "The Combat Reborn Team (fork by IndividualGather)",
                 "Name": "RotationSolverRebornButBetter",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.8.504",
+                "AssemblyVersion": "7.5.8.604",
                 "Description": "An unofficial fork of Rotation Solver Reborn by The Combat Reborn Team: https://github.com/FFXIV-CombatReborn/RotationSolverReborn\nAll credit for the plugin goes to the original authors.\n\nWhy this fork exists: the official plugin only runs the rotations built into it. This fork adds a single feature: it also loads rotation DLLs from the CustomRotations folder in the plugin's config directory, so custom rotations can be maintained separately instead of in a full fork of the plugin.\n\nEverything else is unchanged. It is rebuilt automatically from every official release, with a teal theme to tell it apart.\n\nNot affiliated with or supported by The Combat Reborn Team. Please don't report issues with this fork to them.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/IndividualGather/RotationSolverRebornButBetter/main/branding/Logo.png",
                 "RepoUrl": "https://github.com/IndividualGather/RotationSolverRebornButBetter",
-                "LastUpdate": 1794986654,
+                "LastUpdate": 1795093233,
                 "is_ai_attributed": true
             }
         ]
@@ -15514,9 +15525,9 @@
     },
     {
         "repo_developer_name": "Jackoltrade",
-        "repo_url": "https://raw.githubusercontent.com/Jackoltrade/Better-controller-experience-for-FFXIV/main/repo.json",
-        "repo_source_url": "https://github.com/Jackoltrade/Better-controller-experience-for-FFXIV",
-        "repo_name": "Better-controller-experience-for-FFXIV",
+        "repo_url": "https://raw.githubusercontent.com/Jackoltrade/Better-Controller-Experience-for-FFXIV/main/repo.json",
+        "repo_source_url": "https://github.com/Jackoltrade/Better-Controller-Experience-for-FFXIV",
+        "repo_name": "Better-Controller-Experience-for-FFXIV",
         "plugins": [
             {
                 "Author": "Jackoltrade",
@@ -15534,9 +15545,9 @@
     },
     {
         "repo_developer_name": "Jackoltrade",
-        "repo_url": "https://raw.githubusercontent.com/Jackoltrade/Better-Controller-Experience-for-FFXIV/main/repo.json",
-        "repo_source_url": "https://github.com/Jackoltrade/Better-Controller-Experience-for-FFXIV",
-        "repo_name": "Better-Controller-Experience-for-FFXIV",
+        "repo_url": "https://raw.githubusercontent.com/Jackoltrade/Better-controller-experience-for-FFXIV/main/repo.json",
+        "repo_source_url": "https://github.com/Jackoltrade/Better-controller-experience-for-FFXIV",
+        "repo_name": "Better-controller-experience-for-FFXIV",
         "plugins": [
             {
                 "Author": "Jackoltrade",
@@ -15562,12 +15573,12 @@
                 "Author": "raynording",
                 "Name": "DACT",
                 "InternalName": "DalamudActCompat",
-                "AssemblyVersion": "1.0.0.10",
+                "AssemblyVersion": "1.0.0.11",
                 "Description": "Dalamud-side UI, storage, parser abstraction, and compatibility-host bridge for an ACT-compatible FFXIV parsing platform. This early build does not yet load FFXIV_ACT_Plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/JackyWilliam/DalamudActCompat/main/src/DalamudActCompat/images/icon.png",
                 "RepoUrl": "https://github.com/JackyWilliam/DalamudActCompat",
-                "LastUpdate": 1794753721,
+                "LastUpdate": 1795077229,
                 "is_ai_attributed": true
             },
             {
@@ -15593,12 +15604,12 @@
                 "Author": "raynording",
                 "Name": "DACT (TW)",
                 "InternalName": "DalamudActCompat",
-                "AssemblyVersion": "1.0.0.6",
+                "AssemblyVersion": "1.0.0.11",
                 "Description": "台服 API 13 專用測試候選版，預設繁體中文。整合戰鬥統計、Cactbot、HTML 懸浮窗、快捷鍵與 ACT 擴充套件；不包含 Matcha。遊戲內相容性仍待驗收。",
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://raw.githubusercontent.com/JackyWilliam/DalamudActCompat-TW/main/src/DalamudActCompat/images/icon.png",
                 "RepoUrl": "https://github.com/JackyWilliam/DalamudActCompat-TW",
-                "LastUpdate": 1794377558
+                "LastUpdate": 1795078901
             }
         ]
     },
@@ -15612,12 +15623,12 @@
                 "Author": "raynording",
                 "Name": "DACT",
                 "InternalName": "DalamudActCompat",
-                "AssemblyVersion": "1.0.0.10",
+                "AssemblyVersion": "1.0.0.11",
                 "Description": "Dalamud-side UI, storage, parser abstraction, and compatibility-host bridge for an ACT-compatible FFXIV parsing platform. This early build does not yet load FFXIV_ACT_Plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/JackyWilliam/DalamudActCompatRepo/main/dact-logo-512.png",
                 "RepoUrl": "https://github.com/JackyWilliam/DalamudActCompat",
-                "LastUpdate": 1794754645,
+                "LastUpdate": 1795078063,
                 "is_ai_attributed": true
             },
             {
@@ -15629,7 +15640,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/JackyWilliam/DalamudActCompatRepo/main/act-logo-512.png",
                 "RepoUrl": "https://github.com/JackyWilliam/DalamudActCompat",
-                "LastUpdate": 1794754645
+                "LastUpdate": 1795078063
             }
         ]
     },
@@ -20347,22 +20358,22 @@
                 "Author": "img02 / Laficia",
                 "Name": "狩猎助手Hunt Helper",
                 "InternalName": "HuntHelperCN",
-                "AssemblyVersion": "1.0.0.31",
+                "AssemblyVersion": "1.0.0.32",
                 "Description": "基于 img02/HuntHelper 的国服定制版，保留上游狩猎雷达、A 车记录、通知和 S 怪工具。\nA 怪记录按区服隔离并提供标签页；缺少的地图图片自动下载及缓存；传送旁的「移动」可调用 vnavmesh 前往 A 怪点位，仅在同区服、同地图、同分线且导航可用时启用。\n原作者 img02；上游 https://github.com/img02/HuntHelper；MIT License，Copyright (c) 2022 imaginary-png。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/img02/HuntHelper/main/Images/icon.png",
                 "RepoUrl": "https://github.com/Laficia/HuntHelperCN",
-                "LastUpdate": 1794992475
+                "LastUpdate": 1795087097
             },
             {
                 "Author": "NiGuangOwO / Laficia",
                 "Name": "LuckyStarMOGAI",
                 "InternalName": "LuckyStarMOGAI",
-                "AssemblyVersion": "0.0.0.12",
+                "AssemblyVersion": "0.0.0.13",
                 "Description": "基于 NiGuangOwO/LuckyStar 的独立定制版。保留原有农怪项目，新增红玉海巨大鳐三洞循环：洞内骑乘飞行、洞间骑乘潜水，接近目标落地后下坐骑击杀。分类观测计数，达到目标后跳过该种类，全部勾选种类完成后停止并通过聊天与屏幕提示通知。数量完成不代表确认S怪刷新。/luckystarmogai 打开；需要国服 vnavmesh 和配置好的 AE、RSR、Wrath 或 Prome。AGPL-3.0-or-later，保留原作者署名。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Laficia/HuntHelperCN",
-                "LastUpdate": 1794740474
+                "LastUpdate": 1795089090
             },
             {
                 "Author": "hunhuan",
@@ -21817,12 +21828,12 @@
                 "Author": "Lizvik",
                 "Name": "Visland",
                 "InternalName": "visland",
-                "AssemblyVersion": "1.3.0.0",
+                "AssemblyVersion": "1.3.1.0",
                 "Description": "Automate gathering, workshop assignments, etc.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/lizvik/ffxiv_visland/master/icon.png",
                 "RepoUrl": "https://github.com/lizvik/ffxiv_visland",
-                "LastUpdate": 1794761187
+                "LastUpdate": 1795087455
             }
         ]
     },
@@ -22588,11 +22599,11 @@
                 "Author": "Majo & Sol",
                 "Name": "Majo & Sol Aether Map",
                 "InternalName": "MajoSolAetherMap",
-                "AssemblyVersion": "0.7.1.0",
+                "AssemblyVersion": "0.7.4.0",
                 "Description": "Shows real Aether Current progress, exploration locations and quest NPCs. Includes native map flags and a passive multi-marker overlay. Open with /aethermap.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/majonumo/MajoSolAetherMap",
-                "LastUpdate": 1795046129,
+                "LastUpdate": 1795076170,
                 "is_ai_attributed": true
             }
         ]
@@ -23267,12 +23278,12 @@
                 "Author": "Ashe",
                 "Name": "Ashe's Trader",
                 "InternalName": "AsheTrader",
-                "AssemblyVersion": "0.6.3.0",
+                "AssemblyVersion": "0.6.3.1",
                 "Description": "LAN-coordinated transfer jobs with priority recipients, retainer collection and overflow storage, saved progress, character switching, and workshop fuel profiles.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/maryamaahmed1991/AsheTrader/v0.6.1.1/icon.png",
                 "RepoUrl": "https://github.com/maryamaahmed1991/AsheTrader",
-                "LastUpdate": 1794948403
+                "LastUpdate": 1795075325
             }
         ]
     },
@@ -23662,12 +23673,12 @@
                 "Author": "DhogGPT",
                 "Name": "AI Duty Solver",
                 "InternalName": "ADS",
-                "AssemblyVersion": "2.0.0.27",
+                "AssemblyVersion": "2.0.0.29",
                 "Description": "An attempt to solve a question nobody (but me) asked. Can I make a duty solver that plays nice with multiplayer and can quickly be prepped for a duty with sometimes 0 work?  This involves many new concepts on the backend in the finite state machine such as the ghost system, with ghost clusters, retired ghost clusters, seek eagerness and more.  Please read the manual if I have created it, otherwise please wait for it.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/ADS/main/ADS/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/ADS",
-                "LastUpdate": 1795062199,
+                "LastUpdate": 1795093614,
                 "is_ai_attributed": true
             }
         ]
@@ -24001,12 +24012,12 @@
                 "Author": "DhogGPT",
                 "Name": "M.O.G.T.O.M.E.",
                 "InternalName": "MOGTOME",
-                "AssemblyVersion": "4.2.0.26",
+                "AssemblyVersion": "4.2.0.29",
                 "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/MOGTOME/master/MOGTOME/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/MOGTOME",
-                "LastUpdate": 1795070758,
+                "LastUpdate": 1795090434,
                 "is_ai_attributed": true
             }
         ]
@@ -25413,12 +25424,12 @@
                 "Author": "Momikk",
                 "Name": "压价之王 UndercutKing",
                 "InternalName": "UndercutKing",
-                "AssemblyVersion": "0.1.2.0",
+                "AssemblyVersion": "0.1.2.1",
                 "Description": "轻量雇员市场辅助：比对市场价格，在雇员销售列表与雇员列表中高亮被压价的物品。仅提供提示，不自动改价。由 Momikk 维护，部分库存与界面交互代码改编自 Critical_Impact 的 Allagan Market，采用 AGPL-3.0-or-later。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Momikk/UndercutKing/main/images/icon.png",
                 "RepoUrl": "https://github.com/Momikk/UndercutKing",
-                "LastUpdate": 1794898046
+                "LastUpdate": 1795090002
             }
         ]
     },
@@ -28774,6 +28785,24 @@
         ]
     },
     {
+        "repo_developer_name": "Noplch0",
+        "repo_url": "https://raw.githubusercontent.com/Noplch0/dalamud-plugins/main/repo.json",
+        "repo_source_url": "https://github.com/Noplch0/dalamud-plugins",
+        "repo_name": "dalamud-plugins",
+        "plugins": [
+            {
+                "Author": "Noplch0",
+                "Name": "Dalamud Proxy",
+                "InternalName": "DalamudProxy",
+                "AssemblyVersion": "0.1.0.2",
+                "Description": "只代理 Dalamud 插件仓库读取以及插件安装、更新和测试版下载，不代理图片、游戏或其他插件运行时流量。",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Noplch0/dalamud-plugins/tree/main/DalamudProxy",
+                "LastUpdate": 1795075543
+            }
+        ]
+    },
+    {
         "repo_developer_name": "noranda",
         "repo_url": "https://raw.githubusercontent.com/noranda/xiv-shinies-plugin/main/repo.json",
         "repo_source_url": "https://github.com/noranda/xiv-shinies-plugin",
@@ -32071,12 +32100,12 @@
                 "Author": "Det, croizat",
                 "Name": "AutoHook",
                 "InternalName": "AutoHook",
-                "AssemblyVersion": "6.1.0.0",
+                "AssemblyVersion": "6.1.0.2",
                 "Description": "It hooks the fish for you, can you believe it?\n\nCN API 10: Enable testing version or use\nhttps://puni.sh/api/repository/det",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/47",
                 "RepoUrl": "https://github.com/PunishXIV/AutoHook",
-                "LastUpdate": 1795039095
+                "LastUpdate": 1795090987
             },
             {
                 "Author": "kawaii, NightmareXIV",
@@ -32163,7 +32192,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1795067112
+                "LastUpdate": 1795093993
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -32222,12 +32251,12 @@
                 "Author": "croizat",
                 "Name": "CBT 🐎",
                 "InternalName": "Automaton",
-                "AssemblyVersion": "69.234",
+                "AssemblyVersion": "69.235",
                 "Description": "Yet another tweaks collection plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/34",
                 "RepoUrl": "https://github.com/Jaksuhn/ffxiv-bundleoftweaks",
-                "LastUpdate": 1794686464
+                "LastUpdate": 1795083052
             },
             {
                 "Author": "croizat",
@@ -36696,11 +36725,11 @@
                 "Author": "1010",
                 "Name": "HuntSpawner",
                 "InternalName": "HuntSpawner",
-                "AssemblyVersion": "0.5.1.0",
+                "AssemblyVersion": "0.5.2.0",
                 "Description": "S怪自动触发插件，仍在测试中，支持国服和国际服",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/SAD777A/1010/tree/main/HuntSpawner",
-                "LastUpdate": 1795068218
+                "LastUpdate": 1795086233
             },
             {
                 "Author": "1010",
@@ -36881,7 +36910,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/sadoniaveletoria/velvetdairy/main/VelvetDairy/images/icon.png",
                 "RepoUrl": "https://github.com/sadoniaveletoria/velvetdairy",
-                "LastUpdate": 1795012072,
+                "LastUpdate": 1795092806,
                 "is_ai_attributed": true
             }
         ]
@@ -37433,12 +37462,12 @@
                 "Author": "Sebastina",
                 "Name": "A Quest Reborn",
                 "InternalName": "AQuestReborn",
-                "AssemblyVersion": "0.2.9.8",
+                "AssemblyVersion": "0.2.9.9",
                 "Description": "Play custom quests made by the community, or make your own!",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Sebane1/AQuestReborn/refs/heads/master/AQuestReborn-C256.png",
                 "RepoUrl": "https://github.com/Sebane1/AQuestReborn",
-                "LastUpdate": 1785543207,
+                "LastUpdate": 1795076316,
                 "is_ai_attributed": true
             }
         ]
@@ -37585,6 +37614,25 @@
                 "RepoUrl": "https://github.com/serifine/XIV-Chat-Tools",
                 "LastUpdate": 1778365953,
                 "is_ai_attributed": true
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "serisly",
+        "repo_url": "https://raw.githubusercontent.com/serisly/MagicInventory/main/repo.json",
+        "repo_source_url": "https://github.com/serisly/MagicInventory",
+        "repo_name": "MagicInventory",
+        "plugins": [
+            {
+                "Author": "Seris",
+                "Name": "Magic Inventory",
+                "InternalName": "MagicInventory",
+                "AssemblyVersion": "0.0.1.0",
+                "Description": "Automatic inventory organizer for FFXIV. Sorts items between bags and retainers, sells junk to vendors or Grand Company, lists profitable surplus on the Market Board, uses unlockables and coffers, tracks recipes, and buys missing materials. Right-click any item to set a custom rule.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/serisly/MagicInventory/main/images/icon.png",
+                "RepoUrl": "https://github.com/serisly/MagicInventory",
+                "LastUpdate": 1795093647
             }
         ]
     },
@@ -39241,12 +39289,12 @@
                 "Author": "Sojiroh",
                 "Name": "PVP Series Autopilot",
                 "InternalName": "PvpSeriesAutopilot",
-                "AssemblyVersion": "2.13.1.0",
+                "AssemblyVersion": "2.14.0.0",
                 "Description": "Grinds PvP Series Malmstones in Crystalline Conflict Casual or Ranked Matches, or Frontline, with preview infantry support for Rival Wings (Hidden Gorge). Queues and plays until your goal is met. Based on Auto PVP Series Grind by XeldarAlz.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Sojiroh/FFXIV-PVPSeriesAutopilot/master/AutoPvpSeriesGrind/Images/Icon.png",
                 "RepoUrl": "https://github.com/Sojiroh/FFXIV-PVPSeriesAutopilot",
-                "LastUpdate": 1793552110,
+                "LastUpdate": 1795092827,
                 "is_ai_attributed": true
             },
             {
@@ -39418,11 +39466,11 @@
                 "Author": "Solterax",
                 "Name": "GearScout",
                 "InternalName": "GearScout",
-                "AssemblyVersion": "0.14.3.0",
+                "AssemblyVersion": "0.15.0.0",
                 "Description": "Build gear sets in game with slot and job filtered item search, or import XIVGear links. Check gear, materia and saved storage ownership, and highlight wanted missing loot.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Solterax/GearScout",
-                "LastUpdate": 1794306731
+                "LastUpdate": 1795086665
             }
         ]
     },
@@ -39436,11 +39484,11 @@
                 "Author": "Solterax",
                 "Name": "GearScout",
                 "InternalName": "GearScout",
-                "AssemblyVersion": "0.14.3.0",
+                "AssemblyVersion": "0.15.0.0",
                 "Description": "Build gear sets in game with slot and job filtered item search, or import XIVGear links. Check gear, materia and saved storage ownership, and highlight wanted missing loot.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Solterax/GearScout",
-                "LastUpdate": 1794306711
+                "LastUpdate": 1795086599
             }
         ]
     },
