@@ -1201,11 +1201,11 @@
                 "Author": "McVaxius",
                 "Name": "God Mod Companion",
                 "InternalName": "BMRVariantLoader",
-                "AssemblyVersion": "3.2.0.46",
+                "AssemblyVersion": "3.2.0.57",
                 "Description": "Encounter additions, Praetorium timelines and bundled cooldown plans, with AethertekUI appearance for BMR settings, autorotation and AI. BossModReborn must be installed and enabled.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/BMRVariantLoader-Public",
-                "LastUpdate": 1795201408,
+                "LastUpdate": 1795229345,
                 "is_ai_attributed": true
             },
             {
@@ -2307,6 +2307,25 @@
         ]
     },
     {
+        "repo_developer_name": "AlexGMCode",
+        "repo_url": "https://raw.githubusercontent.com/AlexGMCode/dalamud-plugins/main/repo.json",
+        "repo_source_url": "https://github.com/AlexGMCode/dalamud-plugins",
+        "repo_name": "dalamud-plugins",
+        "plugins": [
+            {
+                "Author": "Taurenkey (Puni.sh)",
+                "Name": "ArtisanPrototype",
+                "InternalName": "ArtisanPrototype",
+                "AssemblyVersion": "4.0.5.28",
+                "Description": "The all-in-one crafting plugin.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png",
+                "RepoUrl": "https://github.com/AlexGMCode/ArtisanPrototype",
+                "LastUpdate": 1795212250
+            }
+        ]
+    },
+    {
         "repo_developer_name": "AlexValliere",
         "repo_url": "https://raw.githubusercontent.com/AlexValliere/submarineEtaPlanner/main/repo.json",
         "repo_source_url": "https://github.com/AlexValliere/submarineEtaPlanner",
@@ -2465,12 +2484,12 @@
                 "Author": "alizea1337",
                 "Name": "Provenance",
                 "InternalName": "Provenance",
-                "AssemblyVersion": "0.15.0.0",
+                "AssemblyVersion": "0.16.2.0",
                 "Description": "Provenance takes a Teamcraft list (link, copied text or import string) or items you pick in its recipe browser, works out every material down to the crystals, then gets everything and crafts it in one run: items from your retainers, master books and folklore tomes from scrip exchanges (earning the scrips with collectables when needed), vendors, monster drops with a basic combo, gathering through GatherBuddy Reborn including timed nodes, and crafting with Raphael rotations. No market board. Requires GatherBuddy Reborn and vnavmesh (AutoHook for fishing). Open /provenance to get started.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/alizea1337/DalamudPlugins/main/plugins/Provenance/images/icon.png",
                 "RepoUrl": "https://github.com/alizea1337/DalamudPlugins",
-                "LastUpdate": 1795203434
+                "LastUpdate": 1795221676
             }
         ]
     },
@@ -4276,12 +4295,12 @@
                 "Author": "Asunnya (fork of Anomek's AnoMech)",
                 "Name": "AsuMech",
                 "InternalName": "AsuMech",
-                "AssemblyVersion": "0.6.1.1",
+                "AssemblyVersion": "0.6.1.2",
                 "Description": "Asunnya's fork of AnoMech: spawns fake party members and bosses client-side so you can practice raid mechanics without a full party. Everything from AnoMech, plus Savage (M9S to M11S), DSR, UCOB and UWU, and a Learn mode that guides you through each strat. Questions, strats and bug reports: https://discord.gg/y6kTkdaXjz",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Asunnya/AsuMech/asunnya-release/images/icon6464.png",
                 "RepoUrl": "https://github.com/Asunnya/AsuMech",
-                "LastUpdate": 1795111325,
+                "LastUpdate": 1795225372,
                 "is_ai_attributed": true
             }
         ]
@@ -4933,7 +4952,7 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "BossMod Reborn (Benji)",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.8.627",
+                "AssemblyVersion": "7.5.8.628",
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
@@ -4944,7 +4963,7 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn (Benji)",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.8.703",
+                "AssemblyVersion": "7.5.8.704",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
@@ -5946,12 +5965,12 @@
                 "Author": "Carpe Nukem",
                 "Name": "The Grid Cyberdeck",
                 "InternalName": "GridNrootUpdate",
-                "AssemblyVersion": "2.0.4.0",
+                "AssemblyVersion": "2.0.5.0",
                 "Description": "Downloads the latest configured venue mod release, enables it in TheGrid, and assigns the collection to Chromiel.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/CarpeNukem/grid_nroot_update/main/grid.png",
                 "RepoUrl": "https://github.com/CarpeNukem/grid_nroot_update",
-                "LastUpdate": 1795126722,
+                "LastUpdate": 1795216591,
                 "is_ai_attributed": true
             }
         ]
@@ -9101,11 +9120,11 @@
                 "Author": "Dhrubo95ZD",
                 "Name": "Action Renamer",
                 "InternalName": "ActionRenamer",
-                "AssemblyVersion": "1.4.2.0",
+                "AssemblyVersion": "1.4.3.0",
                 "Description": "Renames skills, traits, job names and buffs/debuffs with a sci-fi theme, lets you set your own names and tooltip descriptions per skill, and installs a matching sci-fi icon pack through Penumbra. Client-side only.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Dhrubo95ZD/ActionRenamer",
-                "LastUpdate": 1794829226,
+                "LastUpdate": 1795209351,
                 "is_ai_attributed": true
             }
         ]
@@ -10644,12 +10663,12 @@
                 "Author": "The Enceladeum",
                 "Name": "HDM",
                 "InternalName": "HDM",
-                "AssemblyVersion": "1.0.4.0",
+                "AssemblyVersion": "1.0.5.0",
                 "Description": "A catalog of every mob in the game (16k+ models, 15.5k named) plus the full set of humanoid NPCs (Glamourer's NPC tab). Apply any mob's or NPC's look to yourself client-side (Brio-style ModelCharaId swap + redraw, or a Glamourer paint for humans), spawn disguised puppets, trigger action timelines for theatrics, and revert cleanly. Self-apply only, like Glamourer — never enforced on other players. Built for DM/event use — no mechanics, just the face.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Enceladeum/HDM/main/images/icon.png",
                 "RepoUrl": "https://github.com/Enceladeum/HDM",
-                "LastUpdate": 1795201954
+                "LastUpdate": 1795217441
             },
             {
                 "Author": "The Enceladeum",
@@ -11414,11 +11433,11 @@
                 "Author": "EvolvedXIV",
                 "Name": "Job Gauge Evolved",
                 "InternalName": "JobGaugeEvolved",
-                "AssemblyVersion": "0.2.0.0",
+                "AssemblyVersion": "0.3.1.0",
                 "Description": "Draws improved job gauges that you can resize, move and recolour, with a settings section and an on/off switch per job.\n\nViper: the Vipersight blades and the Serpent Offerings gauge in one. The blades show which button the game recommends from your Honed and venom buffs, the finisher's positional (flank on both blades, rear on the centre) and which finisher your venom empowers. Also shows the Anguine Tributes and the Reawaken timer, the gauge value and your Rattling Coils.\n\nOpen the settings with /jge.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/EvolvedXIV/job-gauge-evolved",
-                "LastUpdate": 1795110102,
+                "LastUpdate": 1795211644,
                 "is_ai_attributed": true
             },
             {
@@ -12223,6 +12242,101 @@
                 "IconUrl": "https://raw.githubusercontent.com/fnj00/CrystalRadio/master/CrystalRadio/images/icon.png",
                 "RepoUrl": "https://github.com/fnj00/CrystalRadio",
                 "LastUpdate": 1775425516
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "forgefkcode",
+        "repo_url": "https://raw.githubusercontent.com/forgefkcode/ff14-autotreasure-plugin/main/repo.json",
+        "repo_source_url": "https://github.com/forgefkcode/ff14-autotreasure-plugin",
+        "repo_name": "ff14-autotreasure-plugin",
+        "plugins": [
+            {
+                "Author": "forgefk",
+                "Name": "AutoTreasure",
+                "InternalName": "AutoTreasure",
+                "AssemblyVersion": "0.6.9.0",
+                "Description": "記錄 G12 / G14 / G15 / G17 寶藏圖的買圖花費（市場板）、挖寶和寶物庫拿到的金幣、寶箱開出的物品。戰利品列表預設只顯示挖寶特有的物品。\nG12 / G14 / G15 / G17 自動挖寶（買圖、解讀、挖寶、選門型與轉盤型寶物庫）由 SND 腳本搬進插件。\n指令：/atr 開關視窗，/atr start、/atr stop、/atr resume。",
+                "DalamudApiLevel": 13,
+                "RepoUrl": "https://github.com/forgefkcode/ff14-autotreasure-plugin",
+                "LastUpdate": 1795226641
+            },
+            {
+                "Author": "veyn",
+                "Name": "Boss Mod [TC api13]",
+                "InternalName": "BossMod",
+                "AssemblyVersion": "7.5.6.901",
+                "Description": "A bunch of utilities to simplify bosses.",
+                "DalamudApiLevel": 13,
+                "IconUrl": "https://raw.githubusercontent.com/awgil/ffxiv_bossmod/f4efcb5dc279d21ee16185d5a9f2d09a3a2bc58b/Data/icon.png",
+                "RepoUrl": "https://github.com/lilasrepo/ffxiv_bossmod",
+                "LastUpdate": 1790337976
+            },
+            {
+                "Author": "The Combat Reborn Team",
+                "Name": "Bossmod Reborn",
+                "InternalName": "BossModReborn",
+                "AssemblyVersion": "7.3.8.8",
+                "Description": "協助處理首領戰機制的多功能工具，提供雷達、自動循環、冷卻規劃與 AI 功能；首領模組、雷達、技能調整、自動循環、AI、區域自動化、重播與配色介面已完成 zh-TW。",
+                "DalamudApiLevel": 13,
+                "IconUrl": "https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/main/icons/BossModReborn.png",
+                "RepoUrl": "https://github.com/cycleapple/BossmodReborn",
+                "LastUpdate": 1793920105
+            },
+            {
+                "Author": "NightmareXIV",
+                "Name": "Lifestream",
+                "InternalName": "Lifestream",
+                "AssemblyVersion": "2.5.3.9",
+                "Description": "一鍵傳送與跨伺服器移動輔助；支援 /li ren 前往傳喚鈴，以及可等待、執行 Slash 指令的 Custom Alias。正確解析台服中文世界名。",
+                "DalamudApiLevel": 13,
+                "IconUrl": "https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/main/icons/Lifestream.png",
+                "RepoUrl": "https://github.com/cycleapple/Lifestream/tree/api13-tw-2.5.3.2",
+                "LastUpdate": 1793920395
+            },
+            {
+                "Author": "The Combat Reborn Team",
+                "Name": "Rotation Solver Reborn",
+                "InternalName": "RotationSolver",
+                "AssemblyVersion": "7.3.5.4",
+                "Description": "分析每一幀的戰鬥資訊並找出最佳技能；設定、命令說明、目標模式、AutoDuty 診斷、優先順序、清單搜尋、備份與控制視窗已完成 zh-TW 翻譯。已恢復強制啟用／禁用條件介面與實際判斷，支援目標距離、戰鬥狀態及 OR／AND 組合。",
+                "DalamudApiLevel": 13,
+                "IconUrl": "https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/main/icons/RotationSolver.png",
+                "RepoUrl": "https://github.com/cycleapple/RotationSolverReborn",
+                "LastUpdate": 1793920230
+            },
+            {
+                "Author": "veyn",
+                "Name": "vnavmesh",
+                "InternalName": "vnavmesh",
+                "AssemblyVersion": "1.1.2.5",
+                "Description": "自動尋路與移動工具；主要介面已完成 zh-TW 翻譯。月面 Cosmoliner 會依有效 layout 模型逐對建立傳送連線，適應不同重建進度。",
+                "DalamudApiLevel": 13,
+                "IconUrl": "https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/main/icons/vnavmesh.png",
+                "RepoUrl": "https://github.com/cycleapple/ffxiv_navmesh",
+                "LastUpdate": 1793920126
+            },
+            {
+                "Author": "Team Wrath",
+                "Name": "Wrath Combo",
+                "InternalName": "WrathCombo",
+                "AssemblyVersion": "1.0.1.25",
+                "Description": "將連段及互斥技能整合至單一按鍵；功能清單、PvE／PvP、自動循環與職業設定介面已完成 zh-TW。",
+                "DalamudApiLevel": 13,
+                "IconUrl": "https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/main/icons/WrathCombo.png",
+                "RepoUrl": "https://github.com/cycleapple/WrathCombo",
+                "LastUpdate": 1793920394
+            },
+            {
+                "Author": "cycleapple",
+                "Name": "XIV 藏寶圖工具小幫手",
+                "InternalName": "XivTreasureParty",
+                "AssemblyVersion": "0.1.9.5",
+                "Description": "FFXIV 繁中藏寶圖協作插件，可與網頁版使用者混合組隊並即時同步清單；支援自訂座標訊息聊天頻道，以及解碼寶圖後自動開啟地圖並設定旗標。 支援 G18「陳舊的卡岡圖亞革地圖」與憶想之地 8 個藏寶點。",
+                "DalamudApiLevel": 13,
+                "IconUrl": "https://raw.githubusercontent.com/cycleapple/DalamudPlugins-TW-API13-Extended/main/icons/XivTreasureParty.png",
+                "RepoUrl": "https://github.com/cycleapple/xiv-party-treasure-helper",
+                "LastUpdate": 1795097161
             }
         ]
     },
@@ -13629,7 +13743,7 @@
                 "Description": "Replaces the action the game asks about with the best next action from per-job rule packs compiled from a strict-JSON encyclopedia.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/h1arc/dalamud-plugins",
-                "LastUpdate": 1795188070
+                "LastUpdate": 1795227956
             }
         ]
     },
@@ -14199,6 +14313,24 @@
     },
     {
         "repo_developer_name": "Historian-90",
+        "repo_url": "https://raw.githubusercontent.com/Historian-90/CreatureComforts/main/repo.json",
+        "repo_source_url": "https://github.com/Historian-90/CreatureComforts",
+        "repo_name": "CreatureComforts",
+        "plugins": [
+            {
+                "Author": "CJ",
+                "Name": "Creature Comforts",
+                "InternalName": "CreatureComforts",
+                "AssemblyVersion": "0.1.5.0",
+                "Description": "Gives your character needs that slowly run down and are refilled by things you already do in the game: eating food, sleeping in a bed, the Gold Saucer, dancing, venues, parties and chatting. Optional hardcore mode adds bladder and hygiene, refilled by an emote of your choice.\n\nNeeds show up as Moodles on your character (Moodles is required), so friends who sync Moodles see them too. Flavor only: nothing here affects gameplay. Everything runs locally; nothing is sent anywhere.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Historian-90/CreatureComforts",
+                "LastUpdate": 1795227914
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Historian-90",
         "repo_url": "https://raw.githubusercontent.com/Historian-90/EasyIsle/main/repo.json",
         "repo_source_url": "https://github.com/Historian-90/EasyIsle",
         "repo_name": "EasyIsle",
@@ -14207,11 +14339,11 @@
                 "Author": "CJ",
                 "Name": "EasyIsle",
                 "InternalName": "EasyIsle",
-                "AssemblyVersion": "0.10.0.0",
+                "AssemblyVersion": "0.10.2.0",
                 "Description": "Plans your Isleworks agenda around your real island: rank, workshops, isleventory, crops, animals, granary expeditions, Supply & Demand and Felicitous Favors.\n\nAdvice only: EasyIsle never sets anything for you. Everything is read locally from the game; nothing is sent anywhere.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Historian-90/EasyIsle",
-                "LastUpdate": 1795037415
+                "LastUpdate": 1795218065
             }
         ]
     },
@@ -14225,11 +14357,11 @@
                 "Author": "CJ",
                 "Name": "Outer Voice",
                 "InternalName": "OuterVoice",
-                "AssemblyVersion": "0.9.10.0",
+                "AssemblyVersion": "0.9.11.0",
                 "Description": "Give your character a voice. Record lines for events like raises, deaths, Kardia swaps, wipes and clears, then share your voice pack with friends: when you're in a party together, each of you hears the other's character speak too.\n\nOnly one voice plays at a time. Everything runs on your own machine by reading what the game already shows; nothing is sent while you play.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Historian-90/OuterVoice",
-                "LastUpdate": 1795203568,
+                "LastUpdate": 1795207401,
                 "is_ai_attributed": true
             }
         ]
@@ -15469,6 +15601,25 @@
         ],
         "repo_name": "MyDalamudPlugins",
         "repo_developer_name": "iVeigar"
+    },
+    {
+        "repo_developer_name": "ixnkz",
+        "repo_url": "https://raw.githubusercontent.com/ixnkz/NightfallSync/main/repo.json",
+        "repo_source_url": "https://github.com/ixnkz/NightfallSync",
+        "repo_name": "NightfallSync",
+        "plugins": [
+            {
+                "Author": "NightFall",
+                "Name": "NightFall Sync",
+                "InternalName": "NightfallSync",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "Quand vous êtes au NightFall (Moogle, La Coupe, secteur 12, parcelle 41) et qu'un lien Watch2Gether ou Twitch passe dans le chat, le plugin le met en ligne sur la carte du site neo-nightfall.net. Commande : /nightfall",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/ixnkz/NightfallSync",
+                "LastUpdate": 1795217770,
+                "is_ai_attributed": true
+            }
+        ]
     },
     {
         "repo_developer_name": "Izlud3",
@@ -17595,7 +17746,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/kaldigo/AutoRetainer/master/assets/icon.png",
                 "RepoUrl": "https://github.com/kaldigo/AutoRetainer",
-                "LastUpdate": 1795120570,
+                "LastUpdate": 1795189157,
                 "is_ai_attributed": true
             },
             {
@@ -17618,7 +17769,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/kaldigo/proteus/main/Proteus/images/icon.png",
                 "RepoUrl": "https://github.com/kaldigo/proteus",
-                "LastUpdate": 1795103666,
+                "LastUpdate": 1795189041,
                 "is_ai_attributed": true
             },
             {
@@ -17630,7 +17781,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/kaldigo/Questionable/new-main/assets/icon.png",
                 "RepoUrl": "https://github.com/kaldigo/Questionable",
-                "LastUpdate": 1793280215,
+                "LastUpdate": 1795189170,
                 "is_ai_attributed": true
             },
             {
@@ -17648,12 +17799,12 @@
                 "Author": "kaldigo",
                 "Name": "Steward",
                 "InternalName": "Steward",
-                "AssemblyVersion": "0.1.0.97",
+                "AssemblyVersion": "0.1.0.98",
                 "Description": "Collection-aware inventory decisions and market rules coordinated with the AutoRetainer integration fork. Starts in dry-run mode.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/kaldigo/FFXIVSteward/main/assets/icon.png",
                 "RepoUrl": "https://github.com/kaldigo/FFXIVSteward",
-                "LastUpdate": 1795120332,
+                "LastUpdate": 1795217531,
                 "is_ai_attributed": true
             },
             {
@@ -17770,12 +17921,12 @@
                 "Author": "kaldigo",
                 "Name": "Steward",
                 "InternalName": "Steward",
-                "AssemblyVersion": "0.1.0.97",
+                "AssemblyVersion": "0.1.0.98",
                 "Description": "Collection-aware inventory decisions and market rules coordinated with the AutoRetainer integration fork. Starts in dry-run mode.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/kaldigo/FFXIVSteward/main/assets/icon.png",
                 "RepoUrl": "https://github.com/kaldigo/FFXIVSteward",
-                "LastUpdate": 1795120332,
+                "LastUpdate": 1795217531,
                 "is_ai_attributed": true
             }
         ]
@@ -19728,7 +19879,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1795102587,
+                "LastUpdate": 1795226019,
                 "is_ai_attributed": true
             },
             {
@@ -19757,12 +19908,12 @@
                 "Author": "Liza Carvelli & various contributors",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.756.3.63",
+                "AssemblyVersion": "15.756.3.64",
                 "Description": "A small quest helper plugin designed to automatically do your quests for you where possible. Utilizes navmesh to automatically travel to all quest waypoints and (attempts to) complete all steps along the way (excluding dungeons, single-player duties and combat).\n\nNot all quests are supported.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1795134665,
+                "LastUpdate": 1795220117,
                 "is_ai_attributed": false
             },
             {
@@ -23394,12 +23545,12 @@
                 "Author": "Ashe",
                 "Name": "Ashe's Trader",
                 "InternalName": "AsheTrader",
-                "AssemblyVersion": "0.6.4.2",
+                "AssemblyVersion": "0.6.4.5",
                 "Description": "LAN-coordinated transfer jobs with priority recipients, retainer collection and overflow storage, saved progress, character switching, and workshop fuel profiles.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/maryamaahmed1991/AsheTrader/v0.6.1.1/icon.png",
                 "RepoUrl": "https://github.com/maryamaahmed1991/AsheTrader",
-                "LastUpdate": 1795122416
+                "LastUpdate": 1795216387
             }
         ]
     },
@@ -25143,11 +25294,11 @@
                 "Author": "Muse",
                 "Name": "Muse Status Exporter",
                 "InternalName": "MuseStatusExporter",
-                "AssemblyVersion": "1.18.0.0",
+                "AssemblyVersion": "1.19.0.0",
                 "Description": "Exports the logged-in character's job/class levels, Cosmic Exploration progress, gearsets, equipped items, currencies, inventory, retainers, Grand Company supply requests, housing visits, main scenario progress and shared FATE progress to per-character JSON files; records incoming tells; applies plugin configuration files sent by Muse (config downlink); keeps the Halone Earring equipped while leveling. Every feature can be toggled in the plugin's settings window. Since v1.13.0 the snapshot also includes the chocobo companion (buddy) name, rank, EXP and level-up readiness.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/mippipi/MuseDalamudPlugins",
-                "LastUpdate": 1795201964
+                "LastUpdate": 1795207329
             }
         ]
     },
@@ -29293,12 +29444,12 @@
                 "Author": "ofnature",
                 "Name": "Charon",
                 "InternalName": "Charon",
-                "AssemblyVersion": "0.1.63",
+                "AssemblyVersion": "0.1.64",
                 "Description": "Auto pillion with smart seat scanning and whitelisted auto group invite. Companion to Daedalus.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ofnature/Charon/main/images/icon.png",
                 "RepoUrl": "https://github.com/ofnature/Charon",
-                "LastUpdate": 1795138633,
+                "LastUpdate": 1795227933,
                 "is_ai_attributed": true
             }
         ]
@@ -29373,12 +29524,12 @@
                 "Author": "ofnature",
                 "Name": "Orion",
                 "InternalName": "Orion",
-                "AssemblyVersion": "0.1.2.0",
+                "AssemblyVersion": "0.1.3.0",
                 "Description": "Kills the mobs you name around the spots you place until the bag holds what you asked for, or until a hunt log entry is filled. Orion picks the targets and does the travelling; Daedalus does the fighting. Companion to Daedalus.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ofnature/Orion/main/images/icon.png",
                 "RepoUrl": "https://github.com/ofnature/Orion",
-                "LastUpdate": 1795154972,
+                "LastUpdate": 1795228019,
                 "is_ai_attributed": true
             }
         ]
@@ -30177,7 +30328,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1795100382
+                "LastUpdate": 1795185721
             },
             {
                 "Author": "Risa and Contributors",
@@ -32341,12 +32492,12 @@
                 "Author": "the Puni.sh Quest Squad",
                 "Name": "Questionable",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.756.3.63",
+                "AssemblyVersion": "15.756.3.64",
                 "Description": "A tiny little quest helper plugin, which does quests for you automatically where possible. Uses navmesh to automatically walk to all quest waypoints, and tries to automatically complete all steps along the way (excluding dungeons, single player duties and combat).\n\nNot all quests are supported, check the discord or git repository for an up-to-date list.\n\nRequired Plugins: vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1795134665
+                "LastUpdate": 1795220117
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -32548,12 +32699,12 @@
                 "Author": "Ice",
                 "Name": "Ice's Cosmic Exploration (ICE)",
                 "InternalName": "ICE",
-                "AssemblyVersion": "1.0.0.6",
+                "AssemblyVersion": "1.0.0.7",
                 "Description": "Plugin to automate Cosmic Exploration",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/70",
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Ices-Cosmic-Exploration",
-                "LastUpdate": 1792272769
+                "LastUpdate": 1795218840
             }
         ]
     },
@@ -33175,7 +33326,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/30",
                 "RepoUrl": "https://github.com/awgil/ffxiv_bossmod",
-                "LastUpdate": 1795145543,
+                "LastUpdate": 1795226019,
                 "is_ai_attributed": false
             },
             {
@@ -33304,12 +33455,12 @@
                 "Author": "wah",
                 "Name": "WahTools",
                 "InternalName": "WahTools",
-                "AssemblyVersion": "20.0.0.62",
+                "AssemblyVersion": "20.0.0.63",
                 "Description": "Fish, Hunt",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/180",
                 "RepoUrl": "https://git.wahapp.com/wah/WahTools",
-                "LastUpdate": 1795187661
+                "LastUpdate": 1795226543
             },
             {
                 "Author": "wah",
@@ -36695,12 +36846,12 @@
                 "Author": "Runmih",
                 "Name": "Amor RP",
                 "InternalName": "AmorRP",
-                "AssemblyVersion": "0.4.0.12",
+                "AssemblyVersion": "0.4.0.14",
                 "Description": "Amor RP brings roleplay venues and communities together with group inventories, fictional currency, potion crafting, books, letters, notes, and trading.\n\n/amorrp → Main Menu",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Runmih/AmorRP/main/images/f6e82fdb8ed2ed3cc35f46e022f59d61ededbb55dc4bcce5aaf723dcb4054d9a.png",
                 "RepoUrl": "https://github.com/Runmih/AmorRP",
-                "LastUpdate": 1795206604,
+                "LastUpdate": 1795215813,
                 "is_ai_attributed": true
             }
         ]
@@ -37618,12 +37769,12 @@
                 "Author": "Sebastina",
                 "Name": "A Quest Reborn",
                 "InternalName": "AQuestReborn",
-                "AssemblyVersion": "0.3.0.2",
+                "AssemblyVersion": "0.3.0.4",
                 "Description": "Play custom quests made by the community, or make your own!",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Sebane1/AQuestReborn/refs/heads/master/AQuestReborn-C256.png",
                 "RepoUrl": "https://github.com/Sebane1/AQuestReborn",
-                "LastUpdate": 1795159160,
+                "LastUpdate": 1795224874,
                 "is_ai_attributed": true
             }
         ]
@@ -38329,12 +38480,12 @@
                 "Author": "Tensho",
                 "Name": "Tensho Assistant",
                 "InternalName": "TenshoAssistant",
-                "AssemblyVersion": "0.1650.0.0",
+                "AssemblyVersion": "0.1676.0.0",
                 "Description": "Tensho Assistant brings everyday tools together in one interface (/tensho): items and storage (bags, retainers, saddlebags), inventory sorting rules, recipes and a crafting simulator, gathering and fishing with Eorzea time windows and weather, a map that replaces the game map (quests, leves, FATEs, gathering points, vendors, aether currents, teleport costs), collections with how to obtain each item, quests and rewards, optional market prices on hover (Universalis), duty and monster loot, Fashion Report hints, Mini Cactpot and Triple Triad helpers, character stats and macro chains.\n\nCommunity data (Garland Tools, FFXIV Console Games Wiki, Universalis) is only requested when you open or hover the matching tool, and is cached on disk. Nothing runs on its own: actions that reach the game (teleport, applying a sort, a macro chain) only start when you click them.\n\nAI disclosure: the code and the icon were generated with an AI coding agent (Claude), directed and tested in game by the author.\n\nLanguages: English, French; German and Japanese partial.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Shigu330/Tensho-Assistant/main/src/TenshoAssistant/images/icon.png",
                 "RepoUrl": "https://github.com/Shigu330/Tensho-Assistant",
-                "LastUpdate": 1795205831,
+                "LastUpdate": 1795227524,
                 "is_ai_attributed": true
             }
         ]
@@ -39651,11 +39802,11 @@
                 "Author": "Solterax",
                 "Name": "Saddlebag Manager",
                 "InternalName": "SaddlebagManager",
-                "AssemblyVersion": "0.2.0.0",
+                "AssemblyVersion": "0.2.1.0",
                 "Description": "Deposit or withdraw items in bulk, merge compatible stacks, and optionally include the premium saddlebag.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Solterax/SaddlebagManager",
-                "LastUpdate": 1795203667
+                "LastUpdate": 1795217312
             }
         ]
     },
@@ -39687,11 +39838,11 @@
                 "Author": "Solterax",
                 "Name": "Saddlebag Manager",
                 "InternalName": "SaddlebagManager",
-                "AssemblyVersion": "0.2.0.0",
+                "AssemblyVersion": "0.2.1.0",
                 "Description": "Deposit or withdraw items in bulk, merge compatible stacks, and optionally include the premium saddlebag.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Solterax/SaddlebagManager",
-                "LastUpdate": 1795203662
+                "LastUpdate": 1795217308
             }
         ]
     },
@@ -40518,12 +40669,12 @@
                 "Author": "Stwohm (fork of yagi2/Restocker)",
                 "Name": "Restocky",
                 "InternalName": "Restocky",
-                "AssemblyVersion": "0.3.3.0",
+                "AssemblyVersion": "0.3.6.0",
                 "Description": "Personal fork of yagi2/Restocker. Reprice every retainer listing to the live market lowest -N gil with floor / max-drop guards, track each listing until it sells (reprices, competitors, days, gil), one-click full cycle and an optional timed auto-cycle at the summoning bell that waits for AutoRetainer. Timed automation is against the FFXIV ToS; use at your own risk.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Stwohm/Restocker/main/images/icon.png",
                 "RepoUrl": "https://github.com/Stwohm/Restocker",
-                "LastUpdate": 1795205050,
+                "LastUpdate": 1795227183,
                 "is_ai_attributed": true
             }
         ]
@@ -41609,6 +41760,25 @@
         ],
         "repo_name": "MyDalamudPlugins",
         "repo_developer_name": "thakyZ"
+    },
+    {
+        "repo_developer_name": "ThalesVST",
+        "repo_url": "https://raw.githubusercontent.com/ThalesVST/CosmicCraft-Dalamud/main/repo.json",
+        "repo_source_url": "https://github.com/ThalesVST/CosmicCraft-Dalamud",
+        "repo_name": "CosmicCraft-Dalamud",
+        "plugins": [
+            {
+                "Author": "CosmicCraft",
+                "Name": "CosmicCraft",
+                "InternalName": "SamplePlugin",
+                "AssemblyVersion": "0.9.42.0",
+                "Description": "Assistente de crafting para Cosmic Exploration: gera macros e executa uma fabricação por vez.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/ThalesVST/CosmicCraft-Dalamud/main/images/icon.png",
+                "RepoUrl": "https://github.com/ThalesVST/CosmicCraft-Dalamud",
+                "LastUpdate": 1795229088
+            }
+        ]
     },
     {
         "repo_developer_name": "ThatKwistine",
@@ -43473,23 +43643,51 @@
         "plugins": [
             {
                 "Author": "Siren's Call",
-                "Name": "Siren's Call Song Request Book",
+                "Name": "Siren's call Song Request Book",
                 "InternalName": "SongbookSync",
-                "AssemblyVersion": "1.3.1.0",
+                "AssemblyVersion": "1.3.3.0",
                 "Description": "Connects MidiBard 2 to your song request book. Syncs playback, marks requests played, shows Playing now, and optionally announces titles, artists and request credits in /s. Install only on your lead bard. Requires a hosted songbook and a private pairing key.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/vashti1975/Siren-s-Call-a-song-request-program-",
-                "LastUpdate": 1795206423
+                "LastUpdate": 1795209331
             },
             {
                 "Author": "Tramatic",
-                "Name": "Tramatic Sync",
+                "Name": "Siren's call Song Request Book",
                 "InternalName": "TramaticSync",
-                "AssemblyVersion": "1.3.1.0",
+                "AssemblyVersion": "1.3.3.0",
                 "Description": "Connects MidiBard 2 to the Tramatic songbook for live Playing now, played labels and optional /s announcements.\n\nSetup:\n1. Install only on your lead bard and keep MidiBard 2 enabled.\n2. Open your songbook's owner page: MidiBard Sync > Setup & connection.\n3. For a new connection, generate a key and paste the full /tramaticsync command into game chat. Existing connections keep their saved key.\n4. Start a new song. Match it in the songbook, or choose Ignore this song to exclude a solo.\n\nConnection help: use Refresh connection in the songbook, then start a new song. Check /tramaticsync status.\n\nAnnouncements: /tramaticsync announcements off or /tramaticsync announcements on. Keep your connection key private.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/vashti1975/Siren-s-Call-a-song-request-program-",
-                "LastUpdate": 1795206423
+                "LastUpdate": 1795209331
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "vashti1975",
+        "repo_url": "https://raw.githubusercontent.com/vashti1975/Sirens-call-Song-Request-Book/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/vashti1975/Sirens-call-Song-Request-Book",
+        "repo_name": "Sirens-call-Song-Request-Book",
+        "plugins": [
+            {
+                "Author": "Siren's Call",
+                "Name": "Siren's call Song Request Book",
+                "InternalName": "SongbookSync",
+                "AssemblyVersion": "1.3.3.0",
+                "Description": "Connects MidiBard 2 to your song request book. Syncs playback, marks requests played, shows Playing now, and optionally announces titles, artists and request credits in /s. Install only on your lead bard. Requires a hosted songbook and a private pairing key.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/vashti1975/Sirens-call-Song-Request-Book",
+                "LastUpdate": 1795209331
+            },
+            {
+                "Author": "Tramatic",
+                "Name": "Siren's call Song Request Book",
+                "InternalName": "TramaticSync",
+                "AssemblyVersion": "1.3.3.0",
+                "Description": "Connects MidiBard 2 to Siren's call Song Request Book for live Playing now, played labels and optional /s announcements.\n\nSetup:\n1. Install only on your lead bard and keep MidiBard 2 enabled.\n2. Open your songbook's owner page: MidiBard Sync > Setup & connection.\n3. For a new connection, generate a key and paste the full /tramaticsync command into game chat. Existing connections keep their saved key.\n4. Start a new song. Match it in the songbook, or choose Ignore this song to exclude a solo.\n\nConnection help: use Refresh connection in the songbook, then start a new song. Check /tramaticsync status.\n\nAnnouncements: /tramaticsync announcements off or /tramaticsync announcements on. Keep your connection key private.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/vashti1975/Sirens-call-Song-Request-Book",
+                "LastUpdate": 1795209331
             }
         ]
     },
@@ -43798,11 +43996,11 @@
                 "Author": "Viper",
                 "Name": "Height Display",
                 "InternalName": "CharacterHeight",
-                "AssemblyVersion": "1.2.4.1",
+                "AssemblyVersion": "1.2.5.0",
                 "Description": "Shows each loaded party member and your target's height beside the game UI. Height comes from the character creator ranges, then racial and custom scale.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Vipersden01/FFXIVCharacterHeightDisplay",
-                "LastUpdate": 1795132200
+                "LastUpdate": 1795219772
             }
         ]
     },
@@ -45549,12 +45747,12 @@
                 "Author": "hOst1k",
                 "Name": "XIV Rus",
                 "InternalName": "XIVRusUpdater",
-                "AssemblyVersion": "2.0.0.4",
+                "AssemblyVersion": "2.0.0.5",
                 "Description": "Maintains the latest compatible version of XIVRus by checking for updates, downloading releases, and installing them through Penumbra. Includes update channels, patch compatibility warnings, and manual update controls.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xivrus/XIVRusUpdater/master/Data/icon.png",
                 "RepoUrl": "https://github.com/hOst1k-Top/XIVRusUpdater",
-                "LastUpdate": 1794963671,
+                "LastUpdate": 1795216250,
                 "is_ai_attributed": true
             }
         ]
