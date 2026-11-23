@@ -363,12 +363,12 @@
                 "Author": "RyougiS",
                 "Name": "Pawprint",
                 "InternalName": "Pawprint",
-                "AssemblyVersion": "0.5.17.0",
+                "AssemblyVersion": "0.5.18.0",
                 "Description": "驯兽师自动化捕获魔物",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/a16239438/DalamudPlugins/main/plugins/Pawprint/icon.png",
                 "RepoUrl": "https://github.com/a16239438/DalamudPlugins",
-                "LastUpdate": 1792056973
+                "LastUpdate": 1795417186
             }
         ]
     },
@@ -1201,11 +1201,11 @@
                 "Author": "McVaxius",
                 "Name": "God Mod Companion",
                 "InternalName": "BMRVariantLoader",
-                "AssemblyVersion": "3.2.0.113",
+                "AssemblyVersion": "3.2.8.2",
                 "Description": "Encounter additions, Praetorium timelines and bundled cooldown plans, with AethertekUI appearance for BMR settings, autorotation and AI. BossModReborn must be installed and enabled.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/BMRVariantLoader-Public",
-                "LastUpdate": 1795395050,
+                "LastUpdate": 1795417548,
                 "is_ai_attributed": true
             },
             {
@@ -1369,12 +1369,12 @@
                 "Author": "DhogGPT",
                 "Name": "Fren Rider",
                 "InternalName": "FrenRider",
-                "AssemblyVersion": "4.1.0.25",
+                "AssemblyVersion": "4.1.0.26",
                 "Description": "Native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider or /fr to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1795369025,
+                "LastUpdate": 1795398172,
                 "is_ai_attributed": true
             },
             {
@@ -5438,12 +5438,12 @@
                 "Author": "Boloni",
                 "Name": "Equinox Companion",
                 "InternalName": "EquinoxCompanion",
-                "AssemblyVersion": "0.5.1.594",
+                "AssemblyVersion": "0.5.1.595",
                 "Description": "Records house entries and confirmed tending locally, with optional paired sync to Equinox Journal. English garden menus supported.",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/boloni96/Equinox-Companion/main/dist/v0.5.1.594/icon.png",
+                "IconUrl": "https://raw.githubusercontent.com/boloni96/Equinox-Companion/main/dist/v0.5.1.595/icon.png",
                 "RepoUrl": "https://github.com/boloni96/Equinox-Companion",
-                "LastUpdate": 1795024567
+                "LastUpdate": 1795397718
             }
         ]
     },
@@ -6591,9 +6591,9 @@
     },
     {
         "repo_developer_name": "chefiffer",
-        "repo_url": "https://raw.githubusercontent.com/chefiffer/PVPChronicle/main/repo.json",
-        "repo_source_url": "https://github.com/chefiffer/PVPChronicle",
-        "repo_name": "PVPChronicle",
+        "repo_url": "https://raw.githubusercontent.com/chefiffer/pvpchronicle/main/repo.json",
+        "repo_source_url": "https://github.com/chefiffer/pvpchronicle",
+        "repo_name": "pvpchronicle",
         "plugins": [
             {
                 "Author": "chefiffer",
@@ -6609,9 +6609,9 @@
     },
     {
         "repo_developer_name": "chefiffer",
-        "repo_url": "https://raw.githubusercontent.com/chefiffer/pvpchronicle/main/repo.json",
-        "repo_source_url": "https://github.com/chefiffer/pvpchronicle",
-        "repo_name": "pvpchronicle",
+        "repo_url": "https://raw.githubusercontent.com/chefiffer/PVPChronicle/main/repo.json",
+        "repo_source_url": "https://github.com/chefiffer/PVPChronicle",
+        "repo_name": "PVPChronicle",
         "plugins": [
             {
                 "Author": "chefiffer",
@@ -6920,6 +6920,24 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Clair-songs/TellTunes-plugins",
                 "LastUpdate": 1795383395
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Clair-songs",
+        "repo_url": "https://raw.githubusercontent.com/Clair-songs/Tundy/main/pluginmaster.json",
+        "repo_source_url": "https://github.com/Clair-songs/Tundy",
+        "repo_name": "Tundy",
+        "plugins": [
+            {
+                "Author": "Tundy",
+                "Name": "Tundy",
+                "InternalName": "Tundy",
+                "AssemblyVersion": "0.3.0.0",
+                "Description": "When someone sends you a tell with \"!q <link>\", Tundy queues the song automatically. Works with YouTube videos and playlists, and Spotify tracks, playlists and albums (matched to YouTube). Has its own song queue like SoundyQ (approval queue, who can request, per-player permissions) and plays songs for nearby Lightless Sync pairs through the Mega Music Mod. Includes Soundy's import tools: add YouTube or local songs to any Penumbra mod with loudness and EQ presets, and replace game sounds. Optional: announce songs in chat and tell requesters their place in the queue. Downloads use yt-dlp, which Tundy fetches on first use. Free software under the GNU AGPL-3.0.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Clair-songs/Tundy",
+                "LastUpdate": 1795415709
             }
         ]
     },
@@ -9329,12 +9347,12 @@
                 "Author": "D. Luuuffy",
                 "Name": "EorzeaCore - Goals",
                 "InternalName": "DailyGoals",
-                "AssemblyVersion": "1.8.30.0",
+                "AssemblyVersion": "1.8.31.0",
                 "Description": "Dein Ziel-Planer für FFXIV:\n• Stämme: Rang, Ruf, Währung und Tagesquests - alle annehmen, erledigen und zum Schluss gesammelt abgeben (Questionable)\n• Routine: Timer, offene Tagesaufgaben und eine Playlist, die alles der Reihe nach abspielt\n• Raids & Dungeons: was freigeschaltet ist, was fehlt - Freischalten per Klick mit Questionable\n• Quests: alle blauen und normalen Quests, die dir noch fehlen - getrennt nach Kampf, Sammler und Handwerker, mit Belohnungen; Play = Questionable erledigt sie\n• Fliegen: Windätherquellen pro Gebiet - Quellen (vnavmesh) und Quests (Questionable) automatisch\n• Belohnungen: alle Reittiere, Begleiter, Emotes, Ausrüstungs-Sets, Mode, Orchestrion und Karten mit Herkunft\n\n/ziele öffnet das Fenster · /ziele start · /ziele playlist · /ziele stopp\n\nBenötigt: Questionable (puni.sh) mit vnavmesh, Lifestream und einem Kampf-Plugin.\n• Sprache umstellbar: Deutsch oder Englisch (Zahnrad → Sprache, oder /ziele englisch · /goals german) - auch Item- und Inhaltsnamen",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/icons/DailyGoals.png",
                 "RepoUrl": "https://github.com/Dluuufffey/EorzeaCore",
-                "LastUpdate": 1795386385
+                "LastUpdate": 1795405824
             },
             {
                 "Author": "D. Luuuffy",
@@ -11605,11 +11623,11 @@
                 "Author": "Styr1x - EvolvedXIV Fix",
                 "Name": "Browsingway Evolved",
                 "InternalName": "BrowsingwayEvolved",
-                "AssemblyVersion": "1.7.4",
+                "AssemblyVersion": "1.7.5",
                 "Description": "Renders browser overlays in-game to enable playing in fullscreen (and G-SYNC) while having access to ACT overlays.\nUse the settings button below or the '/bw config' command to configure.\nBased on the BrowserHost plugin by ackwell.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/EvolvedXIV/Browsingway",
-                "LastUpdate": 1795375972,
+                "LastUpdate": 1795396410,
                 "is_ai_attributed": true
             },
             {
@@ -11750,12 +11768,12 @@
                 "Author": "mirage",
                 "Name": "Replay Library",
                 "InternalName": "ReplayLibrary",
-                "AssemblyVersion": "0.1.4.0",
+                "AssemblyVersion": "0.1.6.0",
                 "Description": "Records duty replays and manages them per content, with the other replay tools alongside.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/exatrines/ReplayLibrary/main/ReplayLibrary/Data/plugin-icon.png",
                 "RepoUrl": "https://github.com/exatrines/ReplayLibrary/tree/main/ReplayLibrary",
-                "LastUpdate": 1794978323,
+                "LastUpdate": 1795403044,
                 "is_ai_attributed": true
             },
             {
@@ -12023,23 +12041,23 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "ActionTimeline Reborn",
                 "InternalName": "ActionTimelineReborn",
-                "AssemblyVersion": "7.5.8.1",
+                "AssemblyVersion": "7.5.8.2",
                 "Description": "Configurable timeline display of all the actions you use.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/ATR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/ActionTimelineReborn",
-                "LastUpdate": 1794385701
+                "LastUpdate": 1795399789
             },
             {
                 "Author": "The Combat Reborn Team",
                 "Name": "BossMod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.8.7",
+                "AssemblyVersion": "7.5.8.8",
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1795288081
+                "LastUpdate": 1795399302
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -12078,12 +12096,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "Passport Checker Reborn",
                 "InternalName": "PassportCheckerReborn",
-                "AssemblyVersion": "7.5.8.1",
+                "AssemblyVersion": "7.5.8.2",
                 "Description": "Passport Checker Reborn is an open-source alternative to the PFFinder plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/PCR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/PassportCheckerReborn",
-                "LastUpdate": 1794384750
+                "LastUpdate": 1795399493
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -12100,12 +12118,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.8.8",
+                "AssemblyVersion": "7.5.8.9",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1795309017
+                "LastUpdate": 1795400280
             },
             {
                 "Author": "Churin",
@@ -12725,12 +12743,12 @@
                 "Author": "FranFkntastic",
                 "Name": "ComplicatedMarketBoard",
                 "InternalName": "ComplicatedMarketBoard",
-                "AssemblyVersion": "1.17.0.0",
+                "AssemblyVersion": "1.17.1.0",
                 "Description": "A niche plugin designed to be user-friendly and multi-functional with rich customisation options, for power users.\n\nHighlights:\n  - Compact UI and user theme\n  - Customisable search options\n  - Rich ways for plugin interaction\n\nCheck out the 'Introduction' on Config Window for documentation.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FranFkntastic/ComplicatedMarketBoard/master/images/icon.png",
                 "RepoUrl": "https://github.com/FranFkntastic/ComplicatedMarketBoard",
-                "LastUpdate": 1795063502,
+                "LastUpdate": 1795414605,
                 "is_ai_attributed": true
             },
             {
@@ -12741,7 +12759,7 @@
                 "Description": "In-game connector for the loopback-only Dalamud Agent Bridge utility. Use /dab to inspect status and configure optional permissions.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FranFkntastic/DalamudAgentBridge",
-                "LastUpdate": 1795111706,
+                "LastUpdate": 1795409874,
                 "is_ai_attributed": true
             },
             {
@@ -12753,7 +12771,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FranFkntastic/MarketMafioso/main/docs/pluginmaster/assets/icon.png",
                 "RepoUrl": "https://github.com/FranFkntastic/MarketMafioso",
-                "LastUpdate": 1795124025,
+                "LastUpdate": 1795409771,
                 "is_ai_attributed": true
             },
             {
@@ -12764,7 +12782,7 @@
                 "Description": "Retainer Quartermaster (RQ) lets you browse player and retainer stock, track\ntarget quantities, inspect listings, refresh retainer evidence, and run\nexplicitly reviewed retrieval or elemental deposit operations. Use /rq to\nopen Quartermaster.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FranFkntastic/Quartermaster",
-                "LastUpdate": 1795128276,
+                "LastUpdate": 1795390019,
                 "is_ai_attributed": true
             },
             {
@@ -12775,7 +12793,7 @@
                 "Description": "By FranFkntastic. Connect one FFXIV cross-world linkshell to a community-owned Discord bot with exact CWLS identity checks.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/FranFkntastic/SapphireAvenueAssistant",
-                "LastUpdate": 1795063511,
+                "LastUpdate": 1795409888,
                 "is_ai_attributed": true
             }
         ]
@@ -14311,7 +14329,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Haselnussbomber/LeveHelper/refs/heads/main/LeveHelper/Assets/Icon.png",
                 "RepoUrl": "https://github.com/Haselnussbomber/LeveHelper",
-                "LastUpdate": 1794849786
+                "LastUpdate": 1795397252
             }
         ]
     },
@@ -16376,12 +16394,12 @@
                 "Author": "WrathPrivateHotbar",
                 "Name": "WrathPrivateHotbar",
                 "InternalName": "WrathPrivateHotbar",
-                "AssemblyVersion": "2.0.5.101",
+                "AssemblyVersion": "2.0.5.105",
                 "Description": "WrathComboのスキル置き換えを指定したホットバーに限定し、ほかのホットバーの標準表示・実行を維持します。\n\n疑似ホットバーはリキャスト・チャージ・消費MPなどのリソースコスト表示、長押し連打、純正効果音と発光の同期に対応。NPC会話・カットシーン・ムービー・イベント中は自動で非表示にできます。\n\n※キーボード・マウス専用（ゲームパッド非対応）。\n※配信・画面共有で疑似ホットバーを隠す場合、別途キャプチャ除外に対応した環境が必要です。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/jajujoxiv/WrathPrivateHotbar/main/icon.png",
                 "RepoUrl": "https://github.com/jajujoxiv/WrathPrivateHotbar",
-                "LastUpdate": 1795323357
+                "LastUpdate": 1795400217
             }
         ]
     },
@@ -16425,11 +16443,11 @@
                 "Author": "jake",
                 "Name": "Questionable Helper",
                 "InternalName": "QuestionableHelper",
-                "AssemblyVersion": "0.11.110.0",
+                "AssemblyVersion": "0.11.111.0",
                 "Description": "A modular helper for bounded Questionable recovery, exact-prompt safeguards, guarded ARR unlock routes, combat-stall recovery, and Stone Vigil Duty Support level/gear repair.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/jakeliu/dalamud-repo",
-                "LastUpdate": 1795383764,
+                "LastUpdate": 1795404582,
                 "is_ai_attributed": true
             },
             {
@@ -19690,12 +19708,12 @@
                 "Author": "koko",
                 "Name": "Raid Codex",
                 "InternalName": "RaidPlanner",
-                "AssemblyVersion": "0.7.9.0",
+                "AssemblyVersion": "0.7.10.0",
                 "Description": "Records the fights you're in: the boss's casts and where they land, stacks, spreads, tankbusters, tethers, head markers and waymarks, and (if you like) where your party stood. Send a pull to Koko's Raid Planner and it becomes a plan, step by step, ready to draw your strats on, or save it as a file to import there.\n\nIt only watches: nothing is sent to the game. Open it with /raidplan.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/koko-puffs/raid-planner-plugin/main/RaidPlanner/images/icon.png",
                 "RepoUrl": "https://github.com/koko-puffs/raid-planner-plugin",
-                "LastUpdate": 1794952827,
+                "LastUpdate": 1795415749,
                 "is_ai_attributed": true
             }
         ]
@@ -19852,12 +19870,12 @@
                 "Author": "konvarec",
                 "Name": "HuntVoidWatcher",
                 "InternalName": "HuntVoidWatcher",
-                "AssemblyVersion": "0.6.3.25",
+                "AssemblyVersion": "0.6.3.27",
                 "Description": "Synchronizes active character world/area status to a shared spreadsheet for S-rank hunt observation.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/konvarec/HuntVoidWatcherCustomRepo/main/HuntVoidWatcher/images/icon_64.png",
                 "RepoUrl": "https://github.com/konvarec/HuntVoidWatcherCustomRepo",
-                "LastUpdate": 1794912649
+                "LastUpdate": 1795416608
             }
         ]
     },
@@ -20041,12 +20059,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "758.8.0.1",
+                "AssemblyVersion": "758.9.0.1",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1795309017
+                "LastUpdate": 1795400280
             },
             {
                 "Author": "Team Wrath",
@@ -22645,11 +22663,11 @@
                 "Author": "LunaBelleElite",
                 "Name": "Luna Shopping List",
                 "InternalName": "LunaShoppingList",
-                "AssemblyVersion": "0.10.0.5",
+                "AssemblyVersion": "0.12.0.0",
                 "Description": "Builds a price-optimised shopping list, grouped by world, from an Artisan crafting list using current Universalis prices.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/LunaBelleElite/LunaShoppingList",
-                "LastUpdate": 1795376113
+                "LastUpdate": 1795400792
             }
         ]
     },
@@ -24296,12 +24314,12 @@
                 "Author": "DhogGPT",
                 "Name": "Fren Rider",
                 "InternalName": "FrenRider",
-                "AssemblyVersion": "4.1.0.25",
+                "AssemblyVersion": "4.1.0.26",
                 "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1795369025,
+                "LastUpdate": 1795398172,
                 "is_ai_attributed": true
             }
         ]
@@ -25440,11 +25458,11 @@
                 "Author": "Muse",
                 "Name": "Muse Status Exporter",
                 "InternalName": "MuseStatusExporter",
-                "AssemblyVersion": "1.22.2.0",
+                "AssemblyVersion": "1.22.3.0",
                 "Description": "Exports the logged-in character's job/class levels, Cosmic Exploration progress, gearsets, equipped items, currencies, inventory, retainers, Grand Company supply requests, housing visits, main scenario progress and shared FATE progress to per-character JSON files; records incoming tells; applies plugin configuration files sent by Muse (config downlink); keeps the Halone Earring equipped while leveling. Every feature can be toggled in the plugin's settings window. Since v1.13.0 the snapshot also includes the chocobo companion (buddy) name, rank, EXP and level-up readiness.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/mippipi/MuseDalamudPlugins",
-                "LastUpdate": 1795355652
+                "LastUpdate": 1795408577
             }
         ]
     },
@@ -25783,25 +25801,6 @@
                 "IconUrl": "https://raw.githubusercontent.com/MMMMXIV/DSRMeteorPilot/main/images/icon-v1.png",
                 "RepoUrl": "https://github.com/MMMMXIV/DSRMeteorPilot",
                 "LastUpdate": 1795273835
-            }
-        ]
-    },
-    {
-        "repo_developer_name": "MMMMXIV",
-        "repo_url": "https://raw.githubusercontent.com/MMMMXIV/DSRMeteorPilot/main/repo.json",
-        "repo_source_url": "https://github.com/MMMMXIV/DSRMeteorPilot",
-        "repo_name": "DSRMeteorPilot",
-        "plugins": [
-            {
-                "Author": "MMMMXIV",
-                "Name": "DSR Meteor Pilot",
-                "InternalName": "DSRMeteorPilot",
-                "AssemblyVersion": "0.2.7.0",
-                "Description": "絶竜詩P2のメテオ経路をイベントに同期して制御する検証版です。vnavmeshが必要です。初回担当塔への移動は手動です。",
-                "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/MMMMXIV/DSRMeteorPilot/main/images/icon-v1.png",
-                "RepoUrl": "https://github.com/MMMMXIV/DSRMeteorPilot",
-                "LastUpdate": 1795268154
             }
         ]
     },
@@ -26651,12 +26650,12 @@
                 "Author": "MusicYYin",
                 "Name": "MianLab",
                 "InternalName": "MianLab",
-                "AssemblyVersion": "0.6.8.1",
+                "AssemblyVersion": "0.6.9.0",
                 "Description": "实用工具",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MusicYYin/DalamudPlugins/main/icon.png",
                 "RepoUrl": "https://github.com/MusicYYin/DalamudPlugins",
-                "LastUpdate": 1795369481
+                "LastUpdate": 1795417363
             }
         ]
     },
@@ -29658,12 +29657,12 @@
                 "Author": "ofnature",
                 "Name": "Charon",
                 "InternalName": "Charon",
-                "AssemblyVersion": "0.1.67",
+                "AssemblyVersion": "0.1.68",
                 "Description": "Auto pillion with smart seat scanning and whitelisted auto group invite. Companion to Daedalus.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ofnature/Charon/main/images/icon.png",
                 "RepoUrl": "https://github.com/ofnature/Charon",
-                "LastUpdate": 1795387537,
+                "LastUpdate": 1795396436,
                 "is_ai_attributed": true
             }
         ]
@@ -29678,12 +29677,12 @@
                 "Author": "ofnature",
                 "Name": "Demeter",
                 "InternalName": "Demeter",
-                "AssemblyVersion": "0.1.8.0",
+                "AssemblyVersion": "0.1.9.0",
                 "Description": "Unattended gathering for Miner and Botanist: travels to the zone, flies the node circuit, works collectables to the band asked for, and keeps named gather lists with target amounts. Fishing too: it goes to the hole, judges each bite by its timing and tug, moochs along the road to the fish and catches its predators first, and fishes Cosmic Exploration missions where it stands, spending GP on the fish worth the most. Other plugins (Hephaestus, Odysseus, Selene) ask it for items over IPC. Companion to Daedalus and Odysseus.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ofnature/Demeter/main/images/icon.png",
                 "RepoUrl": "https://github.com/ofnature/Demeter",
-                "LastUpdate": 1795395245,
+                "LastUpdate": 1795398252,
                 "is_ai_attributed": true
             }
         ]
@@ -30409,6 +30408,25 @@
                 "IconUrl": "https://raw.githubusercontent.com/OracleCura/BetterTargetingSystem/refs/heads/master/TabTargetingImproved/images/icon.png",
                 "RepoUrl": "https://github.com/OracleCura/BetterTargetingSystem",
                 "LastUpdate": 1754915812
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Originaljsx",
+        "repo_url": "https://raw.githubusercontent.com/Originaljsx/MoreMacros/main/repo.json",
+        "repo_source_url": "https://github.com/Originaljsx/MoreMacros",
+        "repo_name": "MoreMacros",
+        "plugins": [
+            {
+                "Author": "Originaljsx",
+                "Name": "More Macros",
+                "InternalName": "MoreMacros",
+                "AssemblyVersion": "0.3.0.0",
+                "Description": "Stores as many macros as you like outside the game's 100 slots and runs them through the game's own macro engine with /mm <name>. Macros can be longer than 15 lines and can have per-job variants that share one name, so a single hotbar button does the right thing on every job.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Originaljsx/MoreMacros",
+                "LastUpdate": 1795416761,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -32926,7 +32944,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/138",
                 "RepoUrl": "https://github.com/LeontopodiumNivale14/Gather-Chill",
-                "LastUpdate": 1795293154
+                "LastUpdate": 1795396362
             },
             {
                 "Author": "Ice",
@@ -38744,12 +38762,12 @@
                 "Author": "Tensho",
                 "Name": "Tensho Assistant",
                 "InternalName": "TenshoAssistant",
-                "AssemblyVersion": "0.1839.0.0",
+                "AssemblyVersion": "0.1860.0.0",
                 "Description": "Tensho Assistant brings everyday tools together in one interface (/tensho): items and storage (bags, retainers, saddlebags), inventory sorting rules, recipes and a crafting simulator, gathering and fishing with Eorzea time windows and weather, a map that replaces the game map (quests, leves, FATEs, gathering points, vendors, aether currents, teleport costs), collections with how to obtain each item, quests and rewards, optional market prices on hover (Universalis), duty and monster loot, Fashion Report hints, Mini Cactpot and Triple Triad helpers, character stats and macro chains.\n\nCommunity data (Garland Tools, FFXIV Console Games Wiki, Universalis) is only requested when you open or hover the matching tool, and is cached on disk. Nothing runs on its own: actions that reach the game (teleport, applying a sort, a macro chain) only start when you click them.\n\nAI disclosure: the code and the icon were generated with an AI coding agent (Claude), directed and tested in game by the author.\n\nLanguages: English, French; German and Japanese partial.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Shigu330/Tensho-Assistant/main/src/TenshoAssistant/images/icon.png",
                 "RepoUrl": "https://github.com/Shigu330/Tensho-Assistant",
-                "LastUpdate": 1795390585,
+                "LastUpdate": 1795415816,
                 "is_ai_attributed": true
             }
         ]
@@ -39163,11 +39181,11 @@
                 "Author": "SIMPWarlord",
                 "Name": "Quest Item Clicker",
                 "InternalName": "QuestItemClicker",
-                "AssemblyVersion": "0.1.0.0",
+                "AssemblyVersion": "0.2.5.0",
                 "Description": "Use the right quest item when manually selecting a known quest objective.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/SIMPWarlord/personal_ffxiv",
-                "LastUpdate": 1795310198
+                "LastUpdate": 1795410570
             }
         ]
     },
@@ -44546,6 +44564,18 @@
         "plugins": [
             {
                 "Author": "visha-svg",
+                "Name": "HpBalanceGauge",
+                "InternalName": "HpBalanceGauge",
+                "AssemblyVersion": "1.0.7.0",
+                "Description": "登録した2体の敵（例：絶もうひとつの未来 P4 のシヴァと闇の巫女）のHP割合の差を、許容範囲付きのゲージで表示します。敵の組み合わせをプリセットとして保存・読み込みでき、近くにいる敵に合わせて自動で切り替わります。/hpg で設定を開きます。",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/visha-svg/MyDalamudPlugins/main/images/HpBalanceGauge-icon.png",
+                "RepoUrl": "https://github.com/visha-svg/MyDalamudPlugins",
+                "LastUpdate": 1795415153,
+                "is_ai_attributed": true
+            },
+            {
+                "Author": "visha-svg",
                 "Name": "Mini Boss",
                 "InternalName": "MiniBoss",
                 "AssemblyVersion": "1.0.0.0",
@@ -47282,19 +47312,19 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Macro%20Redirection/cursor_hr1.png",
                 "RepoUrl": "https://github.com/YouShux/DalamudPlugins/blob/main/Plugins/Macro%20Redirection/Macro%20Redirection.zip",
-                "LastUpdate": 1795170675,
+                "LastUpdate": 1795403649,
                 "is_closed_source": true
             },
             {
                 "Author": "YouShu",
                 "Name": "Omni Toolbox",
                 "InternalName": "OmniToolbox",
-                "AssemblyVersion": "1.2.0.6",
+                "AssemblyVersion": "1.2.0.7",
                 "Description": "支持物品价格查询、商店购买与兑换位置查找、库存追踪、食物/药品期望计算、物品监控预警自动补货、传送以及坐骑/宠物/发型/绘画作品的悬浮窗预览等等。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/YouShux/DalamudPlugins/main/Plugins/Omni%20Toolbox/Resources/%E5%9B%BE%E6%A0%87.png",
                 "RepoUrl": "https://github.com/YouShux/DalamudPlugins/blob/main/Plugins/Omni%20Toolbox/Omni%20Toolbox.zip",
-                "LastUpdate": 1795170675,
+                "LastUpdate": 1795403649,
                 "is_closed_source": true
             }
         ]
@@ -47441,14 +47471,14 @@
         "plugins": [
             {
                 "Author": "John Smith / Yuzi",
-                "Name": "NewFolder3",
+                "Name": "NewFolder3（天宫本地收尾候选版）",
                 "InternalName": "NewFolder3",
-                "AssemblyVersion": "0.7.55.41",
+                "AssemblyVersion": "0.7.55.83",
                 "Description": "基于原版修改，完善了深层迷宫的探索、战斗、道具使用和楼层推进逻辑，已有完整流程通关下底的实测记录。内置自由选层探索模式，可按需选择楼层进行探索。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/yuanzil1243-oss/DalamudPlugins/main/NewFolder3/icon.png",
                 "RepoUrl": "https://github.com/yuanzil1243-oss/DalamudPlugins",
-                "LastUpdate": 1794993754
+                "LastUpdate": 1795416565
             }
         ]
     },
