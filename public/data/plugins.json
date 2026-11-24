@@ -169,7 +169,7 @@
                 "Description": "Read-only inspector for loaded character models, materials and candidate ID textures. Exact colorset row identification is planned for later development.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/420Dasher/Dashs-Plugins/tree/testing/AdvancedDyeRowInspector",
-                "LastUpdate": 1795390470,
+                "LastUpdate": 1795479439,
                 "is_ai_attributed": true
             },
             {
@@ -181,7 +181,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/420Dasher/Dashs-Plugins/main/plugins/AethernetAssist/icon.png",
                 "RepoUrl": "https://github.com/420Dasher/DAH-LocalTrackSupport",
-                "LastUpdate": 1795390480,
+                "LastUpdate": 1795479449,
                 "is_ai_attributed": true
             },
             {
@@ -259,7 +259,7 @@
                 "Description": "Read-only inspector for loaded character models, materials and candidate ID textures. Exact colorset row identification is planned for later development.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/420Dasher/Dashs-Plugins/tree/testing/AdvancedDyeRowInspector",
-                "LastUpdate": 1795390470,
+                "LastUpdate": 1795479439,
                 "is_ai_attributed": true
             },
             {
@@ -1201,11 +1201,11 @@
                 "Author": "McVaxius",
                 "Name": "God Mod Companion",
                 "InternalName": "BMRVariantLoader",
-                "AssemblyVersion": "3.2.9.7",
+                "AssemblyVersion": "3.2.10.0",
                 "Description": "Encounter additions, Praetorium timelines and bundled cooldown plans, with AethertekUI appearance for BMR settings, autorotation and AI. BossModReborn must be installed and enabled.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/BMRVariantLoader-Public",
-                "LastUpdate": 1795461913,
+                "LastUpdate": 1795467019,
                 "is_ai_attributed": true
             },
             {
@@ -2484,12 +2484,12 @@
                 "Author": "alizea1337",
                 "Name": "Provenance",
                 "InternalName": "Provenance",
-                "AssemblyVersion": "0.22.0.0",
+                "AssemblyVersion": "0.22.4.0",
                 "Description": "Provenance takes a Teamcraft list (link, copied text or import string) or items you pick in its recipe browser, works out every material down to the crystals, then gets everything and crafts it in one run: items from your retainers, master books and folklore tomes from scrip exchanges (earning the scrips with collectables when needed), vendors, monster drops with a basic combo, gathering through GatherBuddy Reborn including timed nodes, and crafting with Raphael rotations. No market board. Requires GatherBuddy Reborn and vnavmesh (AutoHook for fishing). Open /provenance to get started.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/alizea1337/DalamudPlugins/main/plugins/Provenance/images/icon.png",
                 "RepoUrl": "https://github.com/alizea1337/DalamudPlugins",
-                "LastUpdate": 1795460322
+                "LastUpdate": 1795469074
             }
         ]
     },
@@ -4996,18 +4996,18 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1795461843
+                "LastUpdate": 1795473505
             },
             {
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn (Benji)",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.8.903",
+                "AssemblyVersion": "7.5.8.904",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1795400280
+                "LastUpdate": 1795473374
             }
         ]
     },
@@ -6444,11 +6444,11 @@
                 "Author": "Charlie1361",
                 "Name": "XIVibration",
                 "InternalName": "XIVibration",
-                "AssemblyVersion": "1.6.1.0",
+                "AssemblyVersion": "1.11.0.0",
                 "Description": "Every skill of every job makes your gamepad vibrate, following its sounds. After you log in, the plugin reads every skill's animation and sounds (the ones actually loaded, through Penumbra if you use mods). Each clear bump in a sound becomes a solid block at the sound's level with a short fade-out, and the sound's background doesn't vibrate: bass drives the strong motor, crisp sounds the weak one. Hits without a sound of their own come from the animation (hit reactions, effects on the target, MultiHit tables). The vibration goes through the game's own controller function, so it works with every controller the game supports. Animations that already vibrate on their own are left alone unless you choose to replace them. Skills are grouped by job, and every pattern can be edited on a DAW-style timeline that shows the sound; your edits are never overwritten.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Charlie1361/xivibration",
-                "LastUpdate": 1795461412,
+                "LastUpdate": 1795471085,
                 "is_ai_attributed": true
             }
         ]
@@ -6610,9 +6610,9 @@
     },
     {
         "repo_developer_name": "chefiffer",
-        "repo_url": "https://raw.githubusercontent.com/chefiffer/PVPChronicle/main/repo.json",
-        "repo_source_url": "https://github.com/chefiffer/PVPChronicle",
-        "repo_name": "PVPChronicle",
+        "repo_url": "https://raw.githubusercontent.com/chefiffer/pvpchronicle/main/repo.json",
+        "repo_source_url": "https://github.com/chefiffer/pvpchronicle",
+        "repo_name": "pvpchronicle",
         "plugins": [
             {
                 "Author": "chefiffer",
@@ -6628,9 +6628,9 @@
     },
     {
         "repo_developer_name": "chefiffer",
-        "repo_url": "https://raw.githubusercontent.com/chefiffer/pvpchronicle/main/repo.json",
-        "repo_source_url": "https://github.com/chefiffer/pvpchronicle",
-        "repo_name": "pvpchronicle",
+        "repo_url": "https://raw.githubusercontent.com/chefiffer/PVPChronicle/main/repo.json",
+        "repo_source_url": "https://github.com/chefiffer/PVPChronicle",
+        "repo_name": "PVPChronicle",
         "plugins": [
             {
                 "Author": "chefiffer",
@@ -7411,12 +7411,12 @@
                 "Author": "CrownedPandaXIV",
                 "Name": "XIV Fleet Companion",
                 "InternalName": "XIVFleetCompanion",
-                "AssemblyVersion": "2.6.0.106",
+                "AssemblyVersion": "2.6.1.107",
                 "Description": "Got a massive fleet of submarines? Always struggling to see which ones need upgrades? Wanna see your multi-account fleet at a glance? Give this a try!",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/CrownedPandaXIV/XIVFleetCompanion/master/Data/submarine.png",
                 "RepoUrl": "https://github.com/CrownedPandaXIV/XIVFleetCompanion",
-                "LastUpdate": 1795460053
+                "LastUpdate": 1795478079
             }
         ]
     },
@@ -9366,23 +9366,23 @@
                 "Author": "D. Luuuffy",
                 "Name": "EorzeaCore - Goals",
                 "InternalName": "DailyGoals",
-                "AssemblyVersion": "1.8.52.0",
+                "AssemblyVersion": "1.8.56.0",
                 "Description": "Dein Ziel-Planer für FFXIV:\n• Stämme: Rang, Ruf, Währung und Tagesquests - alle annehmen, erledigen und zum Schluss gesammelt abgeben (Questionable)\n• Routine: Timer, offene Tagesaufgaben und eine Playlist, die alles der Reihe nach abspielt\n• Raids & Dungeons: was freigeschaltet ist, was fehlt - Freischalten per Klick mit Questionable\n• Quests: alle blauen und normalen Quests, die dir noch fehlen - getrennt nach Kampf, Sammler und Handwerker, mit Belohnungen; Play = Questionable erledigt sie\n• Fliegen: Windätherquellen pro Gebiet - Quellen (vnavmesh) und Quests (Questionable) automatisch\n• Belohnungen: alle Reittiere, Begleiter, Emotes, Ausrüstungs-Sets, Mode, Orchestrion und Karten mit Herkunft\n\n/ziele öffnet das Fenster · /ziele start · /ziele playlist · /ziele stopp\n\nBenötigt: Questionable (puni.sh) mit vnavmesh, Lifestream und einem Kampf-Plugin.\n• Sprache umstellbar: Deutsch oder Englisch (Zahnrad → Sprache, oder /ziele englisch · /goals german) - auch Item- und Inhaltsnamen",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/icons/DailyGoals.png",
                 "RepoUrl": "https://github.com/Dluuufffey/EorzeaCore",
-                "LastUpdate": 1795462125
+                "LastUpdate": 1795482246
             },
             {
                 "Author": "D. Luuuffy",
                 "Name": "EorzeaCore - Dmg Meter",
                 "InternalName": "DmgMeter",
-                "AssemblyVersion": "1.0.0.0",
+                "AssemblyVersion": "1.0.1.0",
                 "Description": "Damage meter like in WoW - for your whole party and for the entire duty, not just per pack:\n• Damage, healing, damage taken and deaths of everyone in your party (also Duty Support and Trusts) - with DPS/HPS, share and rank\n• Whole duty or single fight: who did the most damage in the whole dungeon, and every fight on its own (bosses marked)\n• Click a player: abilities with hits, critical and direct hit rate, average and biggest hit, targets, DPS over time and death recap\n• Healing with overhealing, DoTs and HoTs, pets are added to their owner\n• Meter that blends into the game: no frame, the game's own font, buttons only when you hover - or as a classic window. Job colors and icons, your own bar highlighted, lock and click-through, transparency, bar height, an optional second meter (e.g. healing next to damage) and a preview to set it up\n• Overview of the whole duty with a top 3, a sortable table and every fight, history of your last duties, copy results to the clipboard, your DPS in the server info bar\n• Nothing is posted - only you see the numbers\n\n/dmg shows or hides the meter · /dmg preview · /dmg window · /dmg reset · /dmg history\nLanguage: English or German (settings or /dmg english).\n\nDeutsch:\nSchadensmesser wie in WoW - für deine ganze Gruppe und den gesamten Inhalt, nicht nur pro Gegnergruppe:\n• Schaden, Heilung, erlittener Schaden und Tode aller in deiner Gruppe (auch Unterstützertrupp und Vertraute) - mit DPS/HPS, Anteil und Platz\n• Gesamter Inhalt oder einzelner Kampf: wer im ganzen Dungeon den meisten Schaden gemacht hat, dazu jeder Kampf einzeln (Bosse markiert)\n• Klick auf einen Spieler: Fähigkeiten mit Treffern, Krit- und Direkttreffer-Rate, Durchschnitt und größtem Treffer, Ziele, DPS-Verlauf und Todes-Rückblick\n• Heilung mit Überheilung, DoTs und HoTs, Begleiter zählen zu ihrem Besitzer\n• Meter, das sich ins Spiel einfügt: ohne Rahmen, mit der Schrift des Spiels, Knöpfe erst beim Drüberfahren - oder klassisch als Fenster. Jobfarben und -symbole, dein Balken hervorgehoben, festsetzen und durchklickbar, Transparenz, Balkenhöhe, auf Wunsch ein zweites Meter (z. B. Heilung neben Schaden) und eine Vorschau zum Einrichten\n• Übersicht des ganzen Inhalts mit Top 3, sortierbarer Tabelle und jedem Kampf, Verlauf deiner letzten Inhalte, Ergebnis in die Zwischenablage kopieren, deine DPS in der Serverinfo-Leiste\n• Es wird nichts gepostet - nur du siehst die Zahlen\n\n/dmg zeigt oder versteckt das Meter · /dmg vorschau · /dmg fenster · /dmg reset · /dmg verlauf\nSprache: Deutsch oder Englisch (Einstellungen oder /dmg englisch).",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/icons/DmgMeter.png",
                 "RepoUrl": "https://github.com/Dluuufffey/EorzeaCore",
-                "LastUpdate": 1794617993
+                "LastUpdate": 1795469275
             },
             {
                 "Author": "D. Luuuffy",
@@ -11465,7 +11465,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1795355534
+                "LastUpdate": 1795453172
             }
         ]
     },
@@ -12071,12 +12071,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "BossMod Reborn",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.8.9",
+                "AssemblyVersion": "7.5.8.10",
                 "Description": "A bunch of utilities to simplify boss mechanics",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1795432533
+                "LastUpdate": 1795473505
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -12093,12 +12093,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "GatherBuddy Reborn",
                 "InternalName": "GatherBuddyReborn",
-                "AssemblyVersion": "7.5.8.4",
+                "AssemblyVersion": "7.5.8.5",
                 "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/GBR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/GatherBuddyReborn",
-                "LastUpdate": 1795344215
+                "LastUpdate": 1795463589
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -12137,12 +12137,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.8.9",
+                "AssemblyVersion": "7.5.8.10",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1795400280
+                "LastUpdate": 1795473374
             },
             {
                 "Author": "Churin",
@@ -12475,11 +12475,11 @@
                 "Author": "forgefk",
                 "Name": "AutoTreasure",
                 "InternalName": "AutoTreasure",
-                "AssemblyVersion": "0.6.10.0",
+                "AssemblyVersion": "0.6.11.0",
                 "Description": "記錄 G12 / G14 / G15 / G17 寶藏圖的買圖花費（市場板）、挖寶和寶物庫拿到的金幣、寶箱開出的物品。戰利品列表預設只顯示挖寶特有的物品。\nG12 / G14 / G15 / G17 自動挖寶（買圖、解讀、挖寶、選門型與轉盤型寶物庫）由 SND 腳本搬進插件。\n指令：/atr 開關視窗，/atr start、/atr stop、/atr resume。",
                 "DalamudApiLevel": 13,
                 "RepoUrl": "https://github.com/forgefkcode/ff14-autotreasure-plugin",
-                "LastUpdate": 1795432982
+                "LastUpdate": 1795479458
             },
             {
                 "Author": "veyn",
@@ -12962,12 +12962,12 @@
                 "Author": "FunkyJumbo",
                 "Name": "Raid Companion",
                 "InternalName": "DpsInServerBar",
-                "AssemblyVersion": "1.0.9.0",
+                "AssemblyVersion": "1.0.10.0",
                 "Description": "Shows your real-time DPS, party DPS or FFLogs-style rDPS in the server info bar, with your rank, role comparison, pace and enrage timer. Includes a live breakdown window, a compact party meter, graphs, pull history with comparisons, GCD analysis, gauge overcap, positionals, combo errors, DoT uptime, overheal, tank swaps, party mitigation, party deaths with their cause, failed mechanics, progression tracking, party DPS checks (built in for extremes and savage raids), an opener practice for every job and an optional FFLogs percentile estimate. Works with ACT (OverlayPlugin WebSocket) or on its own with the built-in tracker. Available in English, French and German.\n\nCommands:\n/raidcompanion (or /rcomp) - open / close the main window\n/raidcompanion config - settings\n/raidcompanion history - main window on the History tab\n/raidcompanion toggle - cycle DPS, pDPS, rDPS\n/raidcompanion compact - open / close the compact meter\n/raidcompanion opener - open / close the opener practice\n/raidcompanion opener compact - opener practice in its compact view\n/raidcompanion opener full - opener practice in its full window\n/raidcompanion preset <number|name|next> - switch the server bar preset\n/raidcompanion reconnect - reconnect to ACT",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FunkyJumbo/Raid-Companion/main/DpsInServerBar/icon.png",
                 "RepoUrl": "https://github.com/FunkyJumbo/Raid-Companion",
-                "LastUpdate": 1795258305,
+                "LastUpdate": 1795482405,
                 "is_ai_attributed": true
             }
         ]
@@ -13418,11 +13418,11 @@
                 "Author": "GiR-Zippo",
                 "Name": "VMCPlugin",
                 "InternalName": "VMCPlugin",
-                "AssemblyVersion": "0.0.3.4",
+                "AssemblyVersion": "0.0.3.5",
                 "Description": "A plugin receiving VMC data and use it on your character.",
                 "IconUrl": "https://raw.githubusercontent.com/GiR-Zippo/Hypnotoad-Plugin/master/Data/icon.png",
                 "RepoUrl": "https://github.com//GiR-Zippo/VMC-Plugin",
-                "LastUpdate": 1795368410
+                "LastUpdate": 1795458415
             }
         ]
     },
@@ -14932,12 +14932,12 @@
                 "Author": "Husk & Bone",
                 "Name": "LE-C UI",
                 "InternalName": "LECUI",
-                "AssemblyVersion": "0.2.4.0",
+                "AssemblyVersion": "0.2.13.0",
                 "Description": "LE-C UI (Limsa E-Couple UI) draws the game's HUD again in a look of your choosing: usual, cute (pastels, hearts and sparkles, round corners; six colour sets) or edgy (black, sharp corners, slashes, capitals; six colour sets), each with your own colours, corners, border and little drawings.\n\nEach piece of the HUD has its own switch: the chat box, the party list, the duty list (quests, the duty, FATEs, the duty finder), the job gauge as the game has it (every job's gauge windows, the second one its own piece too), your HP and MP, your target and its target, your focus target, your cast bar, your statuses, the enemy list, the limit gauge and the experience bar. Switched on, LE-C UI draws that piece where the game's own is in your HUD layout and keeps the game's own off the screen; switched off, the game's own is back exactly where it was. Nothing of the game's settings is ever changed: your HUD layouts, configuration, chat settings and keybinds stay exactly as they are, the game's own pieces come back by themselves while the HUD layout editor is open, when you log out and when LE-C UI is disabled, and each update keeps a copy of your LE-C UI settings.\n\nEvery piece is a box over the game that's moved and sized the same way (/lecui place, or the arrows on the settings window's title bar, shows them all: drag one, or its sides; it snaps to the others and the screen's edges; hold Ctrl to move them all together), with how solid its background is, how strongly it's drawn, the shadow under its writing and its size each its own setting. A piece shows when the game would show its own (hidden in cutscenes, by your HUD layout, and so on).\n\nThe party list has the game's job icons (or its framed ones, or the roles), your chocobo's icon, the party's numbers, the leader's crown, the signs over heads, ready check answers, who has the enemy's attention, who's raising whom, the icon of what each member is casting and a mark for what Esuna takes off; it targets on click, opens the game's own menu on right-click and is a mouseover target for your macros. The chat box has its own tabs, your chat colours, names in colours of your choosing (one colour, a colour for each person, or a colour of their own for people you pick), clickable links (map flags, names, other plugins' links), your last lines on Up and Down, and opens when you press Enter, as the game's does; drag its tab row to move it and pull its sides to size it, any time. The duty list opens a quest in the journal on click.\n\nSaved chat (off until you switch it on): your tells, and any other channels you pick, are kept in a text file a day on your computer, never sent anywhere, for as long as you choose; /lecui history reads them back with a search.\n\nTells window (off until you switch it on): your tells in a window of their own, a conversation for each person with a line to answer on, popping up when one comes in (after a fight or a cutscene, not during).\n\n/lecui opens the settings; /lecui place shows, moves and sizes every piece; /lecui history opens saved chat; /lecui tells opens the tells window; /lecui on|off <piece|all>; /lecui usual|cute|edgy.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/huskandbone/lecui-builds/main/icon.png",
                 "RepoUrl": "https://github.com/huskandbone/lecui-builds",
-                "LastUpdate": 1795462222,
+                "LastUpdate": 1795475363,
                 "is_ai_attributed": true
             }
         ]
@@ -15472,12 +15472,12 @@
                 "Author": "The Combat Reborn Team (fork by IndividualGather)",
                 "Name": "BossModRebornButBetter",
                 "InternalName": "BossModReborn",
-                "AssemblyVersion": "7.5.8.804",
+                "AssemblyVersion": "7.5.8.904",
                 "Description": "An unofficial fork of BossMod Reborn by The Combat Reborn Team: https://github.com/FFXIV-CombatReborn/BossmodReborn\nAll credit for the plugin goes to the original authors.\n\nWhy this fork exists: the official plugin only runs the boss modules built into it. This fork adds a single feature: it also loads boss module DLLs from the CustomModules folder in the plugin's config directory, which can add modules or replace built-in ones. That way custom versions of encounters can be maintained separately instead of in a full fork of the plugin.\n\nEverything else is unchanged. It is rebuilt automatically from every official release.\n\nNot affiliated with or supported by The Combat Reborn Team. Please don't report issues with this fork to them.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/IndividualGather/BossModRebornButBetter",
-                "LastUpdate": 1795421989,
+                "LastUpdate": 1795466288,
                 "is_ai_attributed": true
             }
         ]
@@ -16399,6 +16399,26 @@
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Jacob5800/Workshoppa-API15",
                 "LastUpdate": 1791912392,
+                "is_ai_attributed": true
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "JadeArkadian",
+        "repo_url": "https://raw.githubusercontent.com/JadeArkadian/FFXIV-Spanish-Patcher/main/dalamud/pluginmaster.json",
+        "repo_source_url": "https://github.com/JadeArkadian/FFXIV-Spanish-Patcher",
+        "repo_name": "FFXIV-Spanish-Patcher",
+        "plugins": [
+            {
+                "Author": "Jade Arkadian y colaboradores",
+                "Name": "FFXIV Spanish Translation Manager",
+                "InternalName": "FFXIVSpanishTranslationManager",
+                "AssemblyVersion": "0.6.0.0",
+                "Description": "Genera y administra la traducción al castellano de FINAL FANTASY XIV mediante Penumbra.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/JadeArkadian/FFXIV-Spanish-Patcher/main/src/FFXIVSpanishPatcher.Plugin/images/icon.png",
+                "RepoUrl": "https://github.com/JadeArkadian/FFXIV-Spanish-Patcher",
+                "LastUpdate": 1795470952,
                 "is_ai_attributed": true
             }
         ]
@@ -19779,12 +19799,12 @@
                 "Author": "koko",
                 "Name": "Raid Codex",
                 "InternalName": "RaidPlanner",
-                "AssemblyVersion": "0.7.11.0",
+                "AssemblyVersion": "0.8.3.0",
                 "Description": "Records the fights you're in: the boss's casts and where they land, stacks, spreads, tankbusters, tethers, head markers and waymarks, and (if you like) where your party stood. Send a pull to Koko's Raid Planner and it becomes a plan, step by step, ready to draw your strats on, or save it as a file to import there.\n\nIt only watches: nothing is sent to the game. Open it with /raidplan.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/koko-puffs/raid-planner-plugin/main/RaidPlanner/images/icon.png",
                 "RepoUrl": "https://github.com/koko-puffs/raid-planner-plugin",
-                "LastUpdate": 1795427972,
+                "LastUpdate": 1795467277,
                 "is_ai_attributed": true
             }
         ]
@@ -20078,7 +20098,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/34",
                 "RepoUrl": "https://github.com/Jaksuhn/Automaton",
-                "LastUpdate": 1795307402
+                "LastUpdate": 1795448689
             },
             {
                 "Author": "veyn, xan_0",
@@ -20130,12 +20150,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "758.9.0.1",
+                "AssemblyVersion": "758.10.0.1",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1795400280
+                "LastUpdate": 1795473374
             },
             {
                 "Author": "Team Wrath",
@@ -22657,11 +22677,11 @@
                 "Author": "Luciano",
                 "Name": "FC Companion",
                 "InternalName": "FcTimers",
-                "AssemblyVersion": "0.9.0.0",
+                "AssemblyVersion": "0.10.0.0",
                 "Description": "Mostra na barra do sistema quando os submarinos e a roda da FC ficam prontos. Apenas exibe informações.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/LucianoBentrup/FcTimers",
-                "LastUpdate": 1795377148,
+                "LastUpdate": 1795475444,
                 "is_ai_attributed": true
             }
         ]
@@ -22734,11 +22754,11 @@
                 "Author": "LunaBelleElite",
                 "Name": "Luna Shopping List",
                 "InternalName": "LunaShoppingList",
-                "AssemblyVersion": "0.13.0.0",
+                "AssemblyVersion": "0.14.1.0",
                 "Description": "Builds a price-optimised shopping list, grouped by world, from an Artisan crafting list using current Universalis prices.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/LunaBelleElite/LunaShoppingList",
-                "LastUpdate": 1795452722
+                "LastUpdate": 1795474023
             }
         ]
     },
@@ -25491,11 +25511,11 @@
                 "Author": "Minescence",
                 "Name": "Fur Renderer",
                 "InternalName": "FurRenderer",
-                "AssemblyVersion": "0.5.4.0",
+                "AssemblyVersion": "0.5.5.0",
                 "Description": "Grows hundreds of thousands of skinned hair strands on any worn item or minion whose mod uses Hikari's fur textures, and draws them with the GPU. Follows the dye and the scene's light. Only you see it. The mods aren't included.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Minescence/FfxivFurRenderer",
-                "LastUpdate": 1795380464
+                "LastUpdate": 1795464850
             }
         ]
     },
@@ -25529,11 +25549,11 @@
                 "Author": "Muse",
                 "Name": "Muse Status Exporter",
                 "InternalName": "MuseStatusExporter",
-                "AssemblyVersion": "1.24.0.0",
+                "AssemblyVersion": "1.24.1.0",
                 "Description": "Exports the logged-in character's job/class levels, Cosmic Exploration progress, gearsets, equipped items, currencies, inventory, retainers, Grand Company supply requests, housing visits, main scenario progress and shared FATE progress to per-character JSON files; records incoming tells; applies plugin configuration files sent by Muse (config downlink); keeps the Halone Earring equipped while leveling. Every feature can be toggled in the plugin's settings window. Since v1.13.0 the snapshot also includes the chocobo companion (buddy) name, rank, EXP and level-up readiness.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/mippipi/MuseDalamudPlugins",
-                "LastUpdate": 1795453631
+                "LastUpdate": 1795475686
             }
         ]
     },
@@ -25877,12 +25897,12 @@
                 "Author": "MMMMXIV (based on MahjongXIV by kuchris)",
                 "Name": "MahjongXIV JP",
                 "InternalName": "MahjongXIVJP",
-                "AssemblyVersion": "0.4.0.0",
+                "AssemblyVersion": "0.5.3.1",
                 "Description": "ドマ式麻雀の卓を読み取り、最善の打牌と鳴きを計算して推奨表示します。自動打牌にも対応。kuchris氏のMahjongXIVをもとにした日本語対応版で、元のプラグインとは別プラグインとして共存できます。コマンドは /mjjp です。\n\nJapanese edition of MahjongXIV: reads Doman Mahjong, suggests the best discard and call, and can play for you.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MMMMXIV/MahjongXIVJP/main/MahjongXiv/Images/Icon.png",
                 "RepoUrl": "https://github.com/MMMMXIV/MahjongXIVJP",
-                "LastUpdate": 1795462445,
+                "LastUpdate": 1795473860,
                 "is_ai_attributed": true
             }
         ]
@@ -25897,12 +25917,12 @@
                 "Author": "MMMMXIV (based on MahjongXIV by kuchris)",
                 "Name": "MahjongXIV JP",
                 "InternalName": "MahjongXIVJP",
-                "AssemblyVersion": "0.4.0.0",
+                "AssemblyVersion": "0.5.3.2",
                 "Description": "ドマ式麻雀の卓を読み取り、最善の打牌と鳴きを計算して推奨表示します。自動打牌にも対応。kuchris氏のMahjongXIVをもとにした日本語対応版で、元のプラグインとは別プラグインとして共存できます。コマンドは /mjjp です。\n\nJapanese edition of MahjongXIV: reads Doman Mahjong, suggests the best discard and call, and can play for you.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MMMMXIV/MahjongXIVJP/main/MahjongXiv/Images/Icon.png",
                 "RepoUrl": "https://github.com/MMMMXIV/MahjongXIVJP",
-                "LastUpdate": 1795455169,
+                "LastUpdate": 1795473858,
                 "is_ai_attributed": true
             }
         ]
@@ -27019,12 +27039,12 @@
                 "Author": "Nahja Stark",
                 "Name": "NahjaUI",
                 "InternalName": "NahjaUI",
-                "AssemblyVersion": "0.6.6.5",
+                "AssemblyVersion": "0.6.6.6",
                 "Description": "NahjaUI gives the game a clean, consistent interface that you build piece by piece. Switch on only what you want: everything else stays exactly as the game made it.\n\nHUD bars: your parameter bar, target, target of target, focus target and party list.\nProgress bars: your casts and your target's, with a slidecast marker, plus a global cooldown bar that shows the queue and weave windows.\nJob gauges, status effects, nameplates and enmity list, each one with its own style.\nTrackers: pick the enhancements, enfeeblements and cooldowns you want to see. Every job comes with ready-made presets.\nProfiles: save, copy and share your whole setup.\n\nType /nui to open it.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/NahjaUI/NahjaUI/master/NahjaUI/images/icon.png",
                 "RepoUrl": "https://github.com/NahjaUI/NahjaUI",
-                "LastUpdate": 1795442738,
+                "LastUpdate": 1795476867,
                 "is_ai_attributed": true
             }
         ]
@@ -27640,12 +27660,12 @@
                 "Author": "Afterword",
                 "Name": "Afterword",
                 "InternalName": "RPChronicles",
-                "AssemblyVersion": "0.1.27.0",
+                "AssemblyVersion": "0.1.28.0",
                 "Description": "Record roleplay scenes from /say and emotes, then reopen them in a private notebook. Logs stay on this computer.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/NeonCelestialLanes/Afterword/main/images/icon.png",
                 "RepoUrl": "https://github.com/NeonCelestialLanes/Afterword",
-                "LastUpdate": 1795449680,
+                "LastUpdate": 1795478384,
                 "is_ai_attributed": true
             }
         ]
@@ -29810,12 +29830,12 @@
                 "Author": "ofnature",
                 "Name": "Demeter",
                 "InternalName": "Demeter",
-                "AssemblyVersion": "0.1.9.0",
+                "AssemblyVersion": "0.1.10.0",
                 "Description": "Unattended gathering for Miner and Botanist: travels to the zone, flies the node circuit, works collectables to the band asked for, and keeps named gather lists with target amounts. Fishing too: it goes to the hole, judges each bite by its timing and tug, moochs along the road to the fish and catches its predators first, and fishes Cosmic Exploration missions where it stands, spending GP on the fish worth the most. Other plugins (Hephaestus, Odysseus, Selene) ask it for items over IPC. Companion to Daedalus and Odysseus.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ofnature/Demeter/main/images/icon.png",
                 "RepoUrl": "https://github.com/ofnature/Demeter",
-                "LastUpdate": 1795398252,
+                "LastUpdate": 1795475326,
                 "is_ai_attributed": true
             }
         ]
@@ -30693,7 +30713,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1795355534
+                "LastUpdate": 1795453172
             },
             {
                 "Author": "Risa and Contributors",
@@ -33168,7 +33188,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/159",
                 "RepoUrl": "https://github.com/Kagekazu/RelicTracker",
-                "LastUpdate": 1795346084,
+                "LastUpdate": 1795479149,
                 "is_ai_attributed": true
             }
         ]
@@ -33839,12 +33859,12 @@
                 "Author": "wah",
                 "Name": "WahTools",
                 "InternalName": "WahTools",
-                "AssemblyVersion": "20.0.0.65",
+                "AssemblyVersion": "20.0.0.66",
                 "Description": "Fish, Hunt",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/180",
                 "RepoUrl": "https://git.wahapp.com/wah/WahTools",
-                "LastUpdate": 1795303771
+                "LastUpdate": 1795478128
             },
             {
                 "Author": "wah",
@@ -37230,12 +37250,12 @@
                 "Author": "Runmih",
                 "Name": "Amor RP",
                 "InternalName": "AmorRP",
-                "AssemblyVersion": "0.11.0.3",
+                "AssemblyVersion": "0.11.0.4",
                 "Description": "Amor RP brings roleplay venues and communities together with group inventories, fictional currency, potion crafting, books, letters, notes, and trading.\n\n/amorrp → Main Menu",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Runmih/AmorRP/main/images/f6e82fdb8ed2ed3cc35f46e022f59d61ededbb55dc4bcce5aaf723dcb4054d9a.png",
                 "RepoUrl": "https://github.com/Runmih/AmorRP",
-                "LastUpdate": 1795451370,
+                "LastUpdate": 1795469111,
                 "is_ai_attributed": true
             }
         ]
@@ -39392,11 +39412,11 @@
                 "Author": "SIMPWarlord",
                 "Name": "Quest Item Clicker",
                 "InternalName": "QuestItemClicker",
-                "AssemblyVersion": "0.2.5.0",
+                "AssemblyVersion": "0.2.6.0",
                 "Description": "Use the right quest item when manually selecting a known quest objective.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/SIMPWarlord/personal_ffxiv",
-                "LastUpdate": 1795410570
+                "LastUpdate": 1795470483
             }
         ]
     },
@@ -40452,6 +40472,25 @@
         ]
     },
     {
+        "repo_developer_name": "Soratix",
+        "repo_url": "https://raw.githubusercontent.com/Soratix/ActionLangSwap/main/repo.json",
+        "repo_source_url": "https://github.com/Soratix/ActionLangSwap",
+        "repo_name": "ActionLangSwap",
+        "plugins": [
+            {
+                "Author": "Soratix",
+                "Name": "Action Language Swap",
+                "InternalName": "ActionLangSwap",
+                "AssemblyVersion": "0.2.0.0",
+                "Description": "Replaces action names (and optionally status names) with those of another language: cast bars, tooltips, actions menu, flying text and battle log. Example: French client, English action names. Command: /actionlang",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Soratix/ActionLangSwap",
+                "LastUpdate": 1795469296,
+                "is_ai_attributed": true
+            }
+        ]
+    },
+    {
         "repo_developer_name": "sorenwolfe",
         "repo_url": "https://raw.githubusercontent.com/sorenwolfe/Foxtrot/main/repo.json",
         "repo_source_url": "https://github.com/sorenwolfe/Foxtrot",
@@ -41230,12 +41269,12 @@
                 "Author": "Stwohm (fork of yagi2/Restocker)",
                 "Name": "Restocky",
                 "InternalName": "Restocky",
-                "AssemblyVersion": "0.3.12.0",
+                "AssemblyVersion": "0.3.13.0",
                 "Description": "Personal fork of yagi2/Restocker. Reprice every retainer listing to the live market lowest -N gil with floor / max-drop guards, track each listing until it sells (reprices, competitors, days, gil), one-click full cycle and an optional timed auto-cycle at the summoning bell that waits for AutoRetainer. Timed automation is against the FFXIV ToS; use at your own risk.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Stwohm/Restocky/main/images/icon.png",
                 "RepoUrl": "https://github.com/Stwohm/Restocker",
-                "LastUpdate": 1795451807,
+                "LastUpdate": 1795465043,
                 "is_ai_attributed": true
             }
         ]
@@ -41250,12 +41289,12 @@
                 "Author": "Stwohm (fork of yagi2/Restocker)",
                 "Name": "Restocky",
                 "InternalName": "Restocky",
-                "AssemblyVersion": "0.3.12.0",
+                "AssemblyVersion": "0.3.13.0",
                 "Description": "Personal fork of yagi2/Restocker. Reprice every retainer listing to the live market lowest -N gil with floor / max-drop guards, track each listing until it sells (reprices, competitors, days, gil), one-click full cycle and an optional timed auto-cycle at the summoning bell that waits for AutoRetainer. Timed automation is against the FFXIV ToS; use at your own risk.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Stwohm/Restocky/main/images/icon.png",
                 "RepoUrl": "https://github.com/Stwohm/Restocky",
-                "LastUpdate": 1795451807,
+                "LastUpdate": 1795465043,
                 "is_ai_attributed": true
             }
         ]
@@ -43493,11 +43532,11 @@
                 "Author": "TuaCreations",
                 "Name": "K.I.S.S. RP Combat Logger",
                 "InternalName": "GardenTracker",
-                "AssemblyVersion": "0.3.1.0",
+                "AssemblyVersion": "0.3.2.0",
                 "Description": "Shares one live combat state across everyone at a Star Garden RP event. The GM's client reads /random rolls and applies the K.I.S.S. combat rules, enemy abilities call for saves that resolve automatically, and every player sees enemy HP, party HP, Momentum and the roll log, plus enemy markers drawn in the world. Fights load from kiss-scenario files.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/TuaCreations/Kiss-RP-Combat-Logger",
-                "LastUpdate": 1795318704
+                "LastUpdate": 1795476122
             }
         ]
     },
@@ -44984,12 +45023,12 @@
                 "Author": "Izzy",
                 "Name": "Izzy's Furniture",
                 "InternalName": "IzzysFurniture",
-                "AssemblyVersion": "0.1.10.0",
+                "AssemblyVersion": "0.1.11.0",
                 "Description": "Spawn furniture, NPCs, and map assets anywhere.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/vmvrchelina/izzysfurniture/main/icon.png",
                 "RepoUrl": "https://github.com/vmvrchelina/izzysfurniture",
-                "LastUpdate": 1788815125
+                "LastUpdate": 1795465304
             }
         ]
     },
@@ -45151,11 +45190,12 @@
                 "Author": "WayneXXDD",
                 "Name": "Combo Timer (Wayne)",
                 "InternalName": "WayneComboTimer",
-                "AssemblyVersion": "1.0.0.4",
+                "AssemblyVersion": "1.1.0.2",
                 "Description": "Shows the Simple Tweaks-style HUD countdown. In PvE on Viper, continuously shows the remaining Honed Steel or Honed Reavers duration through all combo steps, including while the starter's highlight is hidden. Use /waynecombo for settings.",
                 "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/WayneXXDD/ComboTimer/main/assets/icon.png",
                 "RepoUrl": "https://github.com/WayneXXDD/ComboTimer",
-                "LastUpdate": 1795455755
+                "LastUpdate": 1795481613
             },
             {
                 "Author": "attick, daemitus, alymphocyte, grammernatzi",
@@ -46510,11 +46550,11 @@
                 "Author": "XivHub",
                 "Name": "AutoPincher",
                 "InternalName": "AutoPincher",
-                "AssemblyVersion": "0.2.3.0",
+                "AssemblyVersion": "0.2.4.0",
                 "Description": "Repinches your retainer market listings by undercutting the cheapest live competitor by 1 gil. Reads each listing straight from game memory, clicks the in-game market board's Compare Prices to find the current cheapest offering, and sets your asking price to one below it (never below vendor value or above your own cheapest copy, and excluding your own retainers and housing mannequins as competitors). Runs locally; optional developer logging can send data to a server you configure. Adds an Auto Pinch button next to AutoRetainer's retainer-list controls and a /autopinch command for the open retainer. AutoRetainer is optional (used only to pause its automation during a pinch run).",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XivHub/AutoPincher",
-                "LastUpdate": 1792572136,
+                "LastUpdate": 1795475560,
                 "is_ai_attributed": true
             },
             {
@@ -46530,22 +46570,23 @@
                 "Author": "XivHub",
                 "Name": "FeteTimer",
                 "InternalName": "FeteTimer",
-                "AssemblyVersion": "0.1.9.0",
+                "AssemblyVersion": "0.1.10.0",
                 "Description": "Calibrates the Ishgardian Restoration Fête (Skyrise Celebration) countdown from the in-game objective list while you are in the Firmament and fires configurable chat, notification, and sound alerts at your chosen lead times.",
                 "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/XivHub/FeteTimer/main/FeteTimer/images/icon.png",
                 "RepoUrl": "https://github.com/xivhub/FeteTimer",
-                "LastUpdate": 1794829050,
+                "LastUpdate": 1795475160,
                 "is_ai_attributed": true
             },
             {
                 "Author": "XivHub",
                 "Name": "Gardener",
                 "InternalName": "Gardener",
-                "AssemblyVersion": "0.14.14.0",
+                "AssemblyVersion": "0.14.15.0",
                 "Description": "Keeps a persistent journal of every outdoor garden bed you own — personal, FC and shared estates — and reminds you when a crop needs tending, fertilizing or harvesting no matter where you are in the world. While standing at the plot, runs a guarded tend-all, fertilize-all, harvest-all or plant-a-plan sweep across the patch, and plans crossbreed layouts from a bundled dataset. Never travels, mounts or pathfinds on your behalf. This automates gameplay, which violates the FFXIV User Agreement and can get your account penalized or banned; use entirely at your own risk.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XivHub/Gardener",
-                "LastUpdate": 1790192033
+                "LastUpdate": 1795475741
             },
             {
                 "Author": "XivHub",
@@ -46556,7 +46597,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/XivHub/GlamourLink/main/images/icon.png",
                 "RepoUrl": "https://github.com/XivHub/GlamourLink",
-                "LastUpdate": 1790191967
+                "LastUpdate": 1795475188
             },
             {
                 "Author": "XivHub",
@@ -46567,7 +46608,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/70",
                 "RepoUrl": "https://github.com/XivHub/Ices-Cosmic-Exploration",
-                "LastUpdate": 1787417792,
+                "LastUpdate": 1795474874,
                 "is_ai_attributed": true
             },
             {
@@ -46578,7 +46619,7 @@
                 "Description": "Cleans up your inventory.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XivHub/InventoryCleaner",
-                "LastUpdate": 1787601962,
+                "LastUpdate": 1795475163,
                 "is_closed_source": true
             },
             {
@@ -46588,7 +46629,8 @@
                 "AssemblyVersion": "0.11.4.0",
                 "Description": "Requires AllaganTools (Allagan Market / InventoryTools) installed and enabled to read retainer inventories. Unified view of your active character and all retainers' inventories, with one-click Retrieve that summons each holding retainer at a nearby Summoning Bell and pulls selected items into your bags. This plugin automates in-game actions (retainer bell interaction and item retrieval) on your behalf; use at your own risk with respect to the game's Terms of Service.",
                 "DalamudApiLevel": 15,
-                "LastUpdate": 1794829055,
+                "RepoUrl": "https://github.com/XivHub/RetainerReach",
+                "LastUpdate": 1795475165,
                 "is_closed_source": true
             },
             {
@@ -46599,7 +46641,7 @@
                 "Description": "Works through your hunting logs for you — Grand Company (seals) or the current class/job log (XP), selectable in settings. Teleports/flies to each zone, walks to targets with vnavmesh, and clears the required marks using BossMod Reborn autorotation. Requires vnavmesh, Lifestream, and BossMod Reborn. Optional AutoDuty for the GC log's dungeon marks.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/XivHub/SealHunter",
-                "LastUpdate": 1794829062,
+                "LastUpdate": 1795475153,
                 "is_ai_attributed": true
             }
         ]
@@ -48465,11 +48507,11 @@
                 "Author": "akira0245, Ori, Kalle, Zune",
                 "Name": "MidiBard 2 (BETA)",
                 "InternalName": "ZuneBard",
-                "AssemblyVersion": "1.15.0.170",
+                "AssemblyVersion": "1.15.0.171",
                 "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/zunetrix/MidiBard2",
-                "LastUpdate": 1794169081,
+                "LastUpdate": 1795480036,
                 "is_closed_source": true,
                 "is_ai_attributed": true
             },
@@ -48477,7 +48519,7 @@
                 "Author": "akira0245, Ori, Kalle, Zune",
                 "Name": "MidiBard 2 (ALPHA)",
                 "InternalName": "ZuneBardAlpha",
-                "AssemblyVersion": "1.15.0.170",
+                "AssemblyVersion": "1.15.0.171",
                 "Description": "Bard performance using midi files or keyboard.\n- Solo and ensemble mode support\n- Text commands for instrument equip and switch\nSupported by FFXIV Bards & Bands Community: discord.gg/ff14bard",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://midibard.org",
