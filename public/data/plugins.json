@@ -1201,11 +1201,11 @@
                 "Author": "McVaxius",
                 "Name": "God Mod Companion",
                 "InternalName": "BMRVariantLoader",
-                "AssemblyVersion": "3.2.10.56",
+                "AssemblyVersion": "3.2.10.78",
                 "Description": "Encounter additions, Praetorium timelines and bundled cooldown plans, with AethertekUI appearance for BMR settings, autorotation and AI. BossModReborn must be installed and enabled.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/BMRVariantLoader-Public",
-                "LastUpdate": 1795595410,
+                "LastUpdate": 1795617715,
                 "is_ai_attributed": true
             },
             {
@@ -1519,7 +1519,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/WigglyCorp/DalamudPlugins/main/icons/Questionable.png",
                 "RepoUrl": "https://github.com/WigglyMuffin/Questionable",
-                "LastUpdate": 1795277204
+                "LastUpdate": 1795602754
             },
             {
                 "Author": "XA",
@@ -2143,11 +2143,11 @@
                 "Author": "Ajimsan2096",
                 "Name": "LinguaBridge",
                 "InternalName": "LinguaBridge",
-                "AssemblyVersion": "1.14.1.0",
+                "AssemblyVersion": "1.15.0.0",
                 "Description": "Translates chat between two languages in both directions (English <-> French by default) with DeepL (best quality, free API key) or Google (no key), with automatic fallback.\n\n- Incoming messages get a translated line in the same chat tab.\n- /tr translates and sends your messages: /tr /p Hello everyone!\n- History window with one-click translated replies and a preview with back-translation.\n- Item links, auto-translate phrases and names are never translated.\n- Party Finder: right-click > Translate description.\n- Setup wizard, server-bar on/off switch.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Ajimsan2096/DalamudPlugins",
-                "LastUpdate": 1795531930,
+                "LastUpdate": 1795596675,
                 "is_ai_attributed": true
             }
         ]
@@ -5010,12 +5010,12 @@
                 "Author": "Beneficial-Pea",
                 "Name": "LogMimic",
                 "InternalName": "LogMimic",
-                "AssemblyVersion": "0.5.8.0",
+                "AssemblyVersion": "0.5.10.0",
                 "Description": "Experimental FFLogs GCD/oGCD replay based on Oracle. Manual enable, strict main queue, independent mitigation queue, and target mapping. Not verified in actual combat.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Beneficial-Pea/DalamudPlugins/main/plugins/LogMimic/icon.png",
                 "RepoUrl": "https://github.com/Beneficial-Pea/DalamudPlugins",
-                "LastUpdate": 1794996003
+                "LastUpdate": 1795606561
             }
         ]
     },
@@ -5805,6 +5805,26 @@
                 "IconUrl": "https://raw.githubusercontent.com/BTYRE1916/NunuWindboundBard-FFXIV/master/Assets/windbound-icon.ico",
                 "RepoUrl": "https://github.com/BTYRE1916/NunuWindboundBard-FFXIV",
                 "LastUpdate": 1795181979
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "BubbaCodes",
+        "repo_url": "https://raw.githubusercontent.com/BubbaCodes/PhantomJobIconsPlugin/main/repo.json",
+        "repo_source_url": "https://github.com/BubbaCodes/PhantomJobIconsPlugin",
+        "repo_name": "PhantomJobIconsPlugin",
+        "plugins": [
+            {
+                "Author": "BubbaCodes",
+                "Name": "Phantom Job Icons Mod",
+                "InternalName": "PhantomJobIconsMod",
+                "AssemblyVersion": "0.0.0.1",
+                "Description": "Adds each recognized Occult Crescent member's active Phantom Job to their nameplate.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/BubbaCodes/PhantomJobIconsPlugin/main/icon.png",
+                "RepoUrl": "https://github.com/BubbaCodes/PhantomJobIconsPlugin",
+                "LastUpdate": 1795613485,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -7036,12 +7056,12 @@
                 "Author": "Tundy",
                 "Name": "Tundy",
                 "InternalName": "Tundy",
-                "AssemblyVersion": "0.4.8.0",
+                "AssemblyVersion": "0.4.9.0",
                 "Description": "When someone sends you a tell with \"!q <link>\", Tundy queues the song automatically. Works with YouTube videos and playlists, and Spotify tracks, playlists and albums (matched to YouTube). Has its own song queue like SoundyQ (approval queue, who can request, per-player permissions) and plays songs for nearby Lightless Sync pairs through the Mega Music Mod. Includes Soundy's import tools: add YouTube or local songs to any Penumbra mod with loudness and EQ presets, and replace game sounds. Optional: announce songs in chat and tell requesters their place in the queue. Downloads use yt-dlp, which Tundy fetches on first use. Free software under the GNU AGPL-3.0.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Clair-songs/Tundy/main/images/icon.png",
                 "RepoUrl": "https://github.com/Clair-songs/Tundy",
-                "LastUpdate": 1795562063
+                "LastUpdate": 1795610139
             }
         ]
     },
@@ -7501,7 +7521,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/CrownedPandaXIV/XIVFleetCompanion/master/Data/submarine.png",
                 "RepoUrl": "https://github.com/CrownedPandaXIV/XIVFleetCompanion",
-                "LastUpdate": 1795526979
+                "LastUpdate": 1795608502
             }
         ]
     },
@@ -11570,6 +11590,17 @@
                 "RepoUrl": "https://github.com/Etupa/EmoteGrid",
                 "LastUpdate": 1788616572,
                 "is_ai_attributed": true
+            },
+            {
+                "Author": "Etupa",
+                "Name": "JustDance",
+                "InternalName": "JustDance",
+                "AssemblyVersion": "1.1.0.0",
+                "Description": "Scans a user-selected Penumbra folder, bridges directly to each mod's current Penumbra settings, groups Start + Loop animations, and toggles mod music settings via Penumbra.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/Etupa/JustDance/master/icon.png",
+                "RepoUrl": "https://github.com/Etupa/JustDance",
+                "LastUpdate": 1795612450
             },
             {
                 "Author": "Etupa",
@@ -16223,12 +16254,12 @@
                 "Author": "raynording",
                 "Name": "DACT",
                 "InternalName": "DalamudActCompat",
-                "AssemblyVersion": "1.0.1.1",
+                "AssemblyVersion": "1.0.1.2",
                 "Description": "Dalamud-side UI, storage, parser abstraction, and compatibility-host bridge for an ACT-compatible FFXIV parsing platform. This early build does not yet load FFXIV_ACT_Plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/JackyWilliam/DalamudActCompat/main/src/DalamudActCompat/images/icon.png",
                 "RepoUrl": "https://github.com/JackyWilliam/DalamudActCompat",
-                "LastUpdate": 1795578586,
+                "LastUpdate": 1795601313,
                 "is_ai_attributed": true
             },
             {
@@ -16273,12 +16304,12 @@
                 "Author": "raynording",
                 "Name": "DACT",
                 "InternalName": "DalamudActCompat",
-                "AssemblyVersion": "1.0.1.1",
+                "AssemblyVersion": "1.0.1.2",
                 "Description": "Dalamud-side UI, storage, parser abstraction, and compatibility-host bridge for an ACT-compatible FFXIV parsing platform. This early build does not yet load FFXIV_ACT_Plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/JackyWilliam/DalamudActCompatRepo/main/dact-logo-512.png",
                 "RepoUrl": "https://github.com/JackyWilliam/DalamudActCompat",
-                "LastUpdate": 1795595664,
+                "LastUpdate": 1795602210,
                 "is_ai_attributed": true
             },
             {
@@ -16290,7 +16321,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/JackyWilliam/DalamudActCompatRepo/main/act-logo-512.png",
                 "RepoUrl": "https://github.com/JackyWilliam/DalamudActCompat",
-                "LastUpdate": 1795595664
+                "LastUpdate": 1795602210
             }
         ]
     },
@@ -19351,12 +19382,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "GatherBuddy Reborn",
                 "InternalName": "GatherBuddyReborn",
-                "AssemblyVersion": "7.5.1000.3",
+                "AssemblyVersion": "7.5.8.402",
                 "Description": "添加多种命令, 可按物品名称查找采集点、鱼类及其位置, 并提供界面追踪特殊刷新时间与天气条件, 还可基于指定清单和条件自动采集物品, 自动采集需要 vnavmesh",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/GBR_Icon.png",
                 "RepoUrl": "https://github.com/LienChan666/GatherBuddyReborn",
-                "LastUpdate": 1795428678,
+                "LastUpdate": 1795609562,
                 "is_ai_attributed": true
             }
         ]
@@ -20115,12 +20146,12 @@
                 "Author": "konvarec",
                 "Name": "HuntPad",
                 "InternalName": "HuntPad",
-                "AssemblyVersion": "0.4.1.14",
+                "AssemblyVersion": "0.4.1.15",
                 "Description": "HuntPad is a companion for FFXIV hunt activity. It maps nearby players, mobs, and FATEs; records risky-mob spawn points; and provides S-rank trigger counters. Open it with /huntpad. A distribution access key is required before first use.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/konvarec/HuntPadCustomRepo/main/images/huntpad-v2.png",
                 "RepoUrl": "https://github.com/konvarec/HuntPadCustomRepo",
-                "LastUpdate": 1795542693
+                "LastUpdate": 1795602912
             }
         ]
     },
@@ -20134,12 +20165,12 @@
                 "Author": "konvarec",
                 "Name": "HuntVoidWatcher",
                 "InternalName": "HuntVoidWatcher",
-                "AssemblyVersion": "0.7.0.3",
+                "AssemblyVersion": "0.7.0.4",
                 "Description": "Synchronizes active character world/area status to a shared spreadsheet for S-rank hunt observation.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/konvarec/HuntVoidWatcherCustomRepo/main/HuntVoidWatcher/images/icon_64.png",
                 "RepoUrl": "https://github.com/konvarec/HuntVoidWatcherCustomRepo",
-                "LastUpdate": 1795541926
+                "LastUpdate": 1795603275
             }
         ]
     },
@@ -20153,12 +20184,12 @@
                 "Author": "konvarec",
                 "Name": "HuntPad",
                 "InternalName": "HuntPad",
-                "AssemblyVersion": "0.4.1.14",
+                "AssemblyVersion": "0.4.1.15",
                 "Description": "HuntPad is a companion for FFXIV hunt activity. It maps nearby players, mobs, and FATEs; records risky-mob spawn points; and provides S-rank trigger counters. Open it with /huntpad. A distribution access key is required before first use.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/konvarec/HuntPadCustomRepo/main/images/huntpad-v2.png",
                 "RepoUrl": "https://github.com/konvarec/HuntPadCustomRepo",
-                "LastUpdate": 1795542723
+                "LastUpdate": 1795602934
             }
         ]
     },
@@ -20876,7 +20907,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Kyuuso/EurekaSuite-releases/main/icon.png",
                 "RepoUrl": "https://github.com/Kyuuso/EurekaSuite-releases",
-                "LastUpdate": 1795544091,
+                "LastUpdate": 1795617241,
                 "is_closed_source": true,
                 "is_ai_attributed": true
             }
@@ -21028,11 +21059,11 @@
                 "Author": "Lady",
                 "Name": "Moodle Macro Trigger",
                 "InternalName": "MoodleMacroTrigger",
-                "AssemblyVersion": "0.1.1.0",
+                "AssemblyVersion": "0.1.2.0",
                 "Description": "Run a macro when a moodle is applied",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/LadyXIV/MoodleMacroTrigger",
-                "LastUpdate": 1795572060
+                "LastUpdate": 1795617599
             }
         ]
     },
@@ -21086,11 +21117,11 @@
                 "Author": "Laficia",
                 "Name": "狩猎模型替换",
                 "InternalName": "HuntModelSwapCN",
-                "AssemblyVersion": "0.1.0.24",
+                "AssemblyVersion": "0.1.0.25",
                 "Description": "独立于 HHT。/hms 打开，替换小怪为 S/A/B 狩猎外观，或在面前生成本地预览。支持按地图/版本/级别筛选、自由体型、逐只隐藏、隐藏所有小怪、敌对怪名牌与预览隐藏血条。全部 47 只常规 S 怪提供 Wiki 专属技能菜单；可搜索并单次播放动作，/hms pause 暂停模型动画、/hms resume 恢复。/hms combo 演示布弗鲁方向连招，/hms stop 停止。仅本机演示，不产生真实伤害。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Laficia/HuntModelSwapCN",
-                "LastUpdate": 1792989699
+                "LastUpdate": 1795612783
             }
         ]
     },
@@ -21909,19 +21940,19 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://s3.puni.sh/media/plugin/24/icon-drb6aywk5m9.png",
                 "RepoUrl": "https://github.com/LienChan666/AutoRetainer",
-                "LastUpdate": 1795281240,
+                "LastUpdate": 1795444265,
                 "is_ai_attributed": true
             },
             {
                 "Author": "The Combat Reborn Team",
                 "Name": "GatherBuddy Reborn",
                 "InternalName": "GatherBuddyReborn",
-                "AssemblyVersion": "7.5.1000.3",
+                "AssemblyVersion": "7.5.8.402",
                 "Description": "Adds commands to simplify gathering by finding nodes and fish and their locations via item name and a UI to keep track of special uptime and weather conditions. Also automatically gathers items based on these conditions using lists that you specify. Automated gathering requires vnavmesh.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/GBR_Icon.png",
                 "RepoUrl": "https://github.com/LienChan666/GatherBuddyReborn",
-                "LastUpdate": 1795428678,
+                "LastUpdate": 1795609562,
                 "is_ai_attributed": true
             }
         ]
@@ -22680,11 +22711,11 @@
                 "Author": "Lo017",
                 "Name": "TreasureLedger",
                 "InternalName": "TreasureLedger",
-                "AssemblyVersion": "0.6.4.0",
+                "AssemblyVersion": "0.7.1.1",
                 "Description": "“这是第几图了？” “不到啊。”\n\n你的挖宝一站式解决方案。用于记录挖宝掉落、进洞次数、宝库层数、下底次数，并辅助你计算工资。支持自定义图数、底薪、物品、奖金，并可选 T 位奖金和挂件收费选项。\n\n此外整合了解读宝图时的标记、挖宝会计触发器的分配提醒（支持冰冰冰）、保送提醒和选门助手等功能。支持自定义发送频道和发送内容，让你挖宝时就算当了甩手掌柜也不会把账本造个稀碎。",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Lo017/TreasureLedger",
-                "LastUpdate": 1795557245
+                "LastUpdate": 1795603179
             }
         ]
     },
@@ -22955,20 +22986,20 @@
     },
     {
         "repo_developer_name": "lunaa-bit",
-        "repo_url": "https://raw.githubusercontent.com/lunaa-bit/Saucer-Nights/main/repo.json",
-        "repo_source_url": "https://github.com/lunaa-bit/Saucer-Nights",
-        "repo_name": "Saucer-Nights",
+        "repo_url": "https://raw.githubusercontent.com/lunaa-bit/SolutionNights/main/repo.json",
+        "repo_source_url": "https://github.com/lunaa-bit/SolutionNights",
+        "repo_name": "SolutionNights",
         "plugins": [
             {
                 "Author": "Birch",
-                "Name": "Saucer Nights",
+                "Name": "Solution Nights",
                 "InternalName": "SaucerNights",
-                "AssemblyVersion": "1.0.1.0",
-                "Description": "Play blackjack and no-limit Texas Hold'em with friends over a cross-world linkshell. One player hosts and deals; everyone else joins from the lobby. Animated tables, encrypted hole cards, provably fair shuffles, practice tables against bots and a chip ledger for the host. Chips are play money: the plugin never trades gil.",
+                "AssemblyVersion": "1.1.0.0",
+                "Description": "Play blackjack, no-limit Texas Hold'em and European roulette with friends over a cross-world linkshell, at a neon table in the spirit of Solution Nine. One player hosts and deals; everyone else joins from the lobby. Animated tables, encrypted hole cards, provably fair shuffles, host-approved buy-backs, practice tables against bots, an adjustable interface size and a chip ledger for the host. Chips are play money: the plugin never trades gil. (Formerly Saucer Nights.)",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/lunaa-bit/Saucer-Nights/main/images/icon.png",
-                "RepoUrl": "https://github.com/lunaa-bit/Saucer-Nights",
-                "LastUpdate": 1795546932,
+                "IconUrl": "https://raw.githubusercontent.com/lunaa-bit/SolutionNights/main/images/icon.png",
+                "RepoUrl": "https://github.com/lunaa-bit/SolutionNights",
+                "LastUpdate": 1795615282,
                 "is_ai_attributed": true
             }
         ]
@@ -22983,11 +23014,11 @@
                 "Author": "LunaBelleElite",
                 "Name": "Luna Shopping List",
                 "InternalName": "LunaShoppingList",
-                "AssemblyVersion": "0.17.0.2",
+                "AssemblyVersion": "0.18.0.1",
                 "Description": "Builds a price-optimised shopping list, grouped by world, from an Artisan crafting list using current Universalis prices.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/LunaBelleElite/LunaShoppingList",
-                "LastUpdate": 1795570622
+                "LastUpdate": 1795613319
             }
         ]
     },
@@ -25796,12 +25827,12 @@
                 "Author": "miqote69",
                 "Name": "Actor Morpher",
                 "InternalName": "ActorMorpher",
-                "AssemblyVersion": "0.0.0.56",
+                "AssemblyVersion": "0.0.0.57",
                 "Description": "Locally changes visible actors into selected NPC, demihuman, or monster forms. Use /actormorpher to open the window.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/miqote69/ActorMorpher/main/images/icon-v18.png",
                 "RepoUrl": "https://github.com/miqote69/ActorMorpher",
-                "LastUpdate": 1795500211,
+                "LastUpdate": 1795602560,
                 "is_ai_attributed": true
             }
         ]
@@ -26126,12 +26157,12 @@
                 "Author": "MMMMXIV (based on MahjongXIV by kuchris)",
                 "Name": "MahjongXIV JP",
                 "InternalName": "MahjongXIVJP",
-                "AssemblyVersion": "0.5.4.0",
+                "AssemblyVersion": "0.5.4.2",
                 "Description": "ドマ式麻雀の卓を読み取り、最善の打牌と鳴きを計算して推奨表示します。自動打牌にも対応。kuchris氏のMahjongXIVをもとにした日本語対応版で、元のプラグインとは別プラグインとして共存できます。コマンドは /mjjp です。\n\nJapanese edition of MahjongXIV: reads Doman Mahjong, suggests the best discard and call, and can play for you.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MMMMXIV/MahjongXIVJP/main/MahjongXiv/Images/Icon.png",
                 "RepoUrl": "https://github.com/MMMMXIV/MahjongXIVJP",
-                "LastUpdate": 1795542003,
+                "LastUpdate": 1795612419,
                 "is_ai_attributed": true
             }
         ]
@@ -26146,12 +26177,12 @@
                 "Author": "MMMMXIV (based on MahjongXIV by kuchris)",
                 "Name": "MahjongXIV JP",
                 "InternalName": "MahjongXIVJP",
-                "AssemblyVersion": "0.5.4.0",
+                "AssemblyVersion": "0.5.4.2",
                 "Description": "ドマ式麻雀の卓を読み取り、最善の打牌と鳴きを計算して推奨表示します。自動打牌にも対応。kuchris氏のMahjongXIVをもとにした日本語対応版で、元のプラグインとは別プラグインとして共存できます。コマンドは /mjjp です。\n\nJapanese edition of MahjongXIV: reads Doman Mahjong, suggests the best discard and call, and can play for you.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/MMMMXIV/MahjongXIVJP/main/MahjongXiv/Images/Icon.png",
                 "RepoUrl": "https://github.com/MMMMXIV/MahjongXIVJP",
-                "LastUpdate": 1795542001,
+                "LastUpdate": 1795612418,
                 "is_ai_attributed": true
             }
         ]
@@ -27107,6 +27138,16 @@
                 "IconUrl": "https://raw.githubusercontent.com/n0way02/DigitasAutomatizados/main/images/icon.png",
                 "RepoUrl": "https://github.com/n0way02/DigitasAutomatizados",
                 "LastUpdate": 1795384950
+            },
+            {
+                "Author": "n0way02",
+                "Name": "PetFrenzy",
+                "InternalName": "PetFrenzy",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "Eorzea Tamagotchi companion for FFXIV! Choose & hatch a Carbuncle, Fat Cat, Moogle, or Namazu from an animated egg, care for them in a sleek floating HUD, unlock accessories as they evolve, and watch them react live to your HP, combat, deaths, Gil gains, AFK naps, and duties.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/n0way02/PetFrenzy",
+                "LastUpdate": 1795612762
             },
             {
                 "Author": "n0way02",
@@ -28622,12 +28663,12 @@
                 "Author": "NiGuangOwO",
                 "Name": "DalamudMCP",
                 "InternalName": "DalamudMCP",
-                "AssemblyVersion": "1.0.0.60",
+                "AssemblyVersion": "1.0.0.62",
                 "Description": "Hosts a Model Context Protocol (MCP) server on a local port so that agents can read FINAL FANTASY XIV game memory via Dalamud and FFXIVClientStructs.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/NiGuangOwO/DalamudMCP/main/src/DalamudMCP/images/icon.png",
                 "RepoUrl": "https://github.com/NiGuangOwO/Dalamud-MCP",
-                "LastUpdate": 1795013080,
+                "LastUpdate": 1795614880,
                 "is_ai_attributed": true
             },
             {
@@ -28843,7 +28884,7 @@
                 "DalamudApiLevel": 13,
                 "IconUrl": "https://s3.puni.sh/media/plugin/8/icon-9opcpzqyh1h.png",
                 "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-                "LastUpdate": 1795520400
+                "LastUpdate": 1795533321
             },
             {
                 "Author": "Taurenkey (Puni.sh) / NiGuangOwO (本地化&功能维护)",
@@ -28854,7 +28895,7 @@
                 "DalamudApiLevel": 14,
                 "IconUrl": "https://s3.puni.sh/media/plugin/8/icon-9opcpzqyh1h.png",
                 "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-                "LastUpdate": 1795520400
+                "LastUpdate": 1795533321
             },
             {
                 "Author": "Taurenkey (Puni.sh) / NiGuangOwO (本地化&功能维护)",
@@ -28865,7 +28906,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://s3.puni.sh/media/plugin/8/icon-9opcpzqyh1h.png",
                 "RepoUrl": "https://github.com/PunishXIV/PandorasBox",
-                "LastUpdate": 1795520400
+                "LastUpdate": 1795533321
             },
             {
                 "Author": "NiGuangOwO",
@@ -30069,12 +30110,12 @@
                 "Author": "ofnature",
                 "Name": "Charon",
                 "InternalName": "Charon",
-                "AssemblyVersion": "0.1.70",
+                "AssemblyVersion": "0.1.71",
                 "Description": "Auto pillion with smart seat scanning and whitelisted auto group invite. Companion to Daedalus.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ofnature/Charon/main/images/icon.png",
                 "RepoUrl": "https://github.com/ofnature/Charon",
-                "LastUpdate": 1795503085,
+                "LastUpdate": 1795607176,
                 "is_ai_attributed": true
             }
         ]
@@ -32193,18 +32234,18 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/PlatyDuckbill/DuckbillCalendar/v0.6.0.0/assets/duckbillcalendar-icon.png",
                 "RepoUrl": "https://github.com/PlatyDuckbill/DuckbillCalendar",
-                "LastUpdate": 1794922329
+                "LastUpdate": 1795616986
             },
             {
                 "Author": "PlatyDuckbill",
                 "Name": "DuckbillFisher",
                 "InternalName": "DuckbillFisher",
-                "AssemblyVersion": "0.10.5.1",
+                "AssemblyVersion": "0.10.5.2",
                 "Description": "Let Duckbill guide your next catch.\nA fishing companion for FFXIV Korea.\n\n• Browse fish with collection, region and availability filters.\n• Choose your next fish by availability and preparation requirements.\n• Plan spawns with a timeline and monthly calendar.\n• Check baits, mooch chains and time/weather conditions.\n• Prepare baits for favorites or filtered fish, with inventory counts.\n• Find owned baits with page markers and in-game UI highlights.\n• Open fishing spots directly on the map.\n• Get local alerts for favorites and uncaught trophy fish at the current hole, with optional sounds.\n• See fish available now or soon in the quick list.\n• Follow casts with a timer and personal fishing records.\n\nOpen: /dbfs or /duckbillfisher. /dbfs cl: compact list; /dbfs ct: casting timer.\nUI: English / Korean. Game names follow your client.\n\nVerified on the supported Korean client and Dalamud build only.\nDoes not automate fishing.",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/PlatyDuckbill/DuckbillFisher/v0.10.5.1/assets/duckbillfisher-icon.png",
+                "IconUrl": "https://raw.githubusercontent.com/PlatyDuckbill/DuckbillFisher/v0.10.5.2/assets/duckbillfisher-icon.png",
                 "RepoUrl": "https://github.com/PlatyDuckbill/DuckbillFisher",
-                "LastUpdate": 1794919424,
+                "LastUpdate": 1795609541,
                 "is_ai_attributed": true
             },
             {
@@ -32216,7 +32257,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/PlatyDuckbill/DuckbillTweak/v0.4.0.1/assets/duckbilltweak-icon.png",
                 "RepoUrl": "https://github.com/PlatyDuckbill/DuckbillTweak",
-                "LastUpdate": 1794845497,
+                "LastUpdate": 1794989503,
                 "is_ai_attributed": true
             }
         ]
@@ -33193,7 +33234,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/60",
                 "RepoUrl": "https://github.com/PunishXIV/WrathCombo",
-                "LastUpdate": 1794212504
+                "LastUpdate": 1795599854
             },
             {
                 "Author": "daemitus, croizat",
@@ -33511,7 +33552,7 @@
                 "Author": "Knightmore",
                 "Name": "Henchman",
                 "InternalName": "Henchman",
-                "AssemblyVersion": "4.0.0.2",
+                "AssemblyVersion": "4.0.0.4",
                 "Description": "Your personal Henchman doing all the heavy lifting for you!\n\n- A/B Rank Farmer\n- Hunt Logs\n- Hunt Bills\n- Retainer Creation\n- Character Creation\n- Multi Account Trading\n- Multicharacter Ocean Fishing Cycler\n- Chocobokeeps\nand more to come.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/85",
@@ -33522,7 +33563,7 @@
                 "Author": "Knightmore",
                 "Name": "Knightshopper",
                 "InternalName": "Knightshopper",
-                "AssemblyVersion": "1.1.0.0",
+                "AssemblyVersion": "1.1.0.1",
                 "Description": "Your personal shopper who will take care of all your currency spendings!\n\nKnightshopper: because even knights deserve a squire for their shopping.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/173",
@@ -33533,7 +33574,7 @@
                 "Author": "Knightmore",
                 "Name": "MappingTheRealm",
                 "InternalName": "MappingTheRealm",
-                "AssemblyVersion": "1.0.0.0",
+                "AssemblyVersion": "1.0.0.1",
                 "Description": "Mapping The Realm plans routes across FFXIV zones, using vnavmesh to find paths within each zone and linking them by walking, flying, ferry, teleport and other movement options. Pick a destination and find the shortest route.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Knightmore/MappingTheRealm",
@@ -33543,11 +33584,11 @@
                 "Author": "Knightmore",
                 "Name": "MogVault",
                 "InternalName": "MogVault",
-                "AssemblyVersion": "1.0.0.0",
+                "AssemblyVersion": "1.0.0.1",
                 "Description": "Remembers what your characters, retainers and free companies hold, so you can look it up from any character.\n\n- Item search across characters, retainers, FC chests, glamour dresser and armoire\n- Storage info in the game's item tooltips (optional)\n- Jobs, currencies, quests and collections of all characters\n- Glamour dresser outfits and armoire per character\n- Retainer gil, items and ventures\n- FC chest, credits and submarine/airship voyages\n- Houses, apartments and private chambers with last entry time\n- Hide names for screenshots, daily backups\n- IPC for other plugins",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Knightmore/MogVault",
-                "LastUpdate": 1795546090
+                "LastUpdate": 1795617828
             }
         ]
     },
@@ -34139,12 +34180,12 @@
                 "Author": "wah",
                 "Name": "WahTools",
                 "InternalName": "WahTools",
-                "AssemblyVersion": "20.0.0.73",
+                "AssemblyVersion": "20.0.0.74",
                 "Description": "Fish, Hunt",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/180",
                 "RepoUrl": "https://git.wahapp.com/wah/WahTools",
-                "LastUpdate": 1795580766
+                "LastUpdate": 1795615515
             },
             {
                 "Author": "wah",
@@ -34154,7 +34195,7 @@
                 "Description": "Advanced inventory management with safety filters and auto-discard",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://git.wahapp.com/wah/wahventory",
-                "LastUpdate": 1795286491
+                "LastUpdate": 1795617091
             }
         ]
     },
@@ -37715,12 +37756,12 @@
                 "Author": "Enceladeum (HMapSync), modified by 1010",
                 "Name": "HMapSync-CN",
                 "InternalName": "HMSync",
-                "AssemblyVersion": "1.1.1.0",
+                "AssemblyVersion": "1.1.3.0",
                 "Description": "【开发中，未经完整实测】HMapSync（作者 Enceladeum）的修改版：国服适配、场地机关与阶段、布局版本、中文场景名。仅支持国服，不能与原版 HMapSync 同时启用。AGPL-3.0，源码随包发布在同一仓库。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Enceladeum/HMapSync/main/images/icon.png",
                 "RepoUrl": "https://github.com/SAD777A/1010/tree/main/HMapSync-CN",
-                "LastUpdate": 1795343334,
+                "LastUpdate": 1795610735,
                 "is_ai_attributed": true
             },
             {
@@ -37737,11 +37778,11 @@
                 "Author": "1010",
                 "Name": "本地改名 LocalName",
                 "InternalName": "LocalName",
-                "AssemblyVersion": "0.5.0.0",
+                "AssemblyVersion": "0.6.0.0",
                 "Description": "一个修改本地名字等显示的小玩具，并添加了一些特效",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/SAD777A/1010/tree/main/LocalName",
-                "LastUpdate": 1795338956,
+                "LastUpdate": 1795603979,
                 "is_ai_attributed": true
             },
             {
@@ -39323,12 +39364,12 @@
                 "Author": "XeldarAlz,ShiinaShiro7",
                 "Name": "ShiroAutoTreasureMaps",
                 "InternalName": "ShiroAutoTreasureMaps",
-                "AssemblyVersion": "1.6.3.0",
+                "AssemblyVersion": "1.6.3.1",
                 "Description": "基于XeldarAlz的Auto Treasure Maps，增加了组队挖宝、自动打工、G18剧透等功能。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ShiinaShiro7/DalamudPlugins/main/plugins/ShiroAutoTreasureMaps/icon.png",
                 "RepoUrl": "https://github.com/ShiinaShiro7/DalamudPlugins",
-                "LastUpdate": 1795535798
+                "LastUpdate": 1795604533
             },
             {
                 "Author": "ShiinaShiro7",
@@ -39565,12 +39606,12 @@
                 "Author": "XSZYYS",
                 "Name": "XSZToolbox",
                 "InternalName": "XSZToolbox",
-                "AssemblyVersion": "2.0.0.8",
+                "AssemblyVersion": "2.0.0.9",
                 "Description": "小小工具箱 - 集成物品合并、位移、虚空风脉等实用功能",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/ShoOtaku/DalamudPlugins/main/plugins/XSZToolbox/icon.png",
                 "RepoUrl": "https://github.com/ShoOtaku/DalamudPlugins/tree/main/plugins/XSZToolbox",
-                "LastUpdate": 1795276841,
+                "LastUpdate": 1795605696,
                 "is_closed_source": true
             }
         ]
@@ -40602,12 +40643,12 @@
                 "Author": "Solona",
                 "Name": "Milieu",
                 "InternalName": "Milieu",
-                "AssemblyVersion": "2611.191.0.0",
+                "AssemblyVersion": "2611.198.0.0",
                 "Description": "Projects an HDRI or panorama image onto a sky dome around you, for screenshots and venues. A large dome for outdoor skies, a small one for room interiors.\n\nType /milieu to open it.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://dl.solona.info/milieu/icon.png",
                 "RepoUrl": "https://github.com/solona-m/milieu",
-                "LastUpdate": 1795358960,
+                "LastUpdate": 1795577000,
                 "is_ai_attributed": true
             },
             {
@@ -40619,7 +40660,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://dl.solona.info/icon.png",
                 "RepoUrl": "https://github.com/solona-m/proteus",
-                "LastUpdate": 1795476981,
+                "LastUpdate": 1795577477,
                 "is_ai_attributed": true
             }
         ]
@@ -41598,12 +41639,12 @@
                 "Author": "Stwohm (fork of yagi2/Restocker)",
                 "Name": "Restocky",
                 "InternalName": "Restocky",
-                "AssemblyVersion": "0.3.14.1",
+                "AssemblyVersion": "0.3.14.4",
                 "Description": "Personal fork of yagi2/Restocker. Reprice every retainer listing to the live market lowest -N gil with floor / max-drop guards, track each listing until it sells (reprices, competitors, days, gil), one-click full cycle and an optional timed auto-cycle at the summoning bell that waits for AutoRetainer. Timed automation is against the FFXIV ToS; use at your own risk.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Stwohm/Restocky/main/images/icon.png",
                 "RepoUrl": "https://github.com/Stwohm/Restocker",
-                "LastUpdate": 1795559774,
+                "LastUpdate": 1795618489,
                 "is_ai_attributed": true
             }
         ]
@@ -41618,12 +41659,12 @@
                 "Author": "Stwohm (fork of yagi2/Restocker)",
                 "Name": "Restocky",
                 "InternalName": "Restocky",
-                "AssemblyVersion": "0.3.14.1",
+                "AssemblyVersion": "0.3.14.4",
                 "Description": "Personal fork of yagi2/Restocker. Reprice every retainer listing to the live market lowest -N gil with floor / max-drop guards, track each listing until it sells (reprices, competitors, days, gil), one-click full cycle and an optional timed auto-cycle at the summoning bell that waits for AutoRetainer. Timed automation is against the FFXIV ToS; use at your own risk.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Stwohm/Restocky/main/images/icon.png",
                 "RepoUrl": "https://github.com/Stwohm/Restocky",
-                "LastUpdate": 1795559774,
+                "LastUpdate": 1795618489,
                 "is_ai_attributed": true
             }
         ]
@@ -46019,7 +46060,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/WigglyMuffin/DalamudPlugins/main/icons/Questionable.png",
                 "RepoUrl": "https://github.com/WigglyMuffin/Questionable",
-                "LastUpdate": 1795277204
+                "LastUpdate": 1795602754
             },
             {
                 "Author": "WigglyMuffin, CryoTechnic",
@@ -46030,7 +46071,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/WigglyMuffin/DalamudPlugins/main/icons/Questionable.png",
                 "RepoUrl": "https://github.com/WigglyMuffin/Questionable",
-                "LastUpdate": 1795277204
+                "LastUpdate": 1795602754
             }
         ]
     },
@@ -48258,12 +48299,12 @@
                 "Author": "John Smith / Yuzi",
                 "Name": "NewFolder3",
                 "InternalName": "NewFolder3",
-                "AssemblyVersion": "0.7.55.2208",
+                "AssemblyVersion": "0.7.55.2301",
                 "Description": "基于原版修改，完善了深层迷宫的探索、战斗、道具使用和楼层推进逻辑，已有完整流程通关下底的实测记录。内置自由选层探索模式，可按需选择楼层进行探索。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/yuanzil1243-oss/DalamudPlugins/main/NewFolder3/icon.png",
                 "RepoUrl": "https://github.com/yuanzil1243-oss/DalamudPlugins",
-                "LastUpdate": 1795589239
+                "LastUpdate": 1795610818
             }
         ]
     },
