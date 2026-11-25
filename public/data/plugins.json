@@ -169,7 +169,7 @@
                 "Description": "Read-only inspector for loaded character models, materials and candidate ID textures. Exact colorset row identification is planned for later development.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/420Dasher/Dashs-Plugins/tree/testing/AdvancedDyeRowInspector",
-                "LastUpdate": 1795575324,
+                "LastUpdate": 1795576646,
                 "is_ai_attributed": true
             },
             {
@@ -181,7 +181,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/420Dasher/Dashs-Plugins/main/plugins/AethernetAssist/icon.png",
                 "RepoUrl": "https://github.com/420Dasher/DAH-LocalTrackSupport",
-                "LastUpdate": 1795575343,
+                "LastUpdate": 1795576666,
                 "is_ai_attributed": true
             },
             {
@@ -259,7 +259,7 @@
                 "Description": "Read-only inspector for loaded character models, materials and candidate ID textures. Exact colorset row identification is planned for later development.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/420Dasher/Dashs-Plugins/tree/testing/AdvancedDyeRowInspector",
-                "LastUpdate": 1795575324,
+                "LastUpdate": 1795576646,
                 "is_ai_attributed": true
             },
             {
@@ -1201,11 +1201,11 @@
                 "Author": "McVaxius",
                 "Name": "God Mod Companion",
                 "InternalName": "BMRVariantLoader",
-                "AssemblyVersion": "3.2.10.41",
+                "AssemblyVersion": "3.2.10.56",
                 "Description": "Encounter additions, Praetorium timelines and bundled cooldown plans, with AethertekUI appearance for BMR settings, autorotation and AI. BossModReborn must be installed and enabled.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/BMRVariantLoader-Public",
-                "LastUpdate": 1795575406,
+                "LastUpdate": 1795595410,
                 "is_ai_attributed": true
             },
             {
@@ -2869,12 +2869,12 @@
                 "Author": "pokeda",
                 "Name": "Harmonia",
                 "InternalName": "HarmoniaEngine",
-                "AssemblyVersion": "0.1.28.1",
+                "AssemblyVersion": "0.1.29.0",
                 "Description": "Shows Final Fantasy XIV in another language using community translations. Add a translation from the link or file its author gives you, turn it on, and restart the game. Translations update themselves. Characters the game's own fonts don't have, such as Cyrillic in window titles, need Penumbra.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/AngelicaProject/Harmonia/main/Harmonia/Assets/Icon/harmonia_icon.png",
                 "RepoUrl": "https://github.com/AngelicaProject/Harmonia",
-                "LastUpdate": 1795541532,
+                "LastUpdate": 1795593896,
                 "is_ai_attributed": true
             }
         ]
@@ -4739,6 +4739,26 @@
         ]
     },
     {
+        "repo_developer_name": "azazev",
+        "repo_url": "https://raw.githubusercontent.com/azazev/SimBridge/main/repo.json",
+        "repo_source_url": "https://github.com/azazev/SimBridge",
+        "repo_name": "SimBridge",
+        "plugins": [
+            {
+                "Author": "azazev",
+                "Name": "SimBridge",
+                "InternalName": "AnoBossBridge",
+                "AssemblyVersion": "0.8.0.0",
+                "Description": "An experimental Dalamud compatibility plugin connecting AnoMech simulations with BossMod Reborn encounter modules. Requires both plugins.",
+                "DalamudApiLevel": 15,
+                "IconUrl": "https://raw.githubusercontent.com/azazev/SimBridge/main/assets/icon.png",
+                "RepoUrl": "https://github.com/azazev/SimBridge",
+                "LastUpdate": 1795590205,
+                "is_ai_attributed": true
+            }
+        ]
+    },
+    {
         "repo_developer_name": "badstupid6",
         "repo_url": "https://raw.githubusercontent.com/badstupid6/MassGlamourPlugin/main/repo.json",
         "repo_source_url": "https://github.com/badstupid6/MassGlamourPlugin",
@@ -6317,6 +6337,25 @@
                 "IconUrl": "https://cdn.jsdelivr.net/gh/CelineXIV/CelinesTools@main/CelinesToolkit/images/icon.png",
                 "RepoUrl": "https://github.com/CelineXIV/CelinesTools/tree/main/CelinesToolkit",
                 "LastUpdate": 1793058753,
+                "is_ai_attributed": true
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "Cellar-Mander",
+        "repo_url": "https://raw.githubusercontent.com/Cellar-Mander/jaunt/main/repo.json",
+        "repo_source_url": "https://github.com/Cellar-Mander/jaunt",
+        "repo_name": "jaunt",
+        "plugins": [
+            {
+                "Author": "Cellar Mander",
+                "Name": "Jaunt",
+                "InternalName": "Jaunt",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "Lists venues advertised in Party Finder and other sources, with their address, opening times and website, so you can copy the address or travel there from the list.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Cellar-Mander/jaunt",
+                "LastUpdate": 1795580284,
                 "is_ai_attributed": true
             }
         ]
@@ -12122,7 +12161,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/BMR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/BossmodReborn",
-                "LastUpdate": 1795545593
+                "LastUpdate": 1795573131
             },
             {
                 "Author": "The Combat Reborn Team",
@@ -12183,12 +12222,12 @@
                 "Author": "The Combat Reborn Team",
                 "Name": "Rotation Solver Reborn",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.8.10",
+                "AssemblyVersion": "7.5.8.11",
                 "Description": "Analyses combat information every frame and finds the best action.\n\nThis means almost all the information available in one frame in combat, including the status of all players in the party, the status of any hostile targets, skill cooldowns, the MP and HP of characters, the location of characters, casting status of the hostile target, combo, combat duration, player level, etc.\nThen, it will highlight the best action on the hot bar, or help you to click on it.\nIt is designed for `general combat`, not for savage or ultimate. Use it carefully.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/FFXIV-CombatReborn/RebornAssets/main/IconAssets/RSR_Icon.png",
                 "RepoUrl": "https://github.com/FFXIV-CombatReborn/RotationSolverReborn",
-                "LastUpdate": 1795548047
+                "LastUpdate": 1795554480
             },
             {
                 "Author": "Churin",
@@ -13464,11 +13503,11 @@
                 "Author": "GiR-Zippo",
                 "Name": "VMCPlugin",
                 "InternalName": "VMCPlugin",
-                "AssemblyVersion": "0.0.3.5",
+                "AssemblyVersion": "0.0.3.6",
                 "Description": "A plugin receiving VMC data and use it on your character.",
                 "IconUrl": "https://raw.githubusercontent.com/GiR-Zippo/Hypnotoad-Plugin/master/Data/icon.png",
                 "RepoUrl": "https://github.com//GiR-Zippo/VMC-Plugin",
-                "LastUpdate": 1795458415
+                "LastUpdate": 1795584571
             }
         ]
     },
@@ -15286,6 +15325,16 @@
         "plugins": [
             {
                 "Author": "obi",
+                "Name": "Fish Guide Revealer",
+                "InternalName": "FishGuideRevealer",
+                "AssemblyVersion": "1.0.0.0",
+                "Description": "Shows all fish in the Fish Guide window, revealing uncaught fish.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/ichi-obi/FishGuideRevealer",
+                "LastUpdate": 1795580376
+            },
+            {
+                "Author": "obi",
                 "Name": "Fishing Timer",
                 "InternalName": "FishingTimer",
                 "AssemblyVersion": "1.0.0.1",
@@ -15549,12 +15598,12 @@
                 "Author": "The Combat Reborn Team (fork by IndividualGather)",
                 "Name": "RotationSolverRebornButBetter",
                 "InternalName": "RotationSolver",
-                "AssemblyVersion": "7.5.8.1004",
+                "AssemblyVersion": "7.5.8.1104",
                 "Description": "An unofficial fork of Rotation Solver Reborn by The Combat Reborn Team: https://github.com/FFXIV-CombatReborn/RotationSolverReborn\nAll credit for the plugin goes to the original authors.\n\nWhy this fork exists: the official plugin only runs the rotations built into it. This fork adds a single feature: it also loads rotation DLLs from the CustomRotations folder in the plugin's config directory, so custom rotations can be maintained separately instead of in a full fork of the plugin.\n\nEverything else is unchanged. It is rebuilt automatically from every official release, with a teal theme to tell it apart.\n\nNot affiliated with or supported by The Combat Reborn Team. Please don't report issues with this fork to them.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/IndividualGather/RotationSolverRebornButBetter/main/branding/Logo.png",
                 "RepoUrl": "https://github.com/IndividualGather/RotationSolverRebornButBetter",
-                "LastUpdate": 1795495632,
+                "LastUpdate": 1795577542,
                 "is_ai_attributed": true
             }
         ]
@@ -16174,12 +16223,12 @@
                 "Author": "raynording",
                 "Name": "DACT",
                 "InternalName": "DalamudActCompat",
-                "AssemblyVersion": "1.0.1.0",
+                "AssemblyVersion": "1.0.1.1",
                 "Description": "Dalamud-side UI, storage, parser abstraction, and compatibility-host bridge for an ACT-compatible FFXIV parsing platform. This early build does not yet load FFXIV_ACT_Plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/JackyWilliam/DalamudActCompat/main/src/DalamudActCompat/images/icon.png",
                 "RepoUrl": "https://github.com/JackyWilliam/DalamudActCompat",
-                "LastUpdate": 1795516811,
+                "LastUpdate": 1795578586,
                 "is_ai_attributed": true
             },
             {
@@ -16224,12 +16273,12 @@
                 "Author": "raynording",
                 "Name": "DACT",
                 "InternalName": "DalamudActCompat",
-                "AssemblyVersion": "1.0.1.0",
+                "AssemblyVersion": "1.0.1.1",
                 "Description": "Dalamud-side UI, storage, parser abstraction, and compatibility-host bridge for an ACT-compatible FFXIV parsing platform. This early build does not yet load FFXIV_ACT_Plugin.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/JackyWilliam/DalamudActCompatRepo/main/dact-logo-512.png",
                 "RepoUrl": "https://github.com/JackyWilliam/DalamudActCompat",
-                "LastUpdate": 1795517658,
+                "LastUpdate": 1795595664,
                 "is_ai_attributed": true
             },
             {
@@ -16241,7 +16290,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/JackyWilliam/DalamudActCompatRepo/main/act-logo-512.png",
                 "RepoUrl": "https://github.com/JackyWilliam/DalamudActCompat",
-                "LastUpdate": 1795517658
+                "LastUpdate": 1795595664
             }
         ]
     },
@@ -16559,11 +16608,11 @@
                 "Author": "jake",
                 "Name": "Questionable Helper",
                 "InternalName": "QuestionableHelper",
-                "AssemblyVersion": "0.11.111.0",
+                "AssemblyVersion": "0.11.112.0",
                 "Description": "A modular helper for bounded Questionable recovery, exact-prompt safeguards, guarded ARR unlock routes, combat-stall recovery, and Stone Vigil Duty Support level/gear repair.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/jakeliu/dalamud-repo",
-                "LastUpdate": 1795404582,
+                "LastUpdate": 1795576675,
                 "is_ai_attributed": true
             },
             {
@@ -18146,12 +18195,12 @@
                 "Author": "kaldigo",
                 "Name": "Accord",
                 "InternalName": "Accord",
-                "AssemblyVersion": "0.2.15.15",
+                "AssemblyVersion": "0.2.15.16",
                 "Description": "Configures the compatible Wrathful Combo engine through its settings API and manages static/live hotbars. Includes compact PvE/PvP layouts, three-bar manual logout fallback with login restoration, and automatic Sprint conversion on active hotbars. Development preview.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/kaldigo/FFXIVAccord/main/assets/icon.png",
                 "RepoUrl": "https://github.com/kaldigo/FFXIVAccord",
-                "LastUpdate": 1794165113,
+                "LastUpdate": 1795579471,
                 "is_ai_attributed": true
             }
         ]
@@ -18166,12 +18215,12 @@
                 "Author": "kaldigo",
                 "Name": "Aetherform",
                 "InternalName": "Aetherform",
-                "AssemblyVersion": "0.4.0.31",
+                "AssemblyVersion": "0.4.0.34",
                 "Description": "Use /aetherform to install the body through Penumbra, select a collection, and adjust each physics area.",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/kaldigo/FFXIVAetherform/v0.4.0.31/assets/icon.png",
+                "IconUrl": "https://raw.githubusercontent.com/kaldigo/FFXIVAetherform/v0.4.0.34/assets/icon.png",
                 "RepoUrl": "https://github.com/kaldigo/FFXIVAetherform",
-                "LastUpdate": 1795571558
+                "LastUpdate": 1795590680
             }
         ]
     },
@@ -21497,12 +21546,12 @@
                 "Author": "Legends of the Game",
                 "Name": "Tales of Milestones",
                 "InternalName": "TimeMemoriaV3",
-                "AssemblyVersion": "3.16.0.15",
+                "AssemblyVersion": "3.17.0.15",
                 "Description": "Quest progression and pacing — a reflective notebook for your story journey, not a scoreboard.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/LegendsOfTheGame/TimeMemoriaV3/main/assets/icon.png",
                 "RepoUrl": "https://github.com/LegendsOfTheGame/TimeMemoriaV3",
-                "LastUpdate": 1795378751,
+                "LastUpdate": 1795577538,
                 "is_ai_attributed": true
             }
         ]
@@ -30784,11 +30833,11 @@
                 "Author": "Originaljsx",
                 "Name": "More Macros",
                 "InternalName": "MoreMacros",
-                "AssemblyVersion": "0.3.0.0",
+                "AssemblyVersion": "0.4.0.0",
                 "Description": "Stores as many macros as you like outside the game's 100 slots and runs them through the game's own macro engine with /mm <name>. Macros can be longer than 15 lines and can have per-job variants that share one name, so a single hotbar button does the right thing on every job.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Originaljsx/MoreMacros",
-                "LastUpdate": 1795416761,
+                "LastUpdate": 1795581329,
                 "is_ai_attributed": true
             }
         ]
@@ -33133,7 +33182,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/10",
                 "RepoUrl": "https://github.com/PunishXIV/Splatoon",
-                "LastUpdate": 1794578405
+                "LastUpdate": 1795583555
             },
             {
                 "Author": "Team Wrath",
@@ -33467,7 +33516,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/85",
                 "RepoUrl": "https://github.com/Knightmore/Henchman",
-                "LastUpdate": 1794430358
+                "LastUpdate": 1795593954
             },
             {
                 "Author": "Knightmore",
@@ -34090,12 +34139,12 @@
                 "Author": "wah",
                 "Name": "WahTools",
                 "InternalName": "WahTools",
-                "AssemblyVersion": "20.0.0.72",
+                "AssemblyVersion": "20.0.0.73",
                 "Description": "Fish, Hunt",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/180",
                 "RepoUrl": "https://git.wahapp.com/wah/WahTools",
-                "LastUpdate": 1795568169
+                "LastUpdate": 1795580766
             },
             {
                 "Author": "wah",
@@ -38315,25 +38364,26 @@
         "plugins": [
             {
                 "Author": "Sayuuryi",
-                "Name": "Chibi Dancing Mad",
-                "InternalName": "ChibiDancingMad",
-                "AssemblyVersion": "1.0.0.0",
-                "Description": "Lets you adjust the size of Exdeath and Chaos.\nNeeds Penumbra to work.\nType /chibidm to open the settings.\nType /chibidm redraw to redraw.",
+                "Name": "Sawoo Boss Scaler",
+                "InternalName": "SawooBossScaler",
+                "AssemblyVersion": "0.1.2.0",
+                "Description": "Pick a size for every boss in every phase of the ultimate fights. Type /sbs to open it.",
                 "DalamudApiLevel": 15,
-                "IconUrl": "https://raw.githubusercontent.com/Sayuuryi/ChibiDancingMad/main/icon.png",
-                "RepoUrl": "https://github.com/Sayuuryi/ChibiDancingMad",
-                "LastUpdate": 1795557491
+                "IconUrl": "https://raw.githubusercontent.com/Sayuuryi/SawooBossScaler/main/SawooBossScaler/Assets/icon.png",
+                "RepoUrl": "https://github.com/Sayuuryi/SawooBossScaler",
+                "LastUpdate": 1795585403
             },
             {
                 "Author": "Sayuuryi",
                 "Name": "Sawoo Plates",
                 "InternalName": "SawooPlates",
-                "AssemblyVersion": "0.8.0.0",
+                "AssemblyVersion": "0.9.24.0",
                 "Description": "Adds a small menu bar to the Portrait Editor with preset codes, a preset library and finer camera controls.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Sayuuryi/SawooPlates/main/SawooPlates/Assets/icon.png",
                 "RepoUrl": "https://github.com/Sayuuryi/SawooPlates",
-                "LastUpdate": 1795574114
+                "LastUpdate": 1795589715,
+                "is_ai_attributed": true
             }
         ]
     },
@@ -39841,18 +39891,18 @@
                 "Author": "Asteria Nocturna",
                 "Name": "Divination.AetheryteLinkInChat",
                 "InternalName": "AetheryteLinkInChat",
-                "AssemblyVersion": "7.5.1.0",
+                "AssemblyVersion": "7.5.2.0",
                 "Description": "Display a teleport link to the nearest aetherite for the map link from the in-game chat. Type /alic to configure the plugin.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/SlashNephy/Divination/tree/master/AetheryteLinkInChat",
-                "LastUpdate": 1794576710,
+                "LastUpdate": 1795580129,
                 "is_ai_attributed": true
             },
             {
                 "Author": "Asteria Nocturna",
                 "Name": "Divination.FaloopIntegration",
                 "InternalName": "FaloopIntegration",
-                "AssemblyVersion": "7.5.1.0",
+                "AssemblyVersion": "7.5.2.0",
                 "Description": "Show Faloop mob spawn notifications in in-game chat. Type /faloop to configure the plugin.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/SlashNephy/Divination/tree/master/FaloopIntegration",
@@ -46470,6 +46520,25 @@
         ]
     },
     {
+        "repo_developer_name": "Wyse2011",
+        "repo_url": "https://raw.githubusercontent.com/Wyse2011/VoidBackdrops/main/repo.json",
+        "repo_source_url": "https://github.com/Wyse2011/VoidBackdrops",
+        "repo_name": "VoidBackdrops",
+        "plugins": [
+            {
+                "Author": "Void",
+                "Name": "Void Backdrops",
+                "InternalName": "VoidBackdrops",
+                "AssemblyVersion": "1.0.2.0",
+                "Description": "Pick effects for each Void Backdrops slot with searchable dropdowns, recolor each slot with its own color, cycle colors (Chroma), adjust size and position, save setups as named presets, switch looks with one click or /voidbackdrops <preset>, and keep notes linked to effects and presets that export to a .txt file. Requires Penumbra and the Void Backdrops mod.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/Wyse2011/VoidBackdrops",
+                "LastUpdate": 1795582454,
+                "is_ai_attributed": true
+            }
+        ]
+    },
+    {
         "repo_developer_name": "xa-io",
         "repo_url": "https://raw.githubusercontent.com/xa-io/MyDalamudPlugins/master/pluginmaster.json",
         "repo_source_url": "https://github.com/xa-io/MyDalamudPlugins",
@@ -48189,12 +48258,12 @@
                 "Author": "John Smith / Yuzi",
                 "Name": "NewFolder3",
                 "InternalName": "NewFolder3",
-                "AssemblyVersion": "0.7.55.2206",
+                "AssemblyVersion": "0.7.55.2208",
                 "Description": "基于原版修改，完善了深层迷宫的探索、战斗、道具使用和楼层推进逻辑，已有完整流程通关下底的实测记录。内置自由选层探索模式，可按需选择楼层进行探索。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/yuanzil1243-oss/DalamudPlugins/main/NewFolder3/icon.png",
                 "RepoUrl": "https://github.com/yuanzil1243-oss/DalamudPlugins",
-                "LastUpdate": 1795574477
+                "LastUpdate": 1795589239
             }
         ]
     },
