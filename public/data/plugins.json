@@ -1221,11 +1221,11 @@
                 "Author": "McVaxius",
                 "Name": "God Mod Companion",
                 "InternalName": "BMRVariantLoader",
-                "AssemblyVersion": "3.3.0.27",
+                "AssemblyVersion": "3.3.0.28",
                 "Description": "Encounter additions, Praetorium timelines and bundled cooldown plans, with AethertekUI appearance for BMR settings, autorotation and AI. BossModReborn must be installed and enabled.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/McVaxius/BMRVariantLoader-Public",
-                "LastUpdate": 1795795283,
+                "LastUpdate": 1795819539,
                 "is_ai_attributed": true
             },
             {
@@ -1389,12 +1389,12 @@
                 "Author": "DhogGPT",
                 "Name": "Fren Rider",
                 "InternalName": "FrenRider",
-                "AssemblyVersion": "4.1.0.28",
+                "AssemblyVersion": "4.1.0.29",
                 "Description": "Native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider or /fr to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1795718656,
+                "LastUpdate": 1795817780,
                 "is_ai_attributed": true
             },
             {
@@ -1436,12 +1436,12 @@
                 "Author": "DhogGPT",
                 "Name": "Loot Goblin",
                 "InternalName": "LootGoblin",
-                "AssemblyVersion": "1.1.1.17",
+                "AssemblyVersion": "1.1.1.18",
                 "Description": "LootGoblin automates treasure map hunting by opening maps, reading local map flags, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/LootGoblin/master/LootGoblin/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1795360361,
+                "LastUpdate": 1795818966,
                 "is_ai_attributed": true
             },
             {
@@ -1461,12 +1461,12 @@
                 "Author": "DhogGPT",
                 "Name": "M.O.G.T.O.M.E.",
                 "InternalName": "MOGTOME",
-                "AssemblyVersion": "4.2.0.31",
+                "AssemblyVersion": "4.2.0.32",
                 "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open. M.O.G.T.O.M.E. = Management Of Grand Tome Operations & Management Engine",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/MOGTOME/master/MOGTOME/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/MOGTOME",
-                "LastUpdate": 1795376805,
+                "LastUpdate": 1795818970,
                 "is_ai_attributed": true
             },
             {
@@ -1539,7 +1539,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/WigglyCorp/DalamudPlugins/main/icons/Questionable.png",
                 "RepoUrl": "https://github.com/WigglyMuffin/Questionable",
-                "LastUpdate": 1795770882
+                "LastUpdate": 1795819997
             },
             {
                 "Author": "XA",
@@ -1581,12 +1581,12 @@
                 "Author": "XA",
                 "Name": "XA Zod",
                 "InternalName": "XAZod",
-                "AssemblyVersion": "0.0.0.9",
+                "AssemblyVersion": "0.0.0.10",
                 "Description": "XA Zod is Aethertek's private early beta testing environment for experimental features. Participation is arranged through the Aethertek community. The public download provides access information only and does not grant private access. Features may remain private indefinitely.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Zod/main/XAZod/images/icon.png",
                 "RepoUrl": "https://github.com/xa-io/XA-Zod",
-                "LastUpdate": 1795361342,
+                "LastUpdate": 1795809279,
                 "is_closed_source": true
             },
             {
@@ -2814,11 +2814,11 @@
                 "Author": "Amletick",
                 "Name": "Look Mirror",
                 "InternalName": "LookMirror",
-                "AssemblyVersion": "0.1.0.0",
+                "AssemblyVersion": "0.3.0.0",
                 "Description": "Copies the files a nearby (Lightless-synced) player currently wears, as resolved by Penumbra, plus their Glamourer state onto you as a temporary mod. Revert any time; optionally save the look as a Penumbra .pmp (one mod or split per part) and a Glamourer design. Split out of Emote Mirror.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Amletick/LookMirror",
-                "LastUpdate": 1795110902,
+                "LastUpdate": 1795811886,
                 "is_ai_attributed": true
             }
         ]
@@ -7147,12 +7147,12 @@
                 "Author": "Tundy",
                 "Name": "Tundy",
                 "InternalName": "Tundy",
-                "AssemblyVersion": "0.6.3.0",
+                "AssemblyVersion": "0.6.5.0",
                 "Description": "When someone sends you a tell with \"!q <link>\", Tundy queues the song automatically. Works with YouTube videos and playlists, and Spotify tracks, playlists and albums (matched to YouTube). Has its own song queue like SoundyQ (approval queue, who can request, per-player permissions) and plays songs for nearby Lightless Sync pairs through the Mega Music Mod. Includes Soundy's import tools: add YouTube or local songs to any Penumbra mod with loudness and EQ presets, and replace game sounds. Optional: announce songs in chat and tell requesters their place in the queue. Downloads use yt-dlp, which Tundy fetches on first use. Free software under the GNU AGPL-3.0.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Clair-songs/Tundy/main/images/icon.png",
                 "RepoUrl": "https://github.com/Clair-songs/Tundy",
-                "LastUpdate": 1795798369
+                "LastUpdate": 1795809340
             }
         ]
     },
@@ -7172,6 +7172,25 @@
                 "IconUrl": "https://raw.githubusercontent.com/ClariS21/FruPractice/main/images/icon.png",
                 "RepoUrl": "https://github.com/ClariS21/FruPractice",
                 "LastUpdate": 1795205318,
+                "is_ai_attributed": true
+            }
+        ]
+    },
+    {
+        "repo_developer_name": "clbx",
+        "repo_url": "https://raw.githubusercontent.com/clbx/claytweaks/main/repo.json",
+        "repo_source_url": "https://github.com/clbx/claytweaks",
+        "repo_name": "claytweaks",
+        "plugins": [
+            {
+                "Author": "clay",
+                "Name": "ClayTweaks",
+                "InternalName": "ClayTweaks",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "A collection of small tweaks I want in my game.\n\nShopping List: right-click any item and choose 'Add to Shopping List'. When you open the market board or a vendor, your list appears showing how many of each item you own versus how many you need.\n\nGear Upgrades: alerts you and auto-rolls Need/Greed when loot or new items beat what's in your gearsets.\n\nGear Catalog: tracks the best tomestone (combat) and scrip (crafter/gatherer) gear per role at every level cap, shows what your gearsets have outgrown, and warns before you throw it away.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/clbx/claytweaks",
+                "LastUpdate": 1795805395,
                 "is_ai_attributed": true
             }
         ]
@@ -9086,12 +9105,12 @@
                 "Author": "Bike",
                 "Name": "Hunting Log Helper",
                 "InternalName": "HuntingLogHelper",
-                "AssemblyVersion": "0.2.9.0",
+                "AssemblyVersion": "0.2.11.0",
                 "Description": "Travels to hunting log targets, lets BossMod Reborn and Rotation Solver Reborn fight, verifies completion, and moves on.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/DevilBike/hlh/main/images/icon.png",
                 "RepoUrl": "https://github.com/DevilBike/hlh",
-                "LastUpdate": 1795375429,
+                "LastUpdate": 1795818238,
                 "is_ai_attributed": true
             }
         ]
@@ -9573,12 +9592,12 @@
                 "Author": "D. Luuuffy",
                 "Name": "EorzeaCore - Goals",
                 "InternalName": "DailyGoals",
-                "AssemblyVersion": "1.8.71.0",
+                "AssemblyVersion": "1.8.73.0",
                 "Description": "Dein Ziel-Planer für FFXIV:\n• Stämme: Rang, Ruf, Währung und Tagesquests - alle annehmen, erledigen und zum Schluss gesammelt abgeben (Questionable)\n• Routine: Timer, offene Tagesaufgaben und eine Playlist, die alles der Reihe nach abspielt\n• Raids & Dungeons: was freigeschaltet ist, was fehlt - Freischalten per Klick mit Questionable\n• Quests: alle blauen und normalen Quests, die dir noch fehlen - getrennt nach Kampf, Sammler und Handwerker, mit Belohnungen; Play = Questionable erledigt sie\n• Fliegen: Windätherquellen pro Gebiet - Quellen (vnavmesh) und Quests (Questionable) automatisch\n• Belohnungen: alle Reittiere, Begleiter, Emotes, Ausrüstungs-Sets, Mode, Orchestrion und Karten mit Herkunft\n\n/ziele öffnet das Fenster · /ziele start · /ziele playlist · /ziele stopp\n\nBenötigt: Questionable (puni.sh) mit vnavmesh, Lifestream und einem Kampf-Plugin.\n• Sprache umstellbar: Deutsch oder Englisch (Zahnrad → Sprache, oder /ziele englisch · /goals german) - auch Item- und Inhaltsnamen",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Dluuufffey/EorzeaCore/main/icons/DailyGoals.png",
                 "RepoUrl": "https://github.com/Dluuufffey/EorzeaCore",
-                "LastUpdate": 1795718506
+                "LastUpdate": 1795819964
             },
             {
                 "Author": "D. Luuuffy",
@@ -10287,12 +10306,12 @@
                 "Author": "Eauldane",
                 "Name": "Snowcloak Sync",
                 "InternalName": "Snowcloak",
-                "AssemblyVersion": "5.2.2.1",
+                "AssemblyVersion": "5.2.3.0",
                 "Description": "This plugin will synchronize your Penumbra mods and current Glamourer state with other paired clients automatically.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Eauldane/SnowcloakClient/refs/heads/main/Snowcloak/images/logo.png",
                 "RepoUrl": "https://github.com/Eauldane/SnowcloakClient",
-                "LastUpdate": 1795168482
+                "LastUpdate": 1795819870
             },
             {
                 "Author": "Eauldane",
@@ -11084,12 +11103,12 @@
                 "Author": "The Enceladeum",
                 "Name": "HMapSync (HMS)",
                 "InternalName": "HMSync",
-                "AssemblyVersion": "1.1.0.7",
+                "AssemblyVersion": "1.1.0.9",
                 "Description": "Load any in-game map client-side and explore it solo or with up to 20 friends, behind a packet filter that keeps the server seeing you as idle in your room. Shared weather, BGM and time; client-side mounts, emotes and minions; carpet floors for spots without collision; head-tilt and gaze sync for roleplay; and proximity say/yell passthrough. Co-op needs a relay key (closed beta); solo mode never connects to the relay.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Enceladeum/HMapSync/main/images/icon.png",
                 "RepoUrl": "https://github.com/Enceladeum/HMapSync",
-                "LastUpdate": 1795706307,
+                "LastUpdate": 1795819538,
                 "is_ai_attributed": true
             },
             {
@@ -11672,7 +11691,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1795709276
+                "LastUpdate": 1795794922
             }
         ]
     },
@@ -13913,12 +13932,12 @@
                 "Author": "gnomerock",
                 "Name": "Konyaku Jelly",
                 "InternalName": "Konyakku",
-                "AssemblyVersion": "0.7.11.0",
+                "AssemblyVersion": "0.7.12.0",
                 "Description": "Translates incoming chat into your language and lets you write messages in your own language, translated before sending. Works with your ChatGPT subscription (via Codex CLI login) or an OpenAI, Claude or Gemini API key.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/gnomerock/konnyaku-jelly/main/Konyakku/images/icon.png",
                 "RepoUrl": "https://github.com/gnomerock/konnyaku-jelly",
-                "LastUpdate": 1793457389,
+                "LastUpdate": 1795800624,
                 "is_ai_attributed": true
             }
         ]
@@ -15162,12 +15181,12 @@
                 "Author": "Husk & Bone",
                 "Name": "LE-C UI",
                 "InternalName": "LECUI",
-                "AssemblyVersion": "0.3.119.0",
+                "AssemblyVersion": "0.3.121.0",
                 "Description": "LE-C UI (Limsa E-Couple UI) draws the game's HUD again in a look of your choosing: usual, cute (pastels, hearts and sparkles, round corners; six colour sets) or edgy (black, sharp corners, slashes, capitals; six colour sets), each with your own colours, corners, border and little drawings.\n\nEach piece of the HUD has its own switch: the chat box, the party list, the duty list (quests, the duty, FATEs, the duty finder), the job gauge as the game has it (every job's gauge windows, the second one its own piece too), your HP and MP, your target and its target, your focus target, your cast bar, your statuses, the enemy list, the limit gauge and the experience bar. Switched on, LE-C UI draws that piece where the game's own is in your HUD layout and keeps the game's own off the screen; switched off, the game's own is back exactly where it was. Nothing of the game's settings is ever changed: your HUD layouts, configuration, chat settings and keybinds stay exactly as they are, the game's own pieces come back by themselves while the HUD layout editor is open, when you log out and when LE-C UI is disabled, and each update keeps a copy of your LE-C UI settings.\n\nEvery piece is a box over the game that's moved and sized the same way (/lecui place, or the arrows on the settings window's title bar, shows them all: drag one, or its sides; it snaps to the others and the screen's edges; hold Ctrl to move them all together), with how solid its background is, how strongly it's drawn, the shadow under its writing and its size each its own setting. A piece shows when the game would show its own (hidden in cutscenes, by your HUD layout, and so on).\n\nThe party list has the game's job icons (or its framed ones, or the roles), your chocobo's icon, the party's numbers, the leader's crown, the signs over heads, ready check answers, who has the enemy's attention, who's raising whom, the icon of what each member is casting and a mark for what Esuna takes off; it targets on click, opens the game's own menu on right-click and is a mouseover target for your macros. The chat box has its own tabs, your chat colours, names in colours of your choosing (one colour, a colour for each person, or a colour of their own for people you pick), clickable links (map flags, names, other plugins' links), your last lines on Up and Down, and opens when you press Enter, as the game's does; drag its tab row to move it and pull its sides to size it, any time. The duty list opens a quest in the journal on click.\n\nSaved chat (off until you switch it on): your tells, and any other channels you pick, are kept in a text file a day on your computer, never sent anywhere, for as long as you choose; /lecui history reads them back with a search.\n\nTells window (off until you switch it on): your tells in a window of their own, a conversation for each person with a line to answer on, popping up when one comes in (after a fight or a cutscene, not during).\n\n/lecui opens the settings; /lecui place shows, moves and sizes every piece; /lecui history opens saved chat; /lecui tells opens the tells window; /lecui on|off <piece|all>; /lecui usual|cute|edgy.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/huskandbone/lecui-builds/main/icon.png",
                 "RepoUrl": "https://github.com/huskandbone/lecui-builds",
-                "LastUpdate": 1795797238,
+                "LastUpdate": 1795801503,
                 "is_ai_attributed": true
             }
         ]
@@ -15752,12 +15771,12 @@
                 "Author": "IndividualGather",
                 "Name": "XIV MCP",
                 "InternalName": "XivMcp",
-                "AssemblyVersion": "0.3.0.148",
+                "AssemblyVersion": "0.3.0.149",
                 "Description": "XIV MCP runs a local MCP server (only reachable from your own PC, protected by an access token) so any AI assistant that supports the Model Context Protocol (Claude, ChatGPT, Codex, LM Studio and others) can see your game and help with it.\n\nRead your character live: stats and jobs, gear, inventory, currencies, quests, achievements and unlocks, party, targets, nearby objects, FATEs and the game's data sheets. Retainers and submersibles are remembered between visits.\n\nOptional modules, each behind its own switch in /xivmcp: game interaction and navigation, inventory and retainers, market and purchases (every non-gil purchase asks you in game), crafting and gathering, quests, custom deliveries, fishing, submersibles, plugin management, and background jobs that run for hours on their own.\n\nDocumentation: https://individualgather.github.io/xiv-mcp/",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/IndividualGather/xiv-mcp/master/XivMcp/images/icon.png",
                 "RepoUrl": "https://github.com/IndividualGather/xiv-mcp",
-                "LastUpdate": 1795558812,
+                "LastUpdate": 1795802808,
                 "is_ai_attributed": true
             }
         ]
@@ -16309,9 +16328,9 @@
     },
     {
         "repo_developer_name": "Jackoltrade",
-        "repo_url": "https://raw.githubusercontent.com/Jackoltrade/Better-Controller-Experience-for-FFXIV/main/repo.json",
-        "repo_source_url": "https://github.com/Jackoltrade/Better-Controller-Experience-for-FFXIV",
-        "repo_name": "Better-Controller-Experience-for-FFXIV",
+        "repo_url": "https://raw.githubusercontent.com/Jackoltrade/Better-controller-experience-for-FFXIV/main/repo.json",
+        "repo_source_url": "https://github.com/Jackoltrade/Better-controller-experience-for-FFXIV",
+        "repo_name": "Better-controller-experience-for-FFXIV",
         "plugins": [
             {
                 "Author": "Jackoltrade",
@@ -16329,9 +16348,9 @@
     },
     {
         "repo_developer_name": "Jackoltrade",
-        "repo_url": "https://raw.githubusercontent.com/Jackoltrade/Better-controller-experience-for-FFXIV/main/repo.json",
-        "repo_source_url": "https://github.com/Jackoltrade/Better-controller-experience-for-FFXIV",
-        "repo_name": "Better-controller-experience-for-FFXIV",
+        "repo_url": "https://raw.githubusercontent.com/Jackoltrade/Better-Controller-Experience-for-FFXIV/main/repo.json",
+        "repo_source_url": "https://github.com/Jackoltrade/Better-Controller-Experience-for-FFXIV",
+        "repo_name": "Better-Controller-Experience-for-FFXIV",
         "plugins": [
             {
                 "Author": "Jackoltrade",
@@ -16492,12 +16511,12 @@
                 "Author": "Jacob5800",
                 "Name": "Retainer Pricer",
                 "InternalName": "RetainerPricer",
-                "AssemblyVersion": "0.5.1.90",
+                "AssemblyVersion": "0.5.1.92",
                 "Description": "Automatically price eligible inventory and reprice existing listings one gil below matching competition using Universalis market prices and recent sale history.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Jacob5800/DalamudPlugins/main/plugins/RetainerPricer/images/icon.png",
                 "RepoUrl": "https://github.com/Jacob5800/DalamudPlugins",
-                "LastUpdate": 1795661569,
+                "LastUpdate": 1795817674,
                 "is_ai_attributed": true
             },
             {
@@ -17568,11 +17587,11 @@
                 "Author": "Iam Batman",
                 "Name": "Diadem Gatherer",
                 "InternalName": "DiademGatherer",
-                "AssemblyVersion": "0.1.13.0",
+                "AssemblyVersion": "0.1.17.0",
                 "Description": "Gathers a fixed Diadem route natively — finds the real node at each waypoint, flies in on a combined fly/land/walk path, and works the item slots itself. Respects the sequential node chains (a node is always exhausted before moving on, since the next one only spawns then), spends Revisit GP procs on skills, and learns which spots reliably open each node. Handles the whole round trip: leave duty, certify loot at Flotpassant, spend scrips at Enie, repair with dark matter, and re-enter via Aurvael. Includes an Artisan-driven crafting loop for the Skybuilders' collectables. Requires vnavmesh.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/jshade2710/DiademGatherer",
-                "LastUpdate": 1794677216,
+                "LastUpdate": 1795807691,
                 "is_ai_attributed": true
             }
         ]
@@ -20106,12 +20125,12 @@
                 "Author": "koko",
                 "Name": "Raid Codex",
                 "InternalName": "RaidPlanner",
-                "AssemblyVersion": "0.11.1.0",
+                "AssemblyVersion": "0.11.2.0",
                 "Description": "Records the fights you're in: the boss's casts and where they land, stacks, spreads, tankbusters, tethers, head markers and waymarks, and (if you like) where your party stood. Send a pull to Koko's Raid Planner and it becomes a plan, step by step, ready to draw your strats on, or save it as a file to import there.\n\nIt only watches: nothing is sent to the game. Open it with /raidplan.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/koko-puffs/raid-planner-plugin/main/RaidPlanner/images/icon.png",
                 "RepoUrl": "https://github.com/koko-puffs/raid-planner-plugin",
-                "LastUpdate": 1795779106,
+                "LastUpdate": 1795815671,
                 "is_ai_attributed": true
             }
         ]
@@ -20261,12 +20280,12 @@
                 "Author": "konvarec",
                 "Name": "HuntPad",
                 "InternalName": "HuntPad",
-                "AssemblyVersion": "0.4.1.17",
+                "AssemblyVersion": "0.4.1.23",
                 "Description": "HuntPad is a companion for FFXIV hunt activity. It maps nearby players, mobs, and FATEs; records risky-mob spawn points; and provides S-rank trigger counters. Open it with /huntpad. A distribution access key is required before first use.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/konvarec/HuntPadCustomRepo/main/images/huntpad-v2.png",
                 "RepoUrl": "https://github.com/konvarec/HuntPadCustomRepo",
-                "LastUpdate": 1795746769
+                "LastUpdate": 1795818485
             }
         ]
     },
@@ -20299,12 +20318,12 @@
                 "Author": "konvarec",
                 "Name": "HuntPad",
                 "InternalName": "HuntPad",
-                "AssemblyVersion": "0.4.1.17",
+                "AssemblyVersion": "0.4.1.23",
                 "Description": "HuntPad is a companion for FFXIV hunt activity. It maps nearby players, mobs, and FATEs; records risky-mob spawn points; and provides S-rank trigger counters. Open it with /huntpad. A distribution access key is required before first use.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/konvarec/HuntPadCustomRepo/main/images/huntpad-v2.png",
                 "RepoUrl": "https://github.com/konvarec/HuntPadCustomRepo",
-                "LastUpdate": 1795746789
+                "LastUpdate": 1795818501
             }
         ]
     },
@@ -21042,7 +21061,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Kyuuso/EurekaSuite-releases/main/icon.png",
                 "RepoUrl": "https://github.com/Kyuuso/EurekaSuite-releases",
-                "LastUpdate": 1795628102,
+                "LastUpdate": 1795802216,
                 "is_closed_source": true,
                 "is_ai_attributed": true
             }
@@ -22979,12 +22998,12 @@
                 "Author": "LolipopJ",
                 "Name": "MomoTalk",
                 "InternalName": "FFXIVMomoTalk",
-                "AssemblyVersion": "1.3.0.0",
+                "AssemblyVersion": "1.4.0.0",
                 "Description": "Bring Blue Archive's iconic MomoTalk into FINAL FANTASY XIV! Crafted for every Sensei in Eorzea, MomoTalk turns your in-game friend /tells into a faithful Blue Archive messenger — complete with a draggable floating phone button, the signature bouncy opening splash, grouped chat bubbles, Lodestone avatars, editable friend notes, and per-character local history. Open with /momotalk or tap the floating MomoTalk icon anytime.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/LolipopJ/ffxiv-momotalk/main/src/Data/icon.png",
                 "RepoUrl": "https://github.com/LolipopJ/ffxiv-momotalk",
-                "LastUpdate": 1795774275,
+                "LastUpdate": 1795802649,
                 "is_ai_attributed": true
             }
         ]
@@ -24867,12 +24886,12 @@
                 "Author": "DhogGPT",
                 "Name": "Fren Rider",
                 "InternalName": "FrenRider",
-                "AssemblyVersion": "4.1.0.28",
+                "AssemblyVersion": "4.1.0.29",
                 "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/FrenRider",
-                "LastUpdate": 1795718656,
+                "LastUpdate": 1795817780,
                 "is_ai_attributed": true
             }
         ]
@@ -24947,12 +24966,12 @@
                 "Author": "DhogGPT",
                 "Name": "Loot Goblin",
                 "InternalName": "LootGoblin",
-                "AssemblyVersion": "1.1.1.17",
+                "AssemblyVersion": "1.1.1.18",
                 "Description": "LootGoblin automates treasure map hunting by opening maps, detecting locations via GlobeTrotter, teleporting to the nearest aetheryte, coordinating with party members, and flying to the treasure location. Use /lootgoblin or /lg to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/LootGoblin/master/LootGoblin/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-                "LastUpdate": 1795360361,
+                "LastUpdate": 1795818966,
                 "is_ai_attributed": true
             }
         ]
@@ -24967,12 +24986,12 @@
                 "Author": "DhogGPT",
                 "Name": "M.O.G.T.O.M.E.",
                 "InternalName": "MOGTOME",
-                "AssemblyVersion": "4.2.0.31",
+                "AssemblyVersion": "4.2.0.32",
                 "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/McVaxius/MOGTOME/master/MOGTOME/images/icon.png",
                 "RepoUrl": "https://github.com/McVaxius/MOGTOME",
-                "LastUpdate": 1795376805,
+                "LastUpdate": 1795818970,
                 "is_ai_attributed": true
             }
         ]
@@ -25737,11 +25756,11 @@
                 "Author": "Midona",
                 "Name": "Poser",
                 "InternalName": "Poser",
-                "AssemblyVersion": "0.9.28.0",
+                "AssemblyVersion": "0.9.29.0",
                 "Description": "Poser is a posing and scene tool for FINAL FANTASY XIV's group pose.\n\n- Pose actors bone by bone: overlay handles, a graphical body map, and numeric transforms\n- IK on any bone with a parent, plus mirror, link and named bone-visibility presets\n- Spawn actors and objects, or click a world handle to bring what is already there into the scene\n- Borrow the map's own objects by reference and give them back untouched on release\n- Save and restore the whole shot — actors, objects, lights, camera and environment — with load options\n- Custom lights, camera control and a free camera; snapping, group pivot and group moves\n- Gaze control and one-click expressions\n- A pose library with tags, authors and search; import and export poses, and MCDF appearance files\n- Time, weather and festival control\n- On-screen dialogue panels, chat bubbles and status lines drawn with the game's own UI\n- Reference pictures as floating, aspect-locked windows\n- Twenty-five rebindable actions with Poser, Brio and Ktisis presets\n\nThis is a beta. It is not stable and it is not finished. Poser is derivative of Anamnesis, Ktisis and Brio, and those three are the mature tools.\n\nPoser was coded with the use of artificial intelligence. The plugin says so on first launch and asks you to confirm before the workspace opens.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/midona-rhel/Poser",
-                "LastUpdate": 1795641628,
+                "LastUpdate": 1795814322,
                 "is_ai_attributed": true
             }
         ]
@@ -25973,11 +25992,11 @@
                 "Author": "Minescence",
                 "Name": "Fur Renderer",
                 "InternalName": "FurRenderer",
-                "AssemblyVersion": "0.6.1.0",
+                "AssemblyVersion": "0.6.4.0",
                 "Description": "Grows hundreds of thousands of skinned hair strands on any worn item or minion whose mod uses Hikari's fur textures, and draws them with the GPU. Follows the dye and the scene's light. Only you see it. The mods aren't included.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/Minescence/FfxivFurRenderer",
-                "LastUpdate": 1795794850
+                "LastUpdate": 1795819740
             }
         ]
     },
@@ -26011,11 +26030,11 @@
                 "Author": "Muse",
                 "Name": "Muse Status Exporter",
                 "InternalName": "MuseStatusExporter",
-                "AssemblyVersion": "1.26.2.0",
+                "AssemblyVersion": "1.27.0.0",
                 "Description": "Exports the logged-in character's job/class levels, Cosmic Exploration progress, gearsets, equipped items, currencies, inventory, retainers, Grand Company supply requests, housing visits, main scenario progress and shared FATE progress to per-character JSON files; records incoming tells; applies plugin configuration files sent by Muse (config downlink); keeps the Halone Earring equipped while leveling. Every feature can be toggled in the plugin's settings window. Since v1.13.0 the snapshot also includes the chocobo companion (buddy) name, rank, EXP and level-up readiness.",
                 "DalamudApiLevel": 15,
                 "RepoUrl": "https://github.com/mippipi/MuseDalamudPlugins",
-                "LastUpdate": 1795681855
+                "LastUpdate": 1795804077
             }
         ]
     },
@@ -27364,12 +27383,12 @@
                 "Author": "n0way02",
                 "Name": "PetFrenzy",
                 "InternalName": "PetFrenzy",
-                "AssemblyVersion": "1.1.0.9",
+                "AssemblyVersion": "1.1.1.4",
                 "Description": "Eorzea Tamagotchi companion for FFXIV! Choose & hatch a Carbuncle, Fat Cat, Moogle, or Namazu from an animated egg, care for them in a sleek floating HUD, unlock accessories as they evolve, and watch them react live to your HP, combat, deaths, Gil gains, AFK naps, and duties.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/n0way02/PetFrenzy/main/images/icon.png",
                 "RepoUrl": "https://github.com/n0way02/PetFrenzy",
-                "LastUpdate": 1795751850
+                "LastUpdate": 1795818710
             },
             {
                 "Author": "n0way02",
@@ -27450,12 +27469,12 @@
                 "Author": "n0way02",
                 "Name": "PetFrenzy",
                 "InternalName": "PetFrenzy",
-                "AssemblyVersion": "1.1.0.9",
+                "AssemblyVersion": "1.1.1.4",
                 "Description": "Animated Eorzea Tamagotchi companion for FFXIV! Hatch a Carbuncle, Fat Cat, Moogle, or Namazu, level up to Lv.100 across ALL FFXIV content (Roulettes, Dungeons, Trials, Raids, PvP, FATEs, Bozja, Eureka, Occult Crescent, Cosmic Exploration, Crafting & Gathering), equip all 42 Job weapons & tools, and customize Hats, Outfits, Wings, Weapon Auras, and RGB Colors in the Wardrobe & Shop.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/n0way02/PetFrenzy/main/images/icon.png",
                 "RepoUrl": "https://github.com/n0way02/PetFrenzy",
-                "LastUpdate": 1795751850
+                "LastUpdate": 1795818710
             }
         ]
     },
@@ -31254,7 +31273,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Etheirys/Brio/main/Resources/Images/BrioIcon.png",
                 "RepoUrl": "https://github.com/Etheirys/Brio",
-                "LastUpdate": 1795709276
+                "LastUpdate": 1795794922
             },
             {
                 "Author": "Risa and Contributors",
@@ -33442,7 +33461,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/94",
                 "RepoUrl": "https://github.com/PunishXIV/Questionable",
-                "LastUpdate": 1795739474
+                "LastUpdate": 1795822952
             },
             {
                 "Author": "Taurenkey, Kage, NightmareXIV",
@@ -33793,7 +33812,7 @@
                 "Author": "Knightmore",
                 "Name": "Henchman",
                 "InternalName": "Henchman",
-                "AssemblyVersion": "4.0.0.5",
+                "AssemblyVersion": "4.0.0.6",
                 "Description": "Your personal Henchman doing all the heavy lifting for you!\n\n- A/B Rank Farmer\n- Hunt Logs\n- Hunt Bills\n- Retainer Creation\n- Character Creation\n- Multi Account Trading\n- Multicharacter Ocean Fishing Cycler\n- Chocobokeeps\nand more to come.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/85",
@@ -33815,7 +33834,7 @@
                 "Author": "Knightmore",
                 "Name": "MappingTheRealm",
                 "InternalName": "MappingTheRealm",
-                "AssemblyVersion": "1.0.0.7",
+                "AssemblyVersion": "1.0.0.9",
                 "Description": "Mapping The Realm plans routes across FFXIV zones, using vnavmesh to find paths within each zone and linking them by walking, flying, ferry, teleport and other movement options. Pick a destination and find the shortest route.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://puni.sh/api/plugins/icon/189",
@@ -38194,12 +38213,12 @@
                 "Author": "Sadonia",
                 "Name": "Eorzea Milkers",
                 "InternalName": "VelvetDairy",
-                "AssemblyVersion": "0.9.88.0",
+                "AssemblyVersion": "0.9.88.1",
                 "Description": "You play the cow: keep your needs up inside your registered dairy, get milked in your stalls or by a registered farmhand, fill creamery orders, raise your milk quality and level up. 18+ only.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/sadoniaveletoria/velvetdairy/main/VelvetDairy/images/icon.png",
                 "RepoUrl": "https://github.com/sadoniaveletoria/velvetdairy",
-                "LastUpdate": 1795799677,
+                "LastUpdate": 1795800892,
                 "is_ai_attributed": true
             }
         ]
@@ -39511,12 +39530,12 @@
                 "Author": "Tensho",
                 "Name": "Tensho Assistant",
                 "InternalName": "TenshoAssistant",
-                "AssemblyVersion": "0.1882.0.0",
+                "AssemblyVersion": "0.1919.0.0",
                 "Description": "Tensho Assistant brings everyday tools together in one interface (/tensho): items and storage (bags, retainers, saddlebags), inventory sorting rules, recipes and a crafting simulator, gathering and fishing with Eorzea time windows and weather, a map that replaces the game map (quests, leves, FATEs, gathering points, vendors, aether currents, teleport costs), collections with how to obtain each item, quests and rewards, optional market prices on hover (Universalis), duty and monster loot, Fashion Report hints, Mini Cactpot and Triple Triad helpers, character stats and macro chains.\n\nCommunity data (Garland Tools, FFXIV Console Games Wiki, Universalis) is only requested when you open or hover the matching tool, and is cached on disk. Nothing runs on its own: actions that reach the game (teleport, applying a sort, a macro chain) only start when you click them.\n\nAI disclosure: the code and the icon were generated with an AI coding agent (Claude), directed and tested in game by the author.\n\nLanguages: English, French; German and Japanese partial.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/Shigu330/Tensho-Assistant/main/src/TenshoAssistant/images/icon.png",
                 "RepoUrl": "https://github.com/Shigu330/Tensho-Assistant",
-                "LastUpdate": 1795749730,
+                "LastUpdate": 1795812457,
                 "is_ai_attributed": true
             }
         ]
@@ -43621,6 +43640,24 @@
         ]
     },
     {
+        "repo_developer_name": "ThiboHaezaert",
+        "repo_url": "https://raw.githubusercontent.com/ThiboHaezaert/xiv_turntable_plugin/main/repo.json",
+        "repo_source_url": "https://github.com/ThiboHaezaert/xiv_turntable_plugin",
+        "repo_name": "xiv_turntable_plugin",
+        "plugins": [
+            {
+                "Author": "Thibo Haezaert",
+                "Name": "Turntable",
+                "InternalName": "Turntable",
+                "AssemblyVersion": "0.1.0.0",
+                "Description": "An in-game Spotify player: play/pause, skip, seek, volume and track info, plus playlists, search and device switching when connected to the Spotify Web API.\nWorks out of the box through Windows media controls; connecting a Spotify account is optional.\nUse /tt to open the player, or /tt next, /tt pause, /tt vol 50 ... in macros.",
+                "DalamudApiLevel": 15,
+                "RepoUrl": "https://github.com/ThiboHaezaert/xiv_turntable_plugin",
+                "LastUpdate": 1795815847
+            }
+        ]
+    },
+    {
         "repo_developer_name": "Thunderz96",
         "repo_url": "https://raw.githubusercontent.com/Thunderz96/XIV/main/pluginmaster.json",
         "repo_source_url": "https://github.com/Thunderz96/XIV",
@@ -45852,12 +45889,12 @@
                 "Author": "KanoNoUta、岚玉棠；WayneXXDD（胡蘿蔔尋路移植）",
                 "Name": "BOCCHI（Wayne 胡蘿蔔修正版）",
                 "InternalName": "BOCCHI",
-                "AssemblyVersion": "3.6.3.3",
+                "AssemblyVersion": "3.6.3.5",
                 "Description": "BOCCHI 旨在让您的新月岛体验更加流畅。\n- 不再有那些烦人的“跑腿”或“寻找宝箱”了。那是给失败者玩的。\n- 一个可爱的小 Fate 和 CE 面板会告诉您它提供了什么奖励，并帮助您自动找到它，哇哦。\n- 一个极端非法的“非法模式”，适合那些宁愿摸摸草地或玩有价值内容的游戏的人。",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/WayneXXDD/BOCCHI/main/assets/icon.png",
                 "RepoUrl": "https://github.com/WayneXXDD/BOCCHI",
-                "LastUpdate": 1795772594,
+                "LastUpdate": 1795810380,
                 "is_ai_attributed": true
             },
             {
@@ -46379,7 +46416,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/WigglyMuffin/DalamudPlugins/main/icons/Questionable.png",
                 "RepoUrl": "https://github.com/WigglyMuffin/Questionable",
-                "LastUpdate": 1795770882
+                "LastUpdate": 1795819997
             },
             {
                 "Author": "WigglyMuffin, CryoTechnic",
@@ -46390,7 +46427,7 @@
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/WigglyMuffin/DalamudPlugins/main/icons/Questionable.png",
                 "RepoUrl": "https://github.com/WigglyMuffin/Questionable",
-                "LastUpdate": 1795770882
+                "LastUpdate": 1795819997
             }
         ]
     },
@@ -46953,12 +46990,12 @@
                 "Author": "XA",
                 "Name": "XA Zod",
                 "InternalName": "XAZod",
-                "AssemblyVersion": "0.0.0.9",
+                "AssemblyVersion": "0.0.0.10",
                 "Description": "XA Zod is Aethertek's private early beta testing environment for experimental features. Participation is arranged through the Aethertek community. The public download provides access information only and does not grant private access. Features may remain private indefinitely.",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://raw.githubusercontent.com/xa-io/XA-Zod/main/XAZod/images/icon.png",
                 "RepoUrl": "https://github.com/xa-io/XA-Zod",
-                "LastUpdate": 1795361342,
+                "LastUpdate": 1795809279,
                 "is_closed_source": true
             }
         ]
@@ -48328,12 +48365,12 @@
                 "Author": "youdianfengbao (基于 PunishXIV/Questionable)",
                 "Name": "Questionable (国服汉化)",
                 "InternalName": "Questionable",
-                "AssemblyVersion": "15.756.3.63",
+                "AssemblyVersion": "15.756.3.64",
                 "Description": "国服汉化版自动任务插件，基于 PunishXIV/Questionable。可在尽可能的情况下自动完成游戏任务。\n所需插件：vnavmesh, TextAdvance, Lifestream",
                 "DalamudApiLevel": 15,
                 "IconUrl": "https://qstxiv.github.io/icons/Questionable.png",
                 "RepoUrl": "https://github.com/youdianfengbao/Questionable",
-                "LastUpdate": 1795132379,
+                "LastUpdate": 1795800630,
                 "is_ai_attributed": true
             },
             {
